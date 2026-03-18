@@ -1,0 +1,39 @@
+name: Update Jobs JSON
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # cada 24h (UTC)
+  workflow_dispatch:       # botón manual en GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests beautifulsoup4
+
+      - name: Run job scraper
+        run: python job_agent.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "jobflow-bot"
+          git config --global user.email "bot@jobflow.com"
+
+          git add jobs.json
+
+          git diff --cached --quiet || git commit -m "🔄 update jobs.json"
+          git push
