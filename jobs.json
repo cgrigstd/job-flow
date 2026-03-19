@@ -1,14 +1,14 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-18 19:32",
-  "total_jobs": 61,
+  "updated": "2026-03-19 01:20",
+  "total_jobs": 62,
   "sites": [
     {
       "name": "WorkWithIndies",
       "job_count": 3,
       "jobs": [
         {
-          "title": "Artista GROSO muy GROSO / 3D Generalist to work from Anywhere",
+          "title": "Thera Bytes is hiring a Technical Artist / 3D Generalist to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/thera-bytes-technical-artist-3d-generalist",
           "country": "",
           "description": "​We are searching for an ambitious generalist with a high focus on art and tech-art production that additionally brings strong game design skills with them. Tags: [Art & Animation] [Full"
@@ -59,8 +59,14 @@
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 2,
+      "job_count": 3,
       "jobs": [
+        {
+          "title": "2D Layered Sprite Sheets For Customization (LONG-TERM PROJECT)",
+          "url": "https://polycount.com/discussion/238399/2d-layered-sprite-sheets-for-customization-long-term-project",
+          "country": "",
+          "description": "Right off the bat, I have a very small budget for this.I'm working on a 2D game that only has a single member on the team - me. And I'm a lot better at coding than I am drawing.Payment / SheetI have very little money to spare, but I still want to pay someone for this work so I am very open to"
+        },
         {
           "title": "Looking for 3D Simulation Pipeline Engineer (Blender + 3ds Max + Nvidia Omniverse / Isaac Sim)",
           "url": "https://polycount.com/discussion/238396/looking-for-3d-simulation-pipeline-engineer-blender-3ds-max-nvidia-omniverse-isaac-sim",
