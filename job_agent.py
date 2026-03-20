@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import json
 
 feeds = {
-"Entertainment Careers": "https://www.entertainmentcareers.net/ecnjcat173",
+    "Entertainment Careers": "https://www.entertainmentcareers.net/ecnjcat173",
     "WorkWithIndies": "https://www.workwithindies.com/careers/rss.xml",
     "Remotive Game Dev": "https://remotive.io/remote-jobs.rss",
     "Remote OK Dev": "https://remoteok.com/remote-dev-jobs.rss",
@@ -16,13 +16,13 @@ feeds = {
     "BlenderArtists Paid Jobs": "https://blenderartists.org/c/jobs/paid-work/53.rss"
 }
 
-# 🔥 KEYWORDS PRO
 KEYWORDS = [
     "vfx", "3d", "blender", "maya", "nuke",
-    "houdini", "3dsmax", "2d",
+    "houdini", "3dsmax", "2d", "visual effects",
     "rigger", "rigging",
     "3d modeler", "modeling",
-    "generalist", "generalista"
+    "generalist", "generalista",
+    "technical artist", "game", "animation"
 ]
 
 location = "argentina"
@@ -43,84 +43,20 @@ def clean_html(text):
     return BeautifulSoup(text, "html.parser").get_text()
 
 
-def clean_imagecampus_description(text):
-    if not text:
-        return ""
+def score_job(content):
+    score = 0
 
-    marker = "Descripción del empleo:"
+    for k in KEYWORDS:
+        if k in content:
+            score += 2
 
-    if marker in text:
-        return text.split(marker, 1)[1].strip()
+    if "remote" in content:
+        score += 1
 
-    return text.strip()
+    if "senior" in content or "mid" in content:
+        score += 1
 
-
-def is_job_covered(html):
-    soup = BeautifulSoup(html, "html.parser")
-    return bool(soup.select_one(".sectores-cubierto"))
-
-
-def get_imagecampus_jobs(keywords, seen_urls):
-    jobs = []
-    seen_local = set()
-
-    for keyword in keywords:
-        url = f"https://www.imagecampus.edu.ar/?s={keyword}&post_type%5B%5D=empleos"
-
-        try:
-            response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-            soup = BeautifulSoup(response.text, "html.parser")
-        except:
-            continue
-
-        for link in soup.select("a"):
-            href = link.get("href")
-
-            if not href or "/busqueda/" not in href:
-                continue
-
-            if href in seen_local or href in seen_urls:
-                continue
-
-            seen_local.add(href)
-            seen_urls.add(href)
-
-            if not href.startswith("http"):
-                href = "https://www.imagecampus.edu.ar" + href
-
-            slug = href.split("/")[-1]
-            title = slug.replace("-", " ").title()
-
-            covered = False
-            description = ""
-
-            try:
-                job_page = requests.get(href, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-
-                covered = is_job_covered(job_page.text)
-
-                soup_job = BeautifulSoup(job_page.text, "html.parser")
-                raw_text = soup_job.get_text(" ", strip=True)
-
-                description = clean_imagecampus_description(raw_text)
-                description = description[:300].rsplit(" ", 1)[0]
-
-            except:
-                pass
-
-            job = {
-                "title": title,
-                "url": href,
-                "country": "Argentina",
-                "description": description
-            }
-
-            if covered:
-                job["covered"] = True
-
-            jobs.append(job)
-
-    return jobs
+    return score
 
 
 def search_jobs():
@@ -142,12 +78,13 @@ def search_jobs():
 
         for entry in data.entries:
 
-            if hasattr(entry, "published_parsed"):
-                job_date = datetime(*entry.published_parsed[:6])
-                if job_date < cutoff:
-                    continue
+            # 🔥 skip date filter ONLY for Entertainment Careers
+            if site != "Entertainment Careers":
+                if hasattr(entry, "published_parsed"):
+                    job_date = datetime(*entry.published_parsed[:6])
+                    if job_date < cutoff:
+                        continue
 
-            # 🔥 dedupe global
             if entry.link in seen_urls:
                 continue
             seen_urls.add(entry.link)
@@ -159,8 +96,10 @@ def search_jobs():
                 if hasattr(entry, field):
                     content += " " + getattr(entry, field).lower()
 
-            if not any(k in content for k in KEYWORDS):
-                continue
+            # 🔥 relaxed filtering for Entertainment Careers
+            if site != "Entertainment Careers":
+                if not any(k in content for k in KEYWORDS):
+                    continue
 
             if "unpaid" in content or "volunteer" in content:
                 continue
@@ -175,14 +114,52 @@ def search_jobs():
 
             description = description[:300].rsplit(" ", 1)[0]
 
-            site_jobs.append({
+            job = {
                 "title": title,
                 "url": entry.link,
                 "country": country,
-                "description": description
-            })
+                "description": description,
+                "score": score_job(content)
+            }
 
-        # 🔥 limit por sitio
+            site_jobs.append(job)
+
+        # 🔥 fallback scraping if too few results
+        if site == "Entertainment Careers" and len(site_jobs) < 5:
+            try:
+                html = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10).text
+                soup = BeautifulSoup(html, "html.parser")
+
+                for link in soup.select("a"):
+                    href = link.get("href")
+
+                    if not href or "/job/" not in href:
+                        continue
+
+                    if not href.startswith("http"):
+                        href = "https://www.entertainmentcareers.net" + href
+
+                    if href in seen_urls:
+                        continue
+
+                    seen_urls.add(href)
+
+                    title = link.get_text(strip=True)
+
+                    site_jobs.append({
+                        "title": title,
+                        "url": href,
+                        "country": "",
+                        "description": "",
+                        "score": 1
+                    })
+
+            except:
+                pass
+
+        # 🔥 sort by score
+        site_jobs = sorted(site_jobs, key=lambda x: x["score"], reverse=True)
+
         site_jobs = site_jobs[:50]
 
         if site_jobs:
@@ -193,19 +170,6 @@ def search_jobs():
             })
             total_jobs += len(site_jobs)
 
-    # ImageCampus
-    imagecampus_jobs = get_imagecampus_jobs(KEYWORDS, seen_urls)
-
-    if imagecampus_jobs:
-        imagecampus_jobs = imagecampus_jobs[:50]
-
-        sites.append({
-            "name": "ImageCampus",
-            "job_count": len(imagecampus_jobs),
-            "jobs": imagecampus_jobs
-        })
-        total_jobs += len(imagecampus_jobs)
-
     return {
         "title": "JobFlow",
         "updated": now.strftime("%Y-%m-%d %H:%M"),
@@ -214,7 +178,6 @@ def search_jobs():
     }
 
 
-# 🔥 RUN
 if __name__ == "__main__":
     result = search_jobs()
 
