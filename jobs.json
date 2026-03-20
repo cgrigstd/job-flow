@@ -1,12 +1,36 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-19 01:20",
-  "total_jobs": 62,
+  "updated": "2026-03-20 01:15",
+  "total_jobs": 67,
   "sites": [
     {
-      "name": "WorkWithIndies",
-      "job_count": 3,
+      "name": "Entertainment Careers",
+      "job_count": 2,
       "jobs": [
+        {
+          "title": "3D Visual Effects Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/3d-visual-effects-artist/job/504101/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  As an FX artist, your role is to create high-caliber dynamic and riveting visual 3D FX. This role requires ... more"
+        },
+        {
+          "title": "VFX Environment Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/vfx-environment-artist/job/504076/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs an Environment Generalist, you will be responsible for creating ... more"
+        }
+      ]
+    },
+    {
+      "name": "WorkWithIndies",
+      "job_count": 4,
+      "jobs": [
+        {
+          "title": "8Bit is hiring a Senior Environment Artist to work from Germany",
+          "url": "https://www.workwithindies.com/careers/8bit-senior-environment-artist",
+          "country": "",
+          "description": "The studio behind Shapez and Shapez 2, is looking for a Senior/Lead Environment Artist to join the Shapez 2 team and be responsible for creating a wide range of 3D assets. Tags: [Art & Animation] [Full"
+        },
         {
           "title": "Thera Bytes is hiring a Technical Artist / 3D Generalist to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/thera-bytes-technical-artist-3d-generalist",
@@ -47,8 +71,14 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 1,
+      "job_count": 2,
       "jobs": [
+        {
+          "title": "8Bit is hiring Senior Environment Artist (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/8bit-senior-environment-artist-remote-job",
+          "country": "",
+          "description": "Our client – the studio behind Shapez and Shapez 2, is looking for a Senior/Lead Environment Artist to join the Shapez 2 team and be responsible for creating a wide range of 3D assets with a strong focus on environmental design.\n  \nWorking closely with the Art Director and fellow artists, you will"
+        },
         {
           "title": "Feel Free Games B.V. is hiring We’re hiring a super talented VFX & UI animator (Unity) (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/feel-free-games-b-v-we-re-hiring-a-super-talented-vfx-ui-animator-unity-remote-job-c054c66c-d185-4809-84f9-c968e088f356",
@@ -83,8 +113,14 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 6,
+      "job_count": 7,
       "jobs": [
+        {
+          "title": "Freelance Blender Artist (Archviz / Retail Environments) – Remote",
+          "url": "https://blenderartists.org/t/freelance-blender-artist-archviz-retail-environments-remote/1634545",
+          "country": "",
+          "description": "Studio: All These Wonders https://www.allthesewonders.co/\nType: Freelance / Ongoing\nLocation: Remote (International encouraged)\nStart: Immediate\nWe’re a small, fast-moving studio working on retail environments, brand spaces, and concept-driven visualizations for global clients.\nWe’re looking for"
+        },
         {
           "title": "Drone shows - Advanced Animation System",
           "url": "https://blenderartists.org/t/drone-shows-advanced-animation-system/1634356",
