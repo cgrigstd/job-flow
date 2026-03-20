@@ -115,9 +115,13 @@ def get_imagecampus_jobs(keywords, seen_urls):
 
                 covered = is_job_covered(job_page.text)
 
+                # 🚫 saltar jobs cubiertos
+                if covered:
+                    continue
+                
                 soup_job = BeautifulSoup(job_page.text, "html.parser")
                 raw_text = soup_job.get_text(" ", strip=True)
-
+                
                 description = clean_imagecampus_description(raw_text)
                 description = description[:300].rsplit(" ", 1)[0]
 
@@ -131,9 +135,6 @@ def get_imagecampus_jobs(keywords, seen_urls):
                 "description": description,
                 "score": score_job((title + " " + description).lower())
             }
-
-            if covered:
-                job["covered"] = True
 
             jobs.append(job)
 
