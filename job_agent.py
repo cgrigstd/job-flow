@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import json
 
 feeds = {
+"Entertainment Careers": "https://www.entertainmentcareers.net/ecnjcat173",
     "WorkWithIndies": "https://www.workwithindies.com/careers/rss.xml",
     "Remotive Game Dev": "https://remotive.io/remote-jobs.rss",
     "Remote OK Dev": "https://remoteok.com/remote-dev-jobs.rss",
