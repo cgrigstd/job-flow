@@ -43,6 +43,23 @@ def clean_html(text):
     return BeautifulSoup(text, "html.parser").get_text()
 
 
+def clean_imagecampus_description(text):
+    if not text:
+        return ""
+
+    marker = "Descripción del empleo:"
+
+    if marker in text:
+        return text.split(marker, 1)[1].strip()
+
+    return text.strip()
+
+
+def is_job_covered(html):
+    soup = BeautifulSoup(html, "html.parser")
+    return bool(soup.select_one(".sectores-cubierto"))
+
+
 def score_job(content):
     score = 0
 
@@ -57,6 +74,70 @@ def score_job(content):
         score += 1
 
     return score
+
+
+def get_imagecampus_jobs(keywords, seen_urls):
+    jobs = []
+    seen_local = set()
+
+    for keyword in keywords:
+        url = f"https://www.imagecampus.edu.ar/?s={keyword}&post_type%5B%5D=empleos"
+
+        try:
+            response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+            soup = BeautifulSoup(response.text, "html.parser")
+        except:
+            continue
+
+        for link in soup.select("a"):
+            href = link.get("href")
+
+            if not href or "/busqueda/" not in href:
+                continue
+
+            if href in seen_local or href in seen_urls:
+                continue
+
+            seen_local.add(href)
+            seen_urls.add(href)
+
+            if not href.startswith("http"):
+                href = "https://www.imagecampus.edu.ar" + href
+
+            slug = href.split("/")[-1]
+            title = slug.replace("-", " ").title()
+
+            covered = False
+            description = ""
+
+            try:
+                job_page = requests.get(href, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+
+                covered = is_job_covered(job_page.text)
+
+                soup_job = BeautifulSoup(job_page.text, "html.parser")
+                raw_text = soup_job.get_text(" ", strip=True)
+
+                description = clean_imagecampus_description(raw_text)
+                description = description[:300].rsplit(" ", 1)[0]
+
+            except:
+                pass
+
+            job = {
+                "title": title,
+                "url": href,
+                "country": "Argentina",
+                "description": description,
+                "score": score_job((title + " " + description).lower())
+            }
+
+            if covered:
+                job["covered"] = True
+
+            jobs.append(job)
+
+    return jobs
 
 
 def search_jobs():
@@ -78,7 +159,6 @@ def search_jobs():
 
         for entry in data.entries:
 
-            # 🔥 skip date filter ONLY for Entertainment Careers
             if site != "Entertainment Careers":
                 if hasattr(entry, "published_parsed"):
                     job_date = datetime(*entry.published_parsed[:6])
@@ -96,7 +176,6 @@ def search_jobs():
                 if hasattr(entry, field):
                     content += " " + getattr(entry, field).lower()
 
-            # 🔥 relaxed filtering for Entertainment Careers
             if site != "Entertainment Careers":
                 if not any(k in content for k in KEYWORDS):
                     continue
@@ -124,7 +203,7 @@ def search_jobs():
 
             site_jobs.append(job)
 
-        # 🔥 fallback scraping if too few results
+        # fallback scraping
         if site == "Entertainment Careers" and len(site_jobs) < 5:
             try:
                 html = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10).text
@@ -157,9 +236,7 @@ def search_jobs():
             except:
                 pass
 
-        # 🔥 sort by score
         site_jobs = sorted(site_jobs, key=lambda x: x["score"], reverse=True)
-
         site_jobs = site_jobs[:50]
 
         if site_jobs:
@@ -169,6 +246,20 @@ def search_jobs():
                 "jobs": site_jobs
             })
             total_jobs += len(site_jobs)
+
+    # ✅ ImageCampus restored
+    imagecampus_jobs = get_imagecampus_jobs(KEYWORDS, seen_urls)
+
+    if imagecampus_jobs:
+        imagecampus_jobs = sorted(imagecampus_jobs, key=lambda x: x["score"], reverse=True)
+        imagecampus_jobs = imagecampus_jobs[:50]
+
+        sites.append({
+            "name": "ImageCampus",
+            "job_count": len(imagecampus_jobs),
+            "jobs": imagecampus_jobs
+        })
+        total_jobs += len(imagecampus_jobs)
 
     return {
         "title": "JobFlow",
