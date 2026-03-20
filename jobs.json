@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-20 02:21",
-  "total_jobs": 97,
+  "updated": "2026-03-20 11:41",
+  "total_jobs": 80,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -29,11 +29,11 @@
           "score": 2
         },
         {
-          "title": "Animation Supervisor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/animation-supervisor/job/504017/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Lead Matchmove Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/lead-matchmove-artist/job/516085/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs an Animation Supervisor, you will oversee the day-to-day operations ... more",
-          "score": 2
+          "description": "pls RT ECNIDRSS @entcareersnet  The Lead Matchmove Artist is responsible for completing senior-level matchmove tasks as well as supporting ... more",
+          "score": 1
         },
         {
           "title": "Mid-Level Animator - Industrial Light & Magic",
@@ -315,8 +315,15 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 7,
+      "job_count": 8,
       "jobs": [
+        {
+          "title": "[PAID] 2D Anthropomorphic cartoon brain rigging/animation",
+          "url": "https://blenderartists.org/t/paid-2d-anthropomorphic-cartoon-brain-rigging-animation/1634645",
+          "country": "",
+          "description": "Hi, my name is Kevin. I’m currently working on my own children’s video game in Godot engine. I have a 2D character which is an anthropomorphic cartoon brain that has already been vectorized, and I need you to prepare it for a minigame. I’d prefer the rigging to be done in Blender (so it can later",
+          "score": 10
+        },
         {
           "title": "Senior CG Artist - London, Full-Time",
           "url": "https://blenderartists.org/t/senior-cg-artist-london-full-time/1634178",
@@ -370,7 +377,7 @@
     },
     {
       "name": "ImageCampus",
-      "job_count": 50,
+      "job_count": 32,
       "jobs": [
         {
           "title": "3D Vfx Technical Artist Ref 24 572",
@@ -394,27 +401,11 @@
           "score": 8
         },
         {
-          "title": "Rigger Ref 22 529",
-          "url": "https://www.imagecampus.edu.ar/busqueda/rigger-ref-22-529",
-          "country": "Argentina",
-          "description": "Descripción del empleo: Buscamos creatividad y responsabilidad en combo: capacidad de autogestionar los tiempos para llegar al objetivo sin perder de vista lo que más nos importa; animaciones con vida. - Maya. - Advanced Skeleton. - Rigging de personajes / pequeños animales 3D. - Manejo de UVs. -",
-          "score": 8,
-          "covered": true
-        },
-        {
           "title": "Vfx Artist Ref 23 553",
           "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
           "country": "Argentina",
           "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
           "score": 6
-        },
-        {
-          "title": "Motion Graphics 2D 3D Compositor Vfx Ref 21 462",
-          "url": "https://www.imagecampus.edu.ar/busqueda/motion-graphics-2d-3d-compositor-vfx-ref-21-462",
-          "country": "Argentina",
-          "description": "Somos un estudio de Diseño Escénico, especializado en proyecciones, contenido de video, y mapping para grandes espectáculos. Trabajamos con técnicas de composición de escenarios, motion graphics, animación 2D y 3D. Estamos buscando una persona joven para trabajo part time con disponibilidad para",
-          "score": 6,
-          "covered": true
         },
         {
           "title": "Animador 3D Generalista Ref 24 573",
@@ -438,14 +429,6 @@
           "score": 6
         },
         {
-          "title": "Generalista 3D Ref 22 523",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-523",
-          "country": "Argentina",
-          "description": "En Pes Motion Studio nos encontramos en la búsqueda de una persona que sea Generalista 3D, especializado en simulaciones para unirse a nuestro equipo de trabajo. Lugar: CABA, Palermo. Modalidad: Presencial (IN HOUSE) Excelente clima laboral Responsabilidades: - Requerimientos excluyentes: Qué",
-          "score": 6,
-          "covered": true
-        },
-        {
           "title": "Generalista 3D Ref 22 503",
           "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
           "country": "Argentina",
@@ -460,59 +443,11 @@
           "score": 6
         },
         {
-          "title": "464 Modeladores Texturizadores Riggers Animadores Y Desarrolladores De Environments Ref 21 428",
-          "url": "https://www.imagecampus.edu.ar/busqueda/464-modeladores-texturizadores-riggers-animadores-y-desarrolladores-de-environments-ref-21-428",
-          "country": "Argentina",
-          "description": "Buscamos artistas 3D para sumarse a 3 Little Berkana, un estudio que provee servicios a compañías de mobile games del exterior. Responsabilidades: De acuerdo al puesto ocupado trabajará en conjunto con el artista asignado del cliente en el desarrollo de las tareas para los distintos juegos que",
-          "score": 6,
-          "covered": true
-        },
-        {
-          "title": "Generalista 3D Ref 21 483",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-21-483",
-          "country": "Argentina",
-          "description": "En REINO BUENOS AIRES estamos buscando generalista 3D para puesto de lunes a viernes de 10 a 19 hs. Enviar reel + aclarar los softwares y motores de render que suele utilizar. Responsabilidades: Profesionales con experiencia en modelado 3D y generación de animaciones 3D para vídeos destinados a",
-          "score": 6,
-          "covered": true
-        },
-        {
-          "title": "Artista 3D Generalista Ref 21 475",
-          "url": "https://www.imagecampus.edu.ar/busqueda/artista-3d-generalista-ref-21-475",
-          "country": "Argentina",
-          "description": "Generalista, 3D Max, Corona, Animaciones, representaciones Arquitectura Interiorismo. Responsabilidades: En las tareas asignadas. Requerimientos excluyentes: Ganas de trabajar y formarse. Requerimientos no excluyentes: Edad: Indistinto Lugar de trabajo: CABA Modalidad: Presencial Vacantes: 2",
-          "score": 6,
-          "covered": true
-        },
-        {
-          "title": "468 Generalista 3D Ref 21 432",
-          "url": "https://www.imagecampus.edu.ar/busqueda/468-generalista-3d-ref-21-432",
-          "country": "Argentina",
-          "description": "NOS incorpora para importante proyecto un generalista 3d para la producción de assets y elementos. En principio es por 3 semanas a un mes empezando la semana que viene. Contactar por mail junto a portfolio de trabajos realizados. Responsabilidades: Modelado, y texturado de elementos. Requerimientos",
-          "score": 6,
-          "covered": true
-        },
-        {
-          "title": "Compositor De Vfx Senior After Nuke Ref 22 525",
-          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-de-vfx-senior-after-nuke-ref-22-525",
-          "country": "Argentina",
-          "description": "Para serie sobre El Apocalipsis. Se trabajará de forma remota. Debe saber componer en After o Nuke y crear efectos especiales de cero. (p.e. meteorito realista impactando en el mar, un crater de 10 metros de diametro lanzando fuego y humo, engambre de langostas (similar escena Jurassic World",
-          "score": 5,
-          "covered": true
-        },
-        {
           "title": "Compositor De Nuke Jr Mid Sr Ref 23 562",
           "url": "https://www.imagecampus.edu.ar/busqueda/compositor-de-nuke-jr-mid-sr-ref-23-562",
           "country": "Argentina",
           "description": "Nebraska Vfx busca compositores con conocimientos en nuke para diversos proyectos de publicidad y cine. Responsabilidades: - Requerimientos excluyentes: - Manejo de herramientas de composición nodal (Nuke). - Conocimiento de herramientas de trackeo y rotoscopía-Manejo de herramientas de composición",
           "score": 5
-        },
-        {
-          "title": "Vfx Artist Full Time Ref 21 413",
-          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-full-time-ref-21-413",
-          "country": "Argentina",
-          "description": "Error 404 Game Studios se encuentra en búsqueda de un VFX Artist para puesto full-time en sus oficinas y trabajar en su nuevo proyecto: Project Tartarus Responsabilidades: - Requerimientos excluyentes: Manejo de sistema de partículas de Unity (Shuriken). Portfolio con ejemplos de VFX. Conocimientos",
-          "score": 4,
-          "covered": true
         },
         {
           "title": "Technical Artist Vfx Artist Ref 20 406",
@@ -550,35 +485,11 @@
           "score": 4
         },
         {
-          "title": "Compositor After Nuke Ref 21 476",
-          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-after-nuke-ref-21-476",
-          "country": "Argentina",
-          "description": "Hola! En REINO BUENOS AIRES estamos buscando compositor NUKE/ After para puesto fijo de lunes a viernes de 10 a 19 hs en modalidad in house. Los postulantes deben tener experiencia profesional comprobable en composición utilizando animaciones, enviroments, VFX y armados de onlines. Enviar reel y",
-          "score": 4,
-          "covered": true
-        },
-        {
           "title": "2D Animator Ref 24 565",
           "url": "https://www.imagecampus.edu.ar/busqueda/2d-animator-ref-24-565",
           "country": "Argentina",
           "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team. If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
           "score": 4
-        },
-        {
-          "title": "Animador 2D Motion Graphics Ae Animador 3D Cinema 4D Ref 21 415",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-motion-graphics-ae-animador-3d-cinema-4d-ref-21-415",
-          "country": "Argentina",
-          "description": "Animador 2D (motion graphics). Tareas diseño y realización de fondos animados para fondos de pantalla led eventos corporativos. Animador 3D (Cinema 4D) armado y animación de packshots de productos para piezas audiovisuales RRSS. Responsabilidades: Uso de After Effects y Cinema 4D. Enviar Reel.",
-          "score": 4,
-          "covered": true
-        },
-        {
-          "title": "Animador 2D Y O 3D Ref 21 420",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-y-o-3d-ref-21-420",
-          "country": "Argentina",
-          "description": "Buscamos animadores 2D y 3D para proyectos donde deberán animar personajes y entornos de cartoons infantiles. Envíe reel (excluyente). Responsabilidades: Flexibilidad horario, compromiso de entregas a tiempo, buena conexión a distancia en caso de ser necesario. Requerimientos excluyentes: Excelente",
-          "score": 4,
-          "covered": true
         },
         {
           "title": "Desarrolladores Generalistas Ref 24 571",
@@ -595,14 +506,6 @@
           "score": 4
         },
         {
-          "title": "Senior Technical Artist Ref 21 448",
-          "url": "https://www.imagecampus.edu.ar/busqueda/senior-technical-artist-ref-21-448",
-          "country": "Argentina",
-          "description": "Buscamos Technical Artist Senior para incoporarse a nuevos proyectos Responsabilidades: Designing and developing workflows, pipelines, and tools for projects and teams. ●Integrating assets provided by art & design, and implementing the features associated with them ●Developing solutions to",
-          "score": 3,
-          "covered": true
-        },
-        {
           "title": "Senior Game Designer Ref 22 488",
           "url": "https://www.imagecampus.edu.ar/busqueda/senior-game-designer-ref-22-488",
           "country": "Argentina",
@@ -615,14 +518,6 @@
           "country": "Argentina",
           "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes - Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
           "score": 2
-        },
-        {
-          "title": "Vfx Compositor Ref 21 473",
-          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-compositor-ref-21-473",
-          "country": "Argentina",
-          "description": "Trabajo de lunes a viernes principalmente, desde tu casa con gente joven y en proyectos de alta calidad. Responsabilidades: Se espera una total dedicación y conocimiento de los estándares internacionales, así como los softwares utilizados en todo el proceso de produccion de VFX y Animación.",
-          "score": 2,
-          "covered": true
         },
         {
           "title": "Freelance 3D Artists Ref 25 586",
@@ -644,30 +539,6 @@
           "country": "Argentina",
           "description": "Buscamos un Artista 3D para unirse a nuestro equipo y crear imágenes, películas y recorridos virtuales de acuerdo con las necesidades y requisitos del cliente, cumpliendo con los plazos establecidos. El candidato ideal tendrá una fuerte pasión por el diseño arquitectónico, una atención excepcional",
           "score": 2
-        },
-        {
-          "title": "Modelador 3D Ref 22 542",
-          "url": "https://www.imagecampus.edu.ar/busqueda/modelador-3d-ref-22-542",
-          "country": "Argentina",
-          "description": "Modelado en 3D, Full Time o Part Time. Responsabilidades: Modelar en 3D. Requerimientos excluyentes: Tener conocimientos en programas de 3D. Requerimientos no excluyentes: Edad: A partir de 24 años Lugar de trabajo: Barracas - CABA Modalidad: Full Time Vacantes: 4 Postulate Aquí Si no tenés tu CV",
-          "score": 2,
-          "covered": true
-        },
-        {
-          "title": "Low Poly 3D Artist Para Real Time Engine Ref 22 536",
-          "url": "https://www.imagecampus.edu.ar/busqueda/low-poly-3d-artist-para-real-time-engine-ref-22-536",
-          "country": "Argentina",
-          "description": "¿Te apasiona la visualización arquitectónica? Si eres alguien que quiere crecer como artista 3D y te apasiona la tecnología, entonces eres perfecto/a para el puesto. ¿Por qué unirse a nosotros? Trabajar con nosotros puede acelerar tu carrera y brindarte la oportunidad de trabajar con personas",
-          "score": 2,
-          "covered": true
-        },
-        {
-          "title": "3D Texture Artist Ref 22 534",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-texture-artist-ref-22-534",
-          "country": "Argentina",
-          "description": "Material Bank is seeking a Digital Material Acquisition – Texture Arstist for digital material post processing as the seconf gate within the broader digital material acquisition process. The role, Texture Artist specializes in creating, processing, re-touching, and quality assuring the PBR texture",
-          "score": 2,
-          "covered": true
         },
         {
           "title": "Low Poly 3D Artist Para Real Time Engine Ref 22 507",
@@ -712,36 +583,25 @@
           "score": 2
         },
         {
-          "title": "Animador 2D Cut Out Sotfware Animate Ref 21 456",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-cut-out-sotfware-animate-ref-21-456",
+          "title": "Technical Artist Remoto Ref 20 410",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-remoto-ref-20-410",
           "country": "Argentina",
-          "description": "Animador 2D Responsabilidades: - Realizar entregas semanales Requerimientos excluyentes: Saber animar en Animate. Tener experiencia comprobable en trabajos de animación en cut out Requerimientos no excluyentes: Edad: Indistinto Lugar de trabajo: Homeworking Modalidad: Freelance Vacantes: 1",
-          "score": 2,
-          "covered": true
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral y que está desarrollando varios de los proyectos más importantes de la región? Responsabilidades: Supervisar tecnicismos importantes para los programadores y artistas. Preparar las entregas y responder consultas de",
+          "score": 2
         },
         {
-          "title": "Artista 2D Ref 21 450",
-          "url": "https://www.imagecampus.edu.ar/busqueda/artista-2d-ref-21-450",
+          "title": "Videogame Producer Ref 20 403",
+          "url": "https://www.imagecampus.edu.ar/busqueda/videogame-producer-ref-20-403",
           "country": "Argentina",
-          "description": "Buscamos artistas 2D con experiencia el empresas de video juego Responsabilidades: Creación de art assets usando técnicas digitales. Capacidad de moverse dentro de diferentes tareas como concept art, character design, environment design, 2D art e ilustración. Utilizar Photoshop, Illustrator.",
-          "score": 2,
-          "covered": true
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando productor de",
+          "score": 2
         },
         {
-          "title": "Animador Tradicional 2D Ref 21 419",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-tradicional-2d-ref-21-419",
+          "title": "Game Programmer Ref 20 404",
+          "url": "https://www.imagecampus.edu.ar/busqueda/game-programmer-ref-20-404",
           "country": "Argentina",
-          "description": "Buscamos un animador tradicional 2D, cuadro a cuadro, con talento e interés en crear piezas animadas que se destaquen por su calidad artística. Somos un estudio de animación en Nueva York y trabajamos de forma remota con animadores alrededor del mundo. Nuestra visión es crear piezas animadas que se",
-          "score": 2,
-          "covered": true
-        },
-        {
-          "title": "Animadores As 2D After Effects Freelance Ref 21 424",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animadores-as-2d-after-effects-freelance-ref-21-424",
-          "country": "Argentina",
-          "description": "Animadores/as 2d, after effects, se trabaja por proyecto, con plazo de entrega. Responsabilidades: Animadores/as 2d after effects para cortos animados, experiencia, muy buen trato, ganas de involucrarse en proyectos creativos y cumplir con plazos de entrega. Requerimientos excluyentes:",
-          "score": 2,
-          "covered": true
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando programadores",
+          "score": 2
         }
       ]
     }
