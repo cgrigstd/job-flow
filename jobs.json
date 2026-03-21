@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-20 11:41",
-  "total_jobs": 80,
+  "updated": "2026-03-21 01:11",
+  "total_jobs": 82,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 12,
+      "job_count": 15,
       "jobs": [
         {
           "title": "Thera Bytes is hiring a Technical Artist / 3D Generalist to work from Anywhere",
@@ -182,6 +182,13 @@
           "score": 5
         },
         {
+          "title": "Robot Entertainment is hiring a Gameplay Animator to work from CT ± 2 hours",
+          "url": "https://www.workwithindies.com/careers/robot-entertainment-gameplay-animator",
+          "country": "",
+          "description": "We are looking for an experienced Gameplay Animator to help bring our characters and creatures to life through expressive, responsive gameplay animation. Tags: [Art & Animation] [Full",
+          "score": 4
+        },
+        {
           "title": "Talvi is hiring a Game Art Director to work from United States",
           "url": "https://www.workwithindies.com/careers/talvi-game-art-director",
           "country": "",
@@ -194,6 +201,20 @@
           "country": "",
           "description": "We are looking for a versatile and self-starting Lead Pixel Artist to join a small remote team. Tags: [Art & Animation]",
           "score": 3
+        },
+        {
+          "title": "Torpor Games is hiring a Lead Programmer (m/f/d)  to work from Berlin, DE",
+          "url": "https://www.workwithindies.com/careers/torpor-games-lead-programmer-m-f-d",
+          "country": "",
+          "description": "The Lead Programmer is responsible for day-to-day technical leadership across The Conformist and key Torpor Games pipelines. Tags: [Programming] [Full",
+          "score": 2
+        },
+        {
+          "title": "Torpor Games is hiring a Producer (m/f/d) to work from Berlin, DE",
+          "url": "https://www.workwithindies.com/careers/torpor-games-producer-m-f-d",
+          "country": "",
+          "description": "The Producer is responsible for the full production lifecycle of Suzerain: Project Vanguard.  Tags: [Production] [Full",
+          "score": 2
         },
         {
           "title": "Optillusion Games is hiring a Technical Designer to work from Orange County, CA",
@@ -315,7 +336,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 8,
+      "job_count": 7,
       "jobs": [
         {
           "title": "[PAID] 2D Anthropomorphic cartoon brain rigging/animation",
@@ -365,13 +386,6 @@
           "country": "",
           "description": "Hi everyone, Nfinite is looking for a 3D Simulation Pipeline Engineer to join our team for a paid remote role. We thought this forum might be a good place to reach specialists whose experience spans both 3D tools and simulation workflows so we hope this may be relevant here\nThe work focuses on",
           "score": 5
-        },
-        {
-          "title": "Geometry Node Creation",
-          "url": "https://blenderartists.org/t/geometry-node-creation/1633855",
-          "country": "",
-          "description": "Hello!\nI am looking for someone to aid in the creation of a geometry node setup for procedurally generated flows of a wood-like straps over a base model that has the a general form. The final output would look similar this.\nParameters include adjustable densities/randomized min/max widths and",
-          "score": 4
         }
       ]
     },
@@ -523,7 +537,7 @@
           "title": "Freelance 3D Artists Ref 25 586",
           "url": "https://www.imagecampus.edu.ar/busqueda/freelance-3d-artists-ref-25-586",
           "country": "Argentina",
-          "description": "SmartPixel is a Quebec-based SME with close to 30 employees, specializing in the development of interactive digital experiences to help companies communicate more effectively and showcase their products and offerings in a fun and innovative way. SmartPixel’s niche market is new residential real",
+          "description": "SmartPixel is a Quebec-based SME with close to 30 employees, specializing in the development of interactive digital experiences to help companies communicate more effectively and\r\nshowcase their products and offerings in a fun and innovative way. SmartPixel’s niche market is new residential real",
           "score": 2
         },
         {
@@ -572,7 +586,7 @@
           "title": "Artista 2D Stylized Toon Ref 22 547",
           "url": "https://www.imagecampus.edu.ar/busqueda/artista-2d-stylized-toon-ref-22-547",
           "country": "Argentina",
-          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons. BWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
+          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons.\r\nBWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
           "score": 2
         },
         {
