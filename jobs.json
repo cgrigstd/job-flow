@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-22 01:20",
-  "total_jobs": 82,
+  "updated": "2026-03-23 01:20",
+  "total_jobs": 77,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 15,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Thera Bytes is hiring a Technical Artist / 3D Generalist to work from Anywhere",
@@ -159,20 +159,6 @@
           "country": "",
           "description": "​We are searching for an ambitious generalist with a high focus on art and tech-art production that additionally brings strong game design skills with them. Tags: [Art & Animation] [Full",
           "score": 10
-        },
-        {
-          "title": "Sugamu Studio is hiring a 2D UI/UX Artist to work from Ontario, Canada",
-          "url": "https://www.workwithindies.com/careers/sugamu-studio-2d-ui-ux-artist",
-          "country": "",
-          "description": "Sugamu is looking for a talented 2D UI/UX Artist to join the team and help bring JollyRoll to life, our cozy reimagining of classic marble-matching games. Tags: [Art & Animation] [Part",
-          "score": 6
-        },
-        {
-          "title": "Feel Free Games is hiring a VFX & UI Animator to work from CET ± 2 hours",
-          "url": "https://www.workwithindies.com/careers/feel-free-games-vfx-ui-animator",
-          "country": "",
-          "description": "Feel Free Games is looking for a super talented VFX & UI Animator to help bring their next game to life in Unity. Tags: [Art & Animation]",
-          "score": 6
         },
         {
           "title": "8Bit is hiring a Senior Environment Artist to work from Germany",
@@ -243,20 +229,6 @@
           "country": "",
           "description": "Ride the Lion Studios is currently in need of an experienced Unreal Engine 4 lighting artist.  Tags: [Art & Animation]",
           "score": 2
-        },
-        {
-          "title": "Sugamu Studio is hiring a Game Designer to work from Ontario, Canada",
-          "url": "https://www.workwithindies.com/careers/sugamu-studio-game-designer",
-          "country": "",
-          "description": "Sugamu is looking for a talented Game Designer to join the team and help bring JollyRoll to life, our cozy reimagining of classic marble-matching games. Tags: [Design] [Part",
-          "score": 2
-        },
-        {
-          "title": "Avatone is hiring a Unity Game Developer to work from Canada",
-          "url": "https://www.workwithindies.com/careers/avatone-unity-game-developer",
-          "country": "",
-          "description": "As a Junior Game Developer at Avatone, you will implement gameplay features, fix bugs, and help build game systems in Unity.  Tags: [Programming]",
-          "score": 2
         }
       ]
     },
@@ -275,7 +247,7 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 4,
+      "job_count": 3,
       "jobs": [
         {
           "title": "Feel Free Games B.V. is hiring We’re hiring a super talented VFX & UI animator (Unity) (Remote Job)",
@@ -297,27 +269,13 @@
           "country": "",
           "description": "ROLE OVERVIEW\nWe are seeking a Technical QA Engineer who is as comfortable finding bugs in a VR environment as they are writing C# scripts to automate performance and gameplay tests in Unity. In this role, you will split your time between hands-on testing alongside our QA Lead and working directly",
           "score": 3
-        },
-        {
-          "title": "Freemotion Studio is hiring Unity developer needed for a multiplayer arena fighter (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/freemotion-studio-unity-developer-needed-for-a-multiplayer-arena-fighter-remote-job-69f03775-05a2-4ff6-8e14-1787e640c6c5",
-          "country": "",
-          "description": "Hi I am looking for a Unity developer to help me complete a multiplayer arena fighter prototype\nThis is a remote contractor position working with a pre-existing codebase. The project has been passed to different devs with differing motivation levels and has stalled for the past year.\nWhat it needs",
-          "score": 3
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 3,
+      "job_count": 2,
       "jobs": [
-        {
-          "title": "3D Animator for Multiplayer Animal Game",
-          "url": "https://polycount.com/discussion/238380/3d-animator-for-multiplayer-animal-game",
-          "country": "",
-          "description": "We're an indie studio developing a competitive multiplayer animal combat game in Unreal Engine 5. Looking for a freelance 3D animator to help with creature animations, rigging, and in-game motion work.\nWhat we need:Strong grasp of the 12 principles of animation, especially squash and stretch,",
-          "score": 12
-        },
         {
           "title": "2D Layered Sprite Sheets For Customization (LONG-TERM PROJECT)",
           "url": "https://polycount.com/discussion/238399/2d-layered-sprite-sheets-for-customization-long-term-project",
@@ -336,7 +294,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 7,
+      "job_count": 8,
       "jobs": [
         {
           "title": "[PAID] 2D Anthropomorphic cartoon brain rigging/animation",
@@ -365,6 +323,13 @@
           "country": "",
           "description": "Hi all,\nWesley Wang (nothing, except everything) and Jacob Rivera (BASIL AND CLOVER) are developing an animated short film and are looking for a 3d animator to join the team.\nWe’re hiring someone who can help with environment creation, asset design, or character animation in Blender. You will be",
           "score": 7
+        },
+        {
+          "title": "Using blender with mixamo",
+          "url": "https://blenderartists.org/t/using-blender-with-mixamo/1634820",
+          "country": "",
+          "description": "I am seeking assistance with a character that has been rigged in Blender. I require an experienced professional with expertise in Mixamo to properly apply or create animations for the character.\nIdeally, you should possess the following skills:\nProficiency in working with rigged models in",
+          "score": 6
         },
         {
           "title": "Drone shows - Advanced Animation System",
