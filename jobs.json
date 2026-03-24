@@ -1,12 +1,19 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-23 01:20",
-  "total_jobs": 77,
+  "updated": "2026-03-24 01:14",
+  "total_jobs": 75,
   "sites": [
     {
       "name": "Entertainment Careers",
       "job_count": 20,
       "jobs": [
+        {
+          "title": "VFX Generalist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/vfx-generalist/job/504119/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Job Title: VFX Generalist\n\nReporting to the VFX Generalist Supervisor, the Generalist ... more",
+          "score": 4
+        },
         {
           "title": "3D Visual Effects Artist - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/3d-visual-effects-artist/job/504101/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -29,10 +36,10 @@
           "score": 2
         },
         {
-          "title": "Feature Modeler - DreamWorks Animation",
-          "url": "https://www.entertainmentcareers.net/dreamworks-animation/feature-modeler/job/515907/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "VFX Layout Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/vfx-layout-artist/job/504121/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Responsibilities: “What would you say you do here?”\n• Demonstrate an understanding of design ... more",
+          "description": "pls RT ECNIDRSS @entcareersnet  The Layout Artist is responsible for the story-telling, shot sequence continuity, and presentation as ... more",
           "score": 2
         },
         {
@@ -47,20 +54,6 @@
           "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/mid-level-animator/job/516012/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more",
-          "score": 1
-        },
-        {
-          "title": "Senior Compositor - Pixomondo",
-          "url": "https://www.entertainmentcareers.net/pixomondo/senior-compositor/job/515922/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Senior Compositor (contract)\n\nEnglish Below\n\nWe are currently seeking a Senior Compositor for a short-term ... more",
-          "score": 1
-        },
-        {
-          "title": "Senior Compositor - Pixomondo",
-          "url": "https://www.entertainmentcareers.net/pixomondo/senior-compositor/job/515921/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Senior Compositor (contract)\n\nEnglish Below\n\nSenior Compositor\n\nExigences:\n• 5  ans d'expérience ... more",
           "score": 1
         },
         {
@@ -96,6 +89,20 @@
           "url": "https://www.entertainmentcareers.net/pixomondo/virtual-production-key-grip/job/515747/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Key Grip (Virtual Production)\n\nWe are looking for a skilled Key Grip who will leverage ... more",
+          "score": 0
+        },
+        {
+          "title": "Real-Time Visualization Designer - Sony Pictures",
+          "url": "https://www.entertainmentcareers.net/sony-pictures/real-time-visualization-designer/job/495680/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\n**Real-time Visualization Shotmaker (Project Hire)**\n\nThe Real-Time Visualization ... more",
+          "score": 0
+        },
+        {
+          "title": "Lighting Designer - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/lighting-designer/job/492820/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  **Project based, Full Time**\n**Language in work environment** - Excellent communication skills in both ... more",
           "score": 0
         },
         {
@@ -139,19 +146,12 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Compositing Supervisor, you will oversee the compositing ... more",
           "score": 0
-        },
-        {
-          "title": "Compositing Supervisor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/compositing-supervisor/job/504025/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Compositing Supervisor, you will oversee the compositing ... more",
-          "score": 0
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 11,
+      "job_count": 13,
       "jobs": [
         {
           "title": "Thera Bytes is hiring a Technical Artist / 3D Generalist to work from Anywhere",
@@ -182,11 +182,32 @@
           "score": 4
         },
         {
+          "title": "SkyKelpie is hiring a Mid-Level Developer to work from Australia",
+          "url": "https://www.workwithindies.com/careers/skykelpie-mid-level-developer",
+          "country": "",
+          "description": "We’re looking for a mid-level developer to help create a management simulation game set in the Australian outback, blending authentic cattle station operations with modern gameplay systems. Tags: [Programming] [Part",
+          "score": 3
+        },
+        {
+          "title": "Riyo Games is hiring a Senior Game Designer to work from Canada",
+          "url": "https://www.workwithindies.com/careers/riyo-games-senior-game-designer",
+          "country": "",
+          "description": "Riyo Games is looking for a Senior Game Designer who is passionate about JRPGs to join our team working on Threads of Time. Tags: [Design] [Full",
+          "score": 3
+        },
+        {
           "title": "RocketJump is hiring a Lead Pixel Artist to work from CET ± 4 hours",
           "url": "https://www.workwithindies.com/careers/rocketjump-lead-pixel-artist",
           "country": "",
           "description": "We are looking for a versatile and self-starting Lead Pixel Artist to join a small remote team. Tags: [Art & Animation]",
           "score": 3
+        },
+        {
+          "title": "Quest Fox is hiring a Unity Developer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/quest-fox-unity-developer",
+          "country": "",
+          "description": "We're a small indie game studio looking for a Unity Developer to help us create an experimental and modular character generator. Tags: [Programming]",
+          "score": 2
         },
         {
           "title": "Torpor Games is hiring a Lead Programmer (m/f/d)  to work from Berlin, DE",
@@ -222,59 +243,25 @@
           "country": "",
           "description": "Tome & Blade is seeking a skilled UI/UX Artist who can help grow our current aesthetic to match our increased needs. Tags: [Art & Animation] [Part",
           "score": 2
-        },
-        {
-          "title": "Ride the Lion Studios is hiring a Lighting & Cinematography Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-lighting-cinematography-artist",
-          "country": "",
-          "description": "Ride the Lion Studios is currently in need of an experienced Unreal Engine 4 lighting artist.  Tags: [Art & Animation]",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "name": "Remote OK Dev",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "DevOps Database Assistant Vice President",
-          "url": "https://remoteOK.com/remote-jobs/remote-devops-database-assistant-vice-president-icapital-1130799",
-          "country": "",
-          "description": "About the RoleiCapital is looking to hire a DevOps Database Engineer to join the Platform Infrastructure team. This role is responsible for owning the performance, reliability, security, and operation of the company’s SQL and NoSQL database platforms.  The role operates within a database team who",
-          "score": 2
         }
       ]
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 3,
+      "job_count": 1,
       "jobs": [
-        {
-          "title": "Feel Free Games B.V. is hiring We’re hiring a super talented VFX & UI animator (Unity) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/feel-free-games-b-v-we-re-hiring-a-super-talented-vfx-ui-animator-unity-remote-job-c054c66c-d185-4809-84f9-c968e088f356",
-          "country": "",
-          "description": "We're Feel Free Games, the indie team behind Luma",
-          "score": 5
-        },
         {
           "title": "8Bit is hiring Senior Environment Artist (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/8bit-senior-environment-artist-remote-job",
           "country": "",
           "description": "Our client – the studio behind Shapez and Shapez 2, is looking for a Senior/Lead Environment Artist to join the Shapez 2 team and be responsible for creating a wide range of 3D assets with a strong focus on environmental design.\n  \nWorking closely with the Art Director and fellow artists, you will",
           "score": 4
-        },
-        {
-          "title": "Warpfrog is hiring Technical QA Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/warpfrog-technical-qa-engineer-remote-job",
-          "country": "",
-          "description": "ROLE OVERVIEW\nWe are seeking a Technical QA Engineer who is as comfortable finding bugs in a VR environment as they are writing C# scripts to automate performance and gameplay tests in Unity. In this role, you will split your time between hands-on testing alongside our QA Lead and working directly",
-          "score": 3
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 2,
+      "job_count": 3,
       "jobs": [
         {
           "title": "2D Layered Sprite Sheets For Customization (LONG-TERM PROJECT)",
@@ -282,6 +269,13 @@
           "country": "",
           "description": "Right off the bat, I have a very small budget for this.I'm working on a 2D game that only has a single member on the team - me. And I'm a lot better at coding than I am drawing.Payment / SheetI have very little money to spare, but I still want to pay someone for this work so I am very open to",
           "score": 6
+        },
+        {
+          "title": "[PAID] [REMOTE] Technical Animator | R16 Interactive / Tale's Edge (Unreal Engine 5)",
+          "url": "https://polycount.com/discussion/238419/paid-remote-technical-animator-r16-interactive-tale-039-s-edge-unreal-engine-5",
+          "country": "",
+          "description": "Studio: R16 Interactive\r\nProject: Tale's Edge\r\nRole: Technical Animator\r\nType: Contract (hourly or day rate) with opportunity for full-time if deemed a good fit for both sides\r\nLocation: Fully remote, global applicants acceptedRate: Competitive based on experience, engine understanding and",
+          "score": 5
         },
         {
           "title": "Looking for 3D Simulation Pipeline Engineer (Blender + 3ds Max + Nvidia Omniverse / Isaac Sim)",
@@ -294,7 +288,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 8,
+      "job_count": 6,
       "jobs": [
         {
           "title": "[PAID] 2D Anthropomorphic cartoon brain rigging/animation",
@@ -304,18 +298,11 @@
           "score": 10
         },
         {
-          "title": "Senior CG Artist - London, Full-Time",
-          "url": "https://blenderartists.org/t/senior-cg-artist-london-full-time/1634178",
+          "title": "Indie storyteller looking for help building 3d sets for animatic storyboard",
+          "url": "https://blenderartists.org/t/indie-storyteller-looking-for-help-building-3d-sets-for-animatic-storyboard/1635075",
           "country": "",
-          "description": "About INK\nINK is a leading creative studio based in London, recognised for its future-facing aesthetic. We work at the intersection of creativity and technology, producing world-class visuals for luxury brands, visionary startups, and artists worldwide.\nThe Role\nWe’re looking for a Senior CG Artist",
-          "score": 9
-        },
-        {
-          "title": "Midweight CG Artist - London, Full-time",
-          "url": "https://blenderartists.org/t/midweight-cg-artist-london-full-time/1634176",
-          "country": "",
-          "description": "About INK\nINK is a leading creative studio based in London. Recognised for our future aesthetic, we work at the cutting edge of creativity and technology, producing world-class visuals for luxury brands, visionary startups, and artists around the globe.\nAbout The Role:\nWe are seeking a dedicated",
-          "score": 9
+          "description": "Hi all. I’m working on an animatic for an 8 hour miniseries. I do NOT need full animation at this time. Just sets. About 40-ish in total, everything from ordinary midwestern homes to the rugged terrain of the Swiss/Italian Alps to a reimagined modern Roman colosseum. The objective is to create an",
+          "score": 7
         },
         {
           "title": "Hiring Blender Artist – Violet and Marlowe",
@@ -343,13 +330,6 @@
           "url": "https://blenderartists.org/t/freelance-blender-artist-archviz-retail-environments-remote/1634545",
           "country": "",
           "description": "Studio: All These Wonders https://www.allthesewonders.co/\nType: Freelance / Ongoing\nLocation: Remote (International encouraged)\nStart: Immediate\nWe’re a small, fast-moving studio working on retail environments, brand spaces, and concept-driven visualizations for global clients.\nWe’re looking for",
-          "score": 5
-        },
-        {
-          "title": "3D Simulation Pipeline Engineer (Blender + 3ds Max + Omniverse / Isaac Sim) - Nfinite",
-          "url": "https://blenderartists.org/t/3d-simulation-pipeline-engineer-blender-3ds-max-omniverse-isaac-sim-nfinite/1634201",
-          "country": "",
-          "description": "Hi everyone, Nfinite is looking for a 3D Simulation Pipeline Engineer to join our team for a paid remote role. We thought this forum might be a good place to reach specialists whose experience spans both 3D tools and simulation workflows so we hope this may be relevant here\nThe work focuses on",
           "score": 5
         }
       ]
