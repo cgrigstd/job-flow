@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-25 01:19",
-  "total_jobs": 71,
+  "updated": "2026-03-26 01:24",
+  "total_jobs": 69,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,15 +151,8 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 9,
+      "job_count": 8,
       "jobs": [
-        {
-          "title": "8Bit is hiring a Senior Environment Artist to work from Germany",
-          "url": "https://www.workwithindies.com/careers/8bit-senior-environment-artist",
-          "country": "",
-          "description": "The studio behind Shapez and Shapez 2, is looking for a Senior/Lead Environment Artist to join the Shapez 2 team and be responsible for creating a wide range of 3D assets. Tags: [Art & Animation] [Full",
-          "score": 5
-        },
         {
           "title": "Robot Entertainment is hiring a Gameplay Animator to work from CT ± 2 hours",
           "url": "https://www.workwithindies.com/careers/robot-entertainment-gameplay-animator",
@@ -182,11 +175,18 @@
           "score": 3
         },
         {
-          "title": "RocketJump is hiring a Lead Pixel Artist to work from CET ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/rocketjump-lead-pixel-artist",
+          "title": "Flat2VR Studios is hiring a Unity Technical Artist to work from EU & NA",
+          "url": "https://www.workwithindies.com/careers/flat2vr-studios-unity-technical-artist",
           "country": "",
-          "description": "We are looking for a versatile and self-starting Lead Pixel Artist to join a small remote team. Tags: [Art & Animation]",
-          "score": 3
+          "description": "To help us support epic, unannounced projects we’re looking for a Unity technical artist or graphics engineer/programmer. Tags: [Programming] [Full",
+          "score": 2
+        },
+        {
+          "title": "The Rhythm Company is hiring a UI/UX Designer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/the-rhythm-company-ui-ux-designer",
+          "country": "",
+          "description": "The Rhythm Company is seeking a freelance UI/UX Designer to create professional, developer-ready interface mockups for our upcoming rhythm game Tags: [Design]",
+          "score": 2
         },
         {
           "title": "Quest Fox is hiring a Unity Developer to work from Anywhere",
@@ -208,13 +208,6 @@
           "country": "",
           "description": "The Producer is responsible for the full production lifecycle of Suzerain: Project Vanguard.  Tags: [Production] [Full",
           "score": 2
-        },
-        {
-          "title": "Optillusion Games is hiring a Technical Designer to work from Orange County, CA",
-          "url": "https://www.workwithindies.com/careers/optillusion-games-technical-designer",
-          "country": "",
-          "description": "Optillusion Games is looking for a Technical Designer to design, implement, and refine gameplay systems into a polished player experience. Tags: [Design] [Full",
-          "score": 2
         }
       ]
     },
@@ -233,7 +226,7 @@
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 5,
+      "job_count": 3,
       "jobs": [
         {
           "title": "[PAID][Freelance] Technical Artist Needed — Custom Shaders & Volume Profile Template Creation",
@@ -243,24 +236,10 @@
           "score": 7
         },
         {
-          "title": "2D Layered Sprite Sheets For Customization (LONG-TERM PROJECT)",
-          "url": "https://polycount.com/discussion/238399/2d-layered-sprite-sheets-for-customization-long-term-project",
-          "country": "",
-          "description": "Right off the bat, I have a very small budget for this.I'm working on a 2D game that only has a single member on the team - me. And I'm a lot better at coding than I am drawing.Payment / SheetI have very little money to spare, but I still want to pay someone for this work so I am very open to",
-          "score": 6
-        },
-        {
           "title": "[PAID] [REMOTE] Technical Animator | R16 Interactive / Tale's Edge (Unreal Engine 5)",
           "url": "https://polycount.com/discussion/238419/paid-remote-technical-animator-r16-interactive-tale-039-s-edge-unreal-engine-5",
           "country": "",
           "description": "Studio: R16 Interactive\r\nProject: Tale's Edge\r\nRole: Technical Animator\r\nType: Contract (hourly or day rate) with opportunity for full-time if deemed a good fit for both sides\r\nLocation: Fully remote, global applicants acceptedRate: Competitive based on experience, engine understanding and",
-          "score": 5
-        },
-        {
-          "title": "Looking for 3D Simulation Pipeline Engineer (Blender + 3ds Max + Nvidia Omniverse / Isaac Sim)",
-          "url": "https://polycount.com/discussion/238396/looking-for-3d-simulation-pipeline-engineer-blender-3ds-max-nvidia-omniverse-isaac-sim",
-          "country": "",
-          "description": "Hi everyone! Nfinite is looking for a 3D Simulation Pipeline Engineer to join our team for a paid remote role, and  we thought this would be a good place to reach specialists with experience across both 3D tools and simulation workflows, so we hope this is relevant hereThe work focuses on",
           "score": 5
         },
         {
@@ -274,7 +253,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 4,
+      "job_count": 5,
       "jobs": [
         {
           "title": "[PAID] 2D Anthropomorphic cartoon brain rigging/animation",
@@ -303,6 +282,13 @@
           "country": "",
           "description": "Studio: All These Wonders https://www.allthesewonders.co/\nType: Freelance / Ongoing\nLocation: Remote (International encouraged)\nStart: Immediate\nWe’re a small, fast-moving studio working on retail environments, brand spaces, and concept-driven visualizations for global clients.\nWe’re looking for",
           "score": 5
+        },
+        {
+          "title": "Hiring: Advanced geometry node artist",
+          "url": "https://blenderartists.org/t/hiring-advanced-geometry-node-artist/1635278",
+          "country": "",
+          "description": "Looking for a experienced Geometry node artist to add features and modifications to existing node system.\nTasks Include- Integrating procedural scatter system with additional features, modifying existing ivy growth system.\nRequirements: Must have extensive experience with geometry & simulation",
+          "score": 2
         }
       ]
     },
