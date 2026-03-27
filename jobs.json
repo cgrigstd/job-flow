@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-26 01:24",
-  "total_jobs": 69,
+  "updated": "2026-03-27 01:24",
+  "total_jobs": 68,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -85,6 +85,13 @@
           "score": 1
         },
         {
+          "title": "Production Support Coordinator - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-support-coordinator/job/516660/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Sony Pictures Imageworks is seeking a Production Support Coordinator for our Los Angeles location.\n\nSummary:\n\nThe ... more",
+          "score": 0
+        },
+        {
           "title": "Junior Compositor - Industrial Light & Magic",
           "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-compositor/job/516509/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -103,13 +110,6 @@
           "url": "https://www.entertainmentcareers.net/eyeline/visual-cinematic-designer/job/510008/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Eyeline Studios is seeking a visual thinker who operates at the intersection of cinematography, concept ... more",
-          "score": 0
-        },
-        {
-          "title": "Roto/Paint Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/roto-paint-artist/job/513555/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Reporting to the Roto/Paint Supervisor, the Roto/Paint Artist supports and partners with compositors ... more",
           "score": 0
         },
         {
@@ -151,13 +151,13 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 8,
+      "job_count": 6,
       "jobs": [
         {
-          "title": "Robot Entertainment is hiring a Gameplay Animator to work from CT ± 2 hours",
-          "url": "https://www.workwithindies.com/careers/robot-entertainment-gameplay-animator",
+          "title": "Uni Dreams is hiring a Stylized 3D Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/uni-dreams-stylized-3d-animator",
           "country": "",
-          "description": "We are looking for an experienced Gameplay Animator to help bring our characters and creatures to life through expressive, responsive gameplay animation. Tags: [Art & Animation] [Full",
+          "description": "We are seeking a highly creative and experienced 3D Animator to join our team, focusing primarily on bringing our 3D world objects to life with heavily stylized & expressive animation. Tags: [Art & Animation]",
           "score": 4
         },
         {
@@ -194,40 +194,40 @@
           "country": "",
           "description": "We're a small indie game studio looking for a Unity Developer to help us create an experimental and modular character generator. Tags: [Programming]",
           "score": 2
-        },
-        {
-          "title": "Torpor Games is hiring a Lead Programmer (m/f/d)  to work from Berlin, DE",
-          "url": "https://www.workwithindies.com/careers/torpor-games-lead-programmer-m-f-d",
-          "country": "",
-          "description": "The Lead Programmer is responsible for day-to-day technical leadership across The Conformist and key Torpor Games pipelines. Tags: [Programming] [Full",
-          "score": 2
-        },
-        {
-          "title": "Torpor Games is hiring a Producer (m/f/d) to work from Berlin, DE",
-          "url": "https://www.workwithindies.com/careers/torpor-games-producer-m-f-d",
-          "country": "",
-          "description": "The Producer is responsible for the full production lifecycle of Suzerain: Project Vanguard.  Tags: [Production] [Full",
-          "score": 2
         }
       ]
     },
     {
-      "name": "Remote Game Jobs",
-      "job_count": 1,
+      "name": "Remote OK Dev",
+      "job_count": 2,
       "jobs": [
         {
-          "title": "8Bit is hiring Senior Environment Artist (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/8bit-senior-environment-artist-remote-job",
+          "title": "Senior Developer Backend Search CD+E",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881",
           "country": "",
-          "description": "Our client – the studio behind Shapez and Shapez 2, is looking for a Senior/Lead Environment Artist to join the Shapez 2 team and be responsible for creating a wide range of 3D assets with a strong focus on environmental design.\n  \nWorking closely with the Art Director and fellow artists, you will",
+          "description": "Info on the Senior Developer - Backend/Search - CD+E (491) role Ready to take the next step in your international career? We can support you! Ubiminds is a GPTW-certified, people-first company that partners with American software product companies to scale their global teams. We curate top LATAM",
+          "score": 4
+        },
+        {
+          "title": "Lead Security Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
+          "country": "",
+          "description": "Copia Automation brings modern developer tools and resiliency to industrial automation. Our product provides Git-based source control for automation professionals as well as remote, real-time monitoring of the entire plant floor + state of the art backup and recover technology. We are a well-funded",
           "score": 4
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
+        {
+          "title": "looking for 3D modeler for Game  to style match",
+          "url": "https://polycount.com/discussion/238427/looking-for-3d-modeler-for-game-to-style-match",
+          "country": "",
+          "description": "Looking for additional character modelers to work alongside existing designers who can style match the examples. As well as individuals well versed in editing existing models.Currently, we operate in Blender and use the Unity engine. Our motion capture is done via Xsens. Familiarity with Blender",
+          "score": 10
+        },
         {
           "title": "[PAID][Freelance] Technical Artist Needed — Custom Shaders & Volume Profile Template Creation",
           "url": "https://polycount.com/discussion/238421/paid-freelance-technical-artist-needed-custom-shaders-volume-profile-template-creation",
@@ -253,7 +253,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
         {
           "title": "[PAID] 2D Anthropomorphic cartoon brain rigging/animation",
@@ -275,13 +275,6 @@
           "country": "",
           "description": "I am seeking assistance with a character that has been rigged in Blender. I require an experienced professional with expertise in Mixamo to properly apply or create animations for the character.\nIdeally, you should possess the following skills:\nProficiency in working with rigged models in",
           "score": 6
-        },
-        {
-          "title": "Freelance Blender Artist (Archviz / Retail Environments) – Remote",
-          "url": "https://blenderartists.org/t/freelance-blender-artist-archviz-retail-environments-remote/1634545",
-          "country": "",
-          "description": "Studio: All These Wonders https://www.allthesewonders.co/\nType: Freelance / Ongoing\nLocation: Remote (International encouraged)\nStart: Immediate\nWe’re a small, fast-moving studio working on retail environments, brand spaces, and concept-driven visualizations for global clients.\nWe’re looking for",
-          "score": 5
         },
         {
           "title": "Hiring: Advanced geometry node artist",
@@ -349,7 +342,7 @@
           "title": "Generalista 3D Ref 22 503",
           "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
           "country": "Argentina",
-          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop.\r\nPara trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo",
           "score": 6
         },
         {
@@ -405,7 +398,7 @@
           "title": "2D Animator Ref 24 565",
           "url": "https://www.imagecampus.edu.ar/busqueda/2d-animator-ref-24-565",
           "country": "Argentina",
-          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team. If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
+          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team.  If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
           "score": 4
         },
         {
