@@ -1,12 +1,19 @@
 {
   "title": "JobFlow",
-  "updated": "2026-03-29 01:27",
-  "total_jobs": 77,
+  "updated": "2026-03-30 01:28",
+  "total_jobs": 76,
   "sites": [
     {
       "name": "Entertainment Careers",
       "job_count": 20,
       "jobs": [
+        {
+          "title": "Lead 3D Generalist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/lead-3d-generalist/job/516844/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  A 3D Generalist works to create high-quality 3D assets, environments, layout, animations working start ... more",
+          "score": 6
+        },
         {
           "title": "3D Modeling Supervisor - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/3d-modeling-supervisor/job/507489/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -15,18 +22,18 @@
           "score": 4
         },
         {
-          "title": "Digital Matte Painter - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/digital-matte-painter/job/510445/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Matte Painter, you will create photorealistic 2D and 3D matte paintings of subject matter to be ... more",
-          "score": 4
-        },
-        {
           "title": "Senior Hybrid Generalist - The Walt Disney Studios",
           "url": "https://www.entertainmentcareers.net/the-walt-disney-studios/senior-hybrid-generalist/job/516715/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Hybrid Generalist (PH)\n\nJob Summary:\n\nWe are seeking a Hybrid ... more",
           "score": 3
+        },
+        {
+          "title": "Technical Artist - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-artist/job/516843/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Technical Artist you will be  responsible for helping its assigned departments to solve technical ... more",
+          "score": 2
         },
         {
           "title": "Visual Effects Artist - Eyeline",
@@ -71,18 +78,18 @@
           "score": 2
         },
         {
-          "title": "3D Environment Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/3d-environment-artist/job/510102/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Senior Creature Animator - Pixomondo",
+          "url": "https://www.entertainmentcareers.net/pixomondo/senior-creature-animator/job/516827/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As an Environment Artist, you will be responsible for creating high-level and diverse 3D and 2.5D environments ... more",
-          "score": 2
+          "description": "pls RT ECNIDRSS @entcareersnet  Senior Creature Animator (Germany/EUR)\n\nThe Role:\n\nThe Senior ... more",
+          "score": 1
         },
         {
-          "title": "Lead Environment Modeling Artist - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/lead-environment-modeling-artist/job/513388/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Technical Director - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-director/job/516785/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Lead Environment Modeling Artist, you will manage a team of modeling artists to create the visual ... more",
-          "score": 2
+          "description": "pls RT ECNIDRSS @entcareersnet  The Senior Technical Director develops and supports innovative tools for our production teams to efficiently ... more",
+          "score": 1
         },
         {
           "title": "Technical Director - Skydance",
@@ -139,19 +146,12 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Eyeline Studios is seeking a visual thinker who operates at the intersection of cinematography, concept ... more",
           "score": 0
-        },
-        {
-          "title": "Freelance Graphics Operator - Fox Sports",
-          "url": "https://www.entertainmentcareers.net/fox-sports/freelance-graphics-operator/job/513766/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Freelance Graphics Operator, Erizos Studio (AR/XR) - IATSE 800\n\nThe Freelance Graphics ... more",
-          "score": 0
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 13,
+      "job_count": 10,
       "jobs": [
         {
           "title": "Bad Source is hiring a Technical Artist to work from Anywhere",
@@ -189,20 +189,6 @@
           "score": 3
         },
         {
-          "title": "SkyKelpie is hiring a Mid-Level Developer to work from Australia",
-          "url": "https://www.workwithindies.com/careers/skykelpie-mid-level-developer",
-          "country": "",
-          "description": "We’re looking for a mid-level developer to help create a management simulation game set in the Australian outback, blending authentic cattle station operations with modern gameplay systems. Tags: [Programming] [Part",
-          "score": 3
-        },
-        {
-          "title": "Riyo Games is hiring a Senior Game Designer to work from Canada",
-          "url": "https://www.workwithindies.com/careers/riyo-games-senior-game-designer",
-          "country": "",
-          "description": "Riyo Games is looking for a Senior Game Designer who is passionate about JRPGs to join our team working on Threads of Time. Tags: [Design] [Full",
-          "score": 3
-        },
-        {
           "title": "Meeple Corp is hiring a Unity Game Programmer to work from Bath, UK or GMT ± 2",
           "url": "https://www.workwithindies.com/careers/meeple-corp-unity-game-programmer",
           "country": "",
@@ -235,13 +221,6 @@
           "url": "https://www.workwithindies.com/careers/the-rhythm-company-ui-ux-designer",
           "country": "",
           "description": "The Rhythm Company is seeking a freelance UI/UX Designer to create professional, developer-ready interface mockups for our upcoming rhythm game Tags: [Design]",
-          "score": 2
-        },
-        {
-          "title": "Quest Fox is hiring a Unity Developer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/quest-fox-unity-developer",
-          "country": "",
-          "description": "We're a small indie game studio looking for a Unity Developer to help us create an experimental and modular character generator. Tags: [Programming]",
           "score": 2
         }
       ]
@@ -315,7 +294,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 5,
+      "job_count": 7,
       "jobs": [
         {
           "title": "3D Character Animation Generalists freelancers needed!",
@@ -325,11 +304,25 @@
           "score": 15
         },
         {
+          "title": "Shape keys and weight painting for scalable mannequins",
+          "url": "https://blenderartists.org/t/shape-keys-and-weight-painting-for-scalable-mannequins/1635761",
+          "country": "",
+          "description": "Project Overview\nI am building a web-based 3D armor fit checking tool for cosplayers and prop makers. Users input their body measurements and a 3D mannequin scales to represent their body. They then position their own armor models around the mannequin to assess fit before committing to fabrication",
+          "score": 8
+        },
+        {
           "title": "Indie storyteller looking for help building 3d sets for animatic storyboard",
           "url": "https://blenderartists.org/t/indie-storyteller-looking-for-help-building-3d-sets-for-animatic-storyboard/1635075",
           "country": "",
           "description": "Hi all. I’m working on an animatic for an 8 hour miniseries. I do NOT need full animation at this time. Just sets. About 40-ish in total, everything from ordinary midwestern homes to the rugged terrain of the Swiss/Italian Alps to a reimagined modern Roman colosseum. The objective is to create an",
           "score": 7
+        },
+        {
+          "title": "[Paid] 20-30 second render",
+          "url": "https://blenderartists.org/t/paid-20-30-second-render/1635759",
+          "country": "",
+          "description": "Hi!\nI have a stupid little render I want made. I’m willing to spend 50-75 bucks and will pay through PayPal. Here’s the details\nThis is the scene:\n\n\n\nForest (Free Download) Finished Projects\n\n\n    [image] \n                     https://i.ibb.co.com/HBtfrD7/Render-1.png(image larger than 5",
+          "score": 2
         },
         {
           "title": "̶C̶h̶a̶r̶a̶c̶t̶e̶r̶ ̶c̶r̶e̶a̶t̶o̶r̶ ̶u̶s̶e̶r̶ ̶n̶e̶e̶d̶e̶d̶ (CANCELED)",
