@@ -20,7 +20,7 @@ KEYWORDS = [
     "vfx", "3d", "blender", "maya", "nuke",
     "houdini", "3dsmax", "2d", "visual effects",
     "rigger", "rigging",
-    "3d modeler", "modeling",
+    "3d modeler", "modeling", "fusion 360", "solidworks",
     "generalist", "generalista",
     "technical artist", "game", "animation"
 ]
