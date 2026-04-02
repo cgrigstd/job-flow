@@ -1,6 +1,6 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-01 01:46",
+  "updated": "2026-04-02 01:22",
   "total_jobs": 75,
   "sites": [
     {
@@ -151,8 +151,15 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 10,
+      "job_count": 12,
       "jobs": [
+        {
+          "title": "Riyo Games is hiring a Senior VFX Artist to work from Canada",
+          "url": "https://www.workwithindies.com/careers/riyo-games-senior-vfx-artist",
+          "country": "",
+          "description": "As the Senior VFX Artist, you'll deliver a wide range of top-quality effects that enrich the player experience while respecting technical constraints and artistic direction. Tags: [Art & Animation]",
+          "score": 7
+        },
         {
           "title": "Uni Dreams is hiring a Unity Asset Importer to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/uni-dreams-unity-asset-importer",
@@ -182,13 +189,6 @@
           "score": 4
         },
         {
-          "title": "Uni Dreams is hiring a Stylized 3D Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/uni-dreams-stylized-3d-animator",
-          "country": "",
-          "description": "We are seeking a highly creative and experienced 3D Animator to join our team, focusing primarily on bringing our 3D world objects to life with heavily stylized & expressive animation. Tags: [Art & Animation]",
-          "score": 4
-        },
-        {
           "title": "Psychic Software is hiring a Digital Pencil Sketch Artist to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/psychic-software-digital-pencil-sketch-artist",
           "country": "",
@@ -201,6 +201,20 @@
           "country": "",
           "description": "Meeple Corp is seeking an experienced Unity Game Programmer to join our team and help bring popular, best-selling tabletop games to major digital platforms. Tags: [Programming] [Full",
           "score": 3
+        },
+        {
+          "title": "easyAction is hiring a Video/Audio Editor & Media Manager to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/easyaction-video-audio-editor-media-manager",
+          "country": "",
+          "description": "We are in production on an indie game that utilizes many video and audio assets and need someone available to start on a hourly freelance basis. Tags: [Audio]",
+          "score": 2
+        },
+        {
+          "title": "Zovian Games is hiring a Community Manager to work from PT ± 3 hours",
+          "url": "https://www.workwithindies.com/careers/zovian-games-community-manager",
+          "country": "",
+          "description": "Zovian is looking for a part-time Community Manager on a contract basis to help build our online presence and player community from the ground up. Tags: [Marketing & Community] [Part",
+          "score": 2
         },
         {
           "title": "Petrifying Well is hiring a Campaign Manager to work from United Kingdom",
@@ -227,20 +241,13 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 2,
+      "job_count": 1,
       "jobs": [
         {
           "title": "Senior Developer Backend Search CD+E",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881",
           "country": "",
           "description": "Info on the Senior Developer - Backend/Search - CD+E (491) role Ready to take the next step in your international career? We can support you! Ubiminds is a GPTW-certified, people-first company that partners with American software product companies to scale their global teams. We curate top LATAM",
-          "score": 4
-        },
-        {
-          "title": "Lead Security Engineer",
-          "url": "https://remoteOK.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
-          "country": "",
-          "description": "Copia Automation brings modern developer tools and resiliency to industrial automation. Our product provides Git-based source control for automation professionals as well as remote, real-time monitoring of the entire plant floor + state of the art backup and recover technology. We are a well-funded",
           "score": 4
         }
       ]
@@ -273,19 +280,6 @@
       ]
     },
     {
-      "name": "Polycount Freelance",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "looking for 3D modeler for Game  to style match",
-          "url": "https://polycount.com/discussion/238427/looking-for-3d-modeler-for-game-to-style-match",
-          "country": "",
-          "description": "Looking for additional character modelers to work alongside existing designers who can style match the examples. As well as individuals well versed in editing existing models.Currently, we operate in Blender and use the Unity engine. Our motion capture is done via Xsens. Familiarity with Blender",
-          "score": 10
-        }
-      ]
-    },
-    {
       "name": "BlenderArtists Paid Jobs",
       "job_count": 7,
       "jobs": [
@@ -311,6 +305,13 @@
           "score": 6
         },
         {
+          "title": "Realistic female head in Blender - CC0 license",
+          "url": "https://blenderartists.org/t/realistic-female-head-in-blender-cc0-license/1636180",
+          "country": "",
+          "description": "\nNo Daz/CC4/Metahuman/Makehuman\nI need a Blender artist to create a realistic female head with the following requirements.\n\nAllowed base:\nCan start from CC0 assets like Human Base Meshes Blender v1.4.1. Can use CC0 skin textures if available. Can use CC0 eyes if available.\nJaw with gums and teeth",
+          "score": 4
+        },
+        {
           "title": "[Paid] 20-30 second render",
           "url": "https://blenderartists.org/t/paid-20-30-second-render/1635759",
           "country": "",
@@ -329,13 +330,6 @@
           "url": "https://blenderartists.org/t/msfs-2024-blender-animators-modelers-and-xml-sdk-coders-paid/1635508",
           "country": "",
           "description": "Hi All\nWe are looking to hire additional devs and artists/animators for the team!\nMust have familiarity with and the ability to work on Aircraft within the MSFS 2024 SDK.\nKnowledge of Aircraft/Aviation/Mechanical Engineering is a plus! Massive plus if you love helicopters\nWe need more Blender",
-          "score": 2
-        },
-        {
-          "title": "Hiring: Advanced geometry node artist",
-          "url": "https://blenderartists.org/t/hiring-advanced-geometry-node-artist/1635278",
-          "country": "",
-          "description": "Looking for a experienced Geometry node artist to add features and modifications to existing node system.\nTasks Include- Integrating procedural scatter system with additional features, modifying existing ivy growth system.\nRequirements: Must have extensive experience with geometry & simulation",
           "score": 2
         }
       ]
@@ -453,7 +447,7 @@
           "title": "2D Animator Ref 24 565",
           "url": "https://www.imagecampus.edu.ar/busqueda/2d-animator-ref-24-565",
           "country": "Argentina",
-          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team.  If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
+          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team. If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
           "score": 4
         },
         {
@@ -537,7 +531,7 @@
           "title": "Artista 2D Stylized Toon Ref 22 547",
           "url": "https://www.imagecampus.edu.ar/busqueda/artista-2d-stylized-toon-ref-22-547",
           "country": "Argentina",
-          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons.\r\nBWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
+          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons. BWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
           "score": 2
         },
         {
