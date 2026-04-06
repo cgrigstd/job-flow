@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-05 01:28",
-  "total_jobs": 74,
+  "updated": "2026-04-06 01:28",
+  "total_jobs": 73,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -220,8 +220,15 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 5,
+      "job_count": 6,
       "jobs": [
+        {
+          "title": "Seismic Squirrel is hiring Senior Videogame Producer (Remote) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/seismic-squirrel-senior-videogame-producer-remote-remote-job",
+          "country": "",
+          "description": "Senior Videogame Producer (Remote)\nSeismic Squirrel LLC\n \nJob Title: Senior Videogame Producer\nThe Role: Administer and coordinate game production under the Creative Director's direction.\nThe Games: Narrative-driven RPG videogames set in an alternate-history 1930s New York City.\nExperience:",
+          "score": 6
+        },
         {
           "title": "Midow Studios is hiring 3D Game Artist (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/midow-studios-3d-game-artist-remote-job",
@@ -288,15 +295,8 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 5,
+      "job_count": 3,
       "jobs": [
-        {
-          "title": "Shape keys and weight painting for scalable mannequins",
-          "url": "https://blenderartists.org/t/shape-keys-and-weight-painting-for-scalable-mannequins/1635761",
-          "country": "",
-          "description": "Project Overview\nI am building a web-based 3D armor fit checking tool for cosplayers and prop makers. Users input their body measurements and a 3D mannequin scales to represent their body. They then position their own armor models around the mannequin to assess fit before committing to fabrication",
-          "score": 8
-        },
         {
           "title": "150 euros to modify/improve one add-on",
           "url": "https://blenderartists.org/t/150-euros-to-modify-improve-one-add-on/1636371",
@@ -317,13 +317,6 @@
           "country": "",
           "description": "I’m looking for an animator willing to work on My Little Pony and Equestria Girls animations for $130-$140 per minute.\nNow, PLEASE read this ad through carefully. Do NOT just blindly apply without reading.\nI am willing to pay $130-$140 per minute for each scene, for scenes between around 1 to 5",
           "score": 4
-        },
-        {
-          "title": "[Paid] 20-30 second render",
-          "url": "https://blenderartists.org/t/paid-20-30-second-render/1635759",
-          "country": "",
-          "description": "Hi!\nI have a stupid little render I want made. I’m willing to spend 50-75 bucks and will pay through PayPal. Here’s the details\nThis is the scene:\n\n\n\nForest (Free Download) Finished Projects\n\n\n    [image] \n                     https://i.ibb.co.com/HBtfrD7/Render-1.png(image larger than 5",
-          "score": 2
         }
       ]
     },
