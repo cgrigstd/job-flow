@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-06 01:28",
-  "total_jobs": 73,
+  "updated": "2026-04-07 01:26",
+  "total_jobs": 76,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,8 +151,15 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 9,
+      "job_count": 13,
       "jobs": [
+        {
+          "title": "Dancing Deer is hiring a 3D Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/dancing-deer-3d-artist",
+          "country": "",
+          "description": "I'm looking for a 3D Art Generalist to help create a prototype for a new indie title a game about quests, exploration, and vending-machine fishing. Tags: [Art & Animation] [Part",
+          "score": 8
+        },
         {
           "title": "Riyo Games is hiring a Senior VFX Artist to work from Canada",
           "url": "https://www.workwithindies.com/careers/riyo-games-senior-vfx-artist",
@@ -161,11 +168,39 @@
           "score": 7
         },
         {
-          "title": "Uni Dreams is hiring a Unity Asset Importer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/uni-dreams-unity-asset-importer",
+          "title": "XP Sponge is hiring a Art Consultant (Pixel Art) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/xp-sponge-art-consultant-pixel-art",
           "country": "",
-          "description": "We are seeking a motivated Asset Importer to join our team, focusing primarily on taking assets from our 2D and 3D art departments and importing them into Unity. Tags: [Art & Animation]",
-          "score": 6
+          "description": "We’re looking for an experienced pixel artist / art director to help refine and unify the visual direction of an indie retro JRPG currently in development. Tags: [Art & Animation]",
+          "score": 2
+        },
+        {
+          "title": "AREA 35 is hiring a Platform Programmer (PlayStation) to work from Tokyo, JP",
+          "url": "https://www.workwithindies.com/careers/area-35-platform-programmer-playstation",
+          "country": "",
+          "description": "We are seeking an experienced gameplay-focused programmer with PlayStation development experience to support our ongoing productions. Tags: [Programming] [Full",
+          "score": 2
+        },
+        {
+          "title": "AREA 35 is hiring a Platform Programmer (Switch) to work from Tokyo, JP",
+          "url": "https://www.workwithindies.com/careers/area-35-platform-programmer-switch",
+          "country": "",
+          "description": "We are seeking an experienced gameplay-focused programmer with Nintendo Switch development experience to support our ongoing productions. Tags: [Programming] [Full",
+          "score": 2
+        },
+        {
+          "title": "Curiomatic is hiring a Level / Game Designer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/curiomatic-level-game-designer",
+          "country": "",
+          "description": "Curiomatic is looking for an experienced Game and Level designer to work on our upcoming high-speed action platformer: Rollin' Rascal. Tags: [Design] [Part",
+          "score": 2
+        },
+        {
+          "title": "Curiomatic is hiring a Unity Lighting Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/curiomatic-unity-lighting-artist",
+          "country": "",
+          "description": "Curiomatic is looking for an experienced Unity Lighting to work on Rollin' Rascal, where they will be tasked with lighting the levels as well as the cinematics. Tags: [Art & Animation] [Part",
+          "score": 2
         },
         {
           "title": "Memory Ware is hiring a Narrative Designer to work from Anywhere",
@@ -207,13 +242,6 @@
           "url": "https://www.workwithindies.com/careers/zovian-games-community-manager",
           "country": "",
           "description": "Zovian is looking for a part-time Community Manager on a contract basis to help build our online presence and player community from the ground up. Tags: [Marketing & Community] [Part",
-          "score": 2
-        },
-        {
-          "title": "Petrifying Well is hiring a Campaign Manager to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/petrifying-well-campaign-manager",
-          "country": "",
-          "description": "The Campaign Manager will be joining Campaign Cooperative’s small but growing team to deliver impactful, data-driven marketing campaigns for indie game developers and publishers.  Tags: [Marketing & Community] [Full",
           "score": 2
         }
       ]
@@ -295,20 +323,13 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 3,
+      "job_count": 2,
       "jobs": [
         {
           "title": "150 euros to modify/improve one add-on",
           "url": "https://blenderartists.org/t/150-euros-to-modify-improve-one-add-on/1636371",
           "country": "",
           "description": "A model of the anatomy of the cat is currently developed in the continuity of the libre 3D atlas of human anatomy (‘Z-Anatomy’).\nThe long addon that works beautifully has been split into a series of short ones and can be found here:\n\n\nGitHub\n\n\n\nGitHub - Z-Anatomy/Blender-addons: Each main function",
-          "score": 6
-        },
-        {
-          "title": "Model a Hoodie (SOLVED)",
-          "url": "https://blenderartists.org/t/model-a-hoodie-solved/1635852",
-          "country": "",
-          "description": "Good afternoon! Looking for someone who could create me a 3D hoodie around 10,000 polygons. Something similar to the below screenshots.\nMostly smooth with a couple ruffles /folds on the arm areas.\nFake pocks (Doesn’t need to work, just the appearance of pockets) and the below blendshapes\n4 Blend",
           "score": 6
         },
         {
