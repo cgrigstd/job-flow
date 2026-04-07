@@ -22,7 +22,8 @@ KEYWORDS = [
     "rigger", "rigging",
     "3d modeler", "modeling", "fusion 360", "solidworks",
     "generalist", "generalista",
-    "technical artist", "game", "animation"
+    "technical artist", "game", "animation",
+    "vr", "ar', "dev", "project manager"
 ]
 
 location = "argentina"
