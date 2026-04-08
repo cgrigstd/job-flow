@@ -23,7 +23,7 @@ KEYWORDS = [
     "3d modeler", "modeling", "fusion 360", "solidworks",
     "generalist", "generalista",
     "technical artist", "game", "animation",
-    "vr", "ar', "dev", "project manager"
+    "vr", "ar", "dev", "project manager"
 ]
 
 location = "argentina"
