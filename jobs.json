@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-08 03:43",
-  "total_jobs": 95,
+  "updated": "2026-04-09 01:18",
+  "total_jobs": 92,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -20,6 +20,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The VFX Producer at Eyeline Seoul leads the end-to-end delivery of visual effects projects, serving ... more",
           "score": 6
+        },
+        {
+          "title": "Junior CG Generalist Artist - Lucasfilm Entertainment",
+          "url": "https://www.entertainmentcareers.net/lucasfilm-entertainment/junior-cg-generalist-artist/job/517655/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nJunior Generalists learn how to use a variety of software packages to create photo-real environments ... more",
+          "score": 4
         },
         {
           "title": "Feature Lighter - DreamWorks Animation",
@@ -43,11 +50,18 @@
           "score": 4
         },
         {
-          "title": "VFX Employee Life Cycle Manager - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-employee-life-cycle-manager/job/505829/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Animator - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/animator/job/517527/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Crew Manager plays a pivotal role in managing the end to end of the employee lifecycle and fostering ... more",
-          "score": 4
+          "description": "pls RT ECNIDRSS @entcareersnet  Position Summary\n\nThe Junior Animator is responsible for contributing to the creation ... more",
+          "score": 2
+        },
+        {
+          "title": "Lead Video Editor and Creative Director - Mel Robbins",
+          "url": "https://www.entertainmentcareers.net/mel-robbins/lead-video-editor-and-creative-director/job/517556/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Overview\n\nThe Lead of Video owns the creative vision and technical execution of ... more",
+          "score": 2
         },
         {
           "title": "Crew Manager - Eyeline",
@@ -132,26 +146,12 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Real Time Graphics Artist, News\n\nCompany Description\n\nJob Description\n\nRole ... more",
           "score": 2
-        },
-        {
-          "title": "Lead Lighting Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/lead-lighting-artist/job/516967/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Lead Lighter collaborates with the show-side supervision team to help maintain and schedule tasks ... more",
-          "score": 2
-        },
-        {
-          "title": "Environment Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/environment-artist/job/497501/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\n1285 W Pender St\nVancouver, BC V6E 4B1\n\nLanguage in work environment - English\n\nThe ... more",
-          "score": 2
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 16,
+      "job_count": 14,
       "jobs": [
         {
           "title": "Dancing Deer is hiring a 3D Artist to work from Anywhere",
@@ -224,18 +224,18 @@
           "score": 4
         },
         {
-          "title": "Memory Ware is hiring a Narrative Designer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/memory-ware-narrative-designer",
+          "title": "Wooster Games is hiring a Creative Director to work from NA & EU",
+          "url": "https://www.workwithindies.com/careers/wooster-games-creative-director",
           "country": "",
-          "description": "We’re looking for a Narrative Designer to help shape the narrative foundation of our turn-based JRPG and take ownership of how story, worldbuilding, and narrative systems come together across the game. Tags: [Writing] [Full",
-          "score": 4
+          "description": "As we expand Animal Company and build brand‑new titles on new platforms, we’re looking for a Creative Director who loves moving fast with a small, passionate team. Tags: [Design] [Full",
+          "score": 2
         },
         {
-          "title": "Afterburner Studios is hiring a UI Artist to work from UTC +2 to UTC -8",
-          "url": "https://www.workwithindies.com/careers/afterburner-studios-ui-artist",
+          "title": "Monster Theater is hiring a Community Growth Manager to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/monster-theater-community-growth-manager",
           "country": "",
-          "description": "We’re looking for a skilled UI Artist that is particularly versed in motion design and Unreal Engine to help us finalize the UI on our latest project. Tags: [Art & Animation]",
-          "score": 4
+          "description": "We’re looking for a Community Growth Manager who can help us build genuine connections between our players and bring tried and true ideas to the table.  Tags: [Marketing & Community] [Part",
+          "score": 2
         },
         {
           "title": "AREA 35 is hiring a UI/UX Designer to work from Tokyo, JP",
@@ -250,34 +250,13 @@
           "country": "",
           "description": "Curiomatic is looking for a Community & Marketing Director to lead our global growth, bridge the gap between innovation and players, and turn our titles into household names. Tags: [Marketing & Community] [Full",
           "score": 2
-        },
-        {
-          "title": "Fangamer is hiring a Physical Publishing Manager to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/fangamer-physical-publishing-manager",
-          "country": "",
-          "description": "Fangamer is a seeking talented and motivated individual to manage its growing physical video game publishing pipeline.  Tags: [Business & Operations] [Full",
-          "score": 2
-        },
-        {
-          "title": "WaltWW is hiring a Game Programmer (Unity) to work from United States",
-          "url": "https://www.workwithindies.com/careers/waltww-game-programmer-unity",
-          "country": "",
-          "description": "Hello, my name is Walt and I am looking to take on a full time Unity programmer to help me finish my indie game Alterspective. Tags: [Programming]",
-          "score": 2
         }
       ]
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
-        {
-          "title": "WordPress Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-wordpress-developer-data-group-1130946",
-          "country": "",
-          "description": "About This RoleData Group Inc. is hiring a WordPress Developer for part-time remote client work across corporate, marketing, and conversion-focused web properties. This role is best suited to someone who can independently ship custom WordPress functionality, improve performance and security, and",
-          "score": 7
-        },
         {
           "title": "Senior UX UI designer",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-ux-ui-designer-gomining-1130992",
@@ -344,14 +323,14 @@
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 3,
+      "job_count": 2,
       "jobs": [
         {
-          "title": "[HIRING] 3D Character Animator (Senior/Lead)",
-          "url": "https://polycount.com/discussion/238447/hiring-3d-character-animator-senior-lead",
+          "title": "[Hiring] 3D Graphic Designer (Remote)",
+          "url": "https://polycount.com/discussion/238469/hiring-3d-graphic-designer-remote",
           "country": "",
-          "description": "3D Character Animator (Senior/Lead)As a 3D Character Animator at Vertexbee, you will spearhead the creation of high-fidelity, realistic character performances for an Unreal Engine 5 project.You’ll be part of a newly formed agile team of industry veterans that will push the boundaries of Unreal",
-          "score": 14
+          "description": "Hey everyone! Nfinite is looking for freelance 3D designers to support ongoing production projectsYou will work on creating and refining 3D scenes (interiors, exteriors, environments for products) - all work is based on client briefs and follows established production workflows and quality",
+          "score": 7
         },
         {
           "title": "[HIRING] Experienced VFX Artist",
@@ -359,19 +338,12 @@
           "country": "",
           "description": "We are looking to hire a VFX artist who knows their way around Niagara and can create game-ready effects for a fast-paced multiplayer title.\r\nWhat we're after:\r\n\r\nCharacter auras, trails, and cosmetic VFXAbility effects, impacts, hit feedbackClean, readable effects that look sick from a distance",
           "score": 6
-        },
-        {
-          "title": "[HIRING] CC5 HD Character Artist — Digital Human / ZBrush / UE5 — Fixed Price — US Only",
-          "url": "https://polycount.com/discussion/238445/hiring-cc5-hd-character-artist-digital-human-zbrush-ue5-fixed-price-us-only",
-          "country": "",
-          "description": "Looking to hire an experienced 3D character artist for a fixed-price commission. US-based only.\nThe deliverable is a production-quality Character Creator 5 (CC5) character built on the HD facial profile — 262 blendshapes intact through UE5 export via Auto Setup 2.01. The character is a",
-          "score": 6
         }
       ]
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Technical Artist / Character Rigger for Modular Browser MMORPG (Blender + GLB + Three.js)",
@@ -386,6 +358,13 @@
           "country": "",
           "description": "A model of the anatomy of the cat is currently developed in the continuity of the libre 3D atlas of human anatomy (‘Z-Anatomy’).\nThe long addon that works beautifully has been split into a series of short ones and can be found here:\n\n\nGitHub\n\n\n\nGitHub - Z-Anatomy/Blender-addons: Each main function",
           "score": 10
+        },
+        {
+          "title": "Make building blockouts pretty- model details, paid, no rush",
+          "url": "https://blenderartists.org/t/make-building-blockouts-pretty-model-details-paid-no-rush/1636941",
+          "country": "",
+          "description": "I have 3 building blockouts in a scene that are just cubes right now. I would like to hire someone to add modelled detail (no texturing). It’s for a game, so mid poly, nothing crazy. I’m very flexible in design, if you think it looks cool, I’m probably going to agree. Style would be, roughly, older",
+          "score": 9
         },
         {
           "title": "Need a professional indie animator willing to work on MLP Animations for $130-$140 per minute!",
