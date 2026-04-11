@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-10 01:28",
-  "total_jobs": 54,
+  "updated": "2026-04-11 01:22",
+  "total_jobs": 95,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -27,6 +27,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The VFX Producer at Eyeline Seoul leads the end-to-end delivery of visual effects projects, serving ... more",
           "score": 6
+        },
+        {
+          "title": "Senior Stage Processing Software Engineer - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/senior-stage-processing-software-engineer/job/517840/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  The Senior Stage Processing Software Engineer is responsible for architecting, developing, and maintaining ... more",
+          "score": 5
         },
         {
           "title": "Junior CG Generalist Artist - Lucasfilm Entertainment",
@@ -55,6 +62,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  As an FX artist, your role is to create high-caliber dynamic and riveting visual 3D FX. This role requires ... more",
           "score": 4
+        },
+        {
+          "title": "Junior Crowd Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-crowd-technical-director/job/517775/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Position Summary\n\nThe Junior Crowd TD is responsible for supporting the creative ... more",
+          "score": 2
         },
         {
           "title": "Animator - Industrial Light & Magic",
@@ -131,20 +145,6 @@
           "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lead-motion-editor/job/517071/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary:\n\nThe Lead Motion Editor will collaborate with the Motion ... more",
-          "score": 2
-        },
-        {
-          "title": "Motion Editor - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/motion-editor/job/517072/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Motion Editor (All Levels) -  ILM London\n\nJob Summary:\n\nPosition ... more",
-          "score": 2
-        },
-        {
-          "title": "Digital Human Artist - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/digital-human-artist/job/517073/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Immersive (Model and Texture) -  ILM London\n\nJob Summary:\n\nPosition ... more",
           "score": 2
         }
       ]
@@ -286,11 +286,11 @@
       "job_count": 3,
       "jobs": [
         {
-          "title": "Senior UX UI designer",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-ux-ui-designer-gomining-1130992",
+          "title": "Senior Security Infrastructure Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-security-infrastructure-engineer-sezzle-1131054",
           "country": "",
-          "description": "We are looking for a Senior UX/UI Designer who can independently own product design across web and mobile — from discovery and UX logic to visual execution and launch support.Role OverviewAs a Senior UX/UI Designer, you will design end-to-end product experiences and be responsible not only for",
-          "score": 6
+          "description": "The salary range for this role is $5,000 - $9,500 per month (Gross in USD)About Sezzle:With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make",
+          "score": 7
         },
         {
           "title": "Staff Engineer Digital Lending",
@@ -313,13 +313,6 @@
       "job_count": 4,
       "jobs": [
         {
-          "title": "Midow Studios is hiring 3D Game Artist (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/midow-studios-3d-game-artist-remote-job",
-          "country": "",
-          "description": "About the Job:\nWe’re on the hunt for a talented Mid-Level 3D Artist who lives and breathes stylized art and hand-painted textures. At Midow Studios, you won’t just be another cog in the wheel, you’ll be a driving force behind the visual identity of our ambitious, magic-themed, free-to-play VR",
-          "score": 10
-        },
-        {
           "title": "Micro1 is hiring Cross-Platform Game Developer (MonoGame) (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/micro1-cross-platform-game-developer-monogame-remote-job-c32579f9-9a1f-47e7-b754-aba4cba2f6de",
           "country": "",
@@ -339,12 +332,19 @@
           "country": "",
           "description": "Senior Videogame Designer (Remote)\nSeismic Squirrel",
           "score": 4
+        },
+        {
+          "title": "Unknown Worlds is hiring Lead Core Tech Engineer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/unknown-worlds-lead-core-tech-engineer-remote-job",
+          "country": "",
+          "description": "THE OPPORTUNITY\nUnknown Worlds is seeking a Lead Core Tech Engineer to lead the development of core engine systems, features, and tools for Subnautica",
+          "score": 3
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 3,
+      "job_count": 2,
       "jobs": [
         {
           "title": "[Hiring] 3D Graphic Designer (Remote)",
@@ -352,13 +352,6 @@
           "country": "",
           "description": "Hey everyone! Nfinite is looking for freelance 3D designers to support ongoing production projectsYou will work on creating and refining 3D scenes (interiors, exteriors, environments for products) - all work is based on client briefs and follows established production workflows and quality",
           "score": 7
-        },
-        {
-          "title": "[HIRING] Experienced VFX Artist",
-          "url": "https://polycount.com/discussion/238454/hiring-experienced-vfx-artist",
-          "country": "",
-          "description": "We are looking to hire a VFX artist who knows their way around Niagara and can create game-ready effects for a fast-paced multiplayer title.\r\nWhat we're after:\r\n\r\nCharacter auras, trails, and cosmetic VFXAbility effects, impacts, hit feedbackClean, readable effects that look sick from a distance",
-          "score": 6
         },
         {
           "title": "Looking for a 3D sculptor who can finalize existing 3D models ready for print",
@@ -371,7 +364,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 6,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Technical Artist / Character Rigger for Modular Browser MMORPG (Blender + GLB + Three.js)",
@@ -379,13 +372,6 @@
           "country": "",
           "description": "Hi all,\nI’m developing a browser-based 3D MMORPG called Titans of Time using a custom engine built on Three.js. You can find it easily by searching online.\nI’m looking for an experienced technical artist / character rigger / modeler to help design and implement a scalable character system for",
           "score": 18
-        },
-        {
-          "title": "150 euros to modify/improve one add-on",
-          "url": "https://blenderartists.org/t/150-euros-to-modify-improve-one-add-on/1636371",
-          "country": "",
-          "description": "A model of the anatomy of the cat is currently developed in the continuity of the libre 3D atlas of human anatomy (‘Z-Anatomy’).\nThe long addon that works beautifully has been split into a series of short ones and can be found here:\n\n\nGitHub\n\n\n\nGitHub - Z-Anatomy/Blender-addons: Each main function",
-          "score": 10
         },
         {
           "title": "Make building blockouts pretty- model details, paid, no rush",
@@ -402,18 +388,325 @@
           "score": 6
         },
         {
-          "title": "Need a professional indie animator willing to work on MLP Animations for $130-$140 per minute!",
-          "url": "https://blenderartists.org/t/need-a-professional-indie-animator-willing-to-work-on-mlp-animations-for-130-140-per-minute/1636335",
-          "country": "",
-          "description": "I’m looking for an animator willing to work on My Little Pony and Equestria Girls animations for $130-$140 per minute.\nNow, PLEASE read this ad through carefully. Do NOT just blindly apply without reading.\nI am willing to pay $130-$140 per minute for each scene, for scenes between around 1 to 5",
-          "score": 6
-        },
-        {
           "title": "[PAID] Photorealistic Blender Rendering — 3 Commercial Vehicle Body Models",
           "url": "https://blenderartists.org/t/paid-photorealistic-blender-rendering-3-commercial-vehicle-body-models/1637002",
           "country": "",
           "description": "Hi!\nHi,\nI run a vehicle body manufacturing company and I need a photorealistic Blender scene for our products.\nWhat I send:\n\n3 models in STEP format\nReference photos of real materials\n\nWhat you create:\n\nNeutral studio environment with professional lighting (Cycles)\n5 painted steel colours (RAL",
           "score": 4
+        }
+      ]
+    },
+    {
+      "name": "ImageCampus",
+      "job_count": 44,
+      "jobs": [
+        {
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "country": "Argentina",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 14
+        },
+        {
+          "title": "Generalista 3D Ref 22 491",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
+          "country": "Argentina",
+          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
+          "score": 12
+        },
+        {
+          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
+          "country": "Argentina",
+          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
+          "score": 10
+        },
+        {
+          "title": "Generalista 3D Ref 22 503",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
+          "country": "Argentina",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
+          "score": 10
+        },
+        {
+          "title": "Tech Artist Collider Ref 24 566",
+          "url": "https://www.imagecampus.edu.ar/busqueda/tech-artist-collider-ref-24-566",
+          "country": "Argentina",
+          "description": "En Collider Studios, estamos buscando Tech Artists Generalistas. Su rol principal será trabajar junto a nuestro Art Team para crear personajes siguiendo nuestro pipeline y estándares de producción AAA. Collider Craftworks Studios Somos un estudio de Game Development especializado en producción y",
+          "score": 10
+        },
+        {
+          "title": "Vfx Artist Ref 23 553",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
+          "country": "Argentina",
+          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
+          "score": 8
+        },
+        {
+          "title": "Disenador De Animacion 3D Ref 24 579",
+          "url": "https://www.imagecampus.edu.ar/busqueda/disenador-de-animacion-3d-ref-24-579",
+          "country": "Argentina",
+          "description": "We are One Eleven Entertainment, a boutique entertainment production company coming from Virginia, USA with a new office in Buenos Aires. We're developing a comedic, new animation series and are looking for an innovative animator. --- Somos One Eleven Entertainment, una productora de",
+          "score": 8
+        },
+        {
+          "title": "Animador 3D Generalista Ref 24 573",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
+          "country": "Argentina",
+          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
+          "score": 8
+        },
+        {
+          "title": "3D Generalist Diseno 3D Metaverso Ref 23 559",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-diseno-3d-metaverso-ref-23-559",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil creativo de diseño en las áreas de concept art, planificación lógica y estratégica, game design y arquitectura de juegos. Responsabilidades: •",
+          "score": 8
+        },
+        {
+          "title": "Practicantes Generalistas Modeladores 3D Y Texturizadores Ref 22 545",
+          "url": "https://www.imagecampus.edu.ar/busqueda/practicantes-generalistas-modeladores-3d-y-texturizadores-ref-22-545",
+          "country": "Argentina",
+          "description": "Nos encontramos en la búsqueda de una persona con talento en softwares 3D. Que, a partir de la referencia de un objeto, con varias vistas, pueda reconstruir el mismo tridimensionalmente con la topología adecuada sobre la necesidad del supervisor 3D. Responsabilidades: Capacidad de adaptarse a",
+          "score": 8
+        },
+        {
+          "title": "Animador De Particulas 2D Freelance O Medio Tiempo Ref 24 567",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-de-particulas-2d-freelance-o-medio-tiempo-ref-24-567",
+          "country": "Argentina",
+          "description": "Animador VFX para sistema de partículas 2D para la plataforma Overplay. Responsabilidades: Diseñar y animar en base a los requerimientos de game design para animar los feedback de los juegos de la plataforma. Requerimientos excluyentes: Haber trabajado en algún sistema de partículas programáticas",
+          "score": 8
+        },
+        {
+          "title": "2D Animator Ref 24 565",
+          "url": "https://www.imagecampus.edu.ar/busqueda/2d-animator-ref-24-565",
+          "country": "Argentina",
+          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team. If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
+          "score": 8
+        },
+        {
+          "title": "Compositor De Nuke Jr Mid Sr Ref 23 562",
+          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-de-nuke-jr-mid-sr-ref-23-562",
+          "country": "Argentina",
+          "description": "Nebraska Vfx busca compositores con conocimientos en nuke para diversos proyectos de publicidad y cine. Responsabilidades: - Requerimientos excluyentes: - Manejo de herramientas de composición nodal (Nuke). - Conocimiento de herramientas de trackeo y rotoscopía-Manejo de herramientas de composición",
+          "score": 7
+        },
+        {
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
+          "score": 6
+        },
+        {
+          "title": "Freelance 3D Artists Ref 25 586",
+          "url": "https://www.imagecampus.edu.ar/busqueda/freelance-3d-artists-ref-25-586",
+          "country": "Argentina",
+          "description": "SmartPixel is a Quebec-based SME with close to 30 employees, specializing in the development of interactive digital experiences to help companies communicate more effectively and showcase their products and offerings in a fun and innovative way. SmartPixel’s niche market is new residential real",
+          "score": 6
+        },
+        {
+          "title": "3D Generalist Sr Responsable De Coordinacion De Equipo Ref 23 561",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-sr-responsable-de-coordinacion-de-equipo-ref-23-561",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil de lider de equipos, proactiva y organizada; para coordinar diferentes equipos de trabajo en las áreas de modelado 3D y texturizado de assets e",
+          "score": 6
+        },
+        {
+          "title": "3D Generalist Ref 23 560",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-ref-23-560",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con muy buen manejo de herramientas de modelado 3D, principalmente en el área de arquitectura y entornos digitales. Responsabilidades: • Modelado de objetos,",
+          "score": 6
+        },
+        {
+          "title": "Animador 3D Ref 23 552",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-ref-23-552",
+          "country": "Argentina",
+          "description": "En WAYPOINT.LA estamos en búsqueda de un animador 3D, capaz de animar personajes humanoides, robots y maquinaria pesada. Se requiere conocimiento y experiencia en Autodesk Maya. Responsabilidades: Animar personajes humanoides, robots y maquinaria pesada. ¿Qué Ofrecemos? Trabajo full time [Lunes a",
+          "score": 6
+        },
+        {
+          "title": "Desarrolladores Generalistas Ref 24 571",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrolladores-generalistas-ref-24-571",
+          "country": "Argentina",
+          "description": "Estamos en búsqueda de un talentoso equipo de desarrolladores para unirse a un proyecto de vanguardia bajo la dirección de Louis Castle, el renombrado creador de Command and Conquer. Buscamos conformar un pequeño grupo de 5 a 7 profesionales apasionados por el desarrollo de juegos en Unreal Engine",
+          "score": 6
+        },
+        {
+          "title": "Area Setup Technical Artist Ref 24 575",
+          "url": "https://www.imagecampus.edu.ar/busqueda/area-setup-technical-artist-ref-24-575",
+          "country": "Argentina",
+          "description": "En Búho estamos buscando artistas apasionados para unirse a nuestro equipo multidisciplinario en la creación de videojuegos. Con casi 10 años de trayectoria, y desde 2021 colaborando con Tactile Games Dinamarca en títulos como Lily’s Garden, Penny & Flo y otros, apostamos al trabajo en equipo,",
+          "score": 6
+        },
+        {
+          "title": "Developer Unity Jr Ref 20 411",
+          "url": "https://www.imagecampus.edu.ar/busqueda/developer-unity-jr-ref-20-411",
+          "country": "Argentina",
+          "description": "Estamos en busca de talentos para trabajar en un equipo profesional de desarrollo VR para Oculus Quest basado en Unity. Serán tenidos en cuenta el entusiasmo, la pasión por los videojuegos y las ganas de sumarse a un equipo profesional. Responsabilidades: Deberás cumplir con los objetivos de",
+          "score": 6
+        },
+        {
+          "title": "Senior Game Designer Ref 22 488",
+          "url": "https://www.imagecampus.edu.ar/busqueda/senior-game-designer-ref-22-488",
+          "country": "Argentina",
+          "description": "Estamos desarrollando un programa de intervención en salud mental utilizando la realidad virtual como principal herramienta y elementos de gamification. Necesitamos un desarrollador de videojuegos que tenga los conocimientos para construir un prototipo de los primeros niveles de intervención para",
+          "score": 5
+        },
+        {
+          "title": "Artista Vfx Ref 22 495",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
+          "country": "Argentina",
+          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes -  Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
+          "score": 4
+        },
+        {
+          "title": "Animador 3D Ref 25 584",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-ref-25-584",
+          "country": "Argentina",
+          "description": "Animadores 3d , Solo en 3ds Max. Responsabilidades: Animacion 3d Requerimientos excluyentes: Manejo avanzado del software Requerimientos no excluyentes: Edad: 18-60 Lugar de trabajo: Remoto / Argentina Modalidad: Freelance Vacantes: 3 Postulate Aquí Si no tenés tu CV cargado en la nube lo podés",
+          "score": 4
+        },
+        {
+          "title": "Modelador 3D Junior Ref 24 581",
+          "url": "https://www.imagecampus.edu.ar/busqueda/modelador-3d-junior-ref-24-581",
+          "country": "Argentina",
+          "description": "Buscamos un Artista 3D para unirse a nuestro equipo y crear imágenes, películas y recorridos virtuales de acuerdo con las necesidades y requisitos del cliente, cumpliendo con los plazos establecidos. El candidato ideal tendrá una fuerte pasión por el diseño arquitectónico, una atención excepcional",
+          "score": 4
+        },
+        {
+          "title": "Low Poly 3D Artist Para Real Time Engine Ref 22 507",
+          "url": "https://www.imagecampus.edu.ar/busqueda/low-poly-3d-artist-para-real-time-engine-ref-22-507",
+          "country": "Argentina",
+          "description": "¿Te apasiona la visualización arquitectónica? Si eres alguien que quiere crecer como artista 3D y te apasiona la tecnología, entonces eres perfecto/a para el puesto. ¿Por qué unirse a nosotros? Trabajar con nosotros puede acelerar tu carrera y brindarte la oportunidad de trabajar con personas",
+          "score": 4
+        },
+        {
+          "title": "Artista 3D Arquitectonico Ref 22 505",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-3d-arquitectonico-ref-22-505",
+          "country": "Argentina",
+          "description": "Viupik es un estudio de 3D ubicado en España especializado en visualización arquitectónica y en el renderizado en tiempo real. Expertos en interactividad, vídeos y paseos virtuales inmersivos, trabajamos por implementar nuevas técnicas y tecnologías en el mercado arquitectónico y en la",
+          "score": 4
+        },
+        {
+          "title": "Ilustrador De Personaje En 3D Ref 22 500",
+          "url": "https://www.imagecampus.edu.ar/busqueda/ilustrador-de-personaje-en-3d-ref-22-500",
+          "country": "Argentina",
+          "description": "Buscamos un ilustrador para diseñar un personaje en 3D. Este personaje será parte de la identidad visual de una aplicación que promueve la separación de residuos residenciales. Responsabilidades: Crear y diseñar el personaje. Requerimientos excluyentes: Creatividad. Pasión por los detalles.",
+          "score": 4
+        },
+        {
+          "title": "Ilustrador 2D Ref 22 550",
+          "url": "https://www.imagecampus.edu.ar/busqueda/ilustrador-2d-ref-22-550",
+          "country": "Argentina",
+          "description": "Ilustración de assets, personajes y fondos para videojuegos. Responsabilidades: 01) Realizar las ilustraciones con el nivel de calidad requerido. 02) Comunicar avances y recibir feedbacks a través de las herramientas asincrónicas con las que trabaja nuestro estudio. 03) Entregar archivos finales en",
+          "score": 4
+        },
+        {
+          "title": "Artista 2D Stylized Toon Ref 22 547",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-2d-stylized-toon-ref-22-547",
+          "country": "Argentina",
+          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons. BWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
+          "score": 4
+        },
+        {
+          "title": "Animador 2D Editor De Video Ref 22 513",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
+          "country": "Argentina",
+          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
+          "score": 4
+        },
+        {
+          "title": "Technical Artist Remoto Ref 20 410",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-remoto-ref-20-410",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral y que está desarrollando varios de los proyectos más importantes de la región? Responsabilidades: Supervisar tecnicismos importantes para los programadores y artistas. Preparar las entregas y responder consultas de",
+          "score": 4
+        },
+        {
+          "title": "Videogame Producer Ref 20 403",
+          "url": "https://www.imagecampus.edu.ar/busqueda/videogame-producer-ref-20-403",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando productor de",
+          "score": 4
+        },
+        {
+          "title": "Game Programmer Ref 20 404",
+          "url": "https://www.imagecampus.edu.ar/busqueda/game-programmer-ref-20-404",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando programadores",
+          "score": 4
+        },
+        {
+          "title": "Artista Digital Junior Ref 24 576",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-digital-junior-ref-24-576",
+          "country": "Argentina",
+          "description": "Apoyo en la digitalización y preservación de obras de arte tradicionales: escaneo, moldeado y registro para su transformación en formatos digitales. Responsabilidades: Participar y Aprender de los proyectos de desarrollo de modelos 3D utilizando las diferentes herramientas disponibles como AutoDesk",
+          "score": 4
+        },
+        {
+          "title": "Post Production Artist Junior Ref 24 574",
+          "url": "https://www.imagecampus.edu.ar/busqueda/post-production-artist-junior-ref-24-574",
+          "country": "Argentina",
+          "description": "Realizar las características y cualidades de una imagen/video según los objetivos del cliente. Responsabilidades: Realizar el retoque digital y post producción de imágenes y videos. Mantener reuniones con la Project Manager para el relevamiento de las necesidades de los clientes. Trabajar en equipo",
+          "score": 4
+        },
+        {
+          "title": "Ilustrador Artista Digital Ref 23 564",
+          "url": "https://www.imagecampus.edu.ar/busqueda/ilustrador-artista-digital-ref-23-564",
+          "country": "Argentina",
+          "description": "Desarrollamos herramientas y recursos para juegos de rol de mesa en línea, como Dungeons & Dragons, a través de plataformas como Roll20 y Foundry VTT. Buscamos un artista digital para ayudar a crear, principalmente, arte ambiental en 2D desde una perspectiva aérea. Responsabilidades: Crearás arte",
+          "score": 4
+        },
+        {
+          "title": "Community Developer Ref 22 519",
+          "url": "https://www.imagecampus.edu.ar/busqueda/community-developer-ref-22-519",
+          "country": "Argentina",
+          "description": "En Tlön Industries buscamos Community Devs que nos ayuden a llevar Per Aspera, nuestro primer título publicado, a nuevos horizontes, como también para trabajar en los nuevos proyectos que estamos desarrollando. Responsabilidades: - Ser responsable de las redes sociales y la gestión de la comunidad",
+          "score": 4
+        },
+        {
+          "title": "474 Net Arquitecto Develop Team Leader Ref 21 438",
+          "url": "https://www.imagecampus.edu.ar/busqueda/474-net-arquitecto-develop-team-leader-ref-21-438",
+          "country": "Argentina",
+          "description": "Buscamos al mejor Arquitecto / Develop Team Leader en tecnología .NET para coordinar el Proyecto más importante de la compañía en un ambiente de innovación tecnológica orientado a resultado. Responsabilidades: El perfil requiere dinamismo, iniciativa, alto nivel de compromiso, liderar y coordinar",
+          "score": 4
+        },
+        {
+          "title": "Desarrollador Unity Ref 25 583",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-unity-ref-25-583",
+          "country": "Argentina",
+          "description": "Desarrollador freelance para Startup de arquitectura. Es un desarrollo puntual en principio para producto MVP, que puede orgánicamente ir avanzando en mayores funcionalidades hasta producto final. Responsabilidades: Desarrollar MVP a partir de los requisitos propuestos. Requerimientos excluyentes:",
+          "score": 2
+        },
+        {
+          "title": "Artista Tecnico Ux Ui Ref 24 569",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-tecnico-ux-ui-ref-24-569",
+          "country": "Argentina",
+          "description": "Estamos en búsqueda de un talentoso equipo de desarrolladores para unirse a un proyecto de vanguardia bajo la dirección de Louis Castle, el renombrado creador de Command and Conquer. Buscamos conformar un pequeño grupo de 5 a 7 profesionales apasionados por el desarrollo de juegos en Unreal Engine",
+          "score": 2
+        },
+        {
+          "title": "Cinematic Artist Ref 23 557",
+          "url": "https://www.imagecampus.edu.ar/busqueda/cinematic-artist-ref-23-557",
+          "country": "Argentina",
+          "description": "Hola, Buscamos a un cinematic artist para proyecto particular. En forma remota y freelance. Idealmente con conocimientos de cinemamachine. Responsabilidades: Crear secuencias de camaras para proyecto de action. Requerimientos excluyentes: Unity + Cinemamachine Requerimientos no excluyentes: Edad:",
+          "score": 2
+        },
+        {
+          "title": "Environment Artist Ref 23 554",
+          "url": "https://www.imagecampus.edu.ar/busqueda/environment-artist-ref-23-554",
+          "country": "Argentina",
+          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear ambientes realistas y de alta calidad en Unreal Engine 5, para producciones cinemáticas. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento crítico,",
+          "score": 2
+        },
+        {
+          "title": "Desarrollador Interactivo Ref 22 549",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-interactivo-ref-22-549",
+          "country": "Argentina",
+          "description": "Desarrollador/a de arte y diseño o programación interactiva, realidad aumentada, virtual, arte interactivo conceptual, programación e implementación de soluciones interactivas. Responsabilidades: Desarrollador y/o Programador. Requerimientos excluyentes: Diseñar juegos o plataformas interactivas",
+          "score": 2
         }
       ]
     }
