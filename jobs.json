@@ -1,6 +1,6 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-11 01:22",
+  "updated": "2026-04-12 01:45",
   "total_jobs": 95,
   "sites": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 18,
+      "job_count": 17,
       "jobs": [
         {
           "title": "Dancing Deer is hiring a 3D Artist to work from Anywhere",
@@ -238,13 +238,6 @@
           "score": 4
         },
         {
-          "title": "Divergent Realities is hiring a Intern Marketing Manager  to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/divergent-realities-intern-marketing-manager",
-          "country": "",
-          "description": "We’re looking to bring on a Marketing Manager to help grow the world of Cards & Tankards, the VR CCG. Tags: [Marketing & Community]",
-          "score": 4
-        },
-        {
           "title": "LingoLooper is hiring a Lead Content Strategist to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/lingo-looper-lead-content-strategist",
           "country": "",
@@ -283,7 +276,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Senior Security Infrastructure Engineer",
@@ -291,6 +284,13 @@
           "country": "",
           "description": "The salary range for this role is $5,000 - $9,500 per month (Gross in USD)About Sezzle:With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make",
           "score": 7
+        },
+        {
+          "title": "Senior Engineer Platform Devops",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-engineer-platform-devops-cloudwalk-1131081",
+          "country": "",
+          "description": "We are looking for a self-taught builder with strong communication skills, great people synergy, and the ability to thrive in highly dynamic environments. You do not need to be a programmer at heart, but you do need to be comfortable reading code, understanding how systems behave, and translating",
+          "score": 5
         },
         {
           "title": "Staff Engineer Digital Lending",
@@ -313,6 +313,13 @@
       "job_count": 4,
       "jobs": [
         {
+          "title": "Cozy Castle Corp is hiring Unity Generalist Programmer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/cozy-castle-corp-unity-generalist-programmer-remote-job",
+          "country": "",
+          "description": "Join an experienced game developer on a 2-3 person team building a cozy castle story game on mobile and Steam.\nThis is a brand new venture from an experienced game industry founder, hiring for employee #1.\nWork will include:\n- Using Unity to build a beautiful castle cross section game that lets you",
+          "score": 9
+        },
+        {
           "title": "Micro1 is hiring Cross-Platform Game Developer (MonoGame) (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/micro1-cross-platform-game-developer-monogame-remote-job-c32579f9-9a1f-47e7-b754-aba4cba2f6de",
           "country": "",
@@ -324,13 +331,6 @@
           "url": "https://remotegamejobs.com/jobs/seismic-squirrel-senior-videogame-producer-remote-remote-job",
           "country": "",
           "description": "Senior Videogame Producer (Remote)\nSeismic Squirrel",
-          "score": 4
-        },
-        {
-          "title": "Seismic Squirrel is hiring Senior Videogame Designer (Remote) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/seismic-squirrel-senior-videogame-designer-remote-remote-job",
-          "country": "",
-          "description": "Senior Videogame Designer (Remote)\nSeismic Squirrel",
           "score": 4
         },
         {
