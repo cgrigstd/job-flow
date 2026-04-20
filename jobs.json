@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-20 01:50",
-  "total_jobs": 84,
+  "updated": "2026-04-20 16:29",
+  "total_jobs": 90,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -106,10 +106,10 @@
           "score": 2
         },
         {
-          "title": "Vice President, Production Technology and Operations - Sony Pictures",
-          "url": "https://www.entertainmentcareers.net/sony-pictures/vice-president-production-technology-and-operations/job/511998/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "FX Supervisor - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/fx-supervisor/job/512184/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  About The Team\n\nSPE's Production & Studio Technology Services (PSTS) Team ... more",
+          "description": "pls RT ECNIDRSS @entcareersnet  The FX Supervisor oversees the work delivered by the FX team, working alongside Production and Heads ... more",
           "score": 2
         },
         {
@@ -120,10 +120,10 @@
           "score": 2
         },
         {
-          "title": "FX Supervisor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/fx-supervisor/job/512184/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Vice President, Production Technology and Operations - Sony Pictures",
+          "url": "https://www.entertainmentcareers.net/sony-pictures/vice-president-production-technology-and-operations/job/511998/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The FX Supervisor oversees the work delivered by the FX team, working alongside Production and Heads ... more",
+          "description": "pls RT ECNIDRSS @entcareersnet  About The Team\n\nSPE's Production & Studio Technology Services (PSTS) Team ... more",
           "score": 2
         },
         {
@@ -315,7 +315,7 @@
     },
     {
       "name": "ImageCampus",
-      "job_count": 44,
+      "job_count": 50,
       "jobs": [
         {
           "title": "3D Vfx Technical Artist Ref 24 572",
@@ -591,6 +591,13 @@
           "score": 4
         },
         {
+          "title": "Compositor Digital Jr Ref 22 502",
+          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-digital-jr-ref-22-502",
+          "country": "Argentina",
+          "description": "Estamos en busca de compositor/a digital con o sin experiencia en manejo de máscaras, trackeo y rotoscopía. Responsabilidades: Realización de máscaras para la composición digital de planos de efectos visuales. Requerimientos excluyentes: • Manejo de herramientas de composición nodal (Nuke).  •",
+          "score": 4
+        },
+        {
           "title": "Desarrollador Unity Ref 25 583",
           "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-unity-ref-25-583",
           "country": "Argentina",
@@ -623,6 +630,41 @@
           "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-interactivo-ref-22-549",
           "country": "Argentina",
           "description": "Desarrollador/a de arte y diseño o programación interactiva, realidad aumentada, virtual, arte interactivo conceptual, programación e implementación de soluciones interactivas. Responsabilidades: Desarrollador y/o Programador. Requerimientos excluyentes: Diseñar juegos o plataformas interactivas",
+          "score": 2
+        },
+        {
+          "title": "Editor Y Posproduccion De Videos Ref 23 558",
+          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
+          "country": "Argentina",
+          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
+          "score": 2
+        },
+        {
+          "title": "Editor Audiovisual Ref 22 510",
+          "url": "https://www.imagecampus.edu.ar/busqueda/editor-audiovisual-ref-22-510",
+          "country": "Argentina",
+          "description": "Buscamos un editor o editora audiovisual para ayudar a crear videos atractivos y compartibles sobre la base del contenido generado a través de las programas de Canal 9. El editor o la editora deberá ser alguien que piense que las noticias no tienen que ser aburridas y que aprecia las historias",
+          "score": 2
+        },
+        {
+          "title": "Retoque Digital Ref 22 504",
+          "url": "https://www.imagecampus.edu.ar/busqueda/retoque-digital-ref-22-504",
+          "country": "Argentina",
+          "description": "En Pes Motion Studio nos encontramos en la búsqueda de un Retocador digital de Imágenes, para trabajar en nuestro equipo de trabajo que se encuentra en CABA, zona Palermo. Horario: Lunes a Viernes de 10 a 19hs. Modalidad: Presencial. Responsabilidades: Retoque digital Requerimientos excluyentes: La",
+          "score": 2
+        },
+        {
+          "title": "Desarrollador C Unity Ref 22 499",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-c-unity-ref-22-499",
+          "country": "Argentina",
+          "description": "Programador para trabajo remoto. Responsabilidades: Desarrollar código de alta calidad y bien estructurado, respetando estándares del proyecto. Buscar proactivamente problemas en los procesos y en la arquitectura y proponer mejoras. Entregar resultados dentro de los plazos estipulados y con",
+          "score": 2
+        },
+        {
+          "title": "Desarrollador Unity Ref 22 494",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-unity-ref-22-494",
+          "country": "Argentina",
+          "description": "Integración al equipo de desarrollo de simuladores de DELTA3. Setup de escenas, test de desarrollos, lógicas de simulación. Se valora el dinamismo y proactividad, para el aprendizaje gradual de los módulos y metodologías ya integradas en los sistemas. Responsabilidades: Integración al proceso de",
           "score": 2
         }
       ]
