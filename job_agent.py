@@ -24,8 +24,8 @@ KEYWORDS = [
     "3d modeler", "modeling", "fusion 360", "solidworks",
     "generalist", "generalista",
     "technical artist", "game", "animation",
-    "vr", "ar", "dev", "project manager", "IT",
-    "Senior"
+    "vr", "ar", "dev", "project manager", "it",
+    "senior"
 ]
 
 location = "argentina"
@@ -79,6 +79,9 @@ def score_job(content):
     return score
 
 
+# -------------------------
+# IMAGE CAMPUS
+# -------------------------
 def get_imagecampus_jobs(keywords, seen_urls):
     jobs = []
     seen_local = set()
@@ -118,13 +121,12 @@ def get_imagecampus_jobs(keywords, seen_urls):
 
                 covered = is_job_covered(job_page.text)
 
-                # 🚫 saltar jobs cubiertos
                 if covered:
                     continue
-                
+
                 soup_job = BeautifulSoup(job_page.text, "html.parser")
                 raw_text = soup_job.get_text(" ", strip=True)
-                
+
                 description = clean_imagecampus_description(raw_text)
                 description = description[:300].rsplit(" ", 1)[0]
 
@@ -144,6 +146,63 @@ def get_imagecampus_jobs(keywords, seen_urls):
     return jobs
 
 
+# -------------------------
+# ARC DEV (NEW)
+# -------------------------
+def get_arcdev_jobs(seen_urls):
+    jobs = []
+
+    url = "https://arc.dev/en-ar/remote-jobs"
+
+    try:
+        response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+        soup = BeautifulSoup(response.text, "html.parser")
+    except:
+        return jobs
+
+    for link in soup.select("a"):
+        href = link.get("href")
+
+        if not href or "/remote-jobs/" not in href:
+            continue
+
+        if not href.startswith("http"):
+            href = "https://arc.dev" + href
+
+        if href in seen_urls:
+            continue
+
+        seen_urls.add(href)
+
+        title = link.get_text(strip=True)
+
+        if not title or len(title) < 5:
+            continue
+
+        content = title.lower()
+
+        if not any(k in content for k in KEYWORDS):
+            continue
+
+        if "unpaid" in content or "volunteer" in content:
+            continue
+
+        job = {
+            "title": title,
+            "url": href,
+            "country": "Remote",
+            "description": "",
+            "score": score_job(content)
+        }
+
+        jobs.append(job)
+
+    return jobs
+
+
+# -------------------------
+# MAIN
+# -------------------------
 def search_jobs():
     now = datetime.now()
     cutoff = now - timedelta(days=limit_days)
@@ -153,6 +212,10 @@ def search_jobs():
     seen_urls = set()
 
     for site, url in feeds.items():
+
+        # 🔴 Saltamos ArcDev del feed (lo manejamos aparte)
+        if site == "ArcDev":
+            continue
 
         try:
             data = parse_feed(url)
@@ -251,7 +314,7 @@ def search_jobs():
             })
             total_jobs += len(site_jobs)
 
-    # ✅ ImageCampus restored
+    # ✅ ImageCampus
     imagecampus_jobs = get_imagecampus_jobs(KEYWORDS, seen_urls)
 
     if imagecampus_jobs:
@@ -264,6 +327,20 @@ def search_jobs():
             "jobs": imagecampus_jobs
         })
         total_jobs += len(imagecampus_jobs)
+
+    # ✅ ArcDev
+    arcdev_jobs = get_arcdev_jobs(seen_urls)
+
+    if arcdev_jobs:
+        arcdev_jobs = sorted(arcdev_jobs, key=lambda x: x["score"], reverse=True)
+        arcdev_jobs = arcdev_jobs[:50]
+
+        sites.append({
+            "name": "ArcDev",
+            "job_count": len(arcdev_jobs),
+            "jobs": arcdev_jobs
+        })
+        total_jobs += len(arcdev_jobs)
 
     return {
         "title": "JobFlow",
