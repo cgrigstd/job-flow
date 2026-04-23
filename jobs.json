@@ -1,12 +1,19 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-22 01:45",
-  "total_jobs": 143,
+  "updated": "2026-04-23 01:49",
+  "total_jobs": 141,
   "sites": [
     {
       "name": "Entertainment Careers",
       "job_count": 20,
       "jobs": [
+        {
+          "title": "Houdini Pipeline Developer - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/houdini-pipeline-developer/job/518685/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  The Houdini Pipeline Developer collaborates with Pipeline Leads to build a Houdini pipeline that spans ... more",
+          "score": 8
+        },
         {
           "title": "VFX Generalist - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/vfx-generalist/job/504119/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -26,13 +33,6 @@
           "url": "https://www.entertainmentcareers.net/eyeline/vfx-environment-artist/job/504076/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs an Environment Generalist, you will be responsible for creating ... more",
-          "score": 6
-        },
-        {
-          "title": "VFX Layout Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-layout-artist/job/504121/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Layout Artist is responsible for the story-telling, shot sequence continuity, and presentation as ... more",
           "score": 6
         },
         {
@@ -210,11 +210,11 @@
           "score": 4
         },
         {
-          "title": "YoYo Studios is hiring a Executive Producer / Head of Product to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/yoyo-studios-executive-producer-head-of-product",
+          "title": "Mysteria Studio is hiring a Quality Assurance (QA) Intern to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/mysteria-studio-quality-assurance-qa-intern",
           "country": "",
-          "description": "Full-time YoYo Studios is hiring an Executive Producer to be the creative head of product for Meme Wars, a 3D mobile arena fighter where internet memes fight each other. Tags: [Production] [Full",
-          "score": 4
+          "description": "Mysteria Studio is seeking a Quality Assurance (QA) intern to play a key role in testing and improving our PC Action RPG Asterfel! Tags: [QA & CS]",
+          "score": 2
         },
         {
           "title": "Prefabot is hiring a Lead Game Designer to work from Thornhill, ON",
@@ -227,15 +227,8 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 4,
+      "job_count": 3,
       "jobs": [
-        {
-          "title": "Banking Full Stack Software Developer TSCM 43657",
-          "url": "https://remoteOK.com/remote-jobs/remote-banking-full-stack-software-developer-tscm-43657-eleks-1131120",
-          "country": "",
-          "description": "ELEKS Software Engineering and Development Office is looking for a Senior Full-Stack (.NET + Angular) Developer in Poland, Croatia or Ukraine.ABOUT PROJECTOur client is a US-based leading national services and online solutions provider to community banks and credit unions.\\nREQUIREMENTS7+ years of",
-          "score": 11
-        },
         {
           "title": "Senior Sales Operations Analyst",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
@@ -261,7 +254,7 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 7,
+      "job_count": 6,
       "jobs": [
         {
           "title": "Super Spline Studios is hiring Lead 3D Games Animator – Permanent (Remote Job)",
@@ -285,6 +278,13 @@
           "score": 11
         },
         {
+          "title": "Mysteria Studio UG is hiring Quality Assurance (QA) Intern  (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-quality-assurance-qa-intern-remote-job",
+          "country": "",
+          "description": "Mysteria Studio is seeking a Quality Assurance (QA) intern. \nYou will play a key role in testing and improving our PC Action RPG Asterfel, for which your attention to detail and bug hunting skills are of great importance.\n We offer a fully remote work arrangement with flexible working",
+          "score": 9
+        },
+        {
           "title": "Vivid Games S.A. is hiring Head of Marketing & User Acquisition (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/vivid-games-s-a-head-of-marketing-user-acquisition-remote-job",
           "country": "",
@@ -297,40 +297,32 @@
           "country": "",
           "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Data Analyst to join us remotely and help take",
           "score": 7
-        },
-        {
-          "title": "DreamForge is hiring Head of Community & Growth (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/dreamforge-head-of-community-growth-remote-job-f7785ffb-7f5f-4e6c-be34-de142c519151",
-          "country": "",
-          "description": "Join The DreamForge Founding Team: Be the Voice of the Leading AI Story Gaming Platform!\nDreamForge is an AI gaming platform for creating, playing, and sharing Story Adventure Games. The platform turns simple conversation into fully playable games. You can make yourself or your friends and family",
-          "score": 7
-        },
-        {
-          "title": "Saguni Studio is hiring Monetization Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/saguni-studio-monetization-designer-remote-job",
-          "country": "",
-          "description": "To help us process your application efficiently, please start your email subject line with",
-          "score": 5
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 2,
+      "job_count": 1,
       "jobs": [
         {
-          "title": "Freelance 3D Generalists / Paid projects (FILLED)",
-          "url": "https://polycount.com/discussion/238497/freelance-3d-generalists-paid-projects-filled",
+          "title": "[PAID] Game-Ready Character Artist for Sifu Mod (Deformation Focus)",
+          "url": "https://polycount.com/discussion/238518/paid-game-ready-character-artist-for-sifu-mod-deformation-focus",
           "country": "",
-          "description": "*Thank you to everyone who applied! We’ve successfully filled the position and are no longer accepting applications at this time.\nWe will reopen the posting whenever we have new openings, so please keep an eye out for future opportunities. We really appreciate the time and effort all applicants put",
-          "score": 21
-        },
+          "description": "Hi, I’m looking to commission a character artist for a custom game-ready model to be used in Sifu.The main priority for this project is clean deformation during gameplay and cinematics, especially around areas like hips and legs during more extreme movement.Project overview:Custom character",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "name": "BlenderArtists Paid Jobs",
+      "job_count": 1,
+      "jobs": [
         {
-          "title": "Seeking Experienced Mentor for Game Environment Art (Paid)",
-          "url": "https://polycount.com/discussion/238496/seeking-experienced-mentor-for-game-environment-art-paid",
+          "title": "[PAID 2K-5K USD] - Animator/Rigger (Humanoid) for a music video character",
+          "url": "https://blenderartists.org/t/paid-2k-5k-usd-animator-rigger-humanoid-for-a-music-video-character/1638472",
           "country": "",
-          "description": "Hi guys, I’m planning to level up my game environment art skills and I’m looking for mentorship from an experienced artist (preferably with AAA or strong production experience).This will be a paid mentorship. If you offer this or can recommend someone, please share details.",
-          "score": 6
+          "description": "Hi,\nI’m looking for an animator/rigger for a contract job.\n1. Type of project\nHumanoid character rigging and animation.\nI’m looking for someone able to handle both the rigging and animation of a humanoid character in Blender.\nPlease note:\n\nthe character has no facial features, so no facial rigging",
+          "score": 12
         }
       ]
     },
@@ -695,13 +687,6 @@
       "job_count": 50,
       "jobs": [
         {
-          "title": "Senior Software Engineer (Delivery & Developer Experience Team)",
-          "url": "https://arc.dev/remote-jobs/j/smartrecruiters-senior-software-engineer-delivery-developer-experience-team-njc9kck4oj",
-          "country": "Remote",
-          "description": "",
-          "score": 7
-        },
-        {
           "title": "Game developer jobs",
           "url": "https://arc.dev/remote-jobs/game",
           "country": "Remote",
@@ -716,6 +701,13 @@
           "score": 4
         },
         {
+          "title": "Full-Stack Developer (PHP/Laravel + SQL Server)",
+          "url": "https://arc.dev/remote-jobs/details/full-stack-developer-php-laravel-sql-server-ojp78e9hwq",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
           "title": "Enterprise Architect / Full-Stack Engineer LATAM/NA/EU-PT",
           "url": "https://arc.dev/remote-jobs/details/enterprise-architect-full-stack-engineer-latam-na-eu-pt-ojl1ykxtxq",
           "country": "Remote",
@@ -723,8 +715,15 @@
           "score": 4
         },
         {
-          "title": "Full Stack Developer – ERP Security Audit & Remediation (Spanish Speaking) LATAM-FT",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-developer-erp-security-audit-remediation-spanish-speaking-latam-ft-oids6qyboa",
+          "title": "SR Software Developer Back End",
+          "url": "https://arc.dev/remote-jobs/j/personal-sr-software-developer-back-end-ojs1lurkcd",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Software Development",
+          "url": "https://arc.dev/remote-jobs/software-development",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -744,29 +743,15 @@
           "score": 4
         },
         {
-          "title": "Software Development",
-          "url": "https://arc.dev/remote-jobs/software-development",
+          "title": "Senior AI Engineer WW-FT",
+          "url": "https://arc.dev/remote-jobs/details/senior-ai-engineer-ww-ft-ojtkgd5wo3",
           "country": "Remote",
           "description": "",
-          "score": 4
+          "score": 3
         },
         {
           "title": "Senior C# /.NET 8 Full-Stack Engineer (Backend-Heavy) LATAM-FT",
           "url": "https://arc.dev/remote-jobs/details/senior-c-net-8-full-stack-engineer-backend-heavy-latam-ft-ojccdwjwyg",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
-          "title": "Web Developer - Remote",
-          "url": "https://arc.dev/remote-jobs/details/web-developer-remote-ojami6lp32",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
-          "title": "Senior Data Scientist",
-          "url": "https://arc.dev/remote-jobs/details/senior-data-scientist-oiqtt59ymi",
           "country": "Remote",
           "description": "",
           "score": 3
@@ -1031,15 +1016,22 @@
           "score": 2
         },
         {
-          "title": "Lead Developer",
-          "url": "https://arc.dev/remote-jobs/details/lead-developer-oj7p5ymsya",
+          "title": "Ux writing",
+          "url": "https://arc.dev/remote-jobs/ux-writing",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Ux writing",
-          "url": "https://arc.dev/remote-jobs/ux-writing",
+          "title": "Usability testing",
+          "url": "https://arc.dev/remote-jobs/usability-testing",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Accessibility",
+          "url": "https://arc.dev/remote-jobs/accessibility",
           "country": "Remote",
           "description": "",
           "score": 2
