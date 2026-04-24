@@ -1,6 +1,6 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-23 01:49",
+  "updated": "2026-04-24 01:49",
   "total_jobs": 141,
   "sites": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 10,
+      "job_count": 12,
       "jobs": [
         {
           "title": "Sunfox Studios is hiring a Game Art Generalist to work from CET ± 3 hours",
@@ -166,6 +166,13 @@
           "country": "",
           "description": "To accelerate both engine features and gameplay systems, we’re looking for an experienced senior programmer to expand the engines core functionality, including further development of our Vulkan rendering backend. Tags: [Programming] [Full",
           "score": 9
+        },
+        {
+          "title": "ekorz is hiring a Unreal 3D Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/ekorz-unreal-3d-artist",
+          "country": "",
+          "description": "ekorz is seeking an Unreal 3D Artist to help with pre-production on a new adventure / puzzle / mystery project. Tags: [Art & Animation]",
+          "score": 8
         },
         {
           "title": "Singular Perception is hiring a VR Game Designer to work from Anywhere",
@@ -203,6 +210,13 @@
           "score": 6
         },
         {
+          "title": "Odd Garden Studios is hiring a Grant Writer / Funding Consultant to work from Canada",
+          "url": "https://www.workwithindies.com/careers/odd-garden-studios-grant-writer-funding-consultant",
+          "country": "",
+          "description": "We're looking for a seasoned grant writer or funding consultant to finalize and submit a strong application to secure non-dilutive prototyping funding. Tags: [Business & Operations]",
+          "score": 4
+        },
+        {
           "title": "Sunfox Studios is hiring a Producer to work from CET ± 3 hours",
           "url": "https://www.workwithindies.com/careers/sunfox-studios-producer",
           "country": "",
@@ -230,6 +244,13 @@
       "job_count": 3,
       "jobs": [
         {
+          "title": "Senior App &amp; Frontend Developer AS233",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-app-amp-frontend-developer-as233-smart-working-solutions-1131268",
+          "country": "",
+          "description": "About Smart WorkingAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that",
+          "score": 10
+        },
+        {
           "title": "Senior Sales Operations Analyst",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
           "country": "",
@@ -237,17 +258,10 @@
           "score": 10
         },
         {
-          "title": "Senior React Native Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-react-native-developer-headway-1131173",
+          "title": "Senior Security Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280",
           "country": "",
-          "description": "About Headway  Founded in 2015, Headway was born out of a passion to bring entrepreneurial ideas to market and keep them there. We work holistically with our client partners as a true extension of their product team, not just as an execution arm of their business. If we see something broken,",
-          "score": 10
-        },
-        {
-          "title": "Freelance Senior Full Stack Software Architect and Collateral Management Specialist",
-          "url": "https://remoteOK.com/remote-jobs/remote-freelance-senior-full-stack-software-architect-and-collateral-management-specialist-wise-integration-1131166",
-          "country": "",
-          "description": "On behalf of our client, Danske Group IT, we are looking for a Freelance Senior Full Stack Software Architect and a Collateral Management Specialist who will work on the Algo Collateral project. The candidate will work in Collateral Management, with extensive experience in .NET, domain",
+          "description": "About Bridgewater Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world's markets and economies",
           "score": 9
         }
       ]
@@ -684,8 +698,15 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 50,
+      "job_count": 48,
       "jobs": [
+        {
+          "title": "Senior Software Engineer",
+          "url": "https://arc.dev/remote-jobs/j/newrich-network-senior-software-engineer-oh37wm2s23",
+          "country": "Remote",
+          "description": "",
+          "score": 5
+        },
         {
           "title": "Game developer jobs",
           "url": "https://arc.dev/remote-jobs/game",
@@ -708,8 +729,8 @@
           "score": 4
         },
         {
-          "title": "Enterprise Architect / Full-Stack Engineer LATAM/NA/EU-PT",
-          "url": "https://arc.dev/remote-jobs/details/enterprise-architect-full-stack-engineer-latam-na-eu-pt-ojl1ykxtxq",
+          "title": "Software Development",
+          "url": "https://arc.dev/remote-jobs/software-development",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -722,13 +743,6 @@
           "score": 4
         },
         {
-          "title": "Software Development",
-          "url": "https://arc.dev/remote-jobs/software-development",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
           "title": "Website & Marketing Designer",
           "url": "https://arc.dev/remote-jobs/j/ciklo-talent-website-marketing-designer-oj3ml83vwe",
           "country": "Remote",
@@ -736,29 +750,8 @@
           "score": 4
         },
         {
-          "title": "Founding Software Engineer (Equity-Only | Own & Scale an AI Sales System)",
-          "url": "https://arc.dev/remote-jobs/j/growtheffect-ai-founding-software-engineer-equity-only-own-scale-an-ai-sales-system-oj3diyzc5w",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
           "title": "Senior AI Engineer WW-FT",
           "url": "https://arc.dev/remote-jobs/details/senior-ai-engineer-ww-ft-ojtkgd5wo3",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
-          "title": "Senior C# /.NET 8 Full-Stack Engineer (Backend-Heavy) LATAM-FT",
-          "url": "https://arc.dev/remote-jobs/details/senior-c-net-8-full-stack-engineer-backend-heavy-latam-ft-ojccdwjwyg",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
-          "title": "Senior UI / UX Designer- 57577046813",
-          "url": "https://arc.dev/remote-jobs/j/somewhere-senior-ui-ux-designer-57577046813-oh3ajh426q",
           "country": "Remote",
           "description": "",
           "score": 3
@@ -1016,22 +1009,29 @@
           "score": 2
         },
         {
+          "title": "Qa Dev Tester",
+          "url": "https://arc.dev/remote-jobs/details/qa-dev-tester-ok15vwec4o",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Fluent English Web Developer – Client Calls",
+          "url": "https://arc.dev/remote-jobs/details/fluent-english-web-developer-client-calls-ok0rzyz507",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Advanced english abilities",
+          "url": "https://arc.dev/remote-jobs/advanced-english-abilities",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
           "title": "Ux writing",
           "url": "https://arc.dev/remote-jobs/ux-writing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Usability testing",
-          "url": "https://arc.dev/remote-jobs/usability-testing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Accessibility",
-          "url": "https://arc.dev/remote-jobs/accessibility",
           "country": "Remote",
           "description": "",
           "score": 2
