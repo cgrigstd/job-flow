@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-24 01:49",
-  "total_jobs": 141,
+  "updated": "2026-04-25 01:27",
+  "total_jobs": 144,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 12,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Sunfox Studios is hiring a Game Art Generalist to work from CET ± 3 hours",
@@ -168,7 +168,7 @@
           "score": 9
         },
         {
-          "title": "ekorz is hiring a Unreal 3D Artist to work from Anywhere",
+          "title": "ekorz is hiring a Unreal Tech Artist to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/ekorz-unreal-3d-artist",
           "country": "",
           "description": "ekorz is seeking an Unreal 3D Artist to help with pre-production on a new adventure / puzzle / mystery project. Tags: [Art & Animation]",
@@ -180,13 +180,6 @@
           "country": "",
           "description": "We are looking for a part-time freelance game designer with proven VR game design experience to help to launch Sol Protocol, a sci-fi co-op VR game, into Early Access. Tags: [Design]",
           "score": 8
-        },
-        {
-          "title": "iam8bit is hiring a Senior Manager, Events & Special Projects  to work from Los Angeles, CA",
-          "url": "https://www.workwithindies.com/careers/iam8bit-senior-manager-events-special-projects",
-          "country": "",
-          "description": "We’re looking for a Senior Manager, Events & Special Projects who brings senior operational leadership, calm under pressure, and a genuine passion for developing people to a team that thrives on impossible timelines and never-been-done-before ideas. Tags: [Business & Operations] [Full",
-          "score": 7
         },
         {
           "title": "SoftEthix is hiring a Lead Unity Developer to work from New York, NY",
@@ -241,8 +234,15 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 3,
+      "job_count": 5,
       "jobs": [
+        {
+          "title": "Full Stack Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
+          "country": "",
+          "description": "Envision Horizons is a global marketplace growth agency specializing in Amazon, Walmart, and other major retail media networks. Our team helps brands build awareness, capture market share, and drive profitability through data-driven strategy and execution.We believe high-performing teams are built",
+          "score": 10
+        },
         {
           "title": "Senior App &amp; Frontend Developer AS233",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-app-amp-frontend-developer-as233-smart-working-solutions-1131268",
@@ -263,6 +263,13 @@
           "country": "",
           "description": "About Bridgewater Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world's markets and economies",
           "score": 9
+        },
+        {
+          "title": "Account Executive III",
+          "url": "https://remoteOK.com/remote-jobs/remote-account-executive-iii-sumo-logic-1131287",
+          "country": "",
+          "description": "As a Mid-Market Account Executive, you will be working on reinforcing our leadership in the mid-market space. You should demonstrate skills associated with working in a high-performance sales culture, especially demonstrating pipeline management, lead generation, contact network development and",
+          "score": 7
         }
       ]
     },
@@ -698,11 +705,32 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 48,
+      "job_count": 50,
       "jobs": [
         {
-          "title": "Senior Software Engineer",
-          "url": "https://arc.dev/remote-jobs/j/newrich-network-senior-software-engineer-oh37wm2s23",
+          "title": "Experienced Ninjatrader Developer - Part-time - Worldwide (Overlap with PST)",
+          "url": "https://arc.dev/remote-jobs/details/experienced-ninjatrader-developer-part-time-worldwide-overlap-with-pst-okaqkord4s",
+          "country": "Remote",
+          "description": "",
+          "score": 6
+        },
+        {
+          "title": "Senior Software Engineer, AI Operations",
+          "url": "https://arc.dev/remote-jobs/j/rapidsos-senior-software-engineer-ai-operations-okawd9zoi0",
+          "country": "Remote",
+          "description": "",
+          "score": 5
+        },
+        {
+          "title": "Senior Software Engineer (Platform Engineering)",
+          "url": "https://arc.dev/remote-jobs/j/pinnacle-talent-placement-senior-software-engineer-platform-engineering-okawfz783w",
+          "country": "Remote",
+          "description": "",
+          "score": 5
+        },
+        {
+          "title": "Senior Embedded Software Engineer",
+          "url": "https://arc.dev/remote-jobs/j/digis-a-fiverr-company-nyse-fvrr-senior-embedded-software-engineer-okawjoex92",
           "country": "Remote",
           "description": "",
           "score": 5
@@ -731,20 +759,6 @@
         {
           "title": "Software Development",
           "url": "https://arc.dev/remote-jobs/software-development",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "SR Software Developer Back End",
-          "url": "https://arc.dev/remote-jobs/j/personal-sr-software-developer-back-end-ojs1lurkcd",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "Website & Marketing Designer",
-          "url": "https://arc.dev/remote-jobs/j/ciklo-talent-website-marketing-designer-oj3ml83vwe",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1030,8 +1044,15 @@
           "score": 2
         },
         {
-          "title": "Ux writing",
-          "url": "https://arc.dev/remote-jobs/ux-writing",
+          "title": "Startups",
+          "url": "https://arc.dev/remote-jobs/startups",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Observability",
+          "url": "https://arc.dev/remote-jobs/observability",
           "country": "Remote",
           "description": "",
           "score": 2
