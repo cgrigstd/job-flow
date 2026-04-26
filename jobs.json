@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-25 01:27",
-  "total_jobs": 144,
+  "updated": "2026-04-26 01:51",
+  "total_jobs": 142,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -234,8 +234,15 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 5,
+      "job_count": 7,
       "jobs": [
+        {
+          "title": "Senior Tech Lead Mobile Developer Risora",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315",
+          "country": "",
+          "description": "SKELAR — український венчур-білдер, який будує міжнародні tech-бізнеси. Разом із ко-фаундерами збираємо сильні команди, щоб перемагати на глобальних ринках.Сьогодні в SKELAR десяток бізнесів у різних нішах — від EdTech до маркетплейсів. Це компанії, що потрапляють у рейтинги ТОП-стартапів та",
+          "score": 11
+        },
         {
           "title": "Full Stack Developer",
           "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
@@ -251,18 +258,25 @@
           "score": 10
         },
         {
-          "title": "Senior Sales Operations Analyst",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
-          "country": "",
-          "description": "What We're BuildingHoneycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! We're working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an",
-          "score": 10
-        },
-        {
           "title": "Senior Security Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280",
           "country": "",
           "description": "About Bridgewater Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world's markets and economies",
           "score": 9
+        },
+        {
+          "title": "Territory Account Manager",
+          "url": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
+          "country": "",
+          "description": "TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We are a force multiplier for defenders, helping organizations enhance their cybersecurity posture through advanced threat detection, rapid response, and continuous protection. Our team is",
+          "score": 7
+        },
+        {
+          "title": "Data Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305",
+          "country": "",
+          "description": "About Pivotal HealthPivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While",
+          "score": 7
         },
         {
           "title": "Account Executive III",
@@ -275,29 +289,8 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 6,
+      "job_count": 2,
       "jobs": [
-        {
-          "title": "Super Spline Studios is hiring Lead 3D Games Animator – Permanent (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/super-spline-studios-lead-3d-games-animator-permanent-remote-job",
-          "country": "",
-          "description": "Lead 3D Games Animator – Permanent\nEurope Remote, Or Leamington Spa Office\nWe are looking for a Lead Animator with practical knowledge of game development.\nYou will be leading projects and working alongside the animation team to create believable high-quality character animations. A strong",
-          "score": 17
-        },
-        {
-          "title": "Super Spline Studios is hiring Junior 3D Games Animator – Permanent (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/super-spline-studios-junior-3d-games-animator-permanent-remote-job",
-          "country": "",
-          "description": "Junior 3D Games Animator – Permanent\nEurope Remote, Or Leamington Spa Office\nWe are looking for a Junior Animator with a creative spark and a passion for learning!\nThis a rare entry level role for someone who wants to grow into being a big part of a small team. A strong understanding of the",
-          "score": 13
-        },
-        {
-          "title": "Super Spline Studios is hiring Freelance Games Animator – 6-12 Months Starting ASAP (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/super-spline-studios-freelance-games-animator-6-12-months-starting-asap-remote-job",
-          "country": "",
-          "description": "Freelance Games Animator – 6-12 Months Starting ASAP\nEurope Remote\nSuper Spline is looking for an experienced freelance gameplay animator to support us on current projects.\nThis is a 4 day week position, Monday – Thursday.\nDuration: 6-12 months with potential for more, starting ASAP!\nYou MUST have",
-          "score": 11
-        },
         {
           "title": "Mysteria Studio UG is hiring Quality Assurance (QA) Intern  (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-quality-assurance-qa-intern-remote-job",
@@ -310,13 +303,6 @@
           "url": "https://remotegamejobs.com/jobs/vivid-games-s-a-head-of-marketing-user-acquisition-remote-job",
           "country": "",
           "description": "🔎 We are seeking a Head of Marketing & User Acquisition to lead our growth strategy and execution. This is a hybrid role combining strategic leadership with hands-on campaign management. You will own the full marketing funnel—from creative strategy and paid media to organic growth, influencer",
-          "score": 7
-        },
-        {
-          "title": "VOID Interactive is hiring Data Analyst (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/void-interactive-data-analyst-remote-job",
-          "country": "",
-          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Data Analyst to join us remotely and help take",
           "score": 7
         }
       ]
@@ -750,6 +736,13 @@
           "score": 4
         },
         {
+          "title": "Front End Dashboard Developer",
+          "url": "https://arc.dev/remote-jobs/details/front-end-dashboard-developer-oklh4c1p3p",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
           "title": "Full-Stack Developer (PHP/Laravel + SQL Server)",
           "url": "https://arc.dev/remote-jobs/details/full-stack-developer-php-laravel-sql-server-ojp78e9hwq",
           "country": "Remote",
@@ -1046,13 +1039,6 @@
         {
           "title": "Startups",
           "url": "https://arc.dev/remote-jobs/startups",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Observability",
-          "url": "https://arc.dev/remote-jobs/observability",
           "country": "Remote",
           "description": "",
           "score": 2
