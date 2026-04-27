@@ -1,6 +1,6 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-26 01:51",
+  "updated": "2026-04-27 01:55",
   "total_jobs": 142,
   "sites": [
     {
@@ -15,11 +15,18 @@
           "score": 8
         },
         {
-          "title": "VFX Generalist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-generalist/job/504119/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Houdini FX Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/houdini-fx-artist/job/519140/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Job Title: VFX Generalist\n\nReporting to the VFX Generalist Supervisor, the Generalist ... more",
-          "score": 8
+          "description": "pls RT ECNIDRSS @entcareersnet  Responsibilities\n• Integrate acquired data into Houdini TOPs networks\n• Build SOP ... more",
+          "score": 6
+        },
+        {
+          "title": "Software Engineer - Netflix Animation, LLC.",
+          "url": "https://www.entertainmentcareers.net/netflix-animation-llc/software-engineer/job/519055/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  JOB TITLE:     Software Engineer (JR8308656)\n\nJOB DESCRIPTION AND  \nREQUIREMENTS:\n\nJob ... more",
+          "score": 6
         },
         {
           "title": "3D Visual Effects Artist - Eyeline",
@@ -139,34 +146,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  **Project based, Full Time**\n**Language in work environment** - Excellent communication skills in both ... more",
           "score": 2
-        },
-        {
-          "title": "Unreal Engine Operator - Pixomondo",
-          "url": "https://www.entertainmentcareers.net/pixomondo/unreal-engine-operator/job/497569/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nWe are hiring an Unreal Engine Operator, to operate content on LED screens, ensuring ... more",
-          "score": 2
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 11,
+      "job_count": 8,
       "jobs": [
-        {
-          "title": "Sunfox Studios is hiring a Game Art Generalist to work from CET ± 3 hours",
-          "url": "https://www.workwithindies.com/careers/sunfox-studios-game-art-generalist",
-          "country": "",
-          "description": "We’re excited to welcome an Art Generalist to our small but passionate team!  Tags: [Art & Animation] [Full",
-          "score": 10
-        },
-        {
-          "title": "Sunfox Studios is hiring a Senior Engine Programmer (Vulkan) to work from CET ± 3 hours",
-          "url": "https://www.workwithindies.com/careers/sunfox-studios-senior-engine-programmer-vulkan",
-          "country": "",
-          "description": "To accelerate both engine features and gameplay systems, we’re looking for an experienced senior programmer to expand the engines core functionality, including further development of our Vulkan rendering backend. Tags: [Programming] [Full",
-          "score": 9
-        },
         {
           "title": "ekorz is hiring a Unreal Tech Artist to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/ekorz-unreal-3d-artist",
@@ -189,31 +175,24 @@
           "score": 6
         },
         {
-          "title": "Raw Fury is hiring a Product Manager (LatAm) to work from LatAm",
-          "url": "https://www.workwithindies.com/careers/raw-fury-product-manager-latam",
+          "title": "Raw Fury is hiring a Publishing Producer (LatAm) to work from Latin America",
+          "url": "https://www.workwithindies.com/careers/raw-fury-publishing-producer-latam",
           "country": "",
-          "description": "We're looking for a Product Manager to strengthen our local presence in the LatAm region. Hit apply if you are passionate about indie games, players and creating regional impact. Tags: [Production] [Full",
-          "score": 6
+          "description": "Raw Fury is looking for a Publishing Producer located in the LatAm region to help us connecting games with players as we expand and add some extra focus in region. Tags: [Production] [Full",
+          "score": 4
         },
         {
-          "title": "Raw Fury is hiring a Brand Manager (LatAm) to work from LatAm",
-          "url": "https://www.workwithindies.com/careers/raw-fury-brand-manager-latam",
+          "title": "Prefabot is hiring a Art Director / Principal Lead Artist to work from Thornhill, ON",
+          "url": "https://www.workwithindies.com/careers/prefabot-art-director-principal-lead-artist",
           "country": "",
-          "description": "We're looking for a Brand Manager to strengthen our presence in the LatAm region. Someone with a real passion for indie games, the way those games are brought to market and connected with players. Tags: [Marketing & Community] [Full",
-          "score": 6
+          "description": "We're not just hiring an Art Director — we're looking for a founder-level creative leader who wants to leave their fingerprints on an entire IP. Tags: [Art & Animation] [Full",
+          "score": 4
         },
         {
           "title": "Odd Garden Studios is hiring a Grant Writer / Funding Consultant to work from Canada",
           "url": "https://www.workwithindies.com/careers/odd-garden-studios-grant-writer-funding-consultant",
           "country": "",
           "description": "We're looking for a seasoned grant writer or funding consultant to finalize and submit a strong application to secure non-dilutive prototyping funding. Tags: [Business & Operations]",
-          "score": 4
-        },
-        {
-          "title": "Sunfox Studios is hiring a Producer to work from CET ± 3 hours",
-          "url": "https://www.workwithindies.com/careers/sunfox-studios-producer",
-          "country": "",
-          "description": "We’re looking for a Producer to maintain production clarity, own and uphold milestone timelines, and support execution of said milestones across the departments. Tags: [Production] [Full",
           "score": 4
         },
         {
@@ -289,8 +268,22 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 2,
+      "job_count": 5,
       "jobs": [
+        {
+          "title": "VOID Interactive is hiring Senior Environment Artist (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/void-interactive-senior-environment-artist-remote-job",
+          "country": "",
+          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Associate Producer to join us remotely and",
+          "score": 14
+        },
+        {
+          "title": "VOID Interactive is hiring Associate Producer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/void-interactive-associate-producer-remote-job",
+          "country": "",
+          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Associate Producer to join us remotely and",
+          "score": 12
+        },
         {
           "title": "Mysteria Studio UG is hiring Quality Assurance (QA) Intern  (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-quality-assurance-qa-intern-remote-job",
@@ -304,6 +297,13 @@
           "country": "",
           "description": "🔎 We are seeking a Head of Marketing & User Acquisition to lead our growth strategy and execution. This is a hybrid role combining strategic leadership with hands-on campaign management. You will own the full marketing funnel—from creative strategy and paid media to organic growth, influencer",
           "score": 7
+        },
+        {
+          "title": "VOID Interactive is hiring Gameplay Engineer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/void-interactive-gameplay-engineer-remote-job",
+          "country": "",
+          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Gameplay Engineer to join us remotely and help",
+          "score": 3
         }
       ]
     },
@@ -701,27 +701,6 @@
           "score": 6
         },
         {
-          "title": "Senior Software Engineer, AI Operations",
-          "url": "https://arc.dev/remote-jobs/j/rapidsos-senior-software-engineer-ai-operations-okawd9zoi0",
-          "country": "Remote",
-          "description": "",
-          "score": 5
-        },
-        {
-          "title": "Senior Software Engineer (Platform Engineering)",
-          "url": "https://arc.dev/remote-jobs/j/pinnacle-talent-placement-senior-software-engineer-platform-engineering-okawfz783w",
-          "country": "Remote",
-          "description": "",
-          "score": 5
-        },
-        {
-          "title": "Senior Embedded Software Engineer",
-          "url": "https://arc.dev/remote-jobs/j/digis-a-fiverr-company-nyse-fvrr-senior-embedded-software-engineer-okawjoex92",
-          "country": "Remote",
-          "description": "",
-          "score": 5
-        },
-        {
           "title": "Game developer jobs",
           "url": "https://arc.dev/remote-jobs/game",
           "country": "Remote",
@@ -745,6 +724,13 @@
         {
           "title": "Full-Stack Developer (PHP/Laravel + SQL Server)",
           "url": "https://arc.dev/remote-jobs/details/full-stack-developer-php-laravel-sql-server-ojp78e9hwq",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Digital marketing",
+          "url": "https://arc.dev/remote-jobs/digital-marketing",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1037,8 +1023,22 @@
           "score": 2
         },
         {
-          "title": "Startups",
-          "url": "https://arc.dev/remote-jobs/startups",
+          "title": "Video Editing",
+          "url": "https://arc.dev/remote-jobs/video-editing",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Game Designer for Casual Puzzle Games",
+          "url": "https://arc.dev/remote-jobs/j/8great-games-llc-game-designer-for-casual-puzzle-games-okt67eod4q",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Ux writing",
+          "url": "https://arc.dev/remote-jobs/ux-writing",
           "country": "Remote",
           "description": "",
           "score": 2
