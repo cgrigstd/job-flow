@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-29 02:04",
-  "total_jobs": 152,
+  "updated": "2026-04-30 02:03",
+  "total_jobs": 156,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -12,13 +12,6 @@
           "url": "https://www.entertainmentcareers.net/eyeline/3d-modeling-supervisor/job/507489/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The Modeling Supervisor is responsible for the artistic and technical quality of all 3D models created ... more",
-          "score": 8
-        },
-        {
-          "title": "Houdini Pipeline Developer - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/houdini-pipeline-developer/job/518685/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Houdini Pipeline Developer collaborates with Pipeline Leads to build a Houdini pipeline that spans ... more",
           "score": 8
         },
         {
@@ -36,6 +29,13 @@
           "score": 7
         },
         {
+          "title": "Junior Nuke Compositor - Confidential",
+          "url": "https://www.entertainmentcareers.net/confidential/junior-nuke-compositor/job/519188/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  You'll handle the foundational compositing work that lets the studio scale: roto, paint, cleanup, ... more",
+          "score": 6
+        },
+        {
           "title": "Technical Director - Animation - Skydance",
           "url": "https://www.entertainmentcareers.net/skydance/technical-director-animation/job/499294/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -50,18 +50,18 @@
           "score": 6
         },
         {
-          "title": "Houdini FX Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/houdini-fx-artist/job/519140/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Junior Creature Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-creature-technical-director/job/519289/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Responsibilities\n• Integrate acquired data into Houdini TOPs networks\n• Build SOP ... more",
-          "score": 6
+          "description": "pls RT ECNIDRSS @entcareersnet  Junior Creature Technical Director (Project Hire) - ILM San Francisco\n\nJob Summary:\n\nPosition ... more",
+          "score": 4
         },
         {
-          "title": "Software Engineer - Netflix Animation, LLC.",
-          "url": "https://www.entertainmentcareers.net/netflix-animation-llc/software-engineer/job/519055/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Cg Supervisor - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/cg-supervisor/job/519296/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  JOB TITLE:     Software Engineer (JR8308656)\n\nJOB DESCRIPTION AND\nREQUIREMENTS:\n\nJob ... more",
-          "score": 6
+          "description": "pls RT ECNIDRSS @entcareersnet  The CG Supervisor oversees the day-to-day operations of the show within the facility. They will be responsible ... more",
+          "score": 4
         },
         {
           "title": "VFX Coordinator - Eyeline",
@@ -151,8 +151,15 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 16,
+      "job_count": 18,
       "jobs": [
+        {
+          "title": "Supergiant Games is hiring a Graphics & Animation Engineer to work from United States",
+          "url": "https://www.workwithindies.com/careers/supergiant-games-graphics-animation-engineer",
+          "country": "",
+          "description": "Our team is seeking an experienced Graphics & Animation Engineer to maintain, extend, and optimize our proprietary cross-platform rendering pipeline, 3D and 2D animation systems, and 2D VFX system, as well as the tools needed for modelers, riggers, and animators. Tags: [Programming] [Full",
+          "score": 16
+        },
         {
           "title": "Yarn Games is hiring a Mid-Senior Unity Game Developer to work from GMT ± 4 hours",
           "url": "https://www.workwithindies.com/careers/yarn-games-mid-senior-unity-game-developer",
@@ -231,6 +238,13 @@
           "score": 6
         },
         {
+          "title": "Untitled Advertising is hiring a Social Media and Community Lead to work from Canada",
+          "url": "https://www.workwithindies.com/careers/untitled-advertising-social-media-and-community-lead",
+          "country": "",
+          "description": "We’re looking for a Social Media and Community Lead to lead content and community engagement across TikTok, Instagram, Discord, and YouTube for a variety of clients. Tags: [Marketing & Community] [Full",
+          "score": 4
+        },
+        {
           "title": "Torpor Games is hiring a Lead Writer (m/f/d) to work from Berlin, DE",
           "url": "https://www.workwithindies.com/careers/torpor-games-lead-writer-m-f-d",
           "country": "",
@@ -252,11 +266,11 @@
           "score": 4
         },
         {
-          "title": "Odd Garden Studios is hiring a Grant Writer / Funding Consultant to work from Canada",
-          "url": "https://www.workwithindies.com/careers/odd-garden-studios-grant-writer-funding-consultant",
+          "title": "Dreamaloid Studios is hiring a Level Layout Designer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/dreamaloid-studios-level-layout-designer",
           "country": "",
-          "description": "We're looking for a seasoned grant writer or funding consultant to finalize and submit a strong application to secure non-dilutive prototyping funding. Tags: [Business & Operations]",
-          "score": 4
+          "description": "Hi! I'm Jamie. I'm gathering applications for a Level Layout Designer on our indie game at Dreamaloid Studios. Tags: [Design]",
+          "score": 2
         },
         {
           "title": "Peculiar Path is hiring a UI Designer & Animator (Rive) to work from Ontario",
@@ -269,7 +283,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 10,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Senior Tech Lead Mobile Developer Risora",
@@ -293,13 +307,6 @@
           "score": 10
         },
         {
-          "title": "Senior App &amp; Frontend Developer AS233",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-app-amp-frontend-developer-as233-smart-working-solutions-1131268",
-          "country": "",
-          "description": "About Smart WorkingAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that",
-          "score": 10
-        },
-        {
           "title": "Engineer Software",
           "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
           "country": "",
@@ -312,6 +319,13 @@
           "country": "",
           "description": "About Bridgewater Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world's markets and economies",
           "score": 9
+        },
+        {
+          "title": "Front End Full Stack Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-front-end-full-stack-developer-honor-foods-1131370",
+          "country": "",
+          "description": "Front-End / Full Stack Developer (React + Java)📍 Remote | Full-TimeWant to build tech that actually moves a business? At Honor Foods, our developers power real-world logistics—systems that keep products flowing and customers happy.We're looking for a front-end focused developer who loves clean UI",
+          "score": 7
         },
         {
           "title": "Territory Account Manager",
@@ -335,6 +349,13 @@
           "score": 7
         },
         {
+          "title": "Data Governance Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
+          "country": "",
+          "description": "About the RoleThe Data Governance function is pivotal in ensuring the integrity, trustworthiness, and effective management of Chime's data assets. Our mission is to establish and operationalize data governance frameworks that not only meet compliance requirements, but actively enable",
+          "score": 6
+        },
+        {
           "title": "Sr Account Executive Commercial Accounts",
           "url": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-commercial-accounts-veeam-software-1131341",
           "country": "",
@@ -345,7 +366,7 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 5,
+      "job_count": 6,
       "jobs": [
         {
           "title": "VOID Interactive is hiring Senior Environment Artist (Remote Job)",
@@ -355,6 +376,13 @@
           "score": 14
         },
         {
+          "title": "Lobah is hiring Senior Backend Engineer (C#, Live Service / UE5 Game) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/lobah-senior-backend-engineer-c-live-service-ue5-game-remote-job-879909cc-a83c-4b2c-baf3-8aa641c38dc8",
+          "country": "",
+          "description": "Senior Backend Engineer (C#, Live Service / UE5 Game)\nAbout the Role\nWe are developing a third-person competitive shooter in Unreal Engine 5, currently in beta testing, with a strong focus on long-term player retention and monetization systems (battle pass, seasons, progression, cosmetics,",
+          "score": 12
+        },
+        {
           "title": "VOID Interactive is hiring Associate Producer (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/void-interactive-associate-producer-remote-job",
           "country": "",
@@ -362,18 +390,18 @@
           "score": 12
         },
         {
-          "title": "Mysteria Studio UG is hiring Quality Assurance (QA) Intern  (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-quality-assurance-qa-intern-remote-job",
-          "country": "",
-          "description": "Mysteria Studio is seeking a Quality Assurance (QA) intern. \nYou will play a key role in testing and improving our PC Action RPG Asterfel, for which your attention to detail and bug hunting skills are of great importance.\n We offer a fully remote work arrangement with flexible working",
-          "score": 9
-        },
-        {
           "title": "Promorte Games is hiring UE5 Real Time VFX Artist (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/promorte-games-ue5-real-time-vfx-artist-remote-job",
           "country": "",
           "description": "Real Time VFX",
           "score": 7
+        },
+        {
+          "title": "Cozy Game Studio is hiring Game Designer (Mobile Games) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/cozy-game-studio-game-designer-mobile-games-remote-job",
+          "country": "",
+          "description": "Cozy Game Studio is looking for a Game Designer for a 4-month contract (full-time or",
+          "score": 5
         },
         {
           "title": "VOID Interactive is hiring Gameplay Engineer (Remote Job)",
@@ -389,24 +417,11 @@
       "job_count": 1,
       "jobs": [
         {
-          "title": "[PAID] Game-Ready Character Artist for Sifu Mod (Deformation Focus)",
-          "url": "https://polycount.com/discussion/238518/paid-game-ready-character-artist-for-sifu-mod-deformation-focus",
+          "title": "[PAID] [Remote] We're looking for a really fast rigger to consult with us on our rigging pipeline",
+          "url": "https://polycount.com/discussion/238537/paid-remote-were-looking-for-a-really-fast-rigger-to-consult-with-us-on-our-rigging-pipeline",
           "country": "",
-          "description": "Hi, I’m looking to commission a character artist for a custom game-ready model to be used in Sifu.The main priority for this project is clean deformation during gameplay and cinematics, especially around areas like hips and legs during more extreme movement.Project overview:Custom character",
-          "score": 8
-        }
-      ]
-    },
-    {
-      "name": "BlenderArtists Paid Jobs",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "[PAID 2K-5K USD] - Animator/Rigger (Humanoid) for a music video character",
-          "url": "https://blenderartists.org/t/paid-2k-5k-usd-animator-rigger-humanoid-for-a-music-video-character/1638472",
-          "country": "",
-          "description": "Hi,\nI’m looking for an animator/rigger for a contract job.\n1. Type of project\nHumanoid character rigging and animation.\nI’m looking for someone able to handle both the rigging and animation of a humanoid character in Blender.\nPlease note:\n\nthe character has no facial features, so no facial rigging",
-          "score": 12
+          "description": "Hi all,\nI’m an Art Department Director at a game studio, and we’re specifically looking for a very fast character rigger to help us evaluate and improve our rigging pipeline.\nSpeed is the primary focus here. We’re looking for someone who can turn around solid, game-ready rigs quickly and",
+          "score": 13
         }
       ]
     },
@@ -425,7 +440,7 @@
           "title": "Generalista 3D Ref 22 503",
           "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
           "country": "Argentina",
-          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop.\r\nPara trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
           "score": 12
         },
         {
@@ -467,14 +482,14 @@
           "title": "2D Animator Ref 24 565",
           "url": "https://www.imagecampus.edu.ar/busqueda/2d-animator-ref-24-565",
           "country": "Argentina",
-          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team.  If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
+          "description": "We are seeking a committed and detail-orientated 2D animator to join our Game Development team. If you´re passionate about creating expressive characters and captivating environments, this position is for you! Responsabilidades: • Move within different tasks such as concept art, character design,",
           "score": 10
         },
         {
           "title": "Tech Artist Collider Ref 24 566",
           "url": "https://www.imagecampus.edu.ar/busqueda/tech-artist-collider-ref-24-566",
           "country": "Argentina",
-          "description": "En Collider Studios, estamos buscando Tech Artists Generalistas.\r\nSu rol principal será trabajar junto a nuestro Art Team para crear personajes siguiendo nuestro pipeline y estándares de producción AAA.\r\nCollider Craftworks Studios\r\nSomos un estudio de Game Development especializado en producción y",
+          "description": "En Collider Studios, estamos buscando Tech Artists Generalistas. Su rol principal será trabajar junto a nuestro Art Team para crear personajes siguiendo nuestro pipeline y estándares de producción AAA. Collider Craftworks Studios Somos un estudio de Game Development especializado en producción y",
           "score": 10
         },
         {
@@ -649,14 +664,14 @@
           "title": "Compositor Digital Jr Ref 22 502",
           "url": "https://www.imagecampus.edu.ar/busqueda/compositor-digital-jr-ref-22-502",
           "country": "Argentina",
-          "description": "Estamos en busca de compositor/a digital con o sin experiencia en manejo de máscaras, trackeo y rotoscopía. Responsabilidades: Realización de máscaras para la composición digital de planos de efectos visuales. Requerimientos excluyentes: • Manejo de herramientas de composición nodal (Nuke). •",
+          "description": "Estamos en busca de compositor/a digital con o sin experiencia en manejo de máscaras, trackeo y rotoscopía. Responsabilidades: Realización de máscaras para la composición digital de planos de efectos visuales. Requerimientos excluyentes: • Manejo de herramientas de composición nodal (Nuke).  •",
           "score": 6
         },
         {
           "title": "Artista Vfx Ref 22 495",
           "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
           "country": "Argentina",
-          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes -  Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
+          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes - Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
           "score": 4
         },
         {
@@ -684,7 +699,7 @@
           "title": "Artista 2D Stylized Toon Ref 22 547",
           "url": "https://www.imagecampus.edu.ar/busqueda/artista-2d-stylized-toon-ref-22-547",
           "country": "Argentina",
-          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons.\r\nBWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
+          "description": "En BWstudios.co estamos buscando artistas para un nuevo proyecto de videojuegos para niños con estilo toons. BWstudios tiene como foco desarrollar videojuegos para niños de 4 a 12 años con un alto potencial de entretenimiento y un valor agregado de conocimiento. Trabajo remoto y full time.",
           "score": 4
         },
         {
@@ -747,7 +762,7 @@
           "title": "Desarrollador C Unity Ref 22 499",
           "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-c-unity-ref-22-499",
           "country": "Argentina",
-          "description": "Programador para trabajo remoto. Responsabilidades: Desarrollar código de alta calidad y bien estructurado, respetando estándares del proyecto.\r\nBuscar proactivamente problemas en los procesos y en la arquitectura y proponer mejoras.\r\nEntregar resultados dentro de los plazos estipulados y con",
+          "description": "Programador para trabajo remoto. Responsabilidades: Desarrollar código de alta calidad y bien estructurado, respetando estándares del proyecto. Buscar proactivamente problemas en los procesos y en la arquitectura y proponer mejoras. Entregar resultados dentro de los plazos estipulados y con",
           "score": 4
         },
         {
@@ -761,32 +776,18 @@
           "title": "Disenador Programador Con Experiencia En Unity C Contratos Inteligentes Blockchain Ref 22 487",
           "url": "https://www.imagecampus.edu.ar/busqueda/disenador-programador-con-experiencia-en-unity-c-contratos-inteligentes-blockchain-ref-22-487",
           "country": "Argentina",
-          "description": "Se busca incorporar talentos para involucrarse en la creación de un nuevo juego carreras de autos  que utiliza la blockchain y tecnologías emergentes para proveer una experiencia diferenciadora. Inmejorable ambiente de trabajo y oportunidad de ser parte de la disrupción que significa la nueva",
+          "description": "Se busca incorporar talentos para involucrarse en la creación de un nuevo juego carreras de autos que utiliza la blockchain y tecnologías emergentes para proveer una experiencia diferenciadora. Inmejorable ambiente de trabajo y oportunidad de ser parte de la disrupción que significa la nueva",
           "score": 4
         }
       ]
     },
     {
       "name": "ArcDev",
-      "job_count": 49,
+      "job_count": 50,
       "jobs": [
-        {
-          "title": "Senior Software Engineer (remote-only, Europe)",
-          "url": "https://arc.dev/remote-jobs/j/cloudlinux-senior-software-engineer-remote-only-europe-olaaqx0hqu",
-          "country": "Remote",
-          "description": "",
-          "score": 6
-        },
         {
           "title": "Remote - Full-Stack Engineer (Automation Architecture)",
           "url": "https://arc.dev/remote-jobs/details/remote-full-stack-engineer-automation-architecture-okyf8oopzr",
-          "country": "Remote",
-          "description": "",
-          "score": 5
-        },
-        {
-          "title": "Senior Software Engineer",
-          "url": "https://arc.dev/remote-jobs/j/unleash-senior-software-engineer-oes0xap7mw",
           "country": "Remote",
           "description": "",
           "score": 5
@@ -813,8 +814,8 @@
           "score": 4
         },
         {
-          "title": "Software Development",
-          "url": "https://arc.dev/remote-jobs/software-development",
+          "title": "Marketing Analyst (Digital Marketing Data)",
+          "url": "https://arc.dev/remote-jobs/j/lago-marketing-analyst-digital-marketing-data-ofkcxfl5nx",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -822,6 +823,13 @@
         {
           "title": "Digital marketing",
           "url": "https://arc.dev/remote-jobs/digital-marketing",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Software Development",
+          "url": "https://arc.dev/remote-jobs/software-development",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1079,6 +1087,13 @@
           "score": 2
         },
         {
+          "title": "React Native Developer (Beauty Discovery App MVP) - PT - Worldwide/EST time",
+          "url": "https://arc.dev/remote-jobs/details/react-native-developer-beauty-discovery-app-mvp-pt-worldwide-est-time-olackti6zq",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
           "title": "Full-Stack Developer – Data-Driven Web Platform WW-PT",
           "url": "https://arc.dev/remote-jobs/details/full-stack-developer-data-driven-web-platform-ww-pt-ol3q54t0uf",
           "country": "Remote",
@@ -1100,15 +1115,22 @@
           "score": 2
         },
         {
-          "title": "Software Engineer (Zara)",
-          "url": "https://arc.dev/remote-jobs/j/micro1-software-engineer-zara-olaaxvi9cu",
+          "title": "Dashboards",
+          "url": "https://arc.dev/remote-jobs/dashboards",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Video Editing",
-          "url": "https://arc.dev/remote-jobs/video-editing",
+          "title": "Data Quality",
+          "url": "https://arc.dev/remote-jobs/data-quality",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Marketing Director – B2B | Events & Media 83K EUROS",
+          "url": "https://arc.dev/remote-jobs/j/mason-dale-recruitment-specialists-marketing-director-b2b-events-media-83k-euros-olizsku3n0",
           "country": "Remote",
           "description": "",
           "score": 2
