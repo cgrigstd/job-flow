@@ -1,6 +1,6 @@
 {
   "title": "JobFlow",
-  "updated": "2026-04-30 02:03",
+  "updated": "2026-05-01 02:07",
   "total_jobs": 156,
   "sites": [
     {
@@ -13,6 +13,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The Modeling Supervisor is responsible for the artistic and technical quality of all 3D models created ... more",
           "score": 8
+        },
+        {
+          "title": "Senior VFX Supervisor - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/senior-vfx-supervisor/job/519412/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Senior VFX Supervisor you will be responsible for determining the overall technical approach and ... more",
+          "score": 7
         },
         {
           "title": "Technical Director - Skydance",
@@ -48,6 +55,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Animator -VFX (All Levels) - ILM London\n\nJob Summary:\n\nPosition ... more",
           "score": 6
+        },
+        {
+          "title": "Unreal Engine Artist - Pixomondo",
+          "url": "https://www.entertainmentcareers.net/pixomondo/unreal-engine-artist/job/519414/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Unreal Artist (Applicants must hold KSA citizenship)\n\nWhat you'll be doing. \n• Work collaboratively ... more",
+          "score": 4
         },
         {
           "title": "Junior Creature Technical Director - Industrial Light & Magic",
@@ -113,13 +127,6 @@
           "score": 4
         },
         {
-          "title": "Feature Animator - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/feature-animator/job/519183/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Animator - Feature (All Levels) - ILM London\n\nJob Summary:\n\nPosition ... more",
-          "score": 4
-        },
-        {
           "title": "Visual Cinematic Designer - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/visual-cinematic-designer/job/510008/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -139,25 +146,18 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  In this entry-level role, you will provide administrative and general support to the production team ... more",
           "score": 2
-        },
-        {
-          "title": "Central Production Manager - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/central-production-manager/job/519177/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a proactive and people-focused Central Production Manager to support our Seoul (SEO) ... more",
-          "score": 2
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 18,
+      "job_count": 19,
       "jobs": [
         {
           "title": "Supergiant Games is hiring a Graphics & Animation Engineer to work from United States",
           "url": "https://www.workwithindies.com/careers/supergiant-games-graphics-animation-engineer",
           "country": "",
-          "description": "Our team is seeking an experienced Graphics & Animation Engineer to maintain, extend, and optimize our proprietary cross-platform rendering pipeline, 3D and 2D animation systems, and 2D VFX system, as well as the tools needed for modelers, riggers, and animators. Tags: [Programming] [Full",
+          "description": "Supergiant Games is seeking an experienced Graphics & Animation Engineer to maintain, extend, and optimize our proprietary cross-platform rendering pipeline, 3D and 2D animation systems, and 2D VFX system, as well as the tools needed for modelers, riggers, and animators. Tags: [Programming] [Full",
           "score": 16
         },
         {
@@ -189,11 +189,18 @@
           "score": 8
         },
         {
-          "title": "ekorz is hiring a Unreal Tech Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/ekorz-unreal-3d-artist",
+          "title": "Something’s Awry is hiring a Social Media Lead to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/somethings-awry-social-media-lead",
           "country": "",
-          "description": "ekorz is seeking an Unreal 3D Artist to help with pre-production on a new adventure / puzzle / mystery project. Tags: [Art & Animation]",
-          "score": 8
+          "description": "We’re looking for a social media lead who understands action adventure games to help us bring our upcoming indie title Drive! Cal Gal Drive! to life online. Tags: [Marketing & Community] [Part",
+          "score": 6
+        },
+        {
+          "title": "MCDM Productions is hiring a Token Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/mcdm-productions-token-artist",
+          "country": "",
+          "description": "MCDM Productions is Seeking a Token Artist for our Virtual Tabletop game, Draw Steel. Tags: [Art & Animation]",
+          "score": 6
         },
         {
           "title": "Reality Reload is hiring a Gameplay Programmer to work from Anywhere",
@@ -283,7 +290,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 11,
+      "job_count": 9,
       "jobs": [
         {
           "title": "Senior Tech Lead Mobile Developer Risora",
@@ -314,13 +321,6 @@
           "score": 9
         },
         {
-          "title": "Senior Security Engineer",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280",
-          "country": "",
-          "description": "About Bridgewater Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world's markets and economies",
-          "score": 9
-        },
-        {
           "title": "Front End Full Stack Developer",
           "url": "https://remoteOK.com/remote-jobs/remote-front-end-full-stack-developer-honor-foods-1131370",
           "country": "",
@@ -342,13 +342,6 @@
           "score": 7
         },
         {
-          "title": "Account Executive III",
-          "url": "https://remoteOK.com/remote-jobs/remote-account-executive-iii-sumo-logic-1131287",
-          "country": "",
-          "description": "As a Mid-Market Account Executive, you will be working on reinforcing our leadership in the mid-market space. You should demonstrate skills associated with working in a high-performance sales culture, especially demonstrating pipeline management, lead generation, contact network development and",
-          "score": 7
-        },
-        {
           "title": "Data Governance Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
           "country": "",
@@ -366,7 +359,7 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 6,
+      "job_count": 7,
       "jobs": [
         {
           "title": "VOID Interactive is hiring Senior Environment Artist (Remote Job)",
@@ -388,6 +381,13 @@
           "country": "",
           "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Associate Producer to join us remotely and",
           "score": 12
+        },
+        {
+          "title": "DreamForge is hiring Senior Unity Developer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/dreamforge-senior-unity-developer-remote-job",
+          "country": "",
+          "description": "Join The DreamForge Founding Team: Build an AI Video Game",
+          "score": 10
         },
         {
           "title": "Promorte Games is hiring UE5 Real Time VFX Artist (Remote Job)",
@@ -793,6 +793,13 @@
           "score": 5
         },
         {
+          "title": "Senior Marketing Manager — LATAM (iGaming, Crypto,Forex)",
+          "url": "https://arc.dev/remote-jobs/j/inferno-partners-senior-marketing-manager-latam-igaming-crypto-forex-olrwf3vfrf",
+          "country": "Remote",
+          "description": "",
+          "score": 5
+        },
+        {
           "title": "Game developer jobs",
           "url": "https://arc.dev/remote-jobs/game",
           "country": "Remote",
@@ -807,15 +814,15 @@
           "score": 4
         },
         {
-          "title": "Developer With Experience in Protopie",
-          "url": "https://arc.dev/remote-jobs/details/developer-with-experience-in-protopie-ol27dlt6u5",
+          "title": "Cloud Architect",
+          "url": "https://arc.dev/remote-jobs/details/cloud-architect-olto9kal9h",
           "country": "Remote",
           "description": "",
           "score": 4
         },
         {
-          "title": "Marketing Analyst (Digital Marketing Data)",
-          "url": "https://arc.dev/remote-jobs/j/lago-marketing-analyst-digital-marketing-data-ofkcxfl5nx",
+          "title": "Developer With Experience in Protopie",
+          "url": "https://arc.dev/remote-jobs/details/developer-with-experience-in-protopie-ol27dlt6u5",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -833,6 +840,13 @@
           "country": "Remote",
           "description": "",
           "score": 4
+        },
+        {
+          "title": "Senior Product Designer",
+          "url": "https://arc.dev/remote-jobs/j/xometry-senior-product-designer-olrvrks099",
+          "country": "Remote",
+          "description": "",
+          "score": 3
         },
         {
           "title": "Deep learning jobs",
@@ -1108,29 +1122,15 @@
           "score": 2
         },
         {
-          "title": "QA Tester (SaaS Platform) - Part-time - Worldwide",
-          "url": "https://arc.dev/remote-jobs/details/qa-tester-saas-platform-part-time-worldwide-okyaipp3u2",
+          "title": "Social media marketing",
+          "url": "https://arc.dev/remote-jobs/social-media-marketing",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Dashboards",
-          "url": "https://arc.dev/remote-jobs/dashboards",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Data Quality",
-          "url": "https://arc.dev/remote-jobs/data-quality",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Marketing Director – B2B | Events & Media 83K EUROS",
-          "url": "https://arc.dev/remote-jobs/j/mason-dale-recruitment-specialists-marketing-director-b2b-events-media-83k-euros-olizsku3n0",
+          "title": "User acquisition",
+          "url": "https://arc.dev/remote-jobs/user-acquisition",
           "country": "Remote",
           "description": "",
           "score": 2
