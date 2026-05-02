@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-01 02:07",
-  "total_jobs": 156,
+  "updated": "2026-05-02 01:54",
+  "total_jobs": 157,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 19,
+      "job_count": 20,
       "jobs": [
         {
           "title": "Supergiant Games is hiring a Graphics & Animation Engineer to work from United States",
@@ -187,6 +187,13 @@
           "country": "",
           "description": "Intelligible Games is seeking a Pixel Artist with the skills to adapt and reimagine bits of our character art within the constraints of Valve's emoticon requirements. Tags: [Art & Animation]",
           "score": 8
+        },
+        {
+          "title": "Braveshell Studio is hiring a Community Manager to work from Canada",
+          "url": "https://www.workwithindies.com/careers/braveshell-studio-community-manager",
+          "country": "",
+          "description": "Hello. We are Braveshell Studio, and we are looking for a community manager to help with our first video game. Tags: [Marketing & Community] [Part",
+          "score": 6
         },
         {
           "title": "Something’s Awry is hiring a Social Media Lead to work from Anywhere",
@@ -293,11 +300,11 @@
       "job_count": 9,
       "jobs": [
         {
-          "title": "Senior Tech Lead Mobile Developer Risora",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315",
+          "title": "Senior Frontend Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398",
           "country": "",
-          "description": "SKELAR — український венчур-білдер, який будує міжнародні tech-бізнеси. Разом із ко-фаундерами збираємо сильні команди, щоб перемагати на глобальних ринках.Сьогодні в SKELAR десяток бізнесів у різних нішах — від EdTech до маркетплейсів. Це компанії, що потрапляють у рейтинги ТОП-стартапів та",
-          "score": 11
+          "description": "We are hiring a contract-based Senior Frontend Developer for the garden3d creative collective with a focus on West Coast candidates.                                                                                                                                                                       ",
+          "score": 14
         },
         {
           "title": "Senior Full stack React Developer",
@@ -307,11 +314,11 @@
           "score": 10
         },
         {
-          "title": "Full Stack Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
+          "title": "Senior Software Developer Burnaby",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-burnaby-geotab-1131407",
           "country": "",
-          "description": "Envision Horizons is a global marketplace growth agency specializing in Amazon, Walmart, and other major retail media networks. Our team helps brands build awareness, capture market share, and drive profitability through data-driven strategy and execution.We believe high-performing teams are built",
-          "score": 10
+          "description": "Who we are:Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. Geotab is",
+          "score": 9
         },
         {
           "title": "Engineer Software",
@@ -319,6 +326,13 @@
           "country": "",
           "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly",
           "score": 9
+        },
+        {
+          "title": "Product Marketing Lead",
+          "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395",
+          "country": "",
+          "description": "AI agents are only as useful as the data they can reach. SaaS products are only as sticky as the integrations they support. Paragon sits at the intersection of both: integration infrastructure for the companies building the next generation of software. Our platform gives product and engineering",
+          "score": 8
         },
         {
           "title": "Front End Full Stack Developer",
@@ -332,13 +346,6 @@
           "url": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
           "country": "",
           "description": "TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We are a force multiplier for defenders, helping organizations enhance their cybersecurity posture through advanced threat detection, rapid response, and continuous protection. Our team is",
-          "score": 7
-        },
-        {
-          "title": "Data Engineer",
-          "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305",
-          "country": "",
-          "description": "About Pivotal HealthPivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While",
           "score": 7
         },
         {
@@ -786,13 +793,6 @@
       "job_count": 50,
       "jobs": [
         {
-          "title": "Remote - Full-Stack Engineer (Automation Architecture)",
-          "url": "https://arc.dev/remote-jobs/details/remote-full-stack-engineer-automation-architecture-okyf8oopzr",
-          "country": "Remote",
-          "description": "",
-          "score": 5
-        },
-        {
           "title": "Senior Marketing Manager — LATAM (iGaming, Crypto,Forex)",
           "url": "https://arc.dev/remote-jobs/j/inferno-partners-senior-marketing-manager-latam-igaming-crypto-forex-olrwf3vfrf",
           "country": "Remote",
@@ -814,15 +814,15 @@
           "score": 4
         },
         {
-          "title": "Cloud Architect",
-          "url": "https://arc.dev/remote-jobs/details/cloud-architect-olto9kal9h",
+          "title": "Cloud Architect (AWS, Terraform) - Part-time - NA/LATAM/EU",
+          "url": "https://arc.dev/remote-jobs/details/cloud-architect-aws-terraform-part-time-na-latam-eu-olto9kal9h",
           "country": "Remote",
           "description": "",
           "score": 4
         },
         {
-          "title": "Developer With Experience in Protopie",
-          "url": "https://arc.dev/remote-jobs/details/developer-with-experience-in-protopie-ol27dlt6u5",
+          "title": "Experienced Bubble.io Engineer - Part-time - Require 11am - 2pm EST availability",
+          "url": "https://arc.dev/remote-jobs/details/experienced-bubble-io-engineer-part-time-require-11am-2pm-est-availability-olrgnjbvmw",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -840,6 +840,13 @@
           "country": "Remote",
           "description": "",
           "score": 4
+        },
+        {
+          "title": "Senior Lead Full-Stack Engineer - Fulltime - NA/LATAM",
+          "url": "https://arc.dev/remote-jobs/details/senior-lead-full-stack-engineer-fulltime-na-latam-oljq1ln831",
+          "country": "Remote",
+          "description": "",
+          "score": 3
         },
         {
           "title": "Senior Product Designer",
@@ -1101,22 +1108,22 @@
           "score": 2
         },
         {
+          "title": "Lead Full-Stack Engineer (Node/Python, React) - Overlap with EST",
+          "url": "https://arc.dev/remote-jobs/details/lead-full-stack-engineer-node-python-react-overlap-with-est-om0qn1igzd",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Backend Engineer (Node, nuxt, typescript)- Part-time - NA/LATAM/EU",
+          "url": "https://arc.dev/remote-jobs/details/backend-engineer-node-nuxt-typescript-part-time-na-latam-eu-oltrr7uwmz",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
           "title": "React Native Developer (Beauty Discovery App MVP) - PT - Worldwide/EST time",
           "url": "https://arc.dev/remote-jobs/details/react-native-developer-beauty-discovery-app-mvp-pt-worldwide-est-time-olackti6zq",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Full-Stack Developer – Data-Driven Web Platform WW-PT",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-developer-data-driven-web-platform-ww-pt-ol3q54t0uf",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "GitHub",
-          "url": "https://arc.dev/remote-jobs/github",
           "country": "Remote",
           "description": "",
           "score": 2
