@@ -1,12 +1,19 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-02 01:54",
-  "total_jobs": 157,
+  "updated": "2026-05-03 01:58",
+  "total_jobs": 156,
   "sites": [
     {
       "name": "Entertainment Careers",
       "job_count": 20,
       "jobs": [
+        {
+          "title": "VFX Executive Producer (Business Development) - Visionary FX",
+          "url": "https://www.entertainmentcareers.net/visionary-fx/vfx-executive-producer-business-development/job/519673/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  OVERVIEW\n\nAs the studio enters a focused growth phase, we are seeking a senior Executive ... more",
+          "score": 9
+        },
         {
           "title": "3D Modeling Supervisor - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/3d-modeling-supervisor/job/507489/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -47,13 +54,6 @@
           "url": "https://www.entertainmentcareers.net/skydance/technical-director-animation/job/499294/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Technical Director, you will design and develop innovative ... more",
-          "score": 6
-        },
-        {
-          "title": "VFX Animator - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/vfx-animator/job/519184/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Animator -VFX (All Levels) - ILM London\n\nJob Summary:\n\nPosition ... more",
           "score": 6
         },
         {
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 20,
+      "job_count": 18,
       "jobs": [
         {
           "title": "Supergiant Games is hiring a Graphics & Animation Engineer to work from United States",
@@ -266,20 +266,6 @@
           "score": 4
         },
         {
-          "title": "Raw Fury is hiring a Publishing Producer (LatAm) to work from Latin America",
-          "url": "https://www.workwithindies.com/careers/raw-fury-publishing-producer-latam",
-          "country": "",
-          "description": "Raw Fury is looking for a Publishing Producer located in the LatAm region to help us connecting games with players as we expand and add some extra focus in region. Tags: [Production] [Full",
-          "score": 4
-        },
-        {
-          "title": "Prefabot is hiring a Art Director / Principal Lead Artist to work from Thornhill, ON",
-          "url": "https://www.workwithindies.com/careers/prefabot-art-director-principal-lead-artist",
-          "country": "",
-          "description": "We're not just hiring an Art Director — we're looking for a founder-level creative leader who wants to leave their fingerprints on an entire IP. Tags: [Art & Animation] [Full",
-          "score": 4
-        },
-        {
           "title": "Dreamaloid Studios is hiring a Level Layout Designer to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/dreamaloid-studios-level-layout-designer",
           "country": "",
@@ -297,7 +283,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 9,
+      "job_count": 10,
       "jobs": [
         {
           "title": "Senior Frontend Developer",
@@ -335,6 +321,13 @@
           "score": 8
         },
         {
+          "title": "Digital Full Stack Engineer HR172",
+          "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+          "country": "",
+          "description": "About Smart WorkingAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that",
+          "score": 7
+        },
+        {
           "title": "Front End Full Stack Developer",
           "url": "https://remoteOK.com/remote-jobs/remote-front-end-full-stack-developer-honor-foods-1131370",
           "country": "",
@@ -342,11 +335,11 @@
           "score": 7
         },
         {
-          "title": "Territory Account Manager",
-          "url": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
+          "title": "Data Conversion Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-data-conversion-developer-grant-street-group-1131433",
           "country": "",
-          "description": "TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We are a force multiplier for defenders, helping organizations enhance their cybersecurity posture through advanced threat detection, rapid response, and continuous protection. Our team is",
-          "score": 7
+          "description": "Grant Street Group is looking for data conversion developers with strong programming and database skills. If the following describes you, we want to hear from you!You enjoy writing great code. At Grant Street, you will write data conversion code to migrate clients to our TaxSys software. You’ll use",
+          "score": 6
         },
         {
           "title": "Data Governance Engineer",
@@ -793,11 +786,18 @@
       "job_count": 50,
       "jobs": [
         {
-          "title": "Senior Marketing Manager — LATAM (iGaming, Crypto,Forex)",
-          "url": "https://arc.dev/remote-jobs/j/inferno-partners-senior-marketing-manager-latam-igaming-crypto-forex-olrwf3vfrf",
+          "title": "Senior Python Software Engineer - Remote - Latin America",
+          "url": "https://arc.dev/remote-jobs/j/fullstack-senior-python-software-engineer-remote-latin-america-ombsmdbquy",
           "country": "Remote",
           "description": "",
-          "score": 5
+          "score": 6
+        },
+        {
+          "title": "Contract: Senior Software Engineer, Back End\nRemote: Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
+          "url": "https://arc.dev/remote-jobs/j/formative-contract-senior-software-engineer-back-end-remote-argentina-brazil-chile-colombia-costa-rica-mexico-ombsodml6m",
+          "country": "Remote",
+          "description": "",
+          "score": 6
         },
         {
           "title": "Game developer jobs",
@@ -828,13 +828,6 @@
           "score": 4
         },
         {
-          "title": "Digital marketing",
-          "url": "https://arc.dev/remote-jobs/digital-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
           "title": "Software Development",
           "url": "https://arc.dev/remote-jobs/software-development",
           "country": "Remote",
@@ -844,13 +837,6 @@
         {
           "title": "Senior Lead Full-Stack Engineer - Fulltime - NA/LATAM",
           "url": "https://arc.dev/remote-jobs/details/senior-lead-full-stack-engineer-fulltime-na-latam-oljq1ln831",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
-          "title": "Senior Product Designer",
-          "url": "https://arc.dev/remote-jobs/j/xometry-senior-product-designer-olrvrks099",
           "country": "Remote",
           "description": "",
           "score": 3
@@ -1122,22 +1108,29 @@
           "score": 2
         },
         {
-          "title": "React Native Developer (Beauty Discovery App MVP) - PT - Worldwide/EST time",
-          "url": "https://arc.dev/remote-jobs/details/react-native-developer-beauty-discovery-app-mvp-pt-worldwide-est-time-olackti6zq",
+          "title": "Software Engineer, Athelas Home",
+          "url": "https://arc.dev/remote-jobs/j/commure-software-engineer-athelas-home-ombsddfmp0",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Social media marketing",
-          "url": "https://arc.dev/remote-jobs/social-media-marketing",
+          "title": "Cybersecurity",
+          "url": "https://arc.dev/remote-jobs/cybersecurity",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "User acquisition",
-          "url": "https://arc.dev/remote-jobs/user-acquisition",
+          "title": "Firmware",
+          "url": "https://arc.dev/remote-jobs/firmware",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Ux writing",
+          "url": "https://arc.dev/remote-jobs/ux-writing",
           "country": "Remote",
           "description": "",
           "score": 2
