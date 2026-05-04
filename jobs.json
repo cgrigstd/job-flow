@@ -1,6 +1,6 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-03 01:58",
+  "updated": "2026-05-04 01:59",
   "total_jobs": 156,
   "sites": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 18,
+      "job_count": 14,
       "jobs": [
         {
           "title": "Supergiant Games is hiring a Graphics & Animation Engineer to work from United States",
@@ -179,13 +179,6 @@
           "url": "https://www.workwithindies.com/careers/peculiar-path-generalist-unreal-developer",
           "country": "",
           "description": "We’re looking for a Generalist Unreal Developer who’s excited by systems-driven design and collaborative problem-solving and learning on the fly. Tags: [Programming]",
-          "score": 8
-        },
-        {
-          "title": "Intelligible Games is hiring a Pixel Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/intelligible-games-pixel-artist",
-          "country": "",
-          "description": "Intelligible Games is seeking a Pixel Artist with the skills to adapt and reimagine bits of our character art within the constraints of Valve's emoticon requirements. Tags: [Art & Animation]",
           "score": 8
         },
         {
@@ -231,38 +224,17 @@
           "score": 6
         },
         {
-          "title": "Torpor Games is hiring a Associate Lead Writer (m/f/d) to work from Berlin, DE",
-          "url": "https://www.workwithindies.com/careers/torpor-games-associate-lead-writer-m-f-d",
+          "title": "Quest Fox is hiring a Creative Trailer Editor to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/quest-fox-creative-trailer-editor",
           "country": "",
-          "description": "Torpor Games is seeking an Associate Lead Writer to be the primary creative authority for writing on Suzerain: Project Vanguard. Tags: [Writing] [Full",
-          "score": 6
-        },
-        {
-          "title": "Six Ton Axe Games is hiring a Social Media Content Strategist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/six-ton-axe-games-social-media-content-strategist",
-          "country": "",
-          "description": "We are seeking a Social Media Content Strategist to help us with content rollout for our upcoming debut horror title.  Tags: [Marketing & Community]",
-          "score": 6
-        },
-        {
-          "title": "Exothermic is hiring a Sci-fi Game Knowledge Specialist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/exothermic-sci-fi-game-knowledge-specialist",
-          "country": "",
-          "description": "We’re looking for someone passionate and not a jerk about sci-fi games to help support and grow a small but dedicated community across forums, wikis, Discord, and other social channels. Tags: [Marketing & Community] [Part",
-          "score": 6
+          "description": "Quest Fox Studio is seeking a Creative Trailer Editor to help with creating a trailer for an upcoming stylized character generator for the Unity Asset Store. Tags: [Marketing & Community]",
+          "score": 4
         },
         {
           "title": "Untitled Advertising is hiring a Social Media and Community Lead to work from Canada",
           "url": "https://www.workwithindies.com/careers/untitled-advertising-social-media-and-community-lead",
           "country": "",
           "description": "We’re looking for a Social Media and Community Lead to lead content and community engagement across TikTok, Instagram, Discord, and YouTube for a variety of clients. Tags: [Marketing & Community] [Full",
-          "score": 4
-        },
-        {
-          "title": "Torpor Games is hiring a Lead Writer (m/f/d) to work from Berlin, DE",
-          "url": "https://www.workwithindies.com/careers/torpor-games-lead-writer-m-f-d",
-          "country": "",
-          "description": "Torpor Games is seeking a Lead Writer to be responsible for writing leadership on our upcoming game, The Conformist Tags: [Writing] [Full",
           "score": 4
         },
         {
@@ -283,7 +255,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 10,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Senior Frontend Developer",
@@ -312,6 +284,13 @@
           "country": "",
           "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly",
           "score": 9
+        },
+        {
+          "title": "Junior Mid Full Stack Software Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
+          "country": "",
+          "description": "OverviewBlack Canyon Consulting (BCC) is working with our partner Knowledge3 (knowledge3.ai) to search for a Junior/Mid Full Stack Software Engineer with DevOps exposure supporting delivery of knowledge-first systems. You will build systems that turn fragmented scientific and enterprise data into",
+          "score": 8
         },
         {
           "title": "Product Marketing Lead",
@@ -359,27 +338,13 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 7,
+      "job_count": 10,
       "jobs": [
-        {
-          "title": "VOID Interactive is hiring Senior Environment Artist (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/void-interactive-senior-environment-artist-remote-job",
-          "country": "",
-          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Associate Producer to join us remotely and",
-          "score": 14
-        },
         {
           "title": "Lobah is hiring Senior Backend Engineer (C#, Live Service / UE5 Game) (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/lobah-senior-backend-engineer-c-live-service-ue5-game-remote-job-879909cc-a83c-4b2c-baf3-8aa641c38dc8",
           "country": "",
           "description": "Senior Backend Engineer (C#, Live Service / UE5 Game)\nAbout the Role\nWe are developing a third-person competitive shooter in Unreal Engine 5, currently in beta testing, with a strong focus on long-term player retention and monetization systems (battle pass, seasons, progression, cosmetics,",
-          "score": 12
-        },
-        {
-          "title": "VOID Interactive is hiring Associate Producer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/void-interactive-associate-producer-remote-job",
-          "country": "",
-          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Associate Producer to join us remotely and",
           "score": 12
         },
         {
@@ -390,11 +355,46 @@
           "score": 10
         },
         {
+          "title": "Thatgamecompany is hiring Senior Engine Programmer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-senior-engine-programmer-remote-job",
+          "country": "",
+          "description": "We’re looking for an exceptional Senior Engine Programmer to join our live team to help craft the most advanced social game on",
+          "score": 8
+        },
+        {
+          "title": "Saguni Studio is hiring Animation Lead (Dark Fantasy ARPG) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/saguni-studio-animation-lead-dark-fantasy-arpg-remote-job",
+          "country": "",
+          "description": "To help us process your application efficiently, please start your email subject line with",
+          "score": 7
+        },
+        {
+          "title": "Thatgamecompany is hiring Technical Game Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-technical-game-designer-remote-job-7d9136ec-72c9-42f9-91b3-1026a33f5f3e",
+          "country": "",
+          "description": "We are a small studio dedicated to crafting unique and high-quality interactive experiences, and we are looking for a talented designer-programmer hybrid who will collaborate with both the engineering and design teams. The goal in this role is to drive the creation and improvement of core gameplay",
+          "score": 7
+        },
+        {
+          "title": "Thatgamecompany is hiring UI Technical Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-ui-technical-designer-remote-job",
+          "country": "",
+          "description": "At thatgamecompany, we strive to create beautiful and intuitive UI, which embraces and contributes to the emotional experiences of our games. Our company is known for having a distinct perspective on what games can be, and crafting unique experiences that players can’t find elsewhere as a result;",
+          "score": 7
+        },
+        {
           "title": "Promorte Games is hiring UE5 Real Time VFX Artist (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/promorte-games-ue5-real-time-vfx-artist-remote-job",
           "country": "",
           "description": "Real Time VFX",
           "score": 7
+        },
+        {
+          "title": "Thatgamecompany is hiring Gameplay Engineer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-gameplay-engineer-remote-job-62000669-f187-43c9-9f41-d2e41a325afe",
+          "country": "",
+          "description": "We’re looking for an exceptional Gameplay Engineer to join our live team to help craft the most advanced social game on earth. Elements that can help us meet the demands of this complex product, while presenting an interface to the user which exemplifies the elegance that TGC is known",
+          "score": 5
         },
         {
           "title": "Cozy Game Studio is hiring Game Designer (Mobile Games) (Remote Job)",
@@ -404,10 +404,10 @@
           "score": 5
         },
         {
-          "title": "VOID Interactive is hiring Gameplay Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/void-interactive-gameplay-engineer-remote-job",
+          "title": "Thatgamecompany is hiring Lead Systems Designer (Economy and Engagement Focus) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-lead-systems-designer-economy-and-engagement-focus-remote-job",
           "country": "",
-          "description": "We're VOID Interactive, the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic Gameplay Engineer to join us remotely and help",
+          "description": "Reports to: Design",
           "score": 3
         }
       ]
@@ -786,18 +786,11 @@
       "job_count": 50,
       "jobs": [
         {
-          "title": "Senior Python Software Engineer - Remote - Latin America",
-          "url": "https://arc.dev/remote-jobs/j/fullstack-senior-python-software-engineer-remote-latin-america-ombsmdbquy",
+          "title": "Senior Marketing Manager WW-PT",
+          "url": "https://arc.dev/remote-jobs/details/senior-marketing-manager-ww-pt-omd2p1r15p",
           "country": "Remote",
           "description": "",
-          "score": 6
-        },
-        {
-          "title": "Contract: Senior Software Engineer, Back End\nRemote: Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
-          "url": "https://arc.dev/remote-jobs/j/formative-contract-senior-software-engineer-back-end-remote-argentina-brazil-chile-colombia-costa-rica-mexico-ombsodml6m",
-          "country": "Remote",
-          "description": "",
-          "score": 6
+          "score": 5
         },
         {
           "title": "Game developer jobs",
@@ -814,15 +807,22 @@
           "score": 4
         },
         {
-          "title": "Cloud Architect (AWS, Terraform) - Part-time - NA/LATAM/EU",
-          "url": "https://arc.dev/remote-jobs/details/cloud-architect-aws-terraform-part-time-na-latam-eu-olto9kal9h",
+          "title": "Angular Developer",
+          "url": "https://arc.dev/remote-jobs/details/angular-developer-omjvg8mcf3",
           "country": "Remote",
           "description": "",
           "score": 4
         },
         {
-          "title": "Experienced Bubble.io Engineer - Part-time - Require 11am - 2pm EST availability",
-          "url": "https://arc.dev/remote-jobs/details/experienced-bubble-io-engineer-part-time-require-11am-2pm-est-availability-olrgnjbvmw",
+          "title": "Remote - Senior Full stack Engineer",
+          "url": "https://arc.dev/remote-jobs/details/remote-senior-full-stack-engineer-omdz9xhz1u",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Digital marketing",
+          "url": "https://arc.dev/remote-jobs/digital-marketing",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -833,13 +833,6 @@
           "country": "Remote",
           "description": "",
           "score": 4
-        },
-        {
-          "title": "Senior Lead Full-Stack Engineer - Fulltime - NA/LATAM",
-          "url": "https://arc.dev/remote-jobs/details/senior-lead-full-stack-engineer-fulltime-na-latam-oljq1ln831",
-          "country": "Remote",
-          "description": "",
-          "score": 3
         },
         {
           "title": "Deep learning jobs",
@@ -1108,22 +1101,22 @@
           "score": 2
         },
         {
-          "title": "Software Engineer, Athelas Home",
-          "url": "https://arc.dev/remote-jobs/j/commure-software-engineer-athelas-home-ombsddfmp0",
+          "title": "Integrated Marketing Lead",
+          "url": "https://arc.dev/remote-jobs/j/vantage-integrated-marketing-lead-og237k6uy9",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Cybersecurity",
-          "url": "https://arc.dev/remote-jobs/cybersecurity",
+          "title": "User acquisition",
+          "url": "https://arc.dev/remote-jobs/user-acquisition",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Firmware",
-          "url": "https://arc.dev/remote-jobs/firmware",
+          "title": "Social media marketing",
+          "url": "https://arc.dev/remote-jobs/social-media-marketing",
           "country": "Remote",
           "description": "",
           "score": 2
@@ -1131,6 +1124,13 @@
         {
           "title": "Ux writing",
           "url": "https://arc.dev/remote-jobs/ux-writing",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Brand identity",
+          "url": "https://arc.dev/remote-jobs/brand-identity",
           "country": "Remote",
           "description": "",
           "score": 2
