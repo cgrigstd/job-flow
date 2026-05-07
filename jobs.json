@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-06 01:58",
-  "total_jobs": 152,
+  "updated": "2026-05-07 02:01",
+  "total_jobs": 148,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -34,6 +34,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The VFX Producer at Eyeline Seoul leads the end-to-end delivery of visual effects projects, serving ... more",
           "score": 6
+        },
+        {
+          "title": "VFX Artist - Dhar Mann Studios",
+          "url": "https://www.entertainmentcareers.net/dhar-mann-studios/vfx-artist/job/519889/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  BIG PICTURE:\n\nWe are searching for a talented and detailed VFX Artist to help us ... more",
+          "score": 4
         },
         {
           "title": "VFX Employee Life Cycle Manager - Eyeline",
@@ -120,13 +127,6 @@
           "score": 2
         },
         {
-          "title": "Creative Director - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/creative-director/job/508053/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  This role will oversee the aspects of Eyeline's content creation that are most closely aligned ... more",
-          "score": 2
-        },
-        {
           "title": "FX Artist - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/fx-artist/job/510650/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -151,15 +151,8 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 14,
+      "job_count": 11,
       "jobs": [
-        {
-          "title": "Supergiant Games is hiring a Graphics & Animation Engineer to work from United States",
-          "url": "https://www.workwithindies.com/careers/supergiant-games-graphics-animation-engineer",
-          "country": "",
-          "description": "Supergiant Games is seeking an experienced Graphics & Animation Engineer to maintain, extend, and optimize our proprietary cross-platform rendering pipeline, 3D and 2D animation systems, and 2D VFX system, as well as the tools needed for modelers, riggers, and animators. Tags: [Programming] [Full",
-          "score": 16
-        },
         {
           "title": "Roboto Games is hiring a Senior Combat Technical Animator (Unity) to work from PT ± 4 hours",
           "url": "https://www.workwithindies.com/careers/roboto-games-senior-combat-technical-animator-unity",
@@ -192,7 +185,7 @@
           "title": "Majestic Mind Games is hiring a Senior Game Designer to work from CET ± 4 hours",
           "url": "https://www.workwithindies.com/careers/majestic-mind-games-senior-game-designer",
           "country": "",
-          "description": "We are looking for a bright and passionate game designer who is capable of crafting creative and clever gameplay experiences Tags: [Design] [Full",
+          "description": "We are looking for a bright and passionate game designer who is capable of crafting creative and clever gameplay experiences Tags: [Design]",
           "score": 7
         },
         {
@@ -207,20 +200,6 @@
           "url": "https://www.workwithindies.com/careers/braveshell-studio-community-manager",
           "country": "",
           "description": "Hello. We are Braveshell Studio, and we are looking for a community manager to help with our first video game. Tags: [Marketing & Community] [Part",
-          "score": 6
-        },
-        {
-          "title": "Something’s Awry is hiring a Social Media Lead to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/somethings-awry-social-media-lead",
-          "country": "",
-          "description": "We’re looking for a social media lead who understands action adventure games to help us bring our upcoming indie title Drive! Cal Gal Drive! to life online. Tags: [Marketing & Community] [Part",
-          "score": 6
-        },
-        {
-          "title": "MCDM Productions is hiring a Token Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/mcdm-productions-token-artist",
-          "country": "",
-          "description": "MCDM Productions is Seeking a Token Artist for our Virtual Tabletop game, Draw Steel. Tags: [Art & Animation]",
           "score": 6
         },
         {
@@ -255,7 +234,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 7,
+      "job_count": 8,
       "jobs": [
         {
           "title": "Senior Frontend Developer",
@@ -263,6 +242,20 @@
           "country": "",
           "description": "We are hiring a contract-based Senior Frontend Developer for the garden3d creative collective with a focus on West Coast candidates.                                                                                                                                                                       ",
           "score": 14
+        },
+        {
+          "title": "Senior Backend Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
+          "country": "",
+          "description": "About AkuityWith the move to the cloud, Kubernetes has become widely adopted by DevOps and Platform Engineering teams, but it has also added complexity. While scaling Kubernetes at Intuit, the Akuity founders started building Argo CD in order to streamline the adoption of Kubernetes. Argo CD helps",
+          "score": 9
+        },
+        {
+          "title": "UI Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1131473",
+          "country": "",
+          "description": "About the Role The Senior UI Developer acts as a technical pillar and strategic lead within our engineering and branding teams. You are responsible for the architectural integrity of the RainFocus platform's user interfaces, ensuring our software elevates the attendee experience for in-person,",
+          "score": 9
         },
         {
           "title": "Senior Software Developer Burnaby",
@@ -293,13 +286,6 @@
           "score": 7
         },
         {
-          "title": "Front End Full Stack Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-front-end-full-stack-developer-honor-foods-1131370",
-          "country": "",
-          "description": "Front-End / Full Stack Developer (React + Java)📍 Remote | Full-TimeWant to build tech that actually moves a business? At Honor Foods, our developers power real-world logistics—systems that keep products flowing and customers happy.We're looking for a front-end focused developer who loves clean UI",
-          "score": 7
-        },
-        {
           "title": "Data Conversion Developer",
           "url": "https://remoteOK.com/remote-jobs/remote-data-conversion-developer-grant-street-group-1131433",
           "country": "",
@@ -310,15 +296,8 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 9,
+      "job_count": 8,
       "jobs": [
-        {
-          "title": "Lobah is hiring Senior Backend Engineer (C#, Live Service / UE5 Game) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/lobah-senior-backend-engineer-c-live-service-ue5-game-remote-job-879909cc-a83c-4b2c-baf3-8aa641c38dc8",
-          "country": "",
-          "description": "Senior Backend Engineer (C#, Live Service / UE5 Game)\nAbout the Role\nWe are developing a third-person competitive shooter in Unreal Engine 5, currently in beta testing, with a strong focus on long-term player retention and monetization systems (battle pass, seasons, progression, cosmetics,",
-          "score": 12
-        },
         {
           "title": "DreamForge is hiring Senior Unity Developer (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/dreamforge-senior-unity-developer-remote-job",
@@ -332,6 +311,13 @@
           "country": "",
           "description": "We’re looking for an exceptional Senior Engine Programmer to join our live team to help craft the most advanced social game on",
           "score": 8
+        },
+        {
+          "title": "Cozy Game Studio is hiring Narrative Designer (Mobile Games) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/cozy-game-studio-narrative-designer-mobile-games-remote-job",
+          "country": "",
+          "description": "We are looking for a Narrative Designer/Writer for a 4-month contract (preferably freelance) starting in May. As our Narrative Designer, you will play a pivotal role in shaping the soul of Spirit World. You will collaborate closely with the team to flesh out a cozy magical world that feels alive",
+          "score": 7
         },
         {
           "title": "Saguni Studio is hiring Animation Lead (Dark Fantasy ARPG) (Remote Job)",
@@ -362,13 +348,6 @@
           "score": 5
         },
         {
-          "title": "Cozy Game Studio is hiring Game Designer (Mobile Games) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/cozy-game-studio-game-designer-mobile-games-remote-job",
-          "country": "",
-          "description": "Cozy Game Studio is looking for a Game Designer for a 4-month contract (full-time or",
-          "score": 5
-        },
-        {
           "title": "Thatgamecompany is hiring Lead Systems Designer (Economy and Engagement Focus) (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/thatgamecompany-lead-systems-designer-economy-and-engagement-focus-remote-job",
           "country": "",
@@ -382,11 +361,11 @@
       "job_count": 2,
       "jobs": [
         {
-          "title": "[PAID] [Remote] We're looking for a really fast rigger to consult with us on our rigging pipeline",
-          "url": "https://polycount.com/discussion/238537/paid-remote-were-looking-for-a-really-fast-rigger-to-consult-with-us-on-our-rigging-pipeline",
+          "title": "[PAID] FPS Weapon Animator/Rigger Needed",
+          "url": "https://polycount.com/discussion/238556/paid-fps-weapon-animator-rigger-needed",
           "country": "",
-          "description": "Hi all,\nI’m an Art Department Director at a game studio, and we’re specifically looking for a very fast character rigger to help us evaluate and improve our rigging pipeline.\nSpeed is the primary focus here. We’re looking for someone who can turn around solid, game-ready rigs quickly and",
-          "score": 13
+          "description": "Hi everyone,We are looking for a first-person weapon animator/rigger for our tactical FPS project, built in s&box / Source 2.We will provide:weapon modelalready rigged first-person armstextures/materials (if requested)reference examples for weapon positioning and animation style (if requested)The",
+          "score": 12
         },
         {
           "title": "Animador/a 3D y Especialista en Efectos Visuales para Unity y Realidad Extendida",
@@ -761,14 +740,14 @@
           "title": "Disenador Programador Con Experiencia En Unity C Contratos Inteligentes Blockchain Ref 22 487",
           "url": "https://www.imagecampus.edu.ar/busqueda/disenador-programador-con-experiencia-en-unity-c-contratos-inteligentes-blockchain-ref-22-487",
           "country": "Argentina",
-          "description": "Se busca incorporar talentos para involucrarse en la creación de un nuevo juego carreras de autos que utiliza la blockchain y tecnologías emergentes para proveer una experiencia diferenciadora. Inmejorable ambiente de trabajo y oportunidad de ser parte de la disrupción que significa la nueva",
+          "description": "Se busca incorporar talentos para involucrarse en la creación de un nuevo juego carreras de autos  que utiliza la blockchain y tecnologías emergentes para proveer una experiencia diferenciadora. Inmejorable ambiente de trabajo y oportunidad de ser parte de la disrupción que significa la nueva",
           "score": 4
         }
       ]
     },
     {
       "name": "ArcDev",
-      "job_count": 49,
+      "job_count": 48,
       "jobs": [
         {
           "title": "Senior TypeScript Developer — Real-Time Web Monitoring (Contract, Remote)",
@@ -815,13 +794,6 @@
         {
           "title": "Software Development",
           "url": "https://arc.dev/remote-jobs/software-development",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
-          "url": "https://arc.dev/remote-jobs/j/canonical-open-source-networking-software-engineer-tor-switch-smartnic-dpu-msxd9u8c1z",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1093,15 +1065,15 @@
           "score": 2
         },
         {
-          "title": "Founding Engineer (Python, Sveltekit, AWS) - Overlap with US timezone",
-          "url": "https://arc.dev/remote-jobs/details/founding-engineer-python-sveltekit-aws-overlap-with-us-timezone-omt7uyf8k3",
+          "title": "Full-Stack AI Developer (MVP, Langgraph) - Fulltime - NA/LATAM/EU",
+          "url": "https://arc.dev/remote-jobs/details/full-stack-ai-developer-mvp-langgraph-fulltime-na-latam-eu-on7gbrps9r",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "SvelteKit",
-          "url": "https://arc.dev/remote-jobs/sveltekit",
+          "title": "Software Engineer – AI Model Tester",
+          "url": "https://arc.dev/remote-jobs/j/alignerr-software-engineer-ai-model-tester-ofag9ilhgt",
           "country": "Remote",
           "description": "",
           "score": 2
