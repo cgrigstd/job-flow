@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-07 02:01",
-  "total_jobs": 148,
+  "updated": "2026-05-08 02:07",
+  "total_jobs": 152,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -54,13 +54,6 @@
           "url": "https://www.entertainmentcareers.net/eyeline/vfx-production-manager/job/510513/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The Production Manager (DPM) reports to the VFX Producer and Head of Production and assists the VFX ... more",
-          "score": 4
-        },
-        {
-          "title": "Administrative Assistant, VFX Operations - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/administrative-assistant-vfx-operations/job/513799/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking an Administrative Assistant to support Eyeline's Director of VFX Operations.  This ... more",
           "score": 4
         },
         {
@@ -120,6 +113,13 @@
           "score": 4
         },
         {
+          "title": "Technical Assistant - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/technical-assistant/job/517180/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nJob Description\n\nPosition Summary\n\nThe Technical ... more",
+          "score": 4
+        },
+        {
           "title": "Environment Artist - Sony Imageworks",
           "url": "https://www.entertainmentcareers.net/sony-imageworks/environment-artist/job/497501/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -151,8 +151,15 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 11,
+      "job_count": 15,
       "jobs": [
+        {
+          "title": "Torpor Games is hiring a Senior Technical Artist (m/f/d) to work from Berlin, DE",
+          "url": "https://www.workwithindies.com/careers/torpor-games-senior-technical-artist-m-f-d",
+          "country": "",
+          "description": "Torpor Games is seeking a Technical Artist to build and maintain the rendering pipeline for The Conformist, translating 2D art direction into a functioning 3D visual system within Unity. Tags: [Art & Animation] [Full",
+          "score": 17
+        },
         {
           "title": "Roboto Games is hiring a Senior Combat Technical Animator (Unity) to work from PT ± 4 hours",
           "url": "https://www.workwithindies.com/careers/roboto-games-senior-combat-technical-animator-unity",
@@ -182,11 +189,32 @@
           "score": 9
         },
         {
+          "title": "Panna Cotta Software is hiring a Illustrator / Character Illustrator to work from Canada",
+          "url": "https://www.workwithindies.com/careers/panna-cotta-software-illustrator-character-illustrator",
+          "country": "",
+          "description": "Panna Cotta Software is seeking a freelance Illustrator / Character Illustrator to produce characters and items for our horror / dark fantasy themed digital card game. Tags: [Art & Animation]",
+          "score": 8
+        },
+        {
+          "title": "Torpor Games is hiring a Narrative Designer (m/f/d) to work from Berlin, DE",
+          "url": "https://www.workwithindies.com/careers/torpor-games-narrative-designer-m-f-d",
+          "country": "",
+          "description": "Torpor Games is seeking a Narrative Designer to take ownership of key narrative design and content development for Suzerain: Project Vanguard. Tags: [Writing] [Full",
+          "score": 8
+        },
+        {
           "title": "Majestic Mind Games is hiring a Senior Game Designer to work from CET ± 4 hours",
           "url": "https://www.workwithindies.com/careers/majestic-mind-games-senior-game-designer",
           "country": "",
           "description": "We are looking for a bright and passionate game designer who is capable of crafting creative and clever gameplay experiences Tags: [Design]",
           "score": 7
+        },
+        {
+          "title": "The Secret Games Company is hiring a Marketing Manager to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/the-secret-games-company-marketing-manager",
+          "country": "",
+          "description": "Secret Games Co is seeking a Marketing Manager to lead marketing efforts for Bon Vivant, a strategy / management roguelite. Tags: [Marketing & Community] [Full",
+          "score": 6
         },
         {
           "title": "Quest Fox is hiring a Character Concept Artist to work from Anywhere",
@@ -196,11 +224,11 @@
           "score": 6
         },
         {
-          "title": "Braveshell Studio is hiring a Community Manager to work from Canada",
-          "url": "https://www.workwithindies.com/careers/braveshell-studio-community-manager",
+          "title": "Starfall PR is hiring a Junior Public Relations Executive to work from United States",
+          "url": "https://www.workwithindies.com/careers/starfall-pr-junior-public-relations-executive",
           "country": "",
-          "description": "Hello. We are Braveshell Studio, and we are looking for a community manager to help with our first video game. Tags: [Marketing & Community] [Part",
-          "score": 6
+          "description": "We are seeking a highly motivated Junior Public Relations Executive to join our remote team at Starfall PR.  Tags: [Marketing & Community]",
+          "score": 5
         },
         {
           "title": "Empty Exhibit is hiring a Puzzle Designer to work from PT ± 4 hours",
@@ -234,15 +262,8 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 8,
+      "job_count": 7,
       "jobs": [
-        {
-          "title": "Senior Frontend Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398",
-          "country": "",
-          "description": "We are hiring a contract-based Senior Frontend Developer for the garden3d creative collective with a focus on West Coast candidates.                                                                                                                                                                       ",
-          "score": 14
-        },
         {
           "title": "Senior Backend Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
@@ -272,18 +293,18 @@
           "score": 8
         },
         {
-          "title": "Product Marketing Lead",
-          "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395",
-          "country": "",
-          "description": "AI agents are only as useful as the data they can reach. SaaS products are only as sticky as the integrations they support. Paragon sits at the intersection of both: integration infrastructure for the companies building the next generation of software. Our platform gives product and engineering",
-          "score": 8
-        },
-        {
           "title": "Digital Full Stack Engineer HR172",
           "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
           "country": "",
           "description": "About Smart WorkingAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that",
           "score": 7
+        },
+        {
+          "title": "Curriculum Developer Aerospace Technician",
+          "url": "https://remoteOK.com/remote-jobs/remote-curriculum-developer-aerospace-technician-correlation-one-1131490",
+          "country": "",
+          "description": "Correlation One is the largest provider of AI and data workforce development programs globally, having trained over 500,000 professionals across 11 countries. As the largest training provider for Amazon Career Choice, and a growing partner to state governments building registered apprenticeship",
+          "score": 6
         },
         {
           "title": "Data Conversion Developer",
@@ -296,15 +317,8 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 8,
+      "job_count": 7,
       "jobs": [
-        {
-          "title": "DreamForge is hiring Senior Unity Developer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/dreamforge-senior-unity-developer-remote-job",
-          "country": "",
-          "description": "Join The DreamForge Founding Team: Build an AI Video Game",
-          "score": 10
-        },
         {
           "title": "Thatgamecompany is hiring Senior Engine Programmer (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/thatgamecompany-senior-engine-programmer-remote-job",
@@ -378,8 +392,15 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 1,
+      "job_count": 2,
       "jobs": [
+        {
+          "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
+          "url": "https://blenderartists.org/t/paid-hiring-solo-blender-modelers-residential-3d-for-three-js/1640125",
+          "country": "",
+          "description": "I’m hiring solo junior-to-mid freelancers for real, ongoing paid Blender work at BASE, a residential 3D visualization platform.\nProduction work: low-poly home interiors and exteriors that render in Three.js on the web. Asset-store fixtures OK. Clean shell modeling, spec-driven, fast turnaround. Not",
+          "score": 15
+        },
         {
           "title": "Seeking Modeller -> 1973 BMW 2002",
           "url": "https://blenderartists.org/t/seeking-modeller-1973-bmw-2002/1639710",
@@ -740,21 +761,21 @@
           "title": "Disenador Programador Con Experiencia En Unity C Contratos Inteligentes Blockchain Ref 22 487",
           "url": "https://www.imagecampus.edu.ar/busqueda/disenador-programador-con-experiencia-en-unity-c-contratos-inteligentes-blockchain-ref-22-487",
           "country": "Argentina",
-          "description": "Se busca incorporar talentos para involucrarse en la creación de un nuevo juego carreras de autos  que utiliza la blockchain y tecnologías emergentes para proveer una experiencia diferenciadora. Inmejorable ambiente de trabajo y oportunidad de ser parte de la disrupción que significa la nueva",
+          "description": "Se busca incorporar talentos para involucrarse en la creación de un nuevo juego carreras de autos que utiliza la blockchain y tecnologías emergentes para proveer una experiencia diferenciadora. Inmejorable ambiente de trabajo y oportunidad de ser parte de la disrupción que significa la nueva",
           "score": 4
         }
       ]
     },
     {
       "name": "ArcDev",
-      "job_count": 48,
+      "job_count": 49,
       "jobs": [
         {
-          "title": "Senior TypeScript Developer — Real-Time Web Monitoring (Contract, Remote)",
-          "url": "https://arc.dev/remote-jobs/details/senior-typescript-developer-real-time-web-monitoring-contract-remote-omzl88ryvx",
+          "title": "Senior TypeScript Developer -Real-Time Web Monitoring WW-PT",
+          "url": "https://arc.dev/remote-jobs/details/senior-typescript-developer-real-time-web-monitoring-ww-pt-onjgzq8xvf",
           "country": "Remote",
           "description": "",
-          "score": 8
+          "score": 7
         },
         {
           "title": "Senior Software Engineer, Delivery Loop",
@@ -1060,6 +1081,13 @@
         {
           "title": "R&D project manager jobs",
           "url": "https://arc.dev/remote-jobs/rd-project-manager",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Full Stack Zoho Developer (Deluge scripting,  Zoho, API Integration) - PT/FT - Worldwide",
+          "url": "https://arc.dev/remote-jobs/details/full-stack-zoho-developer-deluge-scripting-zoho-api-integration-pt-ft-worldwide-onfwn5ctaf",
           "country": "Remote",
           "description": "",
           "score": 2
