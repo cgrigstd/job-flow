@@ -1,12 +1,19 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-09 02:01",
-  "total_jobs": 156,
+  "updated": "2026-05-10 02:01",
+  "total_jobs": 157,
   "sites": [
     {
       "name": "Entertainment Careers",
       "job_count": 20,
       "jobs": [
+        {
+          "title": "Manager, Visual Effects - Sony Pictures",
+          "url": "https://www.entertainmentcareers.net/sony-pictures/manager-visual-effects/job/520193/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Responsibilities:\n• Lead the strategy, design, and development of proprietary VFX production tools aligned ... more",
+          "score": 10
+        },
         {
           "title": "Lead 3D Generalist - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/lead-3d-generalist/job/516844/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -27,13 +34,6 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  The Senior Technical Director develops and supports innovative tools for our production teams to efficiently ... more",
           "score": 7
-        },
-        {
-          "title": "Visual Effects Producer - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/visual-effects-producer/job/517178/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The VFX Producer at Eyeline Seoul leads the end-to-end delivery of visual effects projects, serving ... more",
-          "score": 6
         },
         {
           "title": "Senior FX Artist - Pixomondo",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 17,
+      "job_count": 16,
       "jobs": [
         {
           "title": "Torpor Games is hiring a Senior Technical Artist (m/f/d) to work from Berlin, DE",
@@ -259,13 +259,6 @@
           "score": 4
         },
         {
-          "title": "Quest Fox is hiring a Creative Trailer Editor to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/quest-fox-creative-trailer-editor",
-          "country": "",
-          "description": "Quest Fox Studio is seeking a Creative Trailer Editor to help with creating a trailer for an upcoming stylized character generator for the Unity Asset Store. Tags: [Marketing & Community]",
-          "score": 4
-        },
-        {
           "title": "Floaty Studio is hiring a Game Designer (Mobile) to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/floaty-studio-game-designer-mobile",
           "country": "",
@@ -307,6 +300,13 @@
           "score": 8
         },
         {
+          "title": "Engineering Manager AI Fleet Management &amp; Honk",
+          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520",
+          "country": "",
+          "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities",
+          "score": 6
+        },
+        {
           "title": "Web Development Specialist",
           "url": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
           "country": "",
@@ -318,13 +318,6 @@
           "url": "https://remoteOK.com/remote-jobs/remote-curriculum-developer-aerospace-technician-correlation-one-1131490",
           "country": "",
           "description": "Correlation One is the largest provider of AI and data workforce development programs globally, having trained over 500,000 professionals across 11 countries. As the largest training provider for Amazon Career Choice, and a growing partner to state governments building registered apprenticeship",
-          "score": 6
-        },
-        {
-          "title": "Data Conversion Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-data-conversion-developer-grant-street-group-1131433",
-          "country": "",
-          "description": "Grant Street Group is looking for data conversion developers with strong programming and database skills. If the following describes you, we want to hear from you!You enjoy writing great code. At Grant Street, you will write data conversion code to migrate clients to our TaxSys software. You’ll use",
           "score": 6
         }
       ]
@@ -413,7 +406,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
         {
           "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
@@ -435,6 +428,13 @@
           "country": "",
           "description": "Hey everyone! \nI’m looking for someone who can create a 1973 BMW 2002 mod for BeamNG Drive. I have no 3D modelling experience myself so I need someone who knows what they’re doing in Blender and with BeamNG’s mod format.\n THE CAR:\n1973 BMW 2002 (2-door sedan)\nMUST have the correct round rear",
           "score": 10
+        },
+        {
+          "title": "MSFS 2024 Blender Animators/Modelers that Know MSFS 2024 SDK XML [PAID]",
+          "url": "https://blenderartists.org/t/msfs-2024-blender-animators-modelers-that-know-msfs-2024-sdk-xml-paid/1640374",
+          "country": "",
+          "description": "Hi All,\nWe are looking to hire additional devs and artists for the team!\nThis is a Monthly PAID position with additional royalty payments.\nMUST have familiarity and ability to work on Aircraft within the MSFS 2024 SDK.\n***This means XML! Including Blender exporting and associate XML.\nJust being",
+          "score": 8
         }
       ]
     },
@@ -796,7 +796,7 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 49,
+      "job_count": 50,
       "jobs": [
         {
           "title": "Senior TypeScript Developer -Real-Time Web Monitoring WW-PT",
@@ -806,15 +806,8 @@
           "score": 7
         },
         {
-          "title": "Senior Software Engineer, Delivery Loop",
-          "url": "https://arc.dev/remote-jobs/j/webflow-senior-software-engineer-delivery-loop-on1n0ubcb3",
-          "country": "Remote",
-          "description": "",
-          "score": 5
-        },
-        {
-          "title": "Contract Senior Software Engineer - Fullstack",
-          "url": "https://arc.dev/remote-jobs/j/pie-insurance-contract-senior-software-engineer-fullstack-on1nwyq8tp",
+          "title": "Senior Python.Web Developer",
+          "url": "https://arc.dev/remote-jobs/j/epam-systems-senior-python-web-developer-lydmgc1ild",
           "country": "Remote",
           "description": "",
           "score": 5
@@ -848,8 +841,8 @@
           "score": 3
         },
         {
-          "title": "Junior/Middle Golang Software Engineer (React)",
-          "url": "https://arc.dev/remote-jobs/j/softserve-junior-middle-golang-software-engineer-react-on1o6lz1v8",
+          "title": "Product Designer Senior (UX/UI) [LATAM]",
+          "url": "https://arc.dev/remote-jobs/j/product-hackers-product-designer-senior-ux-ui-latam-oo3bzjvjfa",
           "country": "Remote",
           "description": "",
           "score": 3
@@ -1128,8 +1121,8 @@
           "score": 2
         },
         {
-          "title": "Software Engineer – AI Model Tester",
-          "url": "https://arc.dev/remote-jobs/j/alignerr-software-engineer-ai-model-tester-ofag9ilhgt",
+          "title": "Lead Python.Web Developer",
+          "url": "https://arc.dev/remote-jobs/j/epam-systems-lead-python-web-developer-oo323xan3q",
           "country": "Remote",
           "description": "",
           "score": 2
@@ -1137,6 +1130,20 @@
         {
           "title": "Mobile App Development",
           "url": "https://arc.dev/remote-jobs/mobile-app-development",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Marketing Engineer",
+          "url": "https://arc.dev/remote-jobs/j/decentralized-masters-marketing-engineer-oo328henpj",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Blog writing",
+          "url": "https://arc.dev/remote-jobs/blog-writing",
           "country": "Remote",
           "description": "",
           "score": 2
