@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-10 02:01",
-  "total_jobs": 157,
+  "updated": "2026-05-11 02:11",
+  "total_jobs": 150,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 16,
+      "job_count": 13,
       "jobs": [
         {
           "title": "Torpor Games is hiring a Senior Technical Artist (m/f/d) to work from Berlin, DE",
@@ -168,31 +168,10 @@
           "score": 15
         },
         {
-          "title": "Roboto Games is hiring a Senior Combat Technical Animator (Unity) to work from PT ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/roboto-games-senior-combat-technical-animator-unity",
+          "title": "Hovgaard Games is hiring a Lead Unity Developer to work from Europe",
+          "url": "https://www.workwithindies.com/careers/hovgaard-games-lead-unity-developer",
           "country": "",
-          "description": "We are looking for a Senior Combat Technical Animator to own the feel, responsiveness, and in-engine implementation of third-person melee combat and locomotion in Stormforge.  Tags: [Art & Animation]",
-          "score": 11
-        },
-        {
-          "title": "Playcademy is hiring a 2D Artist / Visual Designer to work from Austin, TX or United States",
-          "url": "https://www.workwithindies.com/careers/playcademy-2d-artist-visual-designer",
-          "country": "",
-          "description": "We are a well funded, early stage team looking for a versatile 2D art generalist and visual designer to become a key visual owner across Playcademy. Tags: [Art & Animation] [Full",
-          "score": 10
-        },
-        {
-          "title": "Coincidence is hiring a 2D Game Artist to work from Redmond, WA",
-          "url": "https://www.workwithindies.com/careers/coincidence-2d-game-artist",
-          "country": "",
-          "description": "Coincidence is a small cooperative game studio located in Redmond, WA. We currently have two artists, both 2D generalists, and are looking for a third to join the team. Tags: [Art & Animation]",
-          "score": 10
-        },
-        {
-          "title": "Floaty Studio is hiring a Senior Game Developer (Mobile) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/floaty-studio-senior-game-developer-mobile",
-          "country": "",
-          "description": "Floaty Studio is looking for a Senior Unity Developer to join our team and help us take our mobile games to the next level. Tags: [Programming]",
+          "description": "We're looking for our new Lead Unity Developer at Hovgaard Games, a European remote-only studio behind Big Ambitions and Startup Company. Tags: [Programming] [Full",
           "score": 9
         },
         {
@@ -238,6 +217,13 @@
           "score": 6
         },
         {
+          "title": "Ark is hiring a  Senior Graphic Designer to work from PT ± 3 hours",
+          "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
+          "country": "",
+          "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design]",
+          "score": 5
+        },
+        {
           "title": "Starfall PR is hiring a Junior Public Relations Executive to work from United States",
           "url": "https://www.workwithindies.com/careers/starfall-pr-junior-public-relations-executive",
           "country": "",
@@ -257,20 +243,20 @@
           "country": "",
           "description": "We’re looking for a UI designer to help us craft the visuals, animations, and interactions for a voice-focused NSFW game. Tags: [Design]",
           "score": 4
-        },
-        {
-          "title": "Floaty Studio is hiring a Game Designer (Mobile) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/floaty-studio-game-designer-mobile",
-          "country": "",
-          "description": "Floaty Studio is seeking a creative and passionate Game Designer to join our indie game studio. Tags: [Design]",
-          "score": 2
         }
       ]
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 7,
+      "job_count": 9,
       "jobs": [
+        {
+          "title": "Lead Software Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
+          "country": "",
+          "description": "Design Your Future With Us. Creativity lives here. We celebrate craftsmanship, design, and inspired living. Whether you are in marketing, tech, or logistics, your voice and vision matter. We showcase employee spaces, share design stories, and promote growth through a culture of flexibility,",
+          "score": 10
+        },
         {
           "title": "Tech Lead",
           "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509",
@@ -293,11 +279,18 @@
           "score": 9
         },
         {
-          "title": "Junior Mid Full Stack Software Engineer",
-          "url": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
+          "title": "Staff Product Manager Enterprise",
+          "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-enterprise-livekit-1131531",
           "country": "",
-          "description": "OverviewBlack Canyon Consulting (BCC) is working with our partner Knowledge3 (knowledge3.ai) to search for a Junior/Mid Full Stack Software Engineer with DevOps exposure supporting delivery of knowledge-first systems. You will build systems that turn fragmented scientific and enterprise data into",
-          "score": 8
+          "description": "About LiveKitLiveKit is the developer platform for building and operating real-time voice AI agents. We started as the leading open-source WebRTC platform and have grown into a comprehensive stack: SDKs and developer tooling, agent hosting, inference, telephony, and observability. Our goal is to",
+          "score": 7
+        },
+        {
+          "title": "Marketing Copywriter",
+          "url": "https://remoteOK.com/remote-jobs/remote-marketing-copywriter-bis-safety-software-1131528",
+          "country": "",
+          "description": "BIS Safety Software is a SaaS company on a mission to change how organizations manage safety, learning, and compliance. As we continue to grow, clear and consistent messaging across our marketing channels is increasingly important. We are looking for a Marketing Copywriter who can help lead that",
+          "score": 7
         },
         {
           "title": "Engineering Manager AI Fleet Management &amp; Honk",
@@ -324,15 +317,8 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 8,
+      "job_count": 2,
       "jobs": [
-        {
-          "title": "Thatgamecompany is hiring Senior Engine Programmer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-senior-engine-programmer-remote-job",
-          "country": "",
-          "description": "We’re looking for an exceptional Senior Engine Programmer to join our live team to help craft the most advanced social game on",
-          "score": 8
-        },
         {
           "title": "CI Games is hiring Lead Producer (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/ci-games-lead-producer-remote-job",
@@ -346,41 +332,6 @@
           "country": "",
           "description": "We are looking for a Narrative Designer/Writer for a 4-month contract (preferably freelance) starting in May. As our Narrative Designer, you will play a pivotal role in shaping the soul of Spirit World. You will collaborate closely with the team to flesh out a cozy magical world that feels alive",
           "score": 7
-        },
-        {
-          "title": "Saguni Studio is hiring Animation Lead (Dark Fantasy ARPG) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/saguni-studio-animation-lead-dark-fantasy-arpg-remote-job",
-          "country": "",
-          "description": "To help us process your application efficiently, please start your email subject line with",
-          "score": 7
-        },
-        {
-          "title": "Thatgamecompany is hiring Technical Game Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-technical-game-designer-remote-job-7d9136ec-72c9-42f9-91b3-1026a33f5f3e",
-          "country": "",
-          "description": "We are a small studio dedicated to crafting unique and high-quality interactive experiences, and we are looking for a talented designer-programmer hybrid who will collaborate with both the engineering and design teams. The goal in this role is to drive the creation and improvement of core gameplay",
-          "score": 7
-        },
-        {
-          "title": "Thatgamecompany is hiring UI Technical Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-ui-technical-designer-remote-job",
-          "country": "",
-          "description": "At thatgamecompany, we strive to create beautiful and intuitive UI, which embraces and contributes to the emotional experiences of our games. Our company is known for having a distinct perspective on what games can be, and crafting unique experiences that players can’t find elsewhere as a result;",
-          "score": 7
-        },
-        {
-          "title": "Thatgamecompany is hiring Gameplay Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-gameplay-engineer-remote-job-62000669-f187-43c9-9f41-d2e41a325afe",
-          "country": "",
-          "description": "We’re looking for an exceptional Gameplay Engineer to join our live team to help craft the most advanced social game on earth. Elements that can help us meet the demands of this complex product, while presenting an interface to the user which exemplifies the elegance that TGC is known",
-          "score": 5
-        },
-        {
-          "title": "Thatgamecompany is hiring Lead Systems Designer (Economy and Engagement Focus) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-lead-systems-designer-economy-and-engagement-focus-remote-job",
-          "country": "",
-          "description": "Reports to: Design",
-          "score": 3
         }
       ]
     },
@@ -834,13 +785,6 @@
           "score": 4
         },
         {
-          "title": "Senior Motion Designer / Motion Director",
-          "url": "https://arc.dev/remote-jobs/details/senior-motion-designer-motion-director-on25hvumqg",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
           "title": "Product Designer Senior (UX/UI) [LATAM]",
           "url": "https://arc.dev/remote-jobs/j/product-hackers-product-designer-senior-ux-ui-latam-oo3bzjvjfa",
           "country": "Remote",
@@ -1144,6 +1088,13 @@
         {
           "title": "Blog writing",
           "url": "https://arc.dev/remote-jobs/blog-writing",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Video Editing",
+          "url": "https://arc.dev/remote-jobs/video-editing",
           "country": "Remote",
           "description": "",
           "score": 2
