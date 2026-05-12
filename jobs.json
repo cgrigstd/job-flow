@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-11 02:11",
-  "total_jobs": 150,
+  "updated": "2026-05-12 02:06",
+  "total_jobs": 154,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 13,
+      "job_count": 14,
       "jobs": [
         {
           "title": "Torpor Games is hiring a Senior Technical Artist (m/f/d) to work from Berlin, DE",
@@ -196,11 +196,25 @@
           "score": 8
         },
         {
-          "title": "Majestic Mind Games is hiring a Senior Game Designer to work from CET ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/majestic-mind-games-senior-game-designer",
+          "title": "Floaty Studio is hiring a General Artist (Mobile) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/floaty-studio-general-artist-mobile",
           "country": "",
-          "description": "We are looking for a bright and passionate game designer who is capable of crafting creative and clever gameplay experiences Tags: [Design]",
-          "score": 7
+          "description": "Floaty Studio is seeking a creative and versatile General Artist to join our indie mobile game studio. Tags: [Art & Animation]",
+          "score": 6
+        },
+        {
+          "title": "Hooked is hiring a Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/hooked-animator",
+          "country": "",
+          "description": "Hooked is looking for a freelance Animator to create 3D character, creature, and prop animations to bring our world to life. Tags: [Art & Animation]",
+          "score": 6
+        },
+        {
+          "title": "Spaceship Interactive is hiring a Technical Animator to work from ET ± 8 hours",
+          "url": "https://www.workwithindies.com/careers/spaceship-interactive-technical-animator",
+          "country": "",
+          "description": "We’re looking for a Technical Animator to set up a gameplay animation system for old Zelda’s inspired Co-op Action Adventure game.  Tags: [Art & Animation]",
+          "score": 6
         },
         {
           "title": "The Secret Games Company is hiring a Marketing Manager to work from Anywhere",
@@ -210,14 +224,7 @@
           "score": 6
         },
         {
-          "title": "Quest Fox is hiring a Character Concept Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/quest-fox-character-concept-artist",
-          "country": "",
-          "description": "Quest Fox Studio is seeking a Character Concept Artist to help create and customize cozy / stylized characters for indie games. Tags: [Art & Animation]",
-          "score": 6
-        },
-        {
-          "title": "Ark is hiring a  Senior Graphic Designer to work from PT ± 3 hours",
+          "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
           "country": "",
           "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design]",
@@ -231,18 +238,18 @@
           "score": 5
         },
         {
-          "title": "Empty Exhibit is hiring a Puzzle Designer to work from PT ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/empty-exhibit-puzzle-designer",
+          "title": "Eucalyptus Heavy Industries is hiring a Unreal Netcode Specialist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/eucalyptus-heavy-industries-unreal-netcode-specialist",
           "country": "",
-          "description": "We're looking for a Freelance Puzzle Designer for a Logical Deduction Game. Tags: [Design]",
+          "description": "We’re looking for an experienced C++ programmer with Unreal Engine 5 netcode and lobby development experience to manage a focused multiplayer systems overhaul. Tags: [Programming]",
           "score": 4
         },
         {
-          "title": "Deep Pink Games is hiring a UI/UX Designer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/deep-pink-games-ui-ux-designer",
+          "title": "Spaceship Interactive is hiring a Level Designer to work from ET ± 8 hours",
+          "url": "https://www.workwithindies.com/careers/spaceship-interactive-level-designer",
           "country": "",
-          "description": "We’re looking for a UI designer to help us craft the visuals, animations, and interactions for a voice-focused NSFW game. Tags: [Design]",
-          "score": 4
+          "description": "We’re looking for a Level Designer to create World and Dungeons for Action Adventure Co-op game inspired by old Zelda games.  Tags: [Design]",
+          "score": 2
         }
       ]
     },
@@ -317,8 +324,36 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 2,
+      "job_count": 6,
       "jobs": [
+        {
+          "title": "Turtle Rock Studios is hiring Associate Network Platform Engineer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-associate-network-platform-engineer-remote-job",
+          "country": "",
+          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
+          "score": 12
+        },
+        {
+          "title": "Turtle Rock Studios is hiring Senior Sandbox Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-sandbox-designer-remote-job",
+          "country": "",
+          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
+          "score": 12
+        },
+        {
+          "title": "Turtle Rock Studios is hiring Senior Software Engineer, IT (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-software-engineer-it-remote-job",
+          "country": "",
+          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
+          "score": 12
+        },
+        {
+          "title": "Turtle Rock Studios is hiring Tools Engineer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-tools-engineer-remote-job",
+          "country": "",
+          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
+          "score": 9
+        },
         {
           "title": "CI Games is hiring Lead Producer (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/ci-games-lead-producer-remote-job",
@@ -337,7 +372,7 @@
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 2,
+      "job_count": 1,
       "jobs": [
         {
           "title": "[PAID] FPS Weapon Animator/Rigger Needed",
@@ -345,13 +380,6 @@
           "country": "",
           "description": "Hi everyone,We are looking for a first-person weapon animator/rigger for our tactical FPS project, built in s&box / Source 2.We will provide:weapon modelalready rigged first-person armstextures/materials (if requested)reference examples for weapon positioning and animation style (if requested)The",
           "score": 12
-        },
-        {
-          "title": "Animador/a 3D y Especialista en Efectos Visuales para Unity y Realidad Extendida",
-          "url": "https://polycount.com/discussion/238544/animador-a-3d-y-especialista-en-efectos-visuales-para-unity-y-realidad-extendida",
-          "country": "",
-          "description": "Animador/a 3D y especialista en efectos visuales XR, con amplia experiencia en Unity, realidad virtual y realidad aumentada. Será responsable de crear, optimizar e integrar animaciones 3D, efectos visuales, partículas, transiciones y recursos audiovisuales dentro de experiencias",
-          "score": 6
         }
       ]
     },
@@ -374,11 +402,11 @@
           "score": 10
         },
         {
-          "title": "Seeking Modeller -> 1973 BMW 2002",
-          "url": "https://blenderartists.org/t/seeking-modeller-1973-bmw-2002/1639710",
+          "title": "I need an 11 second animation of a deer skull",
+          "url": "https://blenderartists.org/t/i-need-an-11-second-animation-of-a-deer-skull/1640611",
           "country": "",
-          "description": "Hey everyone! \nI’m looking for someone who can create a 1973 BMW 2002 mod for BeamNG Drive. I have no 3D modelling experience myself so I need someone who knows what they’re doing in Blender and with BeamNG’s mod format.\n THE CAR:\n1973 BMW 2002 (2-door sedan)\nMUST have the correct round rear",
-          "score": 10
+          "description": "Hi there, I need an 11 second animation of a deer skull (realistic bone texture) stationary in the middle of frame. Over the 11 seconds it begins to grow moss across the skull and bleed slightly from the eyeballs.\nHappy to pay $125-175 for someone with the right portfolio.\nI have an 11 second",
+          "score": 9
         },
         {
           "title": "MSFS 2024 Blender Animators/Modelers that Know MSFS 2024 SDK XML [PAID]",
@@ -778,6 +806,13 @@
           "score": 4
         },
         {
+          "title": "Front-End Developer — Startup Launch (HTML/CSS, Stripe Integration, GTM Injection)",
+          "url": "https://arc.dev/remote-jobs/details/front-end-developer-startup-launch-html-css-stripe-integration-gtm-injection-oo20p4ttkd",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
           "title": "Software Development",
           "url": "https://arc.dev/remote-jobs/software-development",
           "country": "Remote",
@@ -785,8 +820,8 @@
           "score": 4
         },
         {
-          "title": "Product Designer Senior (UX/UI) [LATAM]",
-          "url": "https://arc.dev/remote-jobs/j/product-hackers-product-designer-senior-ux-ui-latam-oo3bzjvjfa",
+          "title": "Senior Product-Minded Full-Stack Engineer",
+          "url": "https://arc.dev/remote-jobs/details/senior-product-minded-full-stack-engineer-ons5ayl3sj",
           "country": "Remote",
           "description": "",
           "score": 3
@@ -1044,22 +1079,15 @@
           "score": 2
         },
         {
+          "title": "Full Stack AI Developer - PT - Worldwide",
+          "url": "https://arc.dev/remote-jobs/details/full-stack-ai-developer-pt-worldwide-ooeevaucra",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
           "title": "Designer Specializing in Figma - Part-time - Worldwide",
           "url": "https://arc.dev/remote-jobs/details/designer-specializing-in-figma-part-time-worldwide-onszst5gwy",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Full Stack Zoho Developer (Deluge scripting,  Zoho, API Integration) - PT/FT - Worldwide",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-zoho-developer-deluge-scripting-zoho-api-integration-pt-ft-worldwide-onfwn5ctaf",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Full-Stack AI Developer (MVP, Langgraph) - Fulltime - NA/LATAM/EU",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-ai-developer-mvp-langgraph-fulltime-na-latam-eu-on7gbrps9r",
           "country": "Remote",
           "description": "",
           "score": 2
@@ -1079,6 +1107,13 @@
           "score": 2
         },
         {
+          "title": "Customer Success Manager (Marketing Agency)",
+          "url": "https://arc.dev/remote-jobs/j/hireboost-customer-success-manager-marketing-agency-oofhqvdehm",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
           "title": "Marketing Engineer",
           "url": "https://arc.dev/remote-jobs/j/decentralized-masters-marketing-engineer-oo328henpj",
           "country": "Remote",
@@ -1088,13 +1123,6 @@
         {
           "title": "Blog writing",
           "url": "https://arc.dev/remote-jobs/blog-writing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Video Editing",
-          "url": "https://arc.dev/remote-jobs/video-editing",
           "country": "Remote",
           "description": "",
           "score": 2
