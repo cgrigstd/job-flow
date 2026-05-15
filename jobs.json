@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-14 02:14",
-  "total_jobs": 152,
+  "updated": "2026-05-15 02:12",
+  "total_jobs": 159,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -36,6 +36,13 @@
           "score": 7
         },
         {
+          "title": "Manager of Sales, VFX - BUF Compagnie",
+          "url": "https://www.entertainmentcareers.net/buf-compagnie/manager-of-sales-vfx/job/520556/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a Sales Manager. Responsibilities include, but are not limited to:\n\nBuilding ... more",
+          "score": 6
+        },
+        {
           "title": "Senior FX Artist - Pixomondo",
           "url": "https://www.entertainmentcareers.net/pixomondo/senior-fx-artist/job/520108/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -54,13 +61,6 @@
           "url": "https://www.entertainmentcareers.net/walt-disney-animation-studios/stereo-layout-artist/job/514548/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  \nWe are currently seeking Stereoscopic Layout Artists to join our Burbank, CA studio.\n\nOur ... more",
-          "score": 4
-        },
-        {
-          "title": "FX Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/fx-artist/job/514870/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As an FX artist, your role is to create high-caliber dynamic and riveting visual 3D FX. This role requires ... more",
           "score": 4
         },
         {
@@ -99,11 +99,11 @@
           "score": 4
         },
         {
-          "title": "Production Assistant - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-assistant/job/513930/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Director, Creative Production - Paramount",
+          "url": "https://www.entertainmentcareers.net/paramount/director-creative-production/job/520596/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  700 Rue Saint-Hubert, Suite 400, Montreal QC HY2 0C1\n\nProject based, Full Time\n\nLanguage ... more",
-          "score": 4
+          "description": "pls RT ECNIDRSS @entcareersnet  #WeAreParamount on a mission to unleash the power of content… you in?\nWe’ve got the brands, ... more",
+          "score": 2
         },
         {
           "title": "Intermediate Production Coordinator - Sony Imageworks",
@@ -151,14 +151,14 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 13,
+      "job_count": 18,
       "jobs": [
         {
-          "title": "Snackbar Studio is hiring a Senior 2D Generalist Game Artist (Unity) to work from EU & UK",
-          "url": "https://www.workwithindies.com/careers/snackbar-studio-senior-2d-generalist-game-artist-unity",
+          "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
+          "url": "https://www.workwithindies.com/careers/throwback-studios-3d-art-generalist-unity",
           "country": "",
-          "description": "We're looking for a 2D Generalist Game Artist to help bring The SnackBar at the End of the World to life.  Tags: [Art & Animation]",
-          "score": 15
+          "description": "Throwback Studios is seeking a scrappy, self-directed 3D artist with a strong sense of art direction to own the art-pipeline for a social sandbox baseball game. Tags: [Art & Animation] [Full",
+          "score": 12
         },
         {
           "title": "Hovgaard Games is hiring a Lead Unity Developer to work from Europe",
@@ -166,6 +166,13 @@
           "country": "",
           "description": "We're looking for our new Lead Unity Developer at Hovgaard Games, a European remote-only studio behind Big Ambitions and Startup Company. Tags: [Programming] [Full",
           "score": 9
+        },
+        {
+          "title": "Mysteria Studio is hiring a Character Rigger & Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/mysteria-studio-character-rigger-animator",
+          "country": "",
+          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position.  Tags: [Art & Animation]",
+          "score": 8
         },
         {
           "title": "Starlit Lion Games is hiring a UI Artist to work from United Kingdom",
@@ -182,11 +189,32 @@
           "score": 8
         },
         {
-          "title": "Studio Yiakoumi is hiring a Art Director to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/studio-yiakoumi-art-director",
+          "title": "Raw Fury is hiring a Product Manager to work from Stockholm, SE",
+          "url": "https://www.workwithindies.com/careers/raw-fury-product-manager",
           "country": "",
-          "description": "Studio Yiakoumi is seeking an Art Director on a short-term contract to assist with defining the art direction for a historical 4x game. Tags: [Art & Animation]",
+          "description": "On our quest to be recognized as the world’s best partner to indie game developers, we're looking to strengthen the team with a Product Manager. Tags: [Production] [Full",
           "score": 8
+        },
+        {
+          "title": "Mobius Digital is hiring a DevOps/Infrastructure Engineer to work from L.A. or United States",
+          "url": "https://www.workwithindies.com/careers/mobius-digital-devops-infrastructure-engineer",
+          "country": "",
+          "description": "We are looking for an engineer to help maintain our technical infrastructure, from the physical hardware maintenance of workstations and on-premises servers to the implementation of build pipelines. Tags: [Programming] [Full",
+          "score": 6
+        },
+        {
+          "title": "Mobius Digital is hiring a Audio Engineer to work from L.A. or United States",
+          "url": "https://www.workwithindies.com/careers/mobius-digital-audio-engineer",
+          "country": "",
+          "description": "We are looking for an engineer with a good ear for audio who can work hand in hand with our audio designer(s) and creative director to integrate the sounds and music of the game to a high level of quality. Tags: [Programming] [Full",
+          "score": 6
+        },
+        {
+          "title": "Frostwood Interactive is hiring a Community Manager to work from US timezones",
+          "url": "https://www.workwithindies.com/careers/frostwood-interactive-community-manager",
+          "country": "",
+          "description": "Shutter Story already has a thriving and quickly growing community, and as a mostly-solo dev I’m looking for someone to keep it engaged while I focus on development and production related tasks. Tags: [Marketing & Community] [Part",
+          "score": 6
         },
         {
           "title": "11 Dot Studio is hiring a Pixel Artist to work from Anywhere",
@@ -217,18 +245,25 @@
           "score": 6
         },
         {
-          "title": "The Secret Games Company is hiring a Marketing Manager to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/the-secret-games-company-marketing-manager",
-          "country": "",
-          "description": "Secret Games Co is seeking a Marketing Manager to lead marketing efforts for Bon Vivant, a strategy / management roguelite. Tags: [Marketing & Community]",
-          "score": 6
-        },
-        {
           "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
           "country": "",
           "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design]",
           "score": 5
+        },
+        {
+          "title": "Bunch'o'Nerds is hiring a Social Media & Content Marketer to work from EU, UK, or TR",
+          "url": "https://www.workwithindies.com/careers/bunch-o-nerds-social-media-content-marketer",
+          "country": "",
+          "description": "We aren’t just looking for someone with an interest in gaming. We want someone whose life revolves around this industry, who truly enjoys this lifestyle, and who is ready to produce and grow as a professional in this field. Tags: [Marketing & Community]",
+          "score": 4
+        },
+        {
+          "title": "Mobius Digital is hiring a Creature/NPC AI Engineer to work from L.A. or United States",
+          "url": "https://www.workwithindies.com/careers/mobius-digital-creature-npc-ai-engineer",
+          "country": "",
+          "description": "We are looking for an engineer to help make creatures and NPCs that feel alive, believable, and interesting to observe and interact with. Tags: [Programming] [Full",
+          "score": 4
         },
         {
           "title": "Eucalyptus Heavy Industries is hiring a Unreal Netcode Specialist to work from Anywhere",
@@ -248,8 +283,15 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 9,
+      "job_count": 10,
       "jobs": [
+        {
+          "title": "Staff Engineer Platform Engineering",
+          "url": "https://remoteOK.com/remote-jobs/remote-staff-engineer-platform-engineering-highlevel-1131588",
+          "country": "",
+          "description": "About HighLevel:HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes.To date,",
+          "score": 10
+        },
         {
           "title": "Lead Software Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
@@ -317,7 +359,7 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 5,
+      "job_count": 6,
       "jobs": [
         {
           "title": "Turtle Rock Studios is hiring Associate Network Platform Engineer (Remote Job)",
@@ -341,6 +383,13 @@
           "score": 12
         },
         {
+          "title": "Mysteria Studio UG is hiring Character Rigger & Animator (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-character-rigger-animator-remote-job",
+          "country": "",
+          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position. You will play a key role in bringing our PC Action RPG Asterfel to life, giving our hero, enemies, and monstrosities the movement and game feel that make them believable in combat and exploration. Both",
+          "score": 9
+        },
+        {
           "title": "Turtle Rock Studios is hiring Tools Engineer (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-tools-engineer-remote-job",
           "country": "",
@@ -358,28 +407,35 @@
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 1,
+      "job_count": 3,
       "jobs": [
+        {
+          "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
+          "url": "https://polycount.com/discussion/238591/hiring-realtime-technical-asset-specialist-for-optimization-mesh-retopology-and-material-conversion",
+          "country": "",
+          "description": "Greetings! We are developing a premium browser-based 3D configurator for fiberglass swimming pools and are looking for an experienced realtime technical artist / game-ready asset specialist to assist with optimization, retopology, material conversion, and realtime rendering workflows. We need",
+          "score": 16
+        },
         {
           "title": "[PAID] Looking for Stylized Environment Artist for Cozy Nature Game Prototype",
           "url": "https://polycount.com/discussion/238580/paid-looking-for-stylized-environment-artist-for-cozy-nature-game-prototype",
           "country": "",
           "description": "Hello,I’m a solo developer currently prototyping a small cozy wildlife/garden game with a focus on calm atmosphere, stylized environments, and readable gameplay spaces.The visual direction leans toward painterly/stylized nature environments with a slightly elevated or semi-isometric perspective,",
-          "score": 10
+          "score": 12
+        },
+        {
+          "title": "[PAID] Freelance 3D Creature Artists - Realistic High-Poly Animals - Zbrush & XGen",
+          "url": "https://polycount.com/discussion/238585/paid-freelance-3d-creature-artists-realistic-high-poly-animals-zbrush-xgen",
+          "country": "",
+          "description": "Hi everyone,We’re Lucid Realm Studio, an indie 3D game art production team, currently looking for freelance 3D artists experienced in creating realistic high-poly animals for an Action Adventure game with near-AAA visual quality.We have attached reference images to showcase the target quality",
+          "score": 11
         }
       ]
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 4,
+      "job_count": 3,
       "jobs": [
-        {
-          "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
-          "url": "https://blenderartists.org/t/paid-hiring-solo-blender-modelers-residential-3d-for-three-js/1640125",
-          "country": "",
-          "description": "I’m hiring solo junior-to-mid freelancers for real, ongoing paid Blender work at BASE, a residential 3D visualization platform.\nProduction work: low-poly home interiors and exteriors that render in Three.js on the web. Asset-store fixtures OK. Clean shell modeling, spec-driven, fast turnaround. Not",
-          "score": 15
-        },
         {
           "title": "Two Walking cycles male or female",
           "url": "https://blenderartists.org/t/two-walking-cycles-male-or-female/1640278",
@@ -761,8 +817,15 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 50,
+      "job_count": 49,
       "jobs": [
+        {
+          "title": "Senior Software Engineer, Back-end, DAFs",
+          "url": "https://arc.dev/remote-jobs/details/senior-software-engineer-back-end-dafs-opbh1dftcr",
+          "country": "Remote",
+          "description": "",
+          "score": 5
+        },
         {
           "title": "Senior Salesforce Developer US/NA/LATAM-PT",
           "url": "https://arc.dev/remote-jobs/details/senior-salesforce-developer-us-na-latam-pt-op24uryhmy",
@@ -787,13 +850,6 @@
         {
           "title": "ArcGIS Development and Deployment Specialist",
           "url": "https://arc.dev/remote-jobs/details/arcgis-development-and-deployment-specialist-oovqtceehe",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "Senior AI/ML Engineer - Remote (LATAM, India)",
-          "url": "https://arc.dev/remote-jobs/details/senior-ai-ml-engineer-remote-latam-india-ootfx3i5h9",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1067,13 +1123,6 @@
         {
           "title": "ArcGIS",
           "url": "https://arc.dev/remote-jobs/arcgis",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Full Stack AI Developer - PT - Worldwide",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-ai-developer-pt-worldwide-ooeevaucra",
           "country": "Remote",
           "description": "",
           "score": 2
