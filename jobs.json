@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-15 02:12",
-  "total_jobs": 159,
+  "updated": "2026-05-16 02:04",
+  "total_jobs": 158,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -48,6 +48,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Artiste FX Senior / Senior FX Artist (contract)\n\nENGLISH BELOW\n\nRequirements\n\nQualifications professionnelles ... more",
           "score": 5
+        },
+        {
+          "title": "Lead Roto/Paint Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/lead-roto-paint-artist/job/520689/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Reporting to the Roto/Paint Supervisor, the Roto/Paint Artist supports and partners with compositors ... more",
+          "score": 4
         },
         {
           "title": "Compositing Supervisor - Industrial Light & Magic",
@@ -99,10 +106,17 @@
           "score": 4
         },
         {
-          "title": "Director, Creative Production - Paramount",
-          "url": "https://www.entertainmentcareers.net/paramount/director-creative-production/job/520596/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Virtual Production Assistant - Pixomondo",
+          "url": "https://www.entertainmentcareers.net/pixomondo/virtual-production-assistant/job/520690/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  #WeAreParamount on a mission to unleash the power of content… you in?\nWe’ve got the brands, ... more",
+          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a motivated and detail-oriented Production Assistant to support the day-to-day operations ... more",
+          "score": 2
+        },
+        {
+          "title": "Virtual Production Coordinator - Pixomondo",
+          "url": "https://www.entertainmentcareers.net/pixomondo/virtual-production-coordinator/job/520691/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Stage / Production Coordinator (Virtual Production)\n\nAbout the Role\n\nThe ... more",
           "score": 2
         },
         {
@@ -132,26 +146,12 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\n1285 W Pender St\nVancouver, BC V6E 4B1\n\nLanguage in work environment - English\n\nThe ... more",
           "score": 2
-        },
-        {
-          "title": "FX Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/fx-artist/job/510650/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  We are looking for an FX artist to join our FX team. As an FX artist, you will be a collaborative team ... more",
-          "score": 2
-        },
-        {
-          "title": "Layout Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/layout-artist/job/510761/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Eyeline is a global team of risk takers, innovators and perfectionists who achieve creative visions ... more",
-          "score": 2
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 18,
+      "job_count": 19,
       "jobs": [
         {
           "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
@@ -194,6 +194,13 @@
           "country": "",
           "description": "On our quest to be recognized as the world’s best partner to indie game developers, we're looking to strengthen the team with a Product Manager. Tags: [Production] [Full",
           "score": 8
+        },
+        {
+          "title": "Batterystaple Games is hiring a Social Media & Content Marketer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/batterystaple-games-social-media-content-marketer",
+          "country": "",
+          "description": "Batterystaple is looking for someone to manage and grow our social media presence & raise awareness of our next (unannounced!) title. Tags: [Marketing & Community] [Part",
+          "score": 6
         },
         {
           "title": "Mobius Digital is hiring a DevOps/Infrastructure Engineer to work from L.A. or United States",
@@ -283,8 +290,22 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 10,
+      "job_count": 9,
       "jobs": [
+        {
+          "title": "DevRel Content Creator",
+          "url": "https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594",
+          "country": "",
+          "description": "About SuperPlaneSuperPlane is an open source control plane where AI agents and engineers run operations together. We're a team of 10, founded by the creators of Semaphore CI/CD. Our users are DevOps and platform engineers at mid-size to large engineering orgs.We have a product engineers love, an",
+          "score": 10
+        },
+        {
+          "title": "Senior Golang Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-golang-developer-tre-altamira-srl-1131593",
+          "country": "",
+          "description": "Remote - About Us TRE ALTAMIRA, part of the CLS Group, is the global leader in satellite radar data processing. We are a multidisciplinary team with leading-edge knowledge of SAR and InSAR applications. Our patented radar imagery processing algorithms provide displacement",
+          "score": 10
+        },
         {
           "title": "Staff Engineer Platform Engineering",
           "url": "https://remoteOK.com/remote-jobs/remote-staff-engineer-platform-engineering-highlevel-1131588",
@@ -297,13 +318,6 @@
           "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
           "country": "",
           "description": "Design Your Future With Us. Creativity lives here. We celebrate craftsmanship, design, and inspired living. Whether you are in marketing, tech, or logistics, your voice and vision matter. We showcase employee spaces, share design stories, and promote growth through a culture of flexibility,",
-          "score": 10
-        },
-        {
-          "title": "Tech Lead",
-          "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509",
-          "country": "",
-          "description": "About Us:Zensurance is redefining commercial insurance for Canadian businesses. As a leading InsurTech, we make getting the right coverage simple, fast, and accessible through a digital-first experience. Our platform combines advanced technology with deep industry expertise to deliver tailored",
           "score": 10
         },
         {
@@ -340,26 +354,12 @@
           "country": "",
           "description": "JetBrains makes industry-leading professional IDEs and team software trusted by over 15 million users and 88 Fortune Global Top 100 companies. We’re currently looking for a Developer Advocate for .NET technologies. The ideal candidate for this position is a software developer with .NET experience",
           "score": 6
-        },
-        {
-          "title": "Engineering Manager AI Fleet Management &amp; Honk",
-          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520",
-          "country": "",
-          "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities",
-          "score": 6
-        },
-        {
-          "title": "Web Development Specialist",
-          "url": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
-          "country": "",
-          "description": "OverviewWe're looking for a Web Development Specialist to build and maintain marketing websites and landing pages for our agency's B2B technology clients. This is a hands-on production role across the three platforms our clients live on most: WordPress, HubSpot CMS (COS), and Webflow.You should be",
-          "score": 6
         }
       ]
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 6,
+      "job_count": 5,
       "jobs": [
         {
           "title": "Turtle Rock Studios is hiring Associate Network Platform Engineer (Remote Job)",
@@ -395,19 +395,12 @@
           "country": "",
           "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
           "score": 9
-        },
-        {
-          "title": "CI Games is hiring Lead Producer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/ci-games-lead-producer-remote-job",
-          "country": "",
-          "description": "Join CI Games and be part of shaping the future of gaming. As we embark on an ambitious strategic roadmap with major releases planned for 2026-2028, we're seeking a talented and dedicated Lead Producer to help us create ground-breaking experiences that captivate players worldwide.\nA career at CI",
-          "score": 7
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
@@ -424,6 +417,13 @@
           "score": 12
         },
         {
+          "title": "[PAID][REMOTE] Hiring Multiple 2D Traditional Animators - Game Project Tie-Down & Cleanup",
+          "url": "https://polycount.com/discussion/238595/paid-remote-hiring-multiple-2d-traditional-animators-game-project-tie-down-cleanup",
+          "country": "",
+          "description": "Hi everyone,\nWe’re looking for freelance 2D traditional animators to help with tie-down and cleanup work on an active game project currently in production.\nThe work will be paid at a flat rate per frame. We’re looking for artists who are comfortable working in a traditional 2D animation pipeline",
+          "score": 11
+        },
+        {
           "title": "[PAID] Freelance 3D Creature Artists - Realistic High-Poly Animals - Zbrush & XGen",
           "url": "https://polycount.com/discussion/238585/paid-freelance-3d-creature-artists-realistic-high-poly-animals-zbrush-xgen",
           "country": "",
@@ -437,10 +437,10 @@
       "job_count": 3,
       "jobs": [
         {
-          "title": "Two Walking cycles male or female",
-          "url": "https://blenderartists.org/t/two-walking-cycles-male-or-female/1640278",
+          "title": "Looking for a Level Designer — Low-Poly Map",
+          "url": "https://blenderartists.org/t/looking-for-a-level-designer-low-poly-map/1641045",
           "country": "",
-          "description": "Hello,\nI need to create two walking cycles (animations and frames) for a medical article. The cycle needs to be highly accurate.\nhttps://www.preprints.org/manuscript/202603.0733\nI’m familiar with Blender, but I must admit I’m a complete novice when it comes to rigging and armatures.\nThe subject can",
+          "description": "Budget: $750 · 20% upfront\nWe need a level designer to build a map/world in Blender.\nThe map must be low-poly style. We have a rough idea of what we want, but we’re relying on your creativity to bring the world to life.\nWhat we need:\n\nLow-poly map/world built in Blender\nGood layout, atmosphere, and",
           "score": 10
         },
         {
@@ -817,18 +817,18 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 49,
+      "job_count": 48,
       "jobs": [
         {
-          "title": "Senior Software Engineer, Back-end, DAFs",
-          "url": "https://arc.dev/remote-jobs/details/senior-software-engineer-back-end-dafs-opbh1dftcr",
+          "title": "Senior Software Engineer (MCP Specialist) - Remote - Latin America",
+          "url": "https://arc.dev/remote-jobs/j/fullstack-senior-software-engineer-mcp-specialist-remote-latin-america-opecs5j0w3",
           "country": "Remote",
           "description": "",
-          "score": 5
+          "score": 6
         },
         {
-          "title": "Senior Salesforce Developer US/NA/LATAM-PT",
-          "url": "https://arc.dev/remote-jobs/details/senior-salesforce-developer-us-na-latam-pt-op24uryhmy",
+          "title": "Senior Software Engineer, Back-end, DAFs - Perm - NA/LATAM/EU",
+          "url": "https://arc.dev/remote-jobs/details/senior-software-engineer-back-end-dafs-perm-na-latam-eu-opbh1dftcr",
           "country": "Remote",
           "description": "",
           "score": 5
@@ -848,15 +848,8 @@
           "score": 4
         },
         {
-          "title": "ArcGIS Development and Deployment Specialist",
-          "url": "https://arc.dev/remote-jobs/details/arcgis-development-and-deployment-specialist-oovqtceehe",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "Digital marketing",
-          "url": "https://arc.dev/remote-jobs/digital-marketing",
+          "title": "Software Development",
+          "url": "https://arc.dev/remote-jobs/software-development",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1114,29 +1107,22 @@
           "score": 2
         },
         {
-          "title": "Ruby on Rails Developer WW-FT",
-          "url": "https://arc.dev/remote-jobs/details/ruby-on-rails-developer-ww-ft-op29hllqi2",
+          "title": "Google Tag Manager Specialist for Vue.js SPA - Part-time - Worldwide",
+          "url": "https://arc.dev/remote-jobs/details/google-tag-manager-specialist-for-vue-js-spa-part-time-worldwide-opidsg50j5",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "ArcGIS",
-          "url": "https://arc.dev/remote-jobs/arcgis",
+          "title": "Brand identity",
+          "url": "https://arc.dev/remote-jobs/brand-identity",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Graphic Designer (Email Marketing & Paid Ads)",
-          "url": "https://arc.dev/remote-jobs/j/talent-global-llc-graphic-designer-email-marketing-paid-ads-op3l9jejb3",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "SMS marketing",
-          "url": "https://arc.dev/remote-jobs/sms-marketing",
+          "title": "User acquisition",
+          "url": "https://arc.dev/remote-jobs/user-acquisition",
           "country": "Remote",
           "description": "",
           "score": 2
@@ -1149,15 +1135,22 @@
           "score": 2
         },
         {
-          "title": "Ux writing",
-          "url": "https://arc.dev/remote-jobs/ux-writing",
+          "title": "Algorithm",
+          "url": "https://arc.dev/remote-jobs/algorithm",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Usability testing",
-          "url": "https://arc.dev/remote-jobs/usability-testing",
+          "title": "B2B marketing",
+          "url": "https://arc.dev/remote-jobs/b2b-marketing",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Mobile App Development",
+          "url": "https://arc.dev/remote-jobs/mobile-app-development",
           "country": "Remote",
           "description": "",
           "score": 2
