@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-16 02:04",
-  "total_jobs": 158,
+  "updated": "2026-05-17 02:08",
+  "total_jobs": 153,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 19,
+      "job_count": 17,
       "jobs": [
         {
           "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
@@ -159,13 +159,6 @@
           "country": "",
           "description": "Throwback Studios is seeking a scrappy, self-directed 3D artist with a strong sense of art direction to own the art-pipeline for a social sandbox baseball game. Tags: [Art & Animation] [Full",
           "score": 12
-        },
-        {
-          "title": "Hovgaard Games is hiring a Lead Unity Developer to work from Europe",
-          "url": "https://www.workwithindies.com/careers/hovgaard-games-lead-unity-developer",
-          "country": "",
-          "description": "We're looking for our new Lead Unity Developer at Hovgaard Games, a European remote-only studio behind Big Ambitions and Startup Company. Tags: [Programming] [Full",
-          "score": 9
         },
         {
           "title": "Mysteria Studio is hiring a Character Rigger & Animator to work from Anywhere",
@@ -252,13 +245,6 @@
           "score": 6
         },
         {
-          "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
-          "country": "",
-          "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design]",
-          "score": 5
-        },
-        {
           "title": "Bunch'o'Nerds is hiring a Social Media & Content Marketer to work from EU, UK, or TR",
           "url": "https://www.workwithindies.com/careers/bunch-o-nerds-social-media-content-marketer",
           "country": "",
@@ -290,7 +276,7 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 9,
+      "job_count": 6,
       "jobs": [
         {
           "title": "DevRel Content Creator",
@@ -314,13 +300,6 @@
           "score": 10
         },
         {
-          "title": "Lead Software Engineer",
-          "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
-          "country": "",
-          "description": "Design Your Future With Us. Creativity lives here. We celebrate craftsmanship, design, and inspired living. Whether you are in marketing, tech, or logistics, your voice and vision matter. We showcase employee spaces, share design stories, and promote growth through a culture of flexibility,",
-          "score": 10
-        },
-        {
           "title": "Senior AI System Software Developer",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
           "country": "",
@@ -332,20 +311,6 @@
           "url": "https://remoteOK.com/remote-jobs/remote-manager-platform-engineering-natera-1131552",
           "country": "",
           "description": "Manager, Platform EngineeringLocation: US - RemoteExperience: 8+ years in Cloud/Platform/Infrastructure Engineering.About the RoleAs the Manager of Platform Engineering, you will lead the backbone of Natera’s infrastructure. You aren’t just managing a team, you are the Product Manager of our Cloud",
-          "score": 7
-        },
-        {
-          "title": "Staff Product Manager Enterprise",
-          "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-enterprise-livekit-1131531",
-          "country": "",
-          "description": "About LiveKitLiveKit is the developer platform for building and operating real-time voice AI agents. We started as the leading open-source WebRTC platform and have grown into a comprehensive stack: SDKs and developer tooling, agent hosting, inference, telephony, and observability. Our goal is to",
-          "score": 7
-        },
-        {
-          "title": "Marketing Copywriter",
-          "url": "https://remoteOK.com/remote-jobs/remote-marketing-copywriter-bis-safety-software-1131528",
-          "country": "",
-          "description": "BIS Safety Software is a SaaS company on a mission to change how organizations manage safety, learning, and compliance. As we continue to grow, clear and consistent messaging across our marketing channels is increasingly important. We are looking for a Marketing Copywriter who can help lead that",
           "score": 7
         },
         {
@@ -434,8 +399,15 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
+        {
+          "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
+          "url": "https://blenderartists.org/t/looking-for-a-paid-1-1-tutor-stylized-3d-character-modeling-blender-kirby-nintendo-style/1641073",
+          "country": "",
+          "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
+          "score": 15
+        },
         {
           "title": "Looking for a Level Designer — Low-Poly Map",
           "url": "https://blenderartists.org/t/looking-for-a-level-designer-low-poly-map/1641045",
@@ -451,10 +423,10 @@
           "score": 9
         },
         {
-          "title": "MSFS 2024 Blender Animators/Modelers that Know MSFS 2024 SDK XML [PAID]",
-          "url": "https://blenderartists.org/t/msfs-2024-blender-animators-modelers-that-know-msfs-2024-sdk-xml-paid/1640374",
+          "title": "Paid work to clean up STL file",
+          "url": "https://blenderartists.org/t/paid-work-to-clean-up-stl-file/1641151",
           "country": "",
-          "description": "Hi All,\nWe are looking to hire additional devs and artists for the team!\nThis is a Monthly PAID position with additional royalty payments.\nMUST have familiarity and ability to work on Aircraft within the MSFS 2024 SDK.\n***This means XML! Including Blender exporting and associate XML.\nJust being",
+          "description": "Task Overview\nI need help cleaning up an STL file for CNC milling. I have scanned a wooden deck piece that I would like to reproduce as a replacement part.\nWhat I Need\n\nReview the existing STL scan of the deck piece\nClean up any scan noise, defects, or irregular geometry\nPrepare the model so it is",
           "score": 8
         }
       ]
@@ -817,15 +789,8 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 48,
+      "job_count": 47,
       "jobs": [
-        {
-          "title": "Senior Software Engineer (MCP Specialist) - Remote - Latin America",
-          "url": "https://arc.dev/remote-jobs/j/fullstack-senior-software-engineer-mcp-specialist-remote-latin-america-opecs5j0w3",
-          "country": "Remote",
-          "description": "",
-          "score": 6
-        },
         {
           "title": "Senior Software Engineer, Back-end, DAFs - Perm - NA/LATAM/EU",
           "url": "https://arc.dev/remote-jobs/details/senior-software-engineer-back-end-dafs-perm-na-latam-eu-opbh1dftcr",
@@ -1114,29 +1079,15 @@
           "score": 2
         },
         {
-          "title": "Brand identity",
-          "url": "https://arc.dev/remote-jobs/brand-identity",
+          "title": "Medior Full Stack Developer",
+          "url": "https://arc.dev/remote-jobs/j/ptc-medior-full-stack-developer-ohki88khzj",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "User acquisition",
-          "url": "https://arc.dev/remote-jobs/user-acquisition",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Social media marketing",
-          "url": "https://arc.dev/remote-jobs/social-media-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Algorithm",
-          "url": "https://arc.dev/remote-jobs/algorithm",
+          "title": "Regional Marketing Manager - TOLA & LATAM",
+          "url": "https://arc.dev/remote-jobs/j/redis-regional-marketing-manager-tola-latam-opuhk6rpvo",
           "country": "Remote",
           "description": "",
           "score": 2
@@ -1149,8 +1100,22 @@
           "score": 2
         },
         {
-          "title": "Mobile App Development",
-          "url": "https://arc.dev/remote-jobs/mobile-app-development",
+          "title": "Email Development",
+          "url": "https://arc.dev/remote-jobs/email-development",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Ux writing",
+          "url": "https://arc.dev/remote-jobs/ux-writing",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Software Engineer II (Golang)",
+          "url": "https://arc.dev/remote-jobs/j/vonage-software-engineer-ii-golang-opublam8nn",
           "country": "Remote",
           "description": "",
           "score": 2
