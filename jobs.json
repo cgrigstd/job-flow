@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-17 02:08",
-  "total_jobs": 153,
+  "updated": "2026-05-18 02:29",
+  "total_jobs": 151,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 17,
+      "job_count": 13,
       "jobs": [
         {
           "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
@@ -224,27 +224,6 @@
           "score": 6
         },
         {
-          "title": "Floaty Studio is hiring a General Artist (Mobile) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/floaty-studio-general-artist-mobile",
-          "country": "",
-          "description": "Floaty Studio is seeking a creative and versatile General Artist to join our indie mobile game studio. Tags: [Art & Animation]",
-          "score": 6
-        },
-        {
-          "title": "Hooked is hiring a Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/hooked-animator",
-          "country": "",
-          "description": "Hooked is looking for a freelance Animator to create 3D character, creature, and prop animations to bring our world to life. Tags: [Art & Animation]",
-          "score": 6
-        },
-        {
-          "title": "Spaceship Interactive is hiring a Technical Animator to work from ET ± 8 hours",
-          "url": "https://www.workwithindies.com/careers/spaceship-interactive-technical-animator",
-          "country": "",
-          "description": "We’re looking for a Technical Animator to set up a gameplay animation system for old Zelda’s inspired Co-op Action Adventure game.  Tags: [Art & Animation]",
-          "score": 6
-        },
-        {
           "title": "Bunch'o'Nerds is hiring a Social Media & Content Marketer to work from EU, UK, or TR",
           "url": "https://www.workwithindies.com/careers/bunch-o-nerds-social-media-content-marketer",
           "country": "",
@@ -264,20 +243,20 @@
           "country": "",
           "description": "We’re looking for an experienced C++ programmer with Unreal Engine 5 netcode and lobby development experience to manage a focused multiplayer systems overhaul. Tags: [Programming]",
           "score": 4
-        },
-        {
-          "title": "Spaceship Interactive is hiring a Level Designer to work from ET ± 8 hours",
-          "url": "https://www.workwithindies.com/careers/spaceship-interactive-level-designer",
-          "country": "",
-          "description": "We’re looking for a Level Designer to create World and Dungeons for Action Adventure Co-op game inspired by old Zelda games.  Tags: [Design]",
-          "score": 2
         }
       ]
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 6,
+      "job_count": 7,
       "jobs": [
+        {
+          "title": "Senior Database Reliability Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
+          "country": "",
+          "description": "CloudLinux / TuxCare is a remote-first infrastructure and security company. More than 300 engineers build and operate products used by hosting providers, enterprises, and internal service teams worldwide. Our Infrastructure Department runs the platforms behind CloudLinux OS, Imunify, KernelCare,",
+          "score": 10
+        },
         {
           "title": "DevRel Content Creator",
           "url": "https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594",
@@ -399,7 +378,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 4,
+      "job_count": 5,
       "jobs": [
         {
           "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
@@ -407,6 +386,13 @@
           "country": "",
           "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
           "score": 15
+        },
+        {
+          "title": "Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling",
+          "url": "https://blenderartists.org/t/hiring-a-blender-artist-for-paid-1-1-mentoring-anime-chibi-character-modeling/1641273",
+          "country": "",
+          "description": "Title: Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling\n\nHi,\nI’m hiring a Blender artist for paid 1:1 mentoring in anime chibi character modeling, from scratch in Blender. Reference style below.\n\n\nType of project: Paid 1:1 mentoring. I learn by doing work and getting",
+          "score": 12
         },
         {
           "title": "Looking for a Level Designer — Low-Poly Map",
