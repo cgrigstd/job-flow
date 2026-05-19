@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-18 02:29",
-  "total_jobs": 151,
+  "updated": "2026-05-19 02:28",
+  "total_jobs": 149,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,7 +151,7 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 13,
+      "job_count": 10,
       "jobs": [
         {
           "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
@@ -168,25 +168,11 @@
           "score": 8
         },
         {
-          "title": "Starlit Lion Games is hiring a UI Artist to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/starlit-lion-games-ui-artist",
+          "title": "Reality Reload is hiring a UI/UX Designer to work from US timezones",
+          "url": "https://www.workwithindies.com/careers/reality-reload-ui-ux-designer",
           "country": "",
-          "description": "Tabula Rasa is a roguelite deckbuilder set in an elegant monochrome world punctuated by vivid elemental colour. We’re looking for a UI artist to help define a clean, stylish, highly readable visual language for this complex tactical game.  Tags: [Art & Animation]",
-          "score": 8
-        },
-        {
-          "title": "Starlit Lion Games is hiring a Concept Artist to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/starlit-lion-games-concept-artist",
-          "country": "",
-          "description": "Tabula Rasa is a roguelite deckbuilder set in an elegant monochrome world punctuated by vivid elemental colour. We’re looking for a Concept Artist to help us visualise this world and how the game fits into it. Tags: [Art & Animation]",
-          "score": 8
-        },
-        {
-          "title": "Raw Fury is hiring a Product Manager to work from Stockholm, SE",
-          "url": "https://www.workwithindies.com/careers/raw-fury-product-manager",
-          "country": "",
-          "description": "On our quest to be recognized as the world’s best partner to indie game developers, we're looking to strengthen the team with a Product Manager. Tags: [Production] [Full",
-          "score": 8
+          "description": "We are looking for a UI/UX Designer to producce the game's interface design from foundation to execution. Tags: [Design] [Part",
+          "score": 6
         },
         {
           "title": "Batterystaple Games is hiring a Social Media & Content Marketer to work from Anywhere",
@@ -217,13 +203,6 @@
           "score": 6
         },
         {
-          "title": "11 Dot Studio is hiring a Pixel Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/11-dot-studio-pixel-artist",
-          "country": "",
-          "description": "11 Dot Studio is seeking a Pixel Artist for a cozy life simulation, cafe management game. Tags: [Art & Animation]",
-          "score": 6
-        },
-        {
           "title": "Bunch'o'Nerds is hiring a Social Media & Content Marketer to work from EU, UK, or TR",
           "url": "https://www.workwithindies.com/careers/bunch-o-nerds-social-media-content-marketer",
           "country": "",
@@ -238,11 +217,11 @@
           "score": 4
         },
         {
-          "title": "Eucalyptus Heavy Industries is hiring a Unreal Netcode Specialist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/eucalyptus-heavy-industries-unreal-netcode-specialist",
+          "title": "Clickteam is hiring a C++ Cross Platform Programmer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/clickteam-c-cross-platform-programmer",
           "country": "",
-          "description": "We’re looking for an experienced C++ programmer with Unreal Engine 5 netcode and lobby development experience to manage a focused multiplayer systems overhaul. Tags: [Programming]",
-          "score": 4
+          "description": "Clickteam is looking for a motivated candidate to join its programming team with a focus on our flagship product Clickteam Fusion. Tags: [Programming]",
+          "score": 2
         }
       ]
     },
@@ -303,29 +282,8 @@
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 5,
+      "job_count": 2,
       "jobs": [
-        {
-          "title": "Turtle Rock Studios is hiring Associate Network Platform Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-associate-network-platform-engineer-remote-job",
-          "country": "",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 12
-        },
-        {
-          "title": "Turtle Rock Studios is hiring Senior Sandbox Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-sandbox-designer-remote-job",
-          "country": "",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 12
-        },
-        {
-          "title": "Turtle Rock Studios is hiring Senior Software Engineer, IT (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-software-engineer-it-remote-job",
-          "country": "",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 12
-        },
         {
           "title": "Mysteria Studio UG is hiring Character Rigger & Animator (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-character-rigger-animator-remote-job",
@@ -334,17 +292,17 @@
           "score": 9
         },
         {
-          "title": "Turtle Rock Studios is hiring Tools Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-tools-engineer-remote-job",
+          "title": "Saguni Studio is hiring Technical Artist Shaders - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
           "country": "",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 9
+          "description": "To help us process your application efficiently, please start your email subject line with",
+          "score": 7
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 4,
+      "job_count": 5,
       "jobs": [
         {
           "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
@@ -373,6 +331,13 @@
           "country": "",
           "description": "Hi everyone,We’re Lucid Realm Studio, an indie 3D game art production team, currently looking for freelance 3D artists experienced in creating realistic high-poly animals for an Action Adventure game with near-AAA visual quality.We have attached reference images to showcase the target quality",
           "score": 11
+        },
+        {
+          "title": "We are a newly established studio and are currently seeking a cost-effective 3D paleontologist / ZBr",
+          "url": "https://polycount.com/discussion/238602/we-are-a-newly-established-studio-and-are-currently-seeking-a-cost-effective-3d-paleontologist-zbr",
+          "country": "",
+          "description": "High-detail carving abilityPossess experience in animal anatomy / biological carvingCan output printable STL/OBJ filesSuitable for 3D printing and commercial displayDoes not accept AI-generated or copied modelsIf appropriate, long-term cooperation is",
+          "score": 6
         }
       ]
     },
@@ -402,18 +367,18 @@
           "score": 10
         },
         {
-          "title": "I need an 11 second animation of a deer skull",
-          "url": "https://blenderartists.org/t/i-need-an-11-second-animation-of-a-deer-skull/1640611",
-          "country": "",
-          "description": "Hi there, I need an 11 second animation of a deer skull (realistic bone texture) stationary in the middle of frame. Over the 11 seconds it begins to grow moss across the skull and bleed slightly from the eyeballs.\nHappy to pay $125-175 for someone with the right portfolio.\nI have an 11 second",
-          "score": 9
-        },
-        {
           "title": "Paid work to clean up STL file",
           "url": "https://blenderartists.org/t/paid-work-to-clean-up-stl-file/1641151",
           "country": "",
           "description": "Task Overview\nI need help cleaning up an STL file for CNC milling. I have scanned a wooden deck piece that I would like to reproduce as a replacement part.\nWhat I Need\n\nReview the existing STL scan of the deck piece\nClean up any scan noise, defects, or irregular geometry\nPrepare the model so it is",
           "score": 8
+        },
+        {
+          "title": "Looking for a Blender mentor — 1-on-1 live coaching for stylized realistic character rendering",
+          "url": "https://blenderartists.org/t/looking-for-a-blender-mentor-1-on-1-live-coaching-for-stylized-realistic-character-rendering/1641365",
+          "country": "",
+          "description": "(topic deleted by author)\n1 post - 1 participant\nRead full",
+          "score": 4
         }
       ]
     },
@@ -775,8 +740,22 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 47,
+      "job_count": 50,
       "jobs": [
+        {
+          "title": "Dynamics 365 CRM & ERP + Jira IT Project Manager (Azure DevOps) PTE",
+          "url": "https://arc.dev/remote-jobs/j/itc-worldwide-dynamics-365-crm-erp-jira-it-project-manager-azure-devops-pte-oqbk0d7twt",
+          "country": "Remote",
+          "description": "",
+          "score": 6
+        },
+        {
+          "title": "Senior Fullstack Developer (Node, Express, React native) - FT - LATAM/NA",
+          "url": "https://arc.dev/remote-jobs/details/senior-fullstack-developer-node-express-react-native-ft-latam-na-oqau4wd99r",
+          "country": "Remote",
+          "description": "",
+          "score": 5
+        },
         {
           "title": "Senior Software Engineer, Back-end, DAFs - Perm - NA/LATAM/EU",
           "url": "https://arc.dev/remote-jobs/details/senior-software-engineer-back-end-dafs-perm-na-latam-eu-opbh1dftcr",
@@ -799,8 +778,15 @@
           "score": 4
         },
         {
-          "title": "Software Development",
-          "url": "https://arc.dev/remote-jobs/software-development",
+          "title": "Machine Learning Engineer (3D Shape Classification & Assembly Intelligence) - FT - WW",
+          "url": "https://arc.dev/remote-jobs/details/machine-learning-engineer-3d-shape-classification-assembly-intelligence-ft-ww-oqanffar82",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Digital marketing",
+          "url": "https://arc.dev/remote-jobs/digital-marketing",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -1065,43 +1051,43 @@
           "score": 2
         },
         {
-          "title": "Medior Full Stack Developer",
-          "url": "https://arc.dev/remote-jobs/j/ptc-medior-full-stack-developer-ohki88khzj",
+          "title": "Data Quality",
+          "url": "https://arc.dev/remote-jobs/data-quality",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Regional Marketing Manager - TOLA & LATAM",
-          "url": "https://arc.dev/remote-jobs/j/redis-regional-marketing-manager-tola-latam-opuhk6rpvo",
+          "title": "Enterprise Search",
+          "url": "https://arc.dev/remote-jobs/enterprise-search",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "B2B marketing",
-          "url": "https://arc.dev/remote-jobs/b2b-marketing",
+          "title": "SAP CX (Marketing) Functional Consultant",
+          "url": "https://arc.dev/remote-jobs/j/customertimes-sap-cx-marketing-functional-consultant-oqcew0tbzt",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Email Development",
-          "url": "https://arc.dev/remote-jobs/email-development",
+          "title": "Blog writing",
+          "url": "https://arc.dev/remote-jobs/blog-writing",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Ux writing",
-          "url": "https://arc.dev/remote-jobs/ux-writing",
+          "title": "Field CTO - Security",
+          "url": "https://arc.dev/remote-jobs/j/cisco-field-cto-security-oqbk4eof1z",
           "country": "Remote",
           "description": "",
           "score": 2
         },
         {
-          "title": "Software Engineer II (Golang)",
-          "url": "https://arc.dev/remote-jobs/j/vonage-software-engineer-ii-golang-opublam8nn",
+          "title": "Cybersecurity",
+          "url": "https://arc.dev/remote-jobs/cybersecurity",
           "country": "Remote",
           "description": "",
           "score": 2
