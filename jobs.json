@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-20 02:28",
-  "total_jobs": 154,
+  "updated": "2026-05-21 02:29",
+  "total_jobs": 151,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -50,6 +50,13 @@
           "score": 5
         },
         {
+          "title": "Reality Capture Lead - MSG Entertainment",
+          "url": "https://www.entertainmentcareers.net/msg-entertainment/reality-capture-lead/job/521110/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nReality Capture Lead is responsible for the capturing and processing of photogrammetry, gaussian ... more",
+          "score": 4
+        },
+        {
           "title": "Animation Supervisor - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/animation-supervisor/job/512182/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -71,13 +78,6 @@
           "score": 4
         },
         {
-          "title": "Layout Technician - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/layout-technician/job/518028/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a  Layout  Technician, you will   collaborate  with Layout Artists to pre-visualize sequences,  setting ... more",
-          "score": 4
-        },
-        {
           "title": "Lighting Supervisor - Industrial Light & Magic",
           "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-supervisor/job/518123/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
@@ -92,11 +92,11 @@
           "score": 4
         },
         {
-          "title": "Junior Effects Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-effects-technical-director/job/518270/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Production Coordinator - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-coordinator/job/521070/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Junior Effects Technical Director (Project Hire) - ILM San Francisco\n\nJob Summary:\n\nPosition ... more",
-          "score": 4
+          "description": "pls RT ECNIDRSS @entcareersnet  Production Coordinator, Intermediate\n\n700, rue Saint-Hubert, bureau 400, MontrÃ©al (QC) H2Y 0C1\n\nÃ€ ... more",
+          "score": 2
         },
         {
           "title": "Director of TV Post Production - Sony Pictures",
@@ -151,14 +151,14 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 15,
+      "job_count": 9,
       "jobs": [
         {
-          "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
-          "url": "https://www.workwithindies.com/careers/throwback-studios-3d-art-generalist-unity",
+          "title": "lightconstruct is hiring a 3D Isometric Artist to work from GMT -2 to +6",
+          "url": "https://www.workwithindies.com/careers/lightconstruct-3d-isometric-artist",
           "country": "",
-          "description": "Throwback Studios is seeking a scrappy, self-directed 3D artist with a strong sense of art direction to own the art-pipeline for a social sandbox baseball game. Tags: [Art & Animation] [Full",
-          "score": 12
+          "description": "I'm looking for a 3D artist with experience in environment and character creation for 3D hex tile based strategy/deck builder game. Tags: [Art & Animation]",
+          "score": 10
         },
         {
           "title": "Bad Source is hiring a 3D Character Modeler to work from Anywhere",
@@ -189,13 +189,6 @@
           "score": 8
         },
         {
-          "title": "Mysteria Studio is hiring a Character Rigger & Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/mysteria-studio-character-rigger-animator",
-          "country": "",
-          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position.  Tags: [Art & Animation]",
-          "score": 8
-        },
-        {
           "title": "KO_OP is hiring a Community Manager & Content Creator (en/fr) to work from Canada",
           "url": "https://www.workwithindies.com/careers/ko-op-community-manager-content-creator-en-fr",
           "country": "",
@@ -215,41 +208,6 @@
           "country": "",
           "description": "Batterystaple is looking for someone to manage and grow our social media presence & raise awareness of our next (unannounced!) title. Tags: [Marketing & Community] [Part",
           "score": 6
-        },
-        {
-          "title": "Mobius Digital is hiring a DevOps/Infrastructure Engineer to work from L.A. or United States",
-          "url": "https://www.workwithindies.com/careers/mobius-digital-devops-infrastructure-engineer",
-          "country": "",
-          "description": "We are looking for an engineer to help maintain our technical infrastructure, from the physical hardware maintenance of workstations and on-premises servers to the implementation of build pipelines. Tags: [Programming] [Full",
-          "score": 6
-        },
-        {
-          "title": "Mobius Digital is hiring a Audio Engineer to work from L.A. or United States",
-          "url": "https://www.workwithindies.com/careers/mobius-digital-audio-engineer",
-          "country": "",
-          "description": "We are looking for an engineer with a good ear for audio who can work hand in hand with our audio designer(s) and creative director to integrate the sounds and music of the game to a high level of quality. Tags: [Programming] [Full",
-          "score": 6
-        },
-        {
-          "title": "Frostwood Interactive is hiring a Community Manager to work from US timezones",
-          "url": "https://www.workwithindies.com/careers/frostwood-interactive-community-manager",
-          "country": "",
-          "description": "Shutter Story already has a thriving and quickly growing community, and as a mostly-solo dev I’m looking for someone to keep it engaged while I focus on development and production related tasks. Tags: [Marketing & Community] [Part",
-          "score": 6
-        },
-        {
-          "title": "Bunch'o'Nerds is hiring a Social Media & Content Marketer to work from EU, UK, or TR",
-          "url": "https://www.workwithindies.com/careers/bunch-o-nerds-social-media-content-marketer",
-          "country": "",
-          "description": "We aren’t just looking for someone with an interest in gaming. We want someone whose life revolves around this industry, who truly enjoys this lifestyle, and who is ready to produce and grow as a professional in this field. Tags: [Marketing & Community]",
-          "score": 4
-        },
-        {
-          "title": "Mobius Digital is hiring a Creature/NPC AI Engineer to work from L.A. or United States",
-          "url": "https://www.workwithindies.com/careers/mobius-digital-creature-npc-ai-engineer",
-          "country": "",
-          "description": "We are looking for an engineer to help make creatures and NPCs that feel alive, believable, and interesting to observe and interact with. Tags: [Programming] [Full",
-          "score": 4
         },
         {
           "title": "Clickteam is hiring a C++ Cross Platform Programmer to work from Anywhere",
@@ -300,18 +258,25 @@
           "score": 9
         },
         {
-          "title": "Senior AI System Software Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
+          "title": "Software Engineer Platform",
+          "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626",
           "country": "",
-          "description": "Build something people loveWealthsimple's mission is to help everyone achieve financial freedom – by making financial services simple, transparent, and low-cost. We're Canada's largest fintech, trusted by over 3 million clients with more than $100 billion in assets. We move fast, we own our work,",
-          "score": 9
+          "description": "We are rebuilding biotech for the AI era.When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into",
+          "score": 7
         }
       ]
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
+        {
+          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
+          "country": "",
+          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
+          "score": 13
+        },
         {
           "title": "Artifex Mundi is hiring Community Support Specialist (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/artifex-mundi-community-support-specialist-remote-job-8a21f65a-118c-4bff-ba41-270ccaf82d54",
@@ -337,8 +302,15 @@
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 5,
+      "job_count": 7,
       "jobs": [
+        {
+          "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
+          "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
+          "country": "",
+          "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
+          "score": 19
+        },
         {
           "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
           "url": "https://polycount.com/discussion/238591/hiring-realtime-technical-asset-specialist-for-optimization-mesh-retopology-and-material-conversion",
@@ -347,11 +319,11 @@
           "score": 16
         },
         {
-          "title": "[PAID] Looking for Stylized Environment Artist for Cozy Nature Game Prototype",
-          "url": "https://polycount.com/discussion/238580/paid-looking-for-stylized-environment-artist-for-cozy-nature-game-prototype",
+          "title": "[PAID][REMOTE] Motioncapture Post Production Animator",
+          "url": "https://polycount.com/discussion/238614/paid-remote-motioncapture-post-production-animator",
           "country": "",
-          "description": "Hello,I’m a solo developer currently prototyping a small cozy wildlife/garden game with a focus on calm atmosphere, stylized environments, and readable gameplay spaces.The visual direction leans toward painterly/stylized nature environments with a slightly elevated or semi-isometric perspective,",
-          "score": 12
+          "description": "Mercurial Dance are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR®Your RoleAs part of our asset creation process, we are creating a custom movement library for our new title EmbodyXR® which includes",
+          "score": 15
         },
         {
           "title": "[PAID][REMOTE] Hiring Multiple 2D Traditional Animators - Game Project Tie-Down & Cleanup",
@@ -368,6 +340,13 @@
           "score": 11
         },
         {
+          "title": "[PAID] 3D Stylized Hand-painted Artists/Studios - MMORPG Armors",
+          "url": "https://polycount.com/discussion/238612/paid-3d-stylized-hand-painted-artists-studios-mmorpg-armors",
+          "country": "",
+          "description": "Hi everyone,We’re Lucid Realm Studio, an indie 3D game art production team, currently looking for mid-level freelance 3D artists experienced in creating stylized hand-painted armors for a stylized MMORPG project.Texture quality level and art direction is similar to WoW.Project StyleStylized",
+          "score": 9
+        },
+        {
           "title": "We are a newly established studio and are currently seeking a cost-effective 3D paleontologist / ZBr",
           "url": "https://polycount.com/discussion/238602/we-are-a-newly-established-studio-and-are-currently-seeking-a-cost-effective-3d-paleontologist-zbr",
           "country": "",
@@ -381,18 +360,18 @@
       "job_count": 5,
       "jobs": [
         {
-          "title": "Seeking a 3D Modeler with Game Rigging Experience ( More Informatjon in Forum )",
-          "url": "https://blenderartists.org/t/seeking-a-3d-modeler-with-game-rigging-experience-more-informatjon-in-forum/1641470",
-          "country": "",
-          "description": "Hey there! I’m seeking a 3D Modeler that has experience with editing / rigging a model to a game to be completely game ready when I receive it!\nFor context, I am building a project for myself and friends using the game engine Ogre ( So you will also need experience with exporting .mesh files as",
-          "score": 16
-        },
-        {
           "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
           "url": "https://blenderartists.org/t/looking-for-a-paid-1-1-tutor-stylized-3d-character-modeling-blender-kirby-nintendo-style/1641073",
           "country": "",
           "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
           "score": 15
+        },
+        {
+          "title": "Seeking a 3D Modeler with Game Rigging Experience ( More Informatjon in Forum )",
+          "url": "https://blenderartists.org/t/seeking-a-3d-modeler-with-game-rigging-experience-more-informatjon-in-forum/1641470",
+          "country": "",
+          "description": "(topic deleted by author)\n1 post - 1 participant\nRead full",
+          "score": 14
         },
         {
           "title": "Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling",
@@ -848,13 +827,6 @@
           "score": 4
         },
         {
-          "title": "Senior Backend Engineer – Java, Oracle, MySQL",
-          "url": "https://arc.dev/remote-jobs/details/senior-backend-engineer-java-oracle-mysql-oqmbbdhcnu",
-          "country": "Remote",
-          "description": "",
-          "score": 3
-        },
-        {
           "title": "Senior Engineering Manager – Growth",
           "url": "https://arc.dev/remote-jobs/j/kraken-senior-engineering-manager-growth-oay4jsai94",
           "country": "Remote",
@@ -1109,6 +1081,13 @@
         {
           "title": "R&D project manager jobs",
           "url": "https://arc.dev/remote-jobs/rd-project-manager",
+          "country": "Remote",
+          "description": "",
+          "score": 2
+        },
+        {
+          "title": "Magento 2 Developer",
+          "url": "https://arc.dev/remote-jobs/details/magento-2-developer-oqtbnlt5b2",
           "country": "Remote",
           "description": "",
           "score": 2
