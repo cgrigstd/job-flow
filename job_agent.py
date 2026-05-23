@@ -28,7 +28,6 @@ KEYWORDS = [
     "senior"
 ]
 
-location = "argentina"
 limit_days = 7
 
 
@@ -92,7 +91,7 @@ def get_imagecampus_jobs(keywords, seen_urls):
         try:
             response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
             soup = BeautifulSoup(response.text, "html.parser")
-        except:
+        except Exception:
             continue
 
         for link in soup.select("a"):
@@ -130,7 +129,7 @@ def get_imagecampus_jobs(keywords, seen_urls):
                 description = clean_imagecampus_description(raw_text)
                 description = description[:300].rsplit(" ", 1)[0]
 
-            except:
+            except Exception:
                 pass
 
             job = {
@@ -157,13 +156,17 @@ def get_arcdev_jobs(seen_urls):
     try:
         response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
         soup = BeautifulSoup(response.text, "html.parser")
-    except:
+    except Exception:
         return jobs
 
     for link in soup.select("a"):
         href = link.get("href")
 
         if not href or "/remote-jobs/" not in href:
+            continue
+
+        # Saltar páginas de categoría (ej: /remote-jobs/game), solo jobs reales
+        if "/remote-jobs/details/" not in href and "/remote-jobs/j/" not in href:
             continue
 
         if not href.startswith("http"):
@@ -213,24 +216,22 @@ def search_jobs():
 
     for site, url in feeds.items():
 
-        # 🔴 Saltamos ArcDev del feed (lo manejamos aparte)
         if site == "ArcDev":
             continue
 
         try:
             data = parse_feed(url)
-        except:
+        except Exception:
             continue
 
         site_jobs = []
 
         for entry in data.entries:
-
-            if site != "Entertainment Careers":
-                if hasattr(entry, "published_parsed"):
-                    job_date = datetime(*entry.published_parsed[:6])
-                    if job_date < cutoff:
-                        continue
+            published = getattr(entry, "published_parsed", None)
+            if published:
+                job_date = datetime(*published[:6])
+                if job_date < cutoff:
+                    continue
 
             if entry.link in seen_urls:
                 continue
@@ -250,7 +251,11 @@ def search_jobs():
             if "unpaid" in content or "volunteer" in content:
                 continue
 
-            country = "Argentina" if location in content else ""
+            country = ""
+            if "argentina" in content:
+                country = "Argentina"
+            elif "remote" in content:
+                country = "Remote"
 
             description = ""
             if hasattr(entry, "description"):
@@ -300,7 +305,7 @@ def search_jobs():
                         "score": 1
                     })
 
-            except:
+            except Exception:
                 pass
 
         site_jobs = sorted(site_jobs, key=lambda x: x["score"], reverse=True)
