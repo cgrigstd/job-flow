@@ -1,12 +1,19 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-22 02:30",
-  "total_jobs": 100,
+  "updated": "2026-05-23 01:42",
+  "total_jobs": 80,
   "sites": [
     {
       "name": "Entertainment Careers",
       "job_count": 20,
       "jobs": [
+        {
+          "title": "Visual Effects Coordinator - NBCUniversal",
+          "url": "https://www.entertainmentcareers.net/nbcuniversal/visual-effects-coordinator/job/521259/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  The VFX Coordinator position will manage the day-to-day administrative functions for the EVP of Visual ... more",
+          "score": 8
+        },
         {
           "title": "Senior Lead Modeler - Eyeline",
           "url": "https://www.entertainmentcareers.net/eyeline/senior-lead-modeler/job/512190/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -22,24 +29,24 @@
           "score": 7
         },
         {
+          "title": "VFX Artist Trainer - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/vfx-artist-trainer/job/521339/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Sony Pictures Imageworks Canada Inc\n\n658 Homer Street., Suite 405, Vancouver, BC, ... more",
+          "score": 6
+        },
+        {
+          "title": "Department Technical Director - DreamWorks Animation",
+          "url": "https://www.entertainmentcareers.net/dreamworks-animation/department-technical-director/job/521257/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  Responsibilities:\n -  Support production critical software, infrastructure and workflows. ... more",
+          "score": 6
+        },
+        {
           "title": "Crowd Artist - Walt Disney Animation Studios",
           "url": "https://www.entertainmentcareers.net/walt-disney-animation-studios/crowd-artist/job/512417/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Walt Disney Animation Studios is looking for inspired Crowd Artists, with strong artistic abilities ... more",
-          "score": 6
-        },
-        {
-          "title": "Look Development Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/look-development-technical-director/job/517911/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nWe are looking for Look Development Technical Directors ... more",
-          "score": 6
-        },
-        {
-          "title": "Lead Modeler - Feature Animation - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lead-modeler-feature-animation/job/518124/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nWe are looking for a Lead Modeler to work within our ... more",
           "score": 6
         },
         {
@@ -48,6 +55,13 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  We have a great new opportunity for an experienced mid-level Compositor to join our team here at Pixomondo ... more",
           "score": 5
+        },
+        {
+          "title": "Production Coordinator - DreamWorks Animation",
+          "url": "https://www.entertainmentcareers.net/dreamworks-animation/production-coordinator/job/521284/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  “What would you say you do here?”\n• Coordinates shipping of materials to partner studios and ... more",
+          "score": 4
         },
         {
           "title": "Associate Technical Director - Sony Imageworks",
@@ -85,11 +99,11 @@
           "score": 4
         },
         {
-          "title": "Lighting Supervisor - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-supervisor/job/518123/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Pipeline Engineer - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/pipeline-engineer/job/521300/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nWe are looking for a Lighting Supervisor who reflects ... more",
-          "score": 4
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Pipeline Engineer, you will support the team by creating and maintaining automated build, testing ... more",
+          "score": 2
         },
         {
           "title": "Production Coordinator - Sony Imageworks",
@@ -132,26 +146,12 @@
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Directeur (trice) technique des pipeline - expérimenté(e) / Experienced Pipeline TD\n\n700, ... more",
           "score": 2
-        },
-        {
-          "title": "Effects Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/effects-technical-director/job/517927/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Effects Technical Director (Project Hire) - ILM San Francisco\n\nJob Summary:\n\nWe ... more",
-          "score": 2
-        },
-        {
-          "title": "Production Technologist - The Walt Disney Studios",
-          "url": "https://www.entertainmentcareers.net/the-walt-disney-studios/production-technologist/job/517958/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Production Innovation Technologist (PH)\n\nJob Summary:\n\nWe are ... more",
-          "score": 2
         }
       ]
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 15,
+      "job_count": 20,
       "jobs": [
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
@@ -159,6 +159,20 @@
           "country": "",
           "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation]",
           "score": 17
+        },
+        {
+          "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
+          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
+          "country": "",
+          "description": "We are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR® Tags: [Art & Animation]",
+          "score": 16
+        },
+        {
+          "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
+          "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
+          "country": "",
+          "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation]",
+          "score": 12
         },
         {
           "title": "Vinci Games is hiring a Lead 3D Artist (Social VR) to work from S.F. or North America",
@@ -182,11 +196,25 @@
           "score": 10
         },
         {
+          "title": "Armor Games Studios is hiring a Senior Marketing Manager to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/armor-games-studios-senior-marketing-manager",
+          "country": "",
+          "description": "Armor Games Studios is looking for a highly creative, proactive, strategic, and experienced Part-Time Senior Marketing Manager!  Tags: [Marketing & Community] [Part",
+          "score": 9
+        },
+        {
           "title": "Ded Dev Games is hiring a Social Media & Video Marketer to work from PT ± 3 hours",
           "url": "https://www.workwithindies.com/careers/ded-dev-games-social-media-video-marketer",
-          "country": "",
+          "country": "Remote",
           "description": "This is a part time remote, contract role for a content wizard who wants to work with a close indie team on an exciting project! Tags: [Marketing & Community]",
           "score": 9
+        },
+        {
+          "title": "GB Patch Games is hiring a Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/gb-patch-games-artist",
+          "country": "",
+          "description": "GB Patch Games is looking for additional artists for our upcoming commercial visual novel project, Our Life: Now & Forever. Tags: [Art & Animation]",
+          "score": 8
         },
         {
           "title": "Bebo's Dev House is hiring a 2D Artist / Animator to work from Anywhere",
@@ -224,6 +252,13 @@
           "score": 7
         },
         {
+          "title": "The Rhythm Company is hiring a Technical Animator to work from PT ± 4 hours",
+          "url": "https://www.workwithindies.com/careers/the-rhythm-company-technical-animator",
+          "country": "",
+          "description": "We are looking for a Technical Animator to support character animation implementation for our upcoming rhythm game. Tags: [Art & Animation]",
+          "score": 6
+        },
+        {
           "title": "KO_OP is hiring a Community Manager & Content Creator (en/fr) to work from Canada",
           "url": "https://www.workwithindies.com/careers/ko-op-community-manager-content-creator-en-fr",
           "country": "",
@@ -238,11 +273,11 @@
           "score": 6
         },
         {
-          "title": "Batterystaple Games is hiring a Social Media & Content Marketer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/batterystaple-games-social-media-content-marketer",
+          "title": "Devolver Digital is hiring a Producer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/devolver-digital-producer",
           "country": "",
-          "description": "Batterystaple is looking for someone to manage and grow our social media presence & raise awareness of our next (unannounced!) title. Tags: [Marketing & Community] [Part",
-          "score": 6
+          "description": "As a Producer, you will take ownership of multiple titles and be responsible for guiding them through to successful release and beyond. Tags: [Production] [Full",
+          "score": 4
         },
         {
           "title": "Dillo Interactive is hiring a Community & Social Media Marketing Intern to work from United States",
@@ -262,53 +297,116 @@
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 3,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Senior Database Reliability Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
-          "country": "",
+          "country": "Remote",
           "description": "CloudLinux / TuxCare is a remote-first infrastructure and security company. More than 300 engineers build and operate products used by hosting providers, enterprises, and internal service teams worldwide. Our Infrastructure Department runs the platforms behind CloudLinux OS, Imunify, KernelCare,",
           "score": 10
         },
         {
           "title": "Customer Lifecycle Automation Manager @CXT Software",
           "url": "https://remoteOK.com/remote-jobs/remote-customer-lifecycle-automation-manager-cxt-software-cxt-software-1131624",
-          "country": "",
+          "country": "Remote",
           "description": "Do you enjoy building systems that scale customer engagement, reduce manual work, and turn data into action? Are you motivated by creating structured, automated customer journeys that drive retention and expansion without requiring human intervention? Do you thrive in ambiguous environments where",
           "score": 9
         },
         {
+          "title": "Python Developer Brazil",
+          "url": "https://remoteOK.com/remote-jobs/remote-python-developer-brazil-anyone-ai-1131634",
+          "country": "Remote",
+          "description": "Anyone AI is recruiting skilled Python Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of",
+          "score": 7
+        },
+        {
           "title": "Software Engineer Platform",
           "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626",
-          "country": "",
+          "country": "Remote",
           "description": "We are rebuilding biotech for the AI era.When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into",
           "score": 7
+        },
+        {
+          "title": "Content Marketing Manager",
+          "url": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-livekit-1131635",
+          "country": "",
+          "description": "About LiveKitLiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce,",
+          "score": 6
+        },
+        {
+          "title": "Expeditor Abbotsford",
+          "url": "https://remoteOK.com/remote-jobs/remote-expeditor-abbotsford-cactus-club-cafe-1131762",
+          "country": "",
+          "description": "Our Expeditors are the liaison between the culinary and service teams to ensure dishes are executed correctly, on time and delivered to guests with perfection. They are the epitome of precision and efficiency, ensuring that each plate leaving the kitchen is a masterpiece. They are a group of",
+          "score": 6
+        },
+        {
+          "title": "Baker with Benefits",
+          "url": "https://remoteOK.com/remote-jobs/remote-baker-with-benefits-cobs-bread-1131744",
+          "country": "",
+          "description": "Share in something more with a career at COBS Bread2021 Top 50 Best Workplaces™ in Canada by Great Place to Work®Our RoleWhen you work with COBS Bread, you're part of a workplace that is committed to providing you with an experience that will help you rise to any occasion. We're here to encourage",
+          "score": 6
+        },
+        {
+          "title": "Veterans Application",
+          "url": "https://remoteOK.com/remote-jobs/remote-veterans-application-top-aces-1131735",
+          "country": "",
+          "description": "Are you looking for a new step in your career?Join our team!Top Aces is a privately owned, Montreal-based global leader in aerospace and defense founded in 2000 by three former Royal Canadian Air Force CF-18 fighter pilots. We provide advanced adversary (Red Air), air-defense, and Joint Terminal",
+          "score": 6
+        },
+        {
+          "title": "Cleaner",
+          "url": "https://remoteOK.com/remote-jobs/remote-cleaner-dexterra-group-1131745",
+          "country": "",
+          "description": "Company DescriptionWHO ARE WE?Dexterra Group is a fast-growing, financially strong, publicly listed company (TSX:DXT). We have a far-reaching presence across the entire continent North America with hundreds of full-time and part-time opportunities at any given time. We aim to provide our people",
+          "score": 4
+        },
+        {
+          "title": "General Production",
+          "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1131755",
+          "country": "",
+          "description": "Job PurposeJob Description Content for Job Profiles is a work in progress. If you need content to finalize this requisition for posting, please send a message to mydanahrplatform@dana.com.Job Duties And ResponsibilitiesJob Description Content for Job Profiles is a work in progress. If you need",
+          "score": 2
+        },
+        {
+          "title": "Replace with job title",
+          "url": "https://remoteOK.com/remote-jobs/remote-replace-with-job-title-sarens-1131675",
+          "country": "",
+          "description": "Fill In Job Description HerePROFILEFill in profile requirements here  WE OFFER Fill in the details of our offer",
+          "score": 2
         }
       ]
     },
     {
       "name": "Remote Game Jobs",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
-          "country": "",
+          "country": "Remote",
           "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
           "score": 13
         },
         {
+          "title": "Lobah Poland is hiring Senior Backend Integration Programmer (UE5 / Online Systems) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/lobah-poland-senior-backend-integration-programmer-ue5-online-systems-remote-job",
+          "country": "Remote",
+          "description": "About the Role\nWe are developing a third-person competitive shooter in Unreal Engine 5, currently in beta testing, with a strong focus on online multiplayer systems and long-term live operations.\nThis role focuses on integrating gameplay-facing online systems and platform services into the game",
+          "score": 12
+        },
+        {
           "title": "Artifex Mundi is hiring Community Support Specialist (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/artifex-mundi-community-support-specialist-remote-job-8a21f65a-118c-4bff-ba41-270ccaf82d54",
-          "country": "",
+          "country": "Remote",
           "description": "We are a mobile F2P game developer with 20 years of experience and a team of over 100 people, divided into two independent studios: Adventure and RPG. \nOur RPG team is working on Void Hunters — a tactical RPG focused on deep systems, squad progression, and meaningful player decisions. The project",
           "score": 9
         },
         {
           "title": "Saguni Studio is hiring Technical Artist Shaders - Dark Fantasy Anime ARPG (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
-          "country": "",
+          "country": "Remote",
           "description": "To help us process your application efficiently, please start your email subject line with",
           "score": 7
         }
@@ -321,22 +419,22 @@
         {
           "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
           "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
-          "country": "",
+          "country": "Remote",
           "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
           "score": 19
         },
         {
           "title": "[PAID][REMOTE] Motioncapture Post Production Animator",
           "url": "https://polycount.com/discussion/238614/paid-remote-motioncapture-post-production-animator",
-          "country": "",
+          "country": "Remote",
           "description": "Mercurial Dance are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR®Your RoleAs part of our asset creation process, we are creating a custom movement library for our new title EmbodyXR® which includes",
           "score": 15
         },
         {
-          "title": "[PAID][REMOTE] Hiring Multiple 2D Traditional Animators - Game Project Tie-Down & Cleanup",
-          "url": "https://polycount.com/discussion/238595/paid-remote-hiring-multiple-2d-traditional-animators-game-project-tie-down-cleanup",
+          "title": "[OPEN] Cinematic/Game animator collaboration invitation — Lucid Realm Studio",
+          "url": "https://polycount.com/discussion/238623/open-cinematic-game-animator-collaboration-invitation-lucid-realm-studio",
           "country": "",
-          "description": "Hi everyone,\nWe’re looking for freelance 2D traditional animators to help with tie-down and cleanup work on an active game project currently in production.\nThe work will be paid at a flat rate per frame. We’re looking for artists who are comfortable working in a traditional 2D animation pipeline",
+          "description": "Hi everyone,\nWe’re Lucid Realm Studio, an indie 3D game art production\r\nteam, currently looking for mid-level freelance 3D artists experienced in building\r\na small pool of cinematic animators for an upcoming project and ongoing work\r\nafter that - work across all tiers. If you're looking for a",
           "score": 11
         },
         {
@@ -357,7 +455,7 @@
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 4,
+      "job_count": 5,
       "jobs": [
         {
           "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
@@ -374,10 +472,10 @@
           "score": 12
         },
         {
-          "title": "Looking for a Level Designer — Low-Poly Map",
-          "url": "https://blenderartists.org/t/looking-for-a-level-designer-low-poly-map/1641045",
+          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
+          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
           "country": "",
-          "description": "Budget: $750 · 20% upfront\nWe need a level designer to build a map/world in Blender.\nThe map must be low-poly style. We have a rough idea of what we want, but we’re relying on your creativity to bring the world to life.\nWhat we need:\n\nLow-poly map/world built in Blender\nGood layout, atmosphere, and",
+          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
           "score": 10
         },
         {
@@ -386,30 +484,92 @@
           "country": "",
           "description": "Task Overview\nI need help cleaning up an STL file for CNC milling. I have scanned a wooden deck piece that I would like to reproduce as a replacement part.\nWhat I Need\n\nReview the existing STL scan of the deck piece\nClean up any scan noise, defects, or irregular geometry\nPrepare the model so it is",
           "score": 8
+        },
+        {
+          "title": "[Paid] Video Editor Wanted — Blender Addon Tutorial + Trailer",
+          "url": "https://blenderartists.org/t/paid-video-editor-wanted-blender-addon-tutorial-trailer/1641830",
+          "country": "",
+          "description": "Hi everyone!\nI’m the creator of Auto-Building, a Blender add-on (https://superhivemarket.com/products/auto-building), and I’m looking for a freelance video editor to help with two videos for its upcoming big update.\nSome knowledge of Blender is a real plus here, it helps with pacing decisions,",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "ImageCampus",
+      "job_count": 8,
+      "jobs": [
+        {
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "country": "Argentina",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 14
+        },
+        {
+          "title": "Compositor De Vfx Senior After Nuke Ref 22 525",
+          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-de-vfx-senior-after-nuke-ref-22-525",
+          "country": "Argentina",
+          "description": "",
+          "score": 9
+        },
+        {
+          "title": "Motion Graphics 2D 3D Compositor Vfx Ref 21 462",
+          "url": "https://www.imagecampus.edu.ar/busqueda/motion-graphics-2d-3d-compositor-vfx-ref-21-462",
+          "country": "Argentina",
+          "description": "",
+          "score": 8
+        },
+        {
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
+          "country": "Argentina",
+          "description": "",
+          "score": 6
+        },
+        {
+          "title": "Vfx Artist Ref 23 553",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
+          "country": "Argentina",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Artista Vfx Ref 22 495",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
+          "country": "Argentina",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Vfx Compositor Ref 21 473",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-compositor-ref-21-473",
+          "country": "Argentina",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Vfx Artist Full Time Ref 21 413",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-full-time-ref-21-413",
+          "country": "Argentina",
+          "description": "",
+          "score": 4
         }
       ]
     },
     {
       "name": "ArcDev",
-      "job_count": 50,
+      "job_count": 7,
       "jobs": [
         {
-          "title": "Senior Commercetools Architect/Practitioner",
-          "url": "https://arc.dev/remote-jobs/details/senior-commercetools-architect-practitioner-oqk1o772z6",
+          "title": "Senior Full-Stack Software Engineer - Full Time - Overlap with US timezone (Americas, Europe)",
+          "url": "https://arc.dev/remote-jobs/details/senior-full-stack-software-engineer-full-time-overlap-with-us-timezone-americas-europe-orbats3fiy",
           "country": "Remote",
           "description": "",
           "score": 7
         },
         {
-          "title": "Senior Fullstack Developer (Multi-Tenant SaaS Migration) - Part-time - LATAM/NA",
-          "url": "https://arc.dev/remote-jobs/details/senior-fullstack-developer-multi-tenant-saas-migration-part-time-latam-na-oqhs5kjmqm",
-          "country": "Remote",
-          "description": "",
-          "score": 7
-        },
-        {
-          "title": "Senior AI/SaaS Developer WW-FT",
-          "url": "https://arc.dev/remote-jobs/details/senior-ai-saas-developer-ww-ft-oqw1nd847b",
+          "title": "Senior Fullstack developer (Node.js, PostgreSQL, AWS) - PT - Worldwide",
+          "url": "https://arc.dev/remote-jobs/details/senior-fullstack-developer-node-js-postgresql-aws-pt-worldwide-or7rpfrdhx",
           "country": "Remote",
           "description": "",
           "score": 5
@@ -429,34 +589,6 @@
           "score": 5
         },
         {
-          "title": "Game developer jobs",
-          "url": "https://arc.dev/remote-jobs/game",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "IT project manager jobs",
-          "url": "https://arc.dev/remote-jobs/it-project-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "Full Stack Developer (Laravel + Vue.js) - Perm - LATAM",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-developer-laravel-vue-js-perm-latam-or0v2a35v1",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
-          "title": "Experienced Flutter Developer - Full Time - Overlap with EST (9am - 2pm)",
-          "url": "https://arc.dev/remote-jobs/details/experienced-flutter-developer-full-time-overlap-with-est-9am-2pm-oqjt0lrd95",
-          "country": "Remote",
-          "description": "",
-          "score": 4
-        },
-        {
           "title": "Staff Software Engineer, AI Developer Experience",
           "url": "https://arc.dev/remote-jobs/j/temporal-technologies-staff-software-engineer-ai-developer-experience-or3y5gnch9",
           "country": "Remote",
@@ -464,281 +596,15 @@
           "score": 4
         },
         {
-          "title": "Software Development",
-          "url": "https://arc.dev/remote-jobs/software-development",
+          "title": "Senior Full-Stack Web Engineer - E-Commerce (PT LATAM/NA)",
+          "url": "https://arc.dev/remote-jobs/details/senior-full-stack-web-engineer-e-commerce-pt-latam-na-or5oljgb2b",
           "country": "Remote",
           "description": "",
-          "score": 4
+          "score": 3
         },
         {
-          "title": "Deep learning jobs",
-          "url": "https://arc.dev/remote-jobs/deep-learning",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Machine learning jobs",
-          "url": "https://arc.dev/remote-jobs/machine-learning",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "DevOps engineers jobs",
-          "url": "https://arc.dev/remote-jobs/devops",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": ".NET developer jobs",
-          "url": "https://arc.dev/remote-jobs/dot-net",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Back-end developer jobs",
-          "url": "https://arc.dev/remote-jobs/back-end",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "CMS developer jobs",
-          "url": "https://arc.dev/remote-jobs/cms",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Front-end developer jobs",
-          "url": "https://arc.dev/remote-jobs/front-end",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Full-stack developer jobs",
-          "url": "https://arc.dev/remote-jobs/full-stack",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Mobile app developer jobs",
-          "url": "https://arc.dev/remote-jobs/mobile-hybrid",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Unity jobs",
-          "url": "https://arc.dev/remote-jobs/unity",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Angular jobs",
-          "url": "https://arc.dev/remote-jobs/angular",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Laravel jobs",
-          "url": "https://arc.dev/remote-jobs/laravel",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Web development jobs",
-          "url": "https://arc.dev/remote-jobs/web-development",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Blockchain developer jobs",
-          "url": "https://arc.dev/remote-jobs/blockchain",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Animation designer job",
-          "url": "https://arc.dev/remote-jobs/video-animation-design",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Animation jobs",
-          "url": "https://arc.dev/remote-jobs/animation",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Game design jobs",
-          "url": "https://arc.dev/remote-jobs/game-design",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "UX research jobs",
-          "url": "https://arc.dev/remote-jobs/user-research",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Digital design jobs",
-          "url": "https://arc.dev/remote-jobs/digital-design",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Brand marketer jobs",
-          "url": "https://arc.dev/remote-jobs/brand-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Community manager jobs",
-          "url": "https://arc.dev/remote-jobs/social-media-and-community",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Email marketer jobs",
-          "url": "https://arc.dev/remote-jobs/email-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Product marketing jobs",
-          "url": "https://arc.dev/remote-jobs/product-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Content marketer jobs",
-          "url": "https://arc.dev/remote-jobs/content-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Digital content creation jobs",
-          "url": "https://arc.dev/remote-jobs/digital-content-creation",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Growth marketer jobs",
-          "url": "https://arc.dev/remote-jobs/growth-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Influencer marketing jobs",
-          "url": "https://arc.dev/remote-jobs/influencer-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Paid acquisition specialist jobs",
-          "url": "https://arc.dev/remote-jobs/paid-acquisition",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Market research jobs",
-          "url": "https://arc.dev/remote-jobs/market-research",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Performance marketing jobs",
-          "url": "https://arc.dev/remote-jobs/performance-marketing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Software product manager jobs",
-          "url": "https://arc.dev/remote-jobs/software-product-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Hardware product manager jobs",
-          "url": "https://arc.dev/remote-jobs/hardware-product-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Construction project manager jobs",
-          "url": "https://arc.dev/remote-jobs/construction-project-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Engineering project manager jobs",
-          "url": "https://arc.dev/remote-jobs/engineering-project-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Financial project manager jobs",
-          "url": "https://arc.dev/remote-jobs/financial-project-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "R&D project manager jobs",
-          "url": "https://arc.dev/remote-jobs/rd-project-manager",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Growth Marketer WW-FT",
-          "url": "https://arc.dev/remote-jobs/details/growth-marketer-ww-ft-oqvxi6j62h",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Ux writing",
-          "url": "https://arc.dev/remote-jobs/ux-writing",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "GitHub",
-          "url": "https://arc.dev/remote-jobs/github",
+          "title": "Performance Marketing Manager (Paid Search & Paid Social) (PT-NA/LATAM)",
+          "url": "https://arc.dev/remote-jobs/details/performance-marketing-manager-paid-search-paid-social-pt-na-latam-orb0i550z3",
           "country": "Remote",
           "description": "",
           "score": 2
