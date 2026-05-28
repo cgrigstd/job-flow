@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-27 02:34",
-  "total_jobs": 123,
+  "updated": "2026-05-28 02:09",
+  "total_jobs": 128,
   "sites": [
     {
       "name": "Entertainment Careers",
@@ -151,15 +151,8 @@
     },
     {
       "name": "WorkWithIndies",
-      "job_count": 13,
+      "job_count": 10,
       "jobs": [
-        {
-          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
-          "country": "",
-          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation]",
-          "score": 17
-        },
         {
           "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
           "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
@@ -175,17 +168,24 @@
           "score": 14
         },
         {
+          "title": "Happy Cauldron Games is hiring a Senior Unity VFX Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
+          "country": "",
+          "description": "Happy Cauldron Games is seeking a freelance Senior Unity VFX Artist to create player ability VFX for Fractured: Conquest. Tags: [Art & Animation]",
+          "score": 13
+        },
+        {
+          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
+          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
+          "country": "",
+          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation]",
+          "score": 12
+        },
+        {
           "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
           "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
           "country": "",
           "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation]",
-          "score": 12
-        },
-        {
-          "title": "Vinci Games is hiring a Lead 3D Artist (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-lead-3d-artist-social-vr",
-          "country": "",
-          "description": "We’re looking for a hands-on Lead 3D Artist / Art Lead to raise the visual quality bar for Ruffnauts. Tags: [Art & Animation]",
           "score": 12
         },
         {
@@ -203,24 +203,10 @@
           "score": 8
         },
         {
-          "title": "Bebo's Dev House is hiring a 2D Artist / Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/bebos-dev-house-2d-artist-animator",
+          "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/midain-studios-2d-character-concept-artist",
           "country": "",
-          "description": "I am looking for a part-time 2D artist/animator. Location is anywhere. Tags: [Art & Animation]",
-          "score": 8
-        },
-        {
-          "title": "Dillo Interactive is hiring a Mid-Senior Unity Developer to work from United States",
-          "url": "https://www.workwithindies.com/careers/dillo-interactive-mid-senior-unity-developer",
-          "country": "",
-          "description": "We need support for our upcoming Creature collecting RPG – Creepy Horrors: My Little Blood Cult 2 that is in active development with our small team.  Tags: [Programming]",
-          "score": 7
-        },
-        {
-          "title": "Vinci Games is hiring a Senior World / Level Designer (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-senior-world-level-designer-social-vr",
-          "country": "",
-          "description": "We’re looking for a hands-on Senior World / Level Designer to shape the playable world, biomes, social hub, and traversal experience of Ruffnauts. Tags: [Design]",
+          "description": "We’re looking for a talented 2D character artist / concept artist to help us refine the emotional appeal of the insect characters in Scarlet O’Beetle. Tags: [Art & Animation]",
           "score": 7
         },
         {
@@ -236,19 +222,12 @@
           "country": "",
           "description": "As a Producer, you will take ownership of multiple titles and be responsible for guiding them through to successful release and beyond. Tags: [Production] [Full",
           "score": 4
-        },
-        {
-          "title": "Dillo Interactive is hiring a Community & Social Media Marketing Intern to work from United States",
-          "url": "https://www.workwithindies.com/careers/dillo-interactive-community-social-media-marketing-intern",
-          "country": "",
-          "description": "This internship is designed for someone looking to gain hands-on experience in social media, community management, influencer research, and digital marketing within both the gaming industry and professional corporate environments. Tags: [Marketing & Community]",
-          "score": 4
         }
       ]
     },
     {
       "name": "Remote OK Dev",
-      "job_count": 19,
+      "job_count": 30,
       "jobs": [
         {
           "title": "Junior Front End Developer",
@@ -286,11 +265,39 @@
           "score": 10
         },
         {
-          "title": "Senior Manager National Accounts",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-national-accounts-swiggy-1131849",
+          "title": "Associate Chief of Staff the Co Founders",
+          "url": "https://remoteOK.com/remote-jobs/remote-associate-chief-of-staff-the-co-founders-radicle-science-1132352",
           "country": "Remote",
-          "description": "Ways of Working: Employee will be working remotely .About SwiggySwiggy is India’s leading on-demand delivery platform with a tech-first approach to logistics and a solution-first approach to consumer demands. With a presence in 500+ cities across India, partnerships with hundreds of thousands of",
-          "score": 10
+          "description": "Radicle Science is seeking an exceptional, AI-native Associate Chief of Staff to serve as a force multiplier to Co-Founders Pelin Thorogood and Dr. Jeff Chen.This is a high-leverage, founder-facing role designed for a high-ceiling operator ready to grow into strategic leadership as Radicle scales.",
+          "score": 8
+        },
+        {
+          "title": "Junior Project Manager",
+          "url": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-haystack-1132350",
+          "country": "",
+          "description": "We're hiring on behalf of a Haystack partner!The Role• Analyze and respond to user inquiries for IT-related issues.• Assist with improving project efficiency and effectiveness within an IT support context.• Perform professional technology support tasks including account access requests and",
+          "score": 8
+        },
+        {
+          "title": "HR Generalist",
+          "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-bsi-1132389",
+          "country": "",
+          "description": "We exist to create positive change for people and the planet. Join us and make a difference too!Job Title: HR GeneralistLocation: New DelhiAbout The RoleWe are looking for an experienced and people-focused HR Generalist to join BSI’s People team.In this role, you will provide end-to-end HR support",
+          "score": 8
+        },
+        {
+          "title": "Clinical Quality Improvement Coordinator",
+          "url": "https://remoteOK.com/remote-jobs/remote-clinical-quality-improvement-coordinator-guidehealth-1132349",
+          "country": "Remote",
+          "description": "WHO IS GUIDEHEALTH? Guidehealth is a data-powered, performance-driven healthcare company dedicated to operational excellence. Our goal is to make great healthcare affordable, improve the health of patients, and restore the fulfillment of practicing medicine for providers. Driven by empathy and",
+          "score": 7
+        },
+        {
+          "title": "Chief Operating Officer",
+          "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-ultahost-1132335",
+          "country": "Remote",
+          "description": "About UltaHostUltahost is global web hosting company with a fully remote team. We’re expanding our infrastructure and preparing to launch a new suite of cloud hosting products for customers worldwide.Job OverviewWe are looking for a visionary and results-driven Chief Operating Officer (COO) to lead",
+          "score": 7
         },
         {
           "title": "Content Writer",
@@ -314,6 +321,27 @@
           "score": 7
         },
         {
+          "title": "Virtual Assistant",
+          "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-connectus-marketing-solutions-inc-1132362",
+          "country": "",
+          "description": "Starting salary: PHP 15,200 - 17,200 per month.(Please apply only if the salary offer meets your expectations.)Job DescriptionRespond to emails and phone calls.Schedule meetings.Manage a contact list.Prepare customer spreadsheets and keep online records.Organize the client’s calendars.Perform",
+          "score": 7
+        },
+        {
+          "title": "Community Associate",
+          "url": "https://remoteOK.com/remote-jobs/remote-community-associate-draftkings-inc-1132355",
+          "country": "",
+          "description": "At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized",
+          "score": 6
+        },
+        {
+          "title": "Audio Producer",
+          "url": "https://remoteOK.com/remote-jobs/remote-audio-producer-positive-behavior-steps-1132364",
+          "country": "",
+          "description": "OverviewWe are seeking a talented individual to join our team in a dynamic role focused on producing high-quality audio content. The ideal candidate will have a passion for storytelling through sound and a keen understanding of the technical aspects of audio production.Key ResponsibilitiesDevelop",
+          "score": 6
+        },
+        {
           "title": "Wildcard Apply Now",
           "url": "https://remoteOK.com/remote-jobs/remote-wildcard-apply-now-onyx-insight-1132319",
           "country": "",
@@ -328,11 +356,46 @@
           "score": 6
         },
         {
+          "title": "HR Officer WFH",
+          "url": "https://remoteOK.com/remote-jobs/remote-hr-officer-wfh-connectus-marketing-solutions-inc-1132386",
+          "country": "",
+          "description": "NOTE: ConnectUs Marketing Solutions and Linkserve Solutions BPO Inc. are sister companiesBe part of a passionate team and create opportunities!HUMAN RESOURCE OFFICERJob DescriptionRespond to emails, phone calls, and HR-related inquiries.Manage employee onboarding and offboarding processes,",
+          "score": 6
+        },
+        {
           "title": "Medical Assistant Patient Advocate",
           "url": "https://remoteOK.com/remote-jobs/remote-medical-assistant-patient-advocate-amaze-health-1132308",
           "country": "Remote",
           "description": "Amaze Health delivers concierge-style virtual care that feels like having a trusted “doctor friend” on call 24/7, for everything from sudden illnesses to chronic conditions and mental health. As a true partner, we simplify the healthcare maze, guiding patients with clarity, compassion, and",
           "score": 5
+        },
+        {
+          "title": "Educator",
+          "url": "https://remoteOK.com/remote-jobs/remote-educator-tutor-me-la-llc-1132354",
+          "country": "Remote",
+          "description": "Tutor Me Education is reshaping how students learn. We are looking for teachers and tutors with virtual tutoring experience to provide 1:1 or group instruction to students all across the country!Here are the details:Virtual instruction from your home computer, on your schedule! This is a remote",
+          "score": 5
+        },
+        {
+          "title": "DOCENTE LIMPIEZA GESTIÓN DE RESIDUOS Y MEDIOAMBIENTE",
+          "url": "https://remoteOK.com/remote-jobs/remote-docente-limpieza-gestion-de-residuos-y-medioambiente-grupo-euroformac-1132336",
+          "country": "",
+          "description": "Buscamos un/a formador/a con experiencia en gestión medioambiental y servicios de limpieza para impartir este curso en modalidad mixta (aula virtual y teleformación).¿Qué harás?Impartir el módulo SEAG039PO, acercando al alumnado los fundamentos de la limpieza profesional, la gestión de residuos y",
+          "score": 4
+        },
+        {
+          "title": "Country Director",
+          "url": "https://remoteOK.com/remote-jobs/remote-country-director-nothing-1132363",
+          "country": "",
+          "description": "About the TeamTechnology should be intuitive, inspiring, and human—that is why we are establishing Nothing in Indonesia. We operate as a focused, independent team dedicated to stripping away the barriers between people and technology. As our Country Director, you will lead our local presence,",
+          "score": 4
+        },
+        {
+          "title": "Customer Service Representative Cigna Healthcare",
+          "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-cigna-healthcare-cigna-healthcare-1132353",
+          "country": "",
+          "description": "Summary The Cigna Group is a global Health Service company that is dedicated to helping people improve their health and vitality. Our Medical Proclaim Provider team seeks dedicated, compassionate, and empathetic Customer Service Representatives, who are genuinely interested in helping people at",
+          "score": 4
         },
         {
           "title": "Microbiology Specialist",
@@ -370,18 +433,11 @@
           "score": 4
         },
         {
-          "title": "Interdisciplinary",
-          "url": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1132263",
+          "title": "Don't See A Perfect Role Apply Anyway",
+          "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-pogo-1132351",
           "country": "",
-          "description": "Announcement TypeUSAJOBSLocations (City, State)Walla Walla, WAPosition Overview/DutiesAbout the Position: The Walla Walla District US Army Corps of Engineers is comprised of motivated and talented employees providing the very best engineering services for communities in the Pacific Northwest. For",
-          "score": 4
-        },
-        {
-          "title": "General Employment Application",
-          "url": "https://remoteOK.com/remote-jobs/remote-general-employment-application-jtec-industries-inc-material-movement-experts-1132286",
-          "country": "",
-          "description": "Who Is JtecLocally owned and operated with large customer base across the US, Canada, and Mexico. Jtec is vertically integrated - our team does it all! From marketing and selling our product, on to R&D and production engineering teams. Raw materials coming in are machined, welded, painted,",
-          "score": 4
+          "description": "Don't see the perfect role, but interested in working at Pogo? Submit your application, and we'll contact you if/when a relevant position opens",
+          "score": 2
         }
       ]
     },
@@ -389,13 +445,6 @@
       "name": "Remote Game Jobs",
       "job_count": 6,
       "jobs": [
-        {
-          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
-          "country": "Remote",
-          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
-          "score": 13
-        },
         {
           "title": "OcuDigital Technologies Inc is hiring Software Engineer - Phaser / typescript (Remote Job)",
           "url": "https://remotegamejobs.com/jobs/ocudigital-technologies-inc-software-engineer-phaser-typescript-remote-job",
@@ -430,46 +479,32 @@
           "country": "Remote",
           "description": "We’re VOID Interactive, the kick-ass team behind the best-selling FPS game Ready or Not, which has sold over 13 million copies across all platforms. We’re a fully remote, 70+ person studio made up of seriously talented individuals from all over the world who love games and creating exceptional",
           "score": 6
+        },
+        {
+          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
+          "country": "Remote",
+          "description": "To help us process your application efficiently, please start your email subject line with",
+          "score": 5
         }
       ]
     },
     {
       "name": "Polycount Freelance",
-      "job_count": 4,
+      "job_count": 1,
       "jobs": [
-        {
-          "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
-          "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
-          "country": "Remote",
-          "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
-          "score": 19
-        },
-        {
-          "title": "[PAID][REMOTE] Motioncapture Post Production Animator",
-          "url": "https://polycount.com/discussion/238614/paid-remote-motioncapture-post-production-animator",
-          "country": "Remote",
-          "description": "Mercurial Dance are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR®Your RoleAs part of our asset creation process, we are creating a custom movement library for our new title EmbodyXR® which includes",
-          "score": 15
-        },
         {
           "title": "[OPEN] Cinematic/Game animator collaboration invitation — Lucid Realm Studio",
           "url": "https://polycount.com/discussion/238623/open-cinematic-game-animator-collaboration-invitation-lucid-realm-studio",
           "country": "",
           "description": "Hi everyone,\nWe’re Lucid Realm Studio, an indie 3D game art production\r\nteam, currently looking for mid-level freelance 3D artists experienced in building\r\na small pool of cinematic animators for an upcoming project and ongoing work\r\nafter that - work across all tiers. If you're looking for a",
           "score": 11
-        },
-        {
-          "title": "[PAID] 3D Stylized Hand-painted Artists/Studios - MMORPG Armors",
-          "url": "https://polycount.com/discussion/238612/paid-3d-stylized-hand-painted-artists-studios-mmorpg-armors",
-          "country": "",
-          "description": "Hi everyone,We’re Lucid Realm Studio, an indie 3D game art production team, currently looking for mid-level freelance 3D artists experienced in creating stylized hand-painted armors for a stylized MMORPG project.Texture quality level and art direction is similar to WoW.Project StyleStylized",
-          "score": 9
         }
       ]
     },
     {
       "name": "BlenderArtists Paid Jobs",
-      "job_count": 2,
+      "job_count": 3,
       "jobs": [
         {
           "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
@@ -477,6 +512,13 @@
           "country": "",
           "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
           "score": 10
+        },
+        {
+          "title": "Looking for 3D Printable STL Model of Antique Farm Implement From Photos for Family Reunion Display",
+          "url": "https://blenderartists.org/t/looking-for-3d-printable-stl-model-of-antique-farm-implement-from-photos-for-family-reunion-display/1642453",
+          "country": "",
+          "description": "Hello,\nI am kinda new to 3D printing, I am pretty fluent in assembling parts when needed. My background is in industrial mechanical. I am looking to eventually be able commission work like this in gthe future. I am working on a library of work. I need to print a table top piece for a family",
+          "score": 8
         },
         {
           "title": "[Paid] Video Editor Wanted — Blender Addon Tutorial + Trailer",
@@ -845,15 +887,8 @@
     },
     {
       "name": "ArcDev",
-      "job_count": 9,
+      "job_count": 8,
       "jobs": [
-        {
-          "title": "Senior Full-Stack Software Engineer - Full Time - Overlap with US timezone (Americas, Europe)",
-          "url": "https://arc.dev/remote-jobs/details/senior-full-stack-software-engineer-full-time-overlap-with-us-timezone-americas-europe-orbats3fiy",
-          "country": "Remote",
-          "description": "",
-          "score": 7
-        },
         {
           "title": "Senior Spring Boot Developer - Full Time - Americas",
           "url": "https://arc.dev/remote-jobs/details/senior-spring-boot-developer-full-time-americas-os0br55gij",
@@ -862,22 +897,29 @@
           "score": 5
         },
         {
-          "title": "Senior Software Engineer: TypeScript & SQL",
-          "url": "https://arc.dev/remote-jobs/j/improving-south-america-senior-software-engineer-typescript-sql-orodspqdo2",
+          "title": "Senior Revenue Intelligence Operations Manager, Marketing",
+          "url": "https://arc.dev/remote-jobs/j/veeam-software-senior-revenue-intelligence-operations-manager-marketing-oses27amp2",
           "country": "Remote",
           "description": "",
           "score": 5
         },
         {
-          "title": "Senior Software Engineer - Golang",
-          "url": "https://arc.dev/remote-jobs/j/trident-search-senior-software-engineer-golang-oroe4s6ym1",
+          "title": "Front-End Developer - Part-time - LATAM/EMEA",
+          "url": "https://arc.dev/remote-jobs/details/front-end-developer-part-time-latam-emea-osgar3q3n7",
           "country": "Remote",
           "description": "",
-          "score": 5
+          "score": 4
         },
         {
           "title": "Mobile Developer Experienced in Capacitor",
           "url": "https://arc.dev/remote-jobs/details/mobile-developer-experienced-in-capacitor-ornw1ts9np",
+          "country": "Remote",
+          "description": "",
+          "score": 4
+        },
+        {
+          "title": "Game Developer",
+          "url": "https://arc.dev/remote-jobs/j/vertigo-games-game-developer-osen2cudbe",
           "country": "Remote",
           "description": "",
           "score": 4
@@ -890,22 +932,15 @@
           "score": 3
         },
         {
-          "title": "Senior UX/UI Designer US/NA/LATAM-PT",
-          "url": "https://arc.dev/remote-jobs/details/senior-ux-ui-designer-us-na-latam-pt-orh6x6j9ms",
+          "title": "Senior Brand Designer, Systems & Motion",
+          "url": "https://arc.dev/remote-jobs/j/circle-senior-brand-designer-systems-motion-oseqbbsv34",
           "country": "Remote",
           "description": "",
           "score": 3
         },
         {
-          "title": "Performance Marketing Manager (Paid Search & Paid Social) (PT-NA/LATAM)",
-          "url": "https://arc.dev/remote-jobs/details/performance-marketing-manager-paid-search-paid-social-pt-na-latam-orb0i550z3",
-          "country": "Remote",
-          "description": "",
-          "score": 2
-        },
-        {
-          "title": "Salesforce Marketing Cloud Consultant",
-          "url": "https://arc.dev/remote-jobs/j/slipstream-life-sciences-salesforce-marketing-cloud-consultant-orv38py6yi",
+          "title": "UI/UX Designer (Webflow) - Part-time - NA/LATAM/EMEA",
+          "url": "https://arc.dev/remote-jobs/details/ui-ux-designer-webflow-part-time-na-latam-emea-osbnk50uui",
           "country": "Remote",
           "description": "",
           "score": 2
