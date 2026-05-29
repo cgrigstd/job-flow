@@ -52,10 +52,8 @@ def scrape_rss_feed(
         elif hasattr(entry, "summary"):
             description = clean_html(entry.summary)
 
+        country = detect_country(title + " " + description)
         description = truncate_description(description)
-
-        content = (title + " " + description).lower()
-        country = detect_country(content)
 
         job = Job(
             title=title,
