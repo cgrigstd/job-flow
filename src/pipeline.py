@@ -38,8 +38,6 @@ def _build_output_specialties(specialty_map: dict[str, list[Job]]) -> list[dict]
 
     for spec in SPECIALTIES:
         jobs = specialty_map.get(spec.slug, [])
-        if not jobs:
-            continue
         jobs.sort(key=lambda j: j.score, reverse=True)
         jobs = jobs[:MAX_JOBS_PER_SPECIALTY]
         output.append({

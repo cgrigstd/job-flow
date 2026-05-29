@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-28 23:55",
-  "total_jobs": 68,
+  "updated": "2026-05-29 00:11",
+  "total_jobs": 63,
   "specialties": [
     {
       "slug": "generalist",
@@ -392,7 +392,7 @@
     {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 13,
+      "job_count": 9,
       "jobs": [
         {
           "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
@@ -407,19 +407,6 @@
           ]
         },
         {
-          "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation] [Freelance]",
-          "score": 10,
-          "specialties": [
-            "3d_animator",
-            "editor",
-            "game_dev"
-          ]
-        },
-        {
           "title": "Brain Rack Games is hiring a Art Director to work from United Kingdom",
           "url": "https://www.workwithindies.com/careers/brain-rack-games-art-director",
           "source": "WorkWithIndies",
@@ -429,19 +416,6 @@
           "specialties": [
             "3d_animator",
             "art_director"
-          ]
-        },
-        {
-          "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR® Tags: [Art & Animation] [Contract]",
-          "score": 9,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "game_dev"
           ]
         },
         {
@@ -467,17 +441,6 @@
             "3d_modeler",
             "3d_animator",
             "generalist"
-          ]
-        },
-        {
-          "title": "The Rhythm Company is hiring a Technical Animator to work from PT ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/the-rhythm-company-technical-animator",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are looking for a Technical Animator to support character animation implementation for our upcoming rhythm game. Tags: [Art & Animation] [Contract]",
-          "score": 6,
-          "specialties": [
-            "3d_animator"
           ]
         },
         {
@@ -535,24 +498,13 @@
           "specialties": [
             "3d_animator"
           ]
-        },
-        {
-          "title": "GB Patch Games is hiring a Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/gb-patch-games-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "GB Patch Games is looking for additional artists for our upcoming commercial visual novel project, Our Life: Now & Forever. Tags: [Art & Animation] [Contract]",
-          "score": 2,
-          "specialties": [
-            "3d_animator"
-          ]
         }
       ]
     },
     {
       "slug": "game_dev",
       "label": "Game Developer",
-      "job_count": 8,
+      "job_count": 6,
       "jobs": [
         {
           "title": "3D Vfx Technical Artist Ref 24 572",
@@ -564,32 +516,6 @@
           "specialties": [
             "technical_artist",
             "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation] [Freelance]",
-          "score": 10,
-          "specialties": [
-            "3d_animator",
-            "editor",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR® Tags: [Art & Animation] [Contract]",
-          "score": 9,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
             "game_dev"
           ]
         },
@@ -653,7 +579,7 @@
     {
       "slug": "technical_artist",
       "label": "Technical Artist",
-      "job_count": 6,
+      "job_count": 5,
       "jobs": [
         {
           "title": "3D Vfx Technical Artist Ref 24 572",
@@ -665,19 +591,6 @@
           "specialties": [
             "technical_artist",
             "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR® Tags: [Art & Animation] [Contract]",
-          "score": 9,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
             "game_dev"
           ]
         },
@@ -933,21 +846,8 @@
     {
       "slug": "editor",
       "label": "Editor / Post",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
-        {
-          "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation] [Freelance]",
-          "score": 10,
-          "specialties": [
-            "3d_animator",
-            "editor",
-            "game_dev"
-          ]
-        },
         {
           "title": "YouTube Video Editor - Fox Entertainment",
           "url": "https://www.entertainmentcareers.net/fox-entertainment/youtube-video-editor/job/521578/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
@@ -997,7 +897,7 @@
     {
       "slug": "production",
       "label": "Production",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Generalista 3D Ref 22 503",
@@ -1009,17 +909,6 @@
           "specialties": [
             "render",
             "generalist",
-            "production"
-          ]
-        },
-        {
-          "title": "Devolver Digital is hiring a Producer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/devolver-digital-producer",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "As a Producer, you will take ownership of multiple titles and be responsible for guiding them through to successful release and beyond. Tags: [Production] [Full Time]",
-          "score": 2,
-          "specialties": [
             "production"
           ]
         },
@@ -1194,6 +1083,24 @@
           ]
         }
       ]
+    },
+    {
+      "slug": "2d_animator",
+      "label": "2D Animator",
+      "job_count": 0,
+      "jobs": []
+    },
+    {
+      "slug": "rigger",
+      "label": "Rigger",
+      "job_count": 0,
+      "jobs": []
+    },
+    {
+      "slug": "pipeline_td",
+      "label": "Pipeline TD",
+      "job_count": 0,
+      "jobs": []
     },
     {
       "slug": "other",
