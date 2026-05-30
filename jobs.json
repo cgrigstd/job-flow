@@ -1,12 +1,12 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-29 00:27",
-  "total_jobs": 63,
+  "updated": "2026-05-30 02:09",
+  "total_jobs": 71,
   "specialties": [
     {
       "slug": "generalist",
       "label": "Generalist",
-      "job_count": 17,
+      "job_count": 18,
       "jobs": [
         {
           "title": "Generalista 3D Ref 22 491",
@@ -180,6 +180,17 @@
           "country": "Argentina",
           "description": "Buscamos amantes del código que quieran sumarse al equipo de proyectos AR. Serán valorados: conocimientos de Spark, interesados en AR y nuevas tecnologías. Mega plus: conocimientos generalistas de 3D. Responsabilidades: Deberá cumplir con los requerimientos artísticos de diseño para lograr la mejor",
           "score": 4,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "3D Environment Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/3d-environment-artist/job/521671/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  As an Environment Generalist, you will be responsible for creating high-level and diverse 3D environments ... more ",
+          "score": 2,
           "specialties": [
             "generalist"
           ]
@@ -392,7 +403,7 @@
     {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 9,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
@@ -404,6 +415,18 @@
           "specialties": [
             "3d_animator",
             "concept_artist"
+          ]
+        },
+        {
+          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
+          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
+          "source": "WorkWithIndies",
+          "country": "",
+          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
+          "score": 9,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator"
           ]
         },
         {
@@ -450,6 +473,17 @@
           "country": "Remote",
           "description": "To help us process your application efficiently, please start your email subject line with [KCTA].",
           "score": 5,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Lead Animator - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/lead-animator/job/521672/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  The Lead Animator is responsible for supervising the process of creating high-quality character, creature, ... more ",
+          "score": 4,
           "specialties": [
             "3d_animator"
           ]
@@ -504,7 +538,7 @@
     {
       "slug": "game_dev",
       "label": "Game Developer",
-      "job_count": 6,
+      "job_count": 8,
       "jobs": [
         {
           "title": "3D Vfx Technical Artist Ref 24 572",
@@ -520,12 +554,34 @@
           ]
         },
         {
-          "title": "HTML5 Game Developer (iOS Conversion) - Part-time - NA/LATAM/EU",
-          "url": "https://arc.dev/remote-jobs/details/html5-game-developer-ios-conversion-part-time-na-latam-eu-osn77da8kv",
+          "title": "Pleasart Studios is hiring Lead Game Developer – Technical Partner  (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/pleasart-studios-lead-game-developer-technical-partner-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "description": "Pleasart Studios is expanding 🚀",
+          "score": 8,
+          "specialties": [
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Pleasart Studios is hiring Senior Level Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/pleasart-studios-senior-level-designer-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "description": "Pleasart Studios is expanding 🚀",
+          "score": 4,
+          "specialties": [
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Senior .NET & Angular Developer",
+          "url": "https://arc.dev/remote-jobs/j/ideamine-technologies-acquired-by-netrix-global-senior-net-angular-developer-ot4s9hzpj0",
           "source": "ArcDev",
           "country": "",
           "description": "",
-          "score": 7,
+          "score": 3,
           "specialties": [
             "game_dev"
           ]
@@ -577,68 +633,160 @@
       ]
     },
     {
-      "slug": "technical_artist",
-      "label": "Technical Artist",
-      "job_count": 5,
+      "slug": "production",
+      "label": "Production",
+      "job_count": 7,
       "jobs": [
         {
-          "title": "3D Vfx Technical Artist Ref 24 572",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "title": "Generalista 3D Ref 22 503",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
           "source": "ImageCampus",
           "country": "Argentina",
-          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
           "score": 11,
           "specialties": [
-            "technical_artist",
-            "vfx_fx",
-            "game_dev"
+            "render",
+            "generalist",
+            "production"
           ]
         },
         {
-          "title": "Technical Artist Vfx Artist Ref 20 406",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
-          "score": 9,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Lighting Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
+          "title": "Technical support",
+          "url": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132475",
+          "source": "Remote OK Dev",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
-          "score": 7,
-          "specialties": [
-            "technical_artist",
-            "lighting"
-          ]
-        },
-        {
-          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
-          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation] [Contract]",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Creature Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/creature-technical-director/job/503757/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  This posting is an opportunity to submit your resume for future consideration; this is not a role that ... more ",
+          "description": "Project managerAmet risus nullam eget felis eget nunc lobortis mattis aliquam.Apply for this job",
           "score": 2,
           "specialties": [
-            "technical_artist"
+            "production"
+          ]
+        },
+        {
+          "title": "Audio Producer",
+          "url": "https://remoteOK.com/remote-jobs/remote-audio-producer-positive-behavior-steps-1132364",
+          "source": "Remote OK Dev",
+          "country": "",
+          "description": "OverviewWe are seeking a talented individual to join our team in a dynamic role focused on producing high-quality audio content. The ideal candidate will have a passion for storytelling through sound and a keen understanding of the technical aspects of audio production.Key ResponsibilitiesDevelop",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Junior Project Manager",
+          "url": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-haystack-1132350",
+          "source": "Remote OK Dev",
+          "country": "",
+          "description": "We're hiring on behalf of a Haystack partner!The Role• Analyze and respond to user inquiries for IT-related issues.• Assist with improving project efficiency and effectiveness within an IT support context.• Perform professional technology support tasks including account access requests and",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Project Manager",
+          "url": "https://arc.dev/remote-jobs/details/project-manager-ot3chijwje",
+          "source": "ArcDev",
+          "country": "",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Project Manager",
+          "url": "https://arc.dev/remote-jobs/details/project-manager-ot3c9rtc3c",
+          "source": "ArcDev",
+          "country": "",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Videogame Producer Ref 20 403",
+          "url": "https://www.imagecampus.edu.ar/busqueda/videogame-producer-ref-20-403",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando productor de",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "editor",
+      "label": "Editor / Post",
+      "job_count": 6,
+      "jobs": [
+        {
+          "title": "Video Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-video-editor-our-hillside-1132459",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "description": "Editor — Our Hillside (London, Remote)Our Hillside is a creative production and post studio, and we're opening our first London base. We're looking for a mid-level editor to help anchor the post side as we grow into the UK market.We make commercials, brand films, doc-style content, and a steady",
+          "score": 6,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "YouTube Video Editor - Fox Entertainment",
+          "url": "https://www.entertainmentcareers.net/fox-entertainment/youtube-video-editor/job/521578/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a highly skilled and creative YouTube Video Editor with advanced editing abilities and ... more ",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Associate News Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-associate-news-editor-newsweek-1132489",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "description": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "News Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-news-editor-newsweek-1132508",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "description": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor Y Posproduccion De Videos Ref 23 558",
+          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Animador 2D Editor De Video Ref 22 513",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
+          "score": 2,
+          "specialties": [
+            "editor"
           ]
         }
       ]
@@ -709,9 +857,65 @@
       ]
     },
     {
+      "slug": "technical_artist",
+      "label": "Technical Artist",
+      "job_count": 4,
+      "jobs": [
+        {
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 11,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
+          "score": 9,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Lighting Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "score": 7,
+          "specialties": [
+            "technical_artist",
+            "lighting"
+          ]
+        },
+        {
+          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
+          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
+          "source": "WorkWithIndies",
+          "country": "",
+          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation] [Contract]",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "concept_artist",
       "label": "Concept Artist",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
@@ -723,19 +927,6 @@
           "specialties": [
             "3d_animator",
             "concept_artist"
-          ]
-        },
-        {
-          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
-          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
-          "score": 10,
-          "specialties": [
-            "3d_modeler",
-            "concept_artist",
-            "render"
           ]
         },
         {
@@ -777,7 +968,7 @@
     {
       "slug": "render",
       "label": "Render",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Generalista 3D Ref 22 491",
@@ -818,19 +1009,6 @@
           ]
         },
         {
-          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
-          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
-          "score": 10,
-          "specialties": [
-            "3d_modeler",
-            "concept_artist",
-            "render"
-          ]
-        },
-        {
           "title": "Artista 3D Arquitectonico Ref 22 505",
           "url": "https://www.imagecampus.edu.ar/busqueda/artista-3d-arquitectonico-ref-22-505",
           "source": "ImageCampus",
@@ -844,125 +1022,20 @@
       ]
     },
     {
-      "slug": "editor",
-      "label": "Editor / Post",
-      "job_count": 4,
-      "jobs": [
-        {
-          "title": "YouTube Video Editor - Fox Entertainment",
-          "url": "https://www.entertainmentcareers.net/fox-entertainment/youtube-video-editor/job/521578/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a highly skilled and creative YouTube Video Editor with advanced editing abilities and ... more ",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "[Paid] Video Editor Wanted — Blender Addon Tutorial + Trailer",
-          "url": "https://blenderartists.org/t/paid-video-editor-wanted-blender-addon-tutorial-trailer/1641830",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "description": "Hi everyone!\nI’m the creator of Auto-Building, a Blender add-on (https://superhivemarket.com/products/auto-building), and I’m looking for a freelance video editor to help with two videos for its upcoming big update.\nSome knowledge of Blender is a real plus here, it helps with pacing decisions,",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor Y Posproduccion De Videos Ref 23 558",
-          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Animador 2D Editor De Video Ref 22 513",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "production",
-      "label": "Production",
-      "job_count": 4,
-      "jobs": [
-        {
-          "title": "Generalista 3D Ref 22 503",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
-          "score": 11,
-          "specialties": [
-            "render",
-            "generalist",
-            "production"
-          ]
-        },
-        {
-          "title": "Audio Producer",
-          "url": "https://remoteOK.com/remote-jobs/remote-audio-producer-positive-behavior-steps-1132364",
-          "source": "Remote OK Dev",
-          "country": "",
-          "description": "OverviewWe are seeking a talented individual to join our team in a dynamic role focused on producing high-quality audio content. The ideal candidate will have a passion for storytelling through sound and a keen understanding of the technical aspects of audio production.Key ResponsibilitiesDevelop",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Junior Project Manager",
-          "url": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-haystack-1132350",
-          "source": "Remote OK Dev",
-          "country": "",
-          "description": "We're hiring on behalf of a Haystack partner!The Role• Analyze and respond to user inquiries for IT-related issues.• Assist with improving project efficiency and effectiveness within an IT support context.• Perform professional technology support tasks including account access requests and",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Videogame Producer Ref 20 403",
-          "url": "https://www.imagecampus.edu.ar/busqueda/videogame-producer-ref-20-403",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando productor de",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "3d_modeler",
       "label": "3D Modeler",
       "job_count": 3,
       "jobs": [
         {
-          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
-          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
-          "source": "BlenderArtists Paid Jobs",
+          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
+          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
+          "source": "WorkWithIndies",
           "country": "",
-          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
-          "score": 10,
+          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
+          "score": 9,
           "specialties": [
             "3d_modeler",
-            "concept_artist",
-            "render"
+            "3d_animator"
           ]
         },
         {
@@ -987,6 +1060,36 @@
           "score": 2,
           "specialties": [
             "3d_modeler"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "layout_previs",
+      "label": "Layout / Previs",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "VFX Layout Artist - Eyeline",
+          "url": "https://www.entertainmentcareers.net/eyeline/vfx-layout-artist/job/504121/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  The Layout Artist is responsible for the story-telling, shot sequence continuity, and presentation as ... more ",
+          "score": 6,
+          "specialties": [
+            "vfx_fx",
+            "layout_previs"
+          ]
+        },
+        {
+          "title": "Ecommerce",
+          "url": "https://remoteOK.com/remote-jobs/remote-ecommerce-naukripay-group-1132532",
+          "source": "Remote OK Dev",
+          "country": "",
+          "description": "Mail:- info@naukripay.comeCommerce job description defines the strategic, technical, and operational roles required to manage online sales. It covers responsibilities like digital store management, customer journey optimization, inventory tracking, and campaign execution.This versatile template",
+          "score": 2,
+          "specialties": [
+            "layout_previs"
           ]
         }
       ]
@@ -1047,25 +1150,6 @@
       ]
     },
     {
-      "slug": "layout_previs",
-      "label": "Layout / Previs",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "VFX Layout Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-layout-artist/job/504121/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Layout Artist is responsible for the story-telling, shot sequence continuity, and presentation as ... more ",
-          "score": 6,
-          "specialties": [
-            "vfx_fx",
-            "layout_previs"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "art_director",
       "label": "Art Director",
       "job_count": 1,
@@ -1105,7 +1189,7 @@
     {
       "slug": "other",
       "label": "Other",
-      "job_count": 3,
+      "job_count": 2,
       "jobs": [
         {
           "title": "Production Office Coordinator - Sony Imageworks",
@@ -1113,15 +1197,6 @@
           "source": "Entertainment Careers",
           "country": "",
           "description": "pls RT ECNIDRSS @entcareersnet  Sony Pictures Imageworks is seeking a Production Office Coordinator to join our team in our Los Angeles ... more ",
-          "score": 3,
-          "specialties": []
-        },
-        {
-          "title": "Production Services Technician - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-services-technician/job/500439/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\n**Production Services Technician (PST)**\n\n**Language in work environment:** English\n\nThe ... more ",
           "score": 3,
           "specialties": []
         },
