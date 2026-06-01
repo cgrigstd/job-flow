@@ -1,114 +1,185 @@
 {
   "title": "JobFlow",
-  "updated": "2026-05-31 02:35",
-  "total_jobs": 43,
+  "updated": "2026-06-01 02:44",
+  "total_jobs": 71,
   "specialties": [
     {
-      "slug": "vfx_fx",
-      "label": "VFX / FX",
-      "job_count": 9,
+      "slug": "generalist",
+      "label": "Generalist",
+      "job_count": 15,
       "jobs": [
         {
-          "title": "VFX Generalist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-generalist/job/504119/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Job Title: VFX Generalist\n\nReporting to the VFX Generalist Supervisor, the Generalist ... more ",
-          "score": 7,
+          "title": "Generalista 3D Ref 22 491",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
+          "score": 13,
+          "specialties": [
+            "compositor",
+            "render",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Animador 3D Generalista Ref 24 573",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
+          "score": 11,
+          "specialties": [
+            "render",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Generalista 3D Ref 22 503",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
+          "score": 11,
+          "specialties": [
+            "render",
+            "generalist",
+            "production"
+          ]
+        },
+        {
+          "title": "3D Generalist Diseno 3D Metaverso Ref 23 559",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-diseno-3d-metaverso-ref-23-559",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil creativo de diseño en las áreas de concept art, planificación lógica y estratégica, game design y arquitectura de juegos. Responsabilidades: •",
+          "score": 9,
+          "specialties": [
+            "concept_artist",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
+          "score": 9,
           "specialties": [
             "vfx_fx",
             "generalist"
           ]
         },
         {
-          "title": "Happy Cauldron Games is hiring a Senior Unity VFX Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
+          "title": "3D Generalist - MSG Entertainment",
+          "url": "https://www.entertainmentcareers.net/msg-entertainment/3d-generalist/job/521647/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nWe are seeking an experienced 3D Generalist with passion for creating content for the largest ... more ",
+          "score": 7,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "3D Generalist Sr Responsable De Coordinacion De Equipo Ref 23 561",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-sr-responsable-de-coordinacion-de-equipo-ref-23-561",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil de lider de equipos, proactiva y organizada; para coordinar diferentes equipos de trabajo en las áreas de modelado 3D y texturizado de assets e",
+          "score": 7,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "3D Generalist Ref 23 560",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-ref-23-560",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con muy buen manejo de herramientas de modelado 3D, principalmente en el área de arquitectura y entornos digitales. Responsabilidades: • Modelado de objetos,",
+          "score": 7,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Practicantes Generalistas Modeladores 3D Y Texturizadores Ref 22 545",
+          "url": "https://www.imagecampus.edu.ar/busqueda/practicantes-generalistas-modeladores-3d-y-texturizadores-ref-22-545",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Nos encontramos en la búsqueda de una persona con talento en softwares 3D. Que, a partir de la referencia de un objeto, con varias vistas, pueda reconstruir el mismo tridimensionalmente con la topología adecuada sobre la necesidad del supervisor 3D. Responsabilidades: Capacidad de adaptarse a",
+          "score": 7,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Desarrolladores Generalistas Ref 24 571",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrolladores-generalistas-ref-24-571",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos en búsqueda de un talentoso equipo de desarrolladores para unirse a un proyecto de vanguardia bajo la dirección de Louis Castle, el renombrado creador de Command and Conquer. Buscamos conformar un pequeño grupo de 5 a 7 profesionales apasionados por el desarrollo de juegos en Unreal Engine",
+          "score": 7,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
           "source": "WorkWithIndies",
           "country": "",
-          "description": "Happy Cauldron Games is seeking a freelance Senior Unity VFX Artist to create player ability VFX for Fractured: Conquest. Tags: [Art & Animation] [Freelance]",
-          "score": 7,
+          "description": "We’re hiring a 3D Artist who’s as comfortable modeling in Blender as they are setting assets up in Unity. Tags: [Art & Animation] [Full Time]",
+          "score": 6,
           "specialties": [
+            "3d_modeler",
             "3d_animator",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "VFX Layout Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-layout-artist/job/504121/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Layout Artist is responsible for the story-telling, shot sequence continuity, and presentation as ... more ",
-          "score": 6,
-          "specialties": [
-            "vfx_fx",
-            "layout_previs"
-          ]
-        },
-        {
-          "title": "3D Visual Effects Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/3d-visual-effects-artist/job/504101/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As an FX artist, your role is to create high-caliber dynamic and riveting visual 3D FX. This role requires ... more ",
-          "score": 6,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Visual Effects Coordinator - NBCUniversal",
-          "url": "https://www.entertainmentcareers.net/nbcuniversal/visual-effects-coordinator/job/521600/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The VFX Coordinator position will manage the day-to-day administrative functions for the SVP of Visual ... more ",
-          "score": 4,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Lead Character Effects Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/lead-character-effects-artist/job/504135/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Lead CFX Artist, you will be responsible for leading a team of CFX artists, ensuring the successful ... more ",
-          "score": 4,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "VFX Environment Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-environment-artist/job/504076/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs an Environment Generalist, you will be responsible for creating ... more ",
-          "score": 4,
-          "specialties": [
-            "vfx_fx",
             "generalist"
           ]
         },
         {
-          "title": "Unfold Games is hiring Voice Actors (North American English Cadence) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/unfold-games-voice-actors-north-american-english-cadence-remote-job",
-          "source": "Remote Game Jobs",
+          "title": "HR Generalist",
+          "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-check-off-your-list-1132591",
+          "source": "Remote OK Dev",
           "country": "Remote",
-          "description": "We’re looking for voice actors for Bloody Hell Hotel - a gothic comedy hotel simulation game currently in development for PC and consoles.\nThis role involves performing fictional gibberish language, not realistic dialogue.\nWe’re looking for performers with strong expression and range.",
-          "score": 3,
+          "description": "About Check Off Your ListThis is a remote position; however, we are currently hiring team members based in Florida, Georgia, Maine, Ohio, and Texas.Have you been looking for a professional opportunity to grow your career, expand your expertise, and make a meaningful impact on small businesses?Check",
+          "score": 6,
           "specialties": [
-            "vfx_fx"
+            "generalist"
           ]
         },
         {
-          "title": "Interested building performance simulation",
-          "url": "https://remoteOK.com/remote-jobs/remote-interested-building-performance-simulation-tlk-energy-1132474",
-          "source": "Remote OK Dev",
-          "country": "",
-          "description": "Gemeinsam die Gebäude von morgen gestalten.Wir bei SBC.sim sind ein junges, innovatives Unternehmen mit Fokus auf die Simulation von Gebäudeenergiesystemen.Unser Ziel: Mit modernsten Methoden und Tools die Gebäudetechnik von morgen mitgestalten – nah an der Forschung, mitten in der Praxis.",
+          "title": "Desarrolladores As Unity Para Proyectos Ar Freelance Ref 20 399",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrolladores-as-unity-para-proyectos-ar-freelance-ref-20-399",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Buscamos amantes del código que quieran sumarse al equipo de proyectos AR. Serán valorados: conocimientos de Spark, interesados en AR y nuevas tecnologías. Mega plus: conocimientos generalistas de 3D. Responsabilidades: Deberá cumplir con los requerimientos artísticos de diseño para lograr la mejor",
+          "score": 4,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Freelance 3D Artists Ref 25 586",
+          "url": "https://www.imagecampus.edu.ar/busqueda/freelance-3d-artists-ref-25-586",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "SmartPixel is a Quebec-based SME with close to 30 employees, specializing in the development of interactive digital experiences to help companies communicate more effectively and showcase their products and offerings in a fun and innovative way. SmartPixel’s niche market is new residential real",
           "score": 2,
           "specialties": [
-            "vfx_fx"
+            "generalist"
+          ]
+        },
+        {
+          "title": "Low Poly 3D Artist Para Real Time Engine Ref 22 507",
+          "url": "https://www.imagecampus.edu.ar/busqueda/low-poly-3d-artist-para-real-time-engine-ref-22-507",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Te apasiona la visualización arquitectónica? Si eres alguien que quiere crecer como artista 3D y te apasiona la tecnología, entonces eres perfecto/a para el puesto. ¿Por qué unirse a nosotros? Trabajar con nosotros puede acelerar tu carrera y brindarte la oportunidad de trabajar con personas",
+          "score": 2,
+          "specialties": [
+            "generalist"
           ]
         }
       ]
@@ -116,7 +187,7 @@
     {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 8,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
@@ -128,6 +199,17 @@
           "specialties": [
             "3d_animator",
             "concept_artist"
+          ]
+        },
+        {
+          "title": "AddClear is hiring a 3D Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/addclear-3d-animator",
+          "source": "WorkWithIndies",
+          "country": "",
+          "description": "We're an indie studios in very early stages of development of our first game and are looking for a full time 3D Animator. Tags: [Art & Animation] [Full Time]",
+          "score": 9,
+          "specialties": [
+            "3d_animator"
           ]
         },
         {
@@ -191,14 +273,15 @@
           ]
         },
         {
-          "title": "Lead Animator - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/lead-animator/job/521672/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Animation Pipeline Technical Director - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/animation-pipeline-technical-director/job/506054/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Lead Animator is responsible for supervising the process of creating high-quality character, creature, ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
           "score": 4,
           "specialties": [
-            "3d_animator"
+            "3d_animator",
+            "technical_artist"
           ]
         },
         {
@@ -212,82 +295,262 @@
             "3d_animator",
             "technical_artist"
           ]
+        },
+        {
+          "title": "Disenador De Animacion 3D Ref 24 579",
+          "url": "https://www.imagecampus.edu.ar/busqueda/disenador-de-animacion-3d-ref-24-579",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "We are One Eleven Entertainment, a boutique entertainment production company coming from Virginia, USA with a new office in Buenos Aires. We're developing a comedic, new animation series and are looking for an innovative animator. --- Somos One Eleven Entertainment, una productora de",
+          "score": 4,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "TigerRoll Studios is hiring a 3D Weapon Artist (Hero Asset) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/tigerroll-studios-3d-weapon-artist-hero-asset",
+          "source": "WorkWithIndies",
+          "country": "",
+          "description": "We're commissioning the first of a series of hero magical weapons: an engraved one-handed sword whose Latin and geometric etchings glow when the blade is activated — a medieval take on a lightsaber. Tags: [Art & Animation] [Freelance]",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
         }
       ]
     },
     {
-      "slug": "generalist",
-      "label": "Generalist",
-      "job_count": 6,
+      "slug": "vfx_fx",
+      "label": "VFX / FX",
+      "job_count": 11,
       "jobs": [
         {
-          "title": "3D Generalist - MSG Entertainment",
-          "url": "https://www.entertainmentcareers.net/msg-entertainment/3d-generalist/job/521647/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nWe are seeking an experienced 3D Generalist with passion for creating content for the largest ... more ",
-          "score": 7,
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 11,
           "specialties": [
-            "generalist"
+            "technical_artist",
+            "vfx_fx",
+            "game_dev"
           ]
         },
         {
-          "title": "VFX Generalist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-generalist/job/504119/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  Job Title: VFX Generalist\n\nReporting to the VFX Generalist Supervisor, the Generalist ... more ",
-          "score": 7,
+          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
+          "score": 9,
           "specialties": [
             "vfx_fx",
             "generalist"
           ]
         },
         {
-          "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
+          "score": 9,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Vfx Artist Ref 23 553",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
+          "score": 8,
+          "specialties": [
+            "compositor",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Happy Cauldron Games is hiring a Senior Unity VFX Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
           "source": "WorkWithIndies",
           "country": "",
-          "description": "We’re hiring a 3D Artist who’s as comfortable modeling in Blender as they are setting assets up in Unity. Tags: [Art & Animation] [Full Time]",
-          "score": 6,
+          "description": "Happy Cauldron Games is seeking a freelance Senior Unity VFX Artist to create player ability VFX for Fractured: Conquest. Tags: [Art & Animation] [Freelance]",
+          "score": 7,
           "specialties": [
-            "3d_modeler",
             "3d_animator",
-            "generalist"
+            "vfx_fx"
           ]
         },
         {
-          "title": "HR Generalist",
-          "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-check-off-your-list-1132591",
-          "source": "Remote OK Dev",
-          "country": "Remote",
-          "description": "About Check Off Your ListThis is a remote position; however, we are currently hiring team members based in Florida, Georgia, Maine, Ohio, and Texas.Have you been looking for a professional opportunity to grow your career, expand your expertise, and make a meaningful impact on small businesses?Check",
-          "score": 6,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "VFX Environment Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-environment-artist/job/504076/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Visual Effects Coordinator - NBCUniversal",
+          "url": "https://www.entertainmentcareers.net/nbcuniversal/visual-effects-coordinator/job/521600/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs an Environment Generalist, you will be responsible for creating ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  The VFX Coordinator position will manage the day-to-day administrative functions for the SVP of Visual ... more ",
           "score": 4,
           "specialties": [
-            "vfx_fx",
-            "generalist"
+            "vfx_fx"
           ]
         },
         {
-          "title": "3D Environment Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/3d-environment-artist/job/521671/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "FX Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/fx-artist/job/506021/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As an Environment Generalist, you will be responsible for creating high-level and diverse 3D environments ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
           "score": 2,
           "specialties": [
-            "generalist"
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "FX Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/fx-artist/job/505998/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Character FX Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/character-fx-artist/job/505987/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Interested building performance simulation",
+          "url": "https://remoteOK.com/remote-jobs/remote-interested-building-performance-simulation-tlk-energy-1132474",
+          "source": "Remote OK Dev",
+          "country": "",
+          "description": "Gemeinsam die Gebäude von morgen gestalten.Wir bei SBC.sim sind ein junges, innovatives Unternehmen mit Fokus auf die Simulation von Gebäudeenergiesystemen.Unser Ziel: Mit modernsten Methoden und Tools die Gebäudetechnik von morgen mitgestalten – nah an der Forschung, mitten in der Praxis.",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Artista Vfx Ref 22 495",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes - Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "technical_artist",
+      "label": "Technical Artist",
+      "job_count": 8,
+      "jobs": [
+        {
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 11,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
+          "score": 9,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Lighting Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "score": 7,
+          "specialties": [
+            "technical_artist",
+            "lighting"
+          ]
+        },
+        {
+          "title": "Senior Crowds Technical Artist - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/senior-crowds-technical-artist/job/521794/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Crowds Technical Senior Artist, you will assist the Crowds Supervisor with technical and creative ... more ",
+          "score": 6,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Junior Technical Artist, Crowds - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/junior-technical-artist-crowds/job/521795/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Junior  Technical  Artist in crowds you will be  responsible for  helping   its assigned  departments ... more ",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Animation Pipeline Technical Director - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/animation-pipeline-technical-director/job/506054/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
+          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
+          "source": "WorkWithIndies",
+          "country": "",
+          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation] [Contract]",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Pipeline Technical Director - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/pipeline-technical-director/job/506018/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 2,
+          "specialties": [
+            "technical_artist"
           ]
         }
       ]
@@ -295,8 +558,21 @@
     {
       "slug": "production",
       "label": "Production",
-      "job_count": 5,
+      "job_count": 7,
       "jobs": [
+        {
+          "title": "Generalista 3D Ref 22 503",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
+          "score": 11,
+          "specialties": [
+            "render",
+            "generalist",
+            "production"
+          ]
+        },
         {
           "title": "Technical support",
           "url": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132475",
@@ -351,139 +627,102 @@
           "specialties": [
             "production"
           ]
+        },
+        {
+          "title": "Videogame Producer Ref 20 403",
+          "url": "https://www.imagecampus.edu.ar/busqueda/videogame-producer-ref-20-403",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando productor de",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
         }
       ]
     },
     {
-      "slug": "technical_artist",
-      "label": "Technical Artist",
-      "job_count": 4,
+      "slug": "game_dev",
+      "label": "Game Developer",
+      "job_count": 7,
       "jobs": [
         {
-          "title": "Lighting Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
-          "score": 7,
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 11,
           "specialties": [
             "technical_artist",
-            "lighting"
+            "vfx_fx",
+            "game_dev"
           ]
         },
         {
-          "title": "Senior Crowds Technical Artist - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/senior-crowds-technical-artist/job/521794/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Crowds Technical Senior Artist, you will assist the Crowds Supervisor with technical and creative ... more ",
-          "score": 6,
+          "title": "Pleasart Studios is hiring Lead Game Developer – Technical Partner  (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/pleasart-studios-lead-game-developer-technical-partner-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "description": "Pleasart Studios is expanding 🚀",
+          "score": 8,
           "specialties": [
-            "technical_artist"
+            "game_dev"
           ]
         },
         {
-          "title": "Junior Technical Artist, Crowds - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/junior-technical-artist-crowds/job/521795/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Junior  Technical  Artist in crowds you will be  responsible for  helping   its assigned  departments ... more ",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
-          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation] [Contract]",
+          "title": "Pleasart Studios is hiring Senior Level Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/pleasart-studios-senior-level-designer-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "description": "Pleasart Studios is expanding 🚀",
           "score": 4,
           "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "compositor",
-      "label": "Compositor",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "Film Compositor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/film-compositor/job/504033/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Compositor, you will harmonize all layers and elements to ... more ",
-          "score": 5,
-          "specialties": [
-            "compositor"
+            "game_dev"
           ]
         },
         {
-          "title": "Compositing Supervisor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/compositing-supervisor/job/504026/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Compositing Supervisor, you will oversee the compositing ... more ",
+          "title": "Senior Game Designer Ref 22 488",
+          "url": "https://www.imagecampus.edu.ar/busqueda/senior-game-designer-ref-22-488",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos desarrollando un programa de intervención en salud mental utilizando la realidad virtual como principal herramienta y elementos de gamification. Necesitamos un desarrollador de videojuegos que tenga los conocimientos para construir un prototipo de los primeros niveles de intervención para",
+          "score": 3,
+          "specialties": [
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Game Programmer Ref 20 404",
+          "url": "https://www.imagecampus.edu.ar/busqueda/game-programmer-ref-20-404",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando programadores",
           "score": 2,
           "specialties": [
-            "compositor"
+            "game_dev"
           ]
         },
         {
-          "title": "Compositing Supervisor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/compositing-supervisor/job/504025/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Compositing Supervisor, you will oversee the compositing ... more ",
+          "title": "Community Developer Ref 22 519",
+          "url": "https://www.imagecampus.edu.ar/busqueda/community-developer-ref-22-519",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "En Tlön Industries buscamos Community Devs que nos ayuden a llevar Per Aspera, nuestro primer título publicado, a nuevos horizontes, como también para trabajar en los nuevos proyectos que estamos desarrollando. Responsabilidades: - Ser responsable de las redes sociales y la gestión de la comunidad",
           "score": 2,
           "specialties": [
-            "compositor"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "concept_artist",
-      "label": "Concept Artist",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/midain-studios-2d-character-concept-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "description": "We’re looking for a talented 2D character artist / concept artist to help us refine the emotional appeal of the insect characters in Scarlet O’Beetle. Tags: [Art & Animation] [Contract]",
-          "score": 10,
-          "specialties": [
-            "3d_animator",
-            "concept_artist"
+            "game_dev"
           ]
         },
         {
-          "title": "Concept Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/concept-artist/job/504041/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Concept Artist, you will collaborate directly with Scanline's ... more ",
-          "score": 7,
+          "title": "Developer Unity Jr Ref 20 411",
+          "url": "https://www.imagecampus.edu.ar/busqueda/developer-unity-jr-ref-20-411",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos en busca de talentos para trabajar en un equipo profesional de desarrollo VR para Oculus Quest basado en Unity. Serán tenidos en cuenta el entusiasmo, la pasión por los videojuegos y las ganas de sumarse a un equipo profesional. Responsabilidades: Deberás cumplir con los objetivos de",
+          "score": 2,
           "specialties": [
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "Concept Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/concept-artist/job/504035/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Concept Artist, you will collaborate directly with Scanline's ... more ",
-          "score": 7,
-          "specialties": [
-            "concept_artist"
+            "game_dev"
           ]
         }
       ]
@@ -491,7 +730,7 @@
     {
       "slug": "editor",
       "label": "Editor / Post",
-      "job_count": 3,
+      "job_count": 6,
       "jobs": [
         {
           "title": "Video Editor",
@@ -500,6 +739,17 @@
           "country": "Remote",
           "description": "Editor — Our Hillside (London, Remote)Our Hillside is a creative production and post studio, and we're opening our first London base. We're looking for a mid-level editor to help anchor the post side as we grow into the UK market.We make commercials, brand films, doc-style content, and a steady",
           "score": 6,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Video Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
+          "source": "Remote OK Dev",
+          "country": "",
+          "description": "Posted 7:27:42 PM. We are one of the leading tech-driven media and entertainment companies, producing uplifting…See this and similar jobs on LinkedIn.",
+          "score": 4,
           "specialties": [
             "editor"
           ]
@@ -525,13 +775,35 @@
           "specialties": [
             "editor"
           ]
+        },
+        {
+          "title": "Editor Y Posproduccion De Videos Ref 23 558",
+          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Animador 2D Editor De Video Ref 22 513",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
         }
       ]
     },
     {
       "slug": "3d_modeler",
       "label": "3D Modeler",
-      "job_count": 2,
+      "job_count": 5,
       "jobs": [
         {
           "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
@@ -546,6 +818,28 @@
           ]
         },
         {
+          "title": "3D Modeler - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/3d-modeler/job/506032/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 7,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
+          "title": "3D Modeler - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/3d-modeler/job/506017/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 7,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
           "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
           "source": "WorkWithIndies",
@@ -557,6 +851,206 @@
             "3d_animator",
             "generalist"
           ]
+        },
+        {
+          "title": "Animador 3D Ref 25 584",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-ref-25-584",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Animadores 3d , Solo en 3ds Max. Responsabilidades: Animacion 3d Requerimientos excluyentes: Manejo avanzado del software Requerimientos no excluyentes: Edad: 18-60 Lugar de trabajo: Remoto / Argentina Modalidad: Freelance Vacantes: 3 Postulate Aquí Si no tenés tu CV cargado en la nube lo podés",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "render",
+      "label": "Render",
+      "job_count": 4,
+      "jobs": [
+        {
+          "title": "Generalista 3D Ref 22 491",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
+          "score": 13,
+          "specialties": [
+            "compositor",
+            "render",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Animador 3D Generalista Ref 24 573",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
+          "score": 11,
+          "specialties": [
+            "render",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Generalista 3D Ref 22 503",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
+          "score": 11,
+          "specialties": [
+            "render",
+            "generalist",
+            "production"
+          ]
+        },
+        {
+          "title": "Artista 3D Arquitectonico Ref 22 505",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-3d-arquitectonico-ref-22-505",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Viupik es un estudio de 3D ubicado en España especializado en visualización arquitectónica y en el renderizado en tiempo real. Expertos en interactividad, vídeos y paseos virtuales inmersivos, trabajamos por implementar nuevas técnicas y tecnologías en el mercado arquitectónico y en la",
+          "score": 2,
+          "specialties": [
+            "render"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lighting",
+      "label": "Lighting",
+      "job_count": 3,
+      "jobs": [
+        {
+          "title": "Lighting Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "score": 7,
+          "specialties": [
+            "technical_artist",
+            "lighting"
+          ]
+        },
+        {
+          "title": "Lighting Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/lighting-artist/job/506030/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 7,
+          "specialties": [
+            "lighting"
+          ]
+        },
+        {
+          "title": "Lighting Specialist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/lighting-specialist/job/506000/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 5,
+          "specialties": [
+            "lighting"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "texture_surfacing",
+      "label": "Texture / Surfacing",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "Texture Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/texture-artist/job/506020/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 4,
+          "specialties": [
+            "texture_surfacing"
+          ]
+        },
+        {
+          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
+          "score": 3,
+          "specialties": [
+            "texture_surfacing"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "compositor",
+      "label": "Compositor",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "Generalista 3D Ref 22 491",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
+          "score": 13,
+          "specialties": [
+            "compositor",
+            "render",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Vfx Artist Ref 23 553",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
+          "score": 8,
+          "specialties": [
+            "compositor",
+            "vfx_fx"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "concept_artist",
+      "label": "Concept Artist",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/midain-studios-2d-character-concept-artist",
+          "source": "WorkWithIndies",
+          "country": "",
+          "description": "We’re looking for a talented 2D character artist / concept artist to help us refine the emotional appeal of the insect characters in Scarlet O’Beetle. Tags: [Art & Animation] [Contract]",
+          "score": 10,
+          "specialties": [
+            "3d_animator",
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "3D Generalist Diseno 3D Metaverso Ref 23 559",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-diseno-3d-metaverso-ref-23-559",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil creativo de diseño en las áreas de concept art, planificación lógica y estratégica, game design y arquitectura de juegos. Responsabilidades: •",
+          "score": 9,
+          "specialties": [
+            "concept_artist",
+            "generalist"
+          ]
         }
       ]
     },
@@ -566,14 +1060,13 @@
       "job_count": 2,
       "jobs": [
         {
-          "title": "VFX Layout Artist - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/vfx-layout-artist/job/504121/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Layout Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/layout-artist/job/506029/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The Layout Artist is responsible for the story-telling, shot sequence continuity, and presentation as ... more ",
-          "score": 6,
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 4,
           "specialties": [
-            "vfx_fx",
             "layout_previs"
           ]
         },
@@ -586,35 +1079,6 @@
           "score": 2,
           "specialties": [
             "layout_previs"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "game_dev",
-      "label": "Game Developer",
-      "job_count": 2,
-      "jobs": [
-        {
-          "title": "Pleasart Studios is hiring Lead Game Developer – Technical Partner  (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/pleasart-studios-lead-game-developer-technical-partner-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "description": "Pleasart Studios is expanding 🚀",
-          "score": 8,
-          "specialties": [
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Pleasart Studios is hiring Senior Level Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/pleasart-studios-senior-level-designer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "description": "Pleasart Studios is expanding 🚀",
-          "score": 4,
-          "specialties": [
-            "game_dev"
           ]
         }
       ]
@@ -638,38 +1102,19 @@
       ]
     },
     {
-      "slug": "texture_surfacing",
-      "label": "Texture / Surfacing",
+      "slug": "rigger",
+      "label": "Rigger",
       "job_count": 1,
       "jobs": [
         {
-          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
-          "score": 3,
-          "specialties": [
-            "texture_surfacing"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "lighting",
-      "label": "Lighting",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "Lighting Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "3D Character Rigger - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/3d-character-rigger/job/506019/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
           "score": 7,
           "specialties": [
-            "technical_artist",
-            "lighting"
+            "rigger"
           ]
         }
       ]
@@ -696,18 +1141,6 @@
     {
       "slug": "2d_animator",
       "label": "2D Animator",
-      "job_count": 0,
-      "jobs": []
-    },
-    {
-      "slug": "rigger",
-      "label": "Rigger",
-      "job_count": 0,
-      "jobs": []
-    },
-    {
-      "slug": "render",
-      "label": "Render",
       "job_count": 0,
       "jobs": []
     },
@@ -741,11 +1174,11 @@
           "specialties": []
         },
         {
-          "title": "FX Supervisor - Eyeline",
-          "url": "https://www.entertainmentcareers.net/eyeline/fx-supervisor/job/504102/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Matte Painter - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/matte-painter/job/506001/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
-          "description": "pls RT ECNIDRSS @entcareersnet  The FX Supervisor oversees the work delivered by the FX team, working alongside Production and Heads ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
           "score": 0,
           "specialties": []
         }
