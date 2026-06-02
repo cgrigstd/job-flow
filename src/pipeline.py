@@ -10,6 +10,7 @@ from src.config import (
 from src.models import Job
 from src.classifiers.specialties import SPECIALTIES, classify_job
 from src.classifiers.scorer import score_job
+from src.utils.html_utils import detect_region
 from src.scrapers.rss_feed import (
     scrape_rss_feed,
     scrape_entertainment_careers_fallback,
@@ -94,6 +95,7 @@ def search_jobs():
 
         job.specialties = classify_job(job.title, job.description)
         job.score = score_job(job.title, job.description)
+        job.region = detect_region(job.country)
         valid_jobs.append(job)
 
     specialty_map: dict[str, list[Job]] = defaultdict(list)
@@ -108,9 +110,24 @@ def search_jobs():
     specialties_output = _build_output_specialties(specialty_map)
     total_unique = len({j.url for j in valid_jobs})
 
+    regions_in_use = sorted({j.region for j in valid_jobs if j.region})
+
+    region_labels = {
+        "latin_america": "Latinoamérica",
+        "remote": "Remoto",
+        "us_canada_europe": "US / Canadá / Europa",
+        "other": "Otros",
+    }
+
     return {
         "title": "JobFlow",
         "updated": now.strftime("%Y-%m-%d %H:%M"),
         "total_jobs": total_unique,
+        "filters": {
+            "regions": regions_in_use,
+            "region_labels": {r: region_labels.get(r, r) for r in regions_in_use},
+            "specialties": [s.slug for s in SPECIALTIES],
+            "specialty_labels": {s.slug: s.label for s in SPECIALTIES},
+        },
         "specialties": specialties_output,
     }

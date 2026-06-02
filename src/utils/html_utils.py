@@ -34,13 +34,83 @@ def truncate_description(text: str, max_chars: int = 300) -> str:
     return text[:max_chars].rsplit(" ", 1)[0]
 
 
+LATAM_COUNTRIES = {
+    "argentina": "Argentina",
+    "bolivia": "Bolivia",
+    "brazil": "Brazil",
+    "brasil": "Brazil",
+    "chile": "Chile",
+    "colombia": "Colombia",
+    "costa rica": "Costa Rica",
+    "cuba": "Cuba",
+    "republica dominicana": "Dominican Republic",
+    "dominican republic": "Dominican Republic",
+    "ecuador": "Ecuador",
+    "el salvador": "El Salvador",
+    "guatemala": "Guatemala",
+    "honduras": "Honduras",
+    "mexico": "Mexico",
+    "méxico": "Mexico",
+    "nicaragua": "Nicaragua",
+    "panama": "Panama",
+    "panamá": "Panama",
+    "paraguay": "Paraguay",
+    "peru": "Peru",
+    "perú": "Peru",
+    "puerto rico": "Puerto Rico",
+    "uruguay": "Uruguay",
+    "venezuela": "Venezuela",
+}
+
+REMOTE_KEYWORDS = {"remote", "anywhere", "worldwide", "100% remoto", "trabajo remoto"}
+
+LATAM_REGION = "latin_america"
+REMOTE_REGION = "remote"
+US_EU_REGION = "us_canada_europe"
+OTHER_REGION = "other"
+
+US_EU_COUNTRIES = {
+    "usa", "united states", "united states of america", "eeuu", "estados unidos",
+    "canada", "canadá",
+    "uk", "united kingdom", "england", "scotland", "wales", "northern ireland",
+    "spain", "españa", "germany", "alemania", "france", "francia",
+    "italy", "italia", "netherlands", "holanda", "belgium", "belgica",
+    "switzerland", "suiza", "sweden", "suecia", "norway", "noruega",
+    "denmark", "dinamarca", "finland", "finlandia", "portugal",
+    "ireland", "irlanda", "austria", "poland", "polonia",
+    "czech republic", "hungary", "hungria", "romania", "rumania",
+    "greece", "grecia", "japan", "japon", "australia", "new zealand",
+}
+
+
 def detect_country(content: str) -> str:
     content_lower = content.lower()
 
-    if "argentina" in content_lower:
-        return "Argentina"
+    for keyword, country in LATAM_COUNTRIES.items():
+        if keyword in content_lower:
+            return country
 
-    if "remote" in content_lower:
-        return "Remote"
+    for token in REMOTE_KEYWORDS:
+        if token in content_lower:
+            return "Remote"
+
+    for keyword in US_EU_COUNTRIES:
+        if keyword in content_lower:
+            return keyword.title()
 
     return ""
+
+
+def detect_region(country: str) -> str:
+    if not country or country == "Remote":
+        return REMOTE_REGION
+
+    for keyword in LATAM_COUNTRIES:
+        if keyword in country.lower():
+            return LATAM_REGION
+
+    for keyword in US_EU_COUNTRIES:
+        if keyword in country.lower():
+            return US_EU_REGION
+
+    return OTHER_REGION
