@@ -1,3 +1,5 @@
+import re
+
 from src.classifiers.specialties import SPECIALTIES
 
 
@@ -7,18 +9,18 @@ def score_job(title: str, description: str) -> int:
 
     for spec in SPECIALTIES:
         for keyword in spec.keywords:
-            if keyword in content:
+            if re.search(rf'\b{re.escape(keyword)}\b', content):
                 score += 2
 
-    if "remote" in content:
+    if re.search(r'\bremote\b', content):
         score += 1
 
-    if "senior" in content or "mid" in content:
+    if re.search(r'\bsenior\b', content) or re.search(r'\bmid\b', content):
         score += 1
 
     title_lower = title.lower()
     for spec in SPECIALTIES:
-        if spec.label.lower() in title_lower:
+        if re.search(rf'\b{re.escape(spec.label.lower())}\b', title_lower):
             score += 3
             break
 
