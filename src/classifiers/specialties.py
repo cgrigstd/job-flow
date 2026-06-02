@@ -1,3 +1,4 @@
+import re
 from typing import NamedTuple
 
 
@@ -171,7 +172,7 @@ def classify_job(title: str, description: str) -> list[str]:
 
     for spec in SPECIALTIES:
         for keyword in spec.keywords:
-            if keyword in content:
+            if re.search(rf'\b{re.escape(keyword)}\b', content):
                 matched.append(spec.slug)
                 break
 

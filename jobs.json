@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-06-02 02:42",
-  "total_jobs": 150,
+  "updated": "2026-06-02 14:20",
+  "total_jobs": 145,
   "filters": {
     "regions": [
       "latin_america",
@@ -55,610 +55,9 @@
   },
   "specialties": [
     {
-      "slug": "developer",
-      "label": "Developer / Programmer",
-      "job_count": 48,
-      "jobs": [
-        {
-          "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
-          "url": "https://www.workwithindies.com/careers/throwback-studios-3d-art-generalist-unity",
-          "source": "WorkWithIndies",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "Throwback Studios is seeking a scrappy, self-directed 3D artist with a strong sense of art direction to own the art-pipeline for a social sandbox baseball game. Tags: [Art & Animation] [Full Time]",
-          "score": 13,
-          "specialties": [
-            "3d_animator",
-            "generalist",
-            "developer"
-          ]
-        },
-        {
-          "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/midain-studios-2d-character-concept-artist",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re looking for a talented 2D character artist / concept artist to help us refine the emotional appeal of the insect characters in Scarlet O’Beetle. Tags: [Art & Animation] [Contract]",
-          "score": 12,
-          "specialties": [
-            "3d_animator",
-            "concept_artist",
-            "developer"
-          ]
-        },
-        {
-          "title": "AddClear is hiring a 3D Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/addclear-3d-animator",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We're an indie studios in very early stages of development of our first game and are looking for a full time 3D Animator. Tags: [Art & Animation] [Full Time]",
-          "score": 11,
-          "specialties": [
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
-          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
-          "score": 11,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "Pleasart Studios is hiring Lead Game Developer – Technical Partner  (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/pleasart-studios-lead-game-developer-technical-partner-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Pleasart Studios is expanding 🚀",
-          "score": 10,
-          "specialties": [
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
-          "title": "Kiagu Studios is hiring Technical Animator / Animation Programmer - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-animator-animation-programmer-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "To help us process your application efficiently, please start your email subject line with [KCTA].",
-          "score": 9,
-          "specialties": [
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "WALTER: Senior Fullstack Engineer (Ruby+React)",
-          "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: Remote\n    URL: http://gowalter.co\n\n\n\n\nDescription\n\nOur client is a full-service digital product agency. They build businesses at the intersection of content and commerce, and since 2020, we've been focused on the creator economy and online education space.\nWe're a distributed team",
-          "score": 8,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Artifex Mundi is hiring Community Support Specialist (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/artifex-mundi-community-support-specialist-remote-job-8a21f65a-118c-4bff-ba41-270ccaf82d54",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We are a mobile F2P game developer with 20 years of experience and a team of over 100 people, divided into two independent studios: Adventure and RPG. \nOur RPG team is working on Void Hunters — a tactical RPG focused on deep systems, squad progression, and meaningful player decisions. The project",
-          "score": 7,
-          "specialties": [
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
-          "title": "Blanksword is hiring a Game Programmer  to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/blanksword-game-programmer",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re looking for a programming generalist that is comfortable juggling between different areas, including but not limited to systems, gameplay implementation, procgen, UI work and testing/bugfixing. Tags: [Programming] [Contract]",
-          "score": 6,
-          "specialties": [
-            "generalist",
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
-          "title": "Clickteam is hiring a C++ Cross Platform Programmer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/clickteam-c-cross-platform-programmer",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Clickteam is looking for a motivated candidate to join its programming team with a focus on our flagship product Clickteam Fusion. Tags: [Programming] [Contract]",
-          "score": 6,
-          "specialties": [
-            "compositor",
-            "developer"
-          ]
-        },
-        {
-          "title": "Pleasart Studios is hiring Senior Level Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/pleasart-studios-senior-level-designer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Pleasart Studios is expanding 🚀",
-          "score": 6,
-          "specialties": [
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
-          "title": "Lobah Poland is hiring Senior Backend Integration Programmer (UE5 / Online Systems) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/lobah-poland-senior-backend-integration-programmer-ue5-online-systems-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "About the Role\nWe are developing a third-person competitive shooter in Unreal Engine 5, currently in beta testing, with a strong focus on online multiplayer systems and long-term live operations.\nThis role focuses on integrating gameplay-facing online systems and platform services into the game",
-          "score": 6,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Turtle Rock Studios is hiring Senior Software Engineer, IT (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-software-engineer-it-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 6,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Thatgamecompany is hiring Senior Engine Programmer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-senior-engine-programmer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re looking for an exceptional Senior Engine Programmer to join our live team to help craft the most advanced social game on earth.",
-          "score": 6,
-          "specialties": [
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
-          "title": "S-PRO: Senior/Lead DevOps Engineer",
-          "url": "https://weworkremotely.com/remote-jobs/s-pro-senior-lead-devops-engineer",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: Remote job, ZH, Switzerland\n\nJob descriptionS-PRO, a top-tier Digital Innovation and Software Engineering company. We specialise in providing cutting-edge services for fast-growing businesses and enterprises, with a strong focus on Finance, Renewable Energy and Healthcare domains and",
-          "score": 6,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Lemon.io: Senior Full-stack Angular & PHP Developer",
-          "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer",
-          "source": "We Work Remotely Programming",
-          "country": "Cuba",
-          "region": "latin_america",
-          "description": "\n\nHeadquarters: New York, NY\n    URL: https://lemon.io\n\nAre you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\nWhat we",
-          "score": 6,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "bunny.net: Staff Software Engineer (Magic Containers)",
-          "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: Slovenia\n    URL: http://bunny.net\n\nStaff Software Engineer (Magic Containers)\nMagic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No Kubernetes. No YAML jungles. Just a simple,",
-          "score": 6,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
-          "score": 5,
-          "specialties": [
-            "texture_surfacing",
-            "developer"
-          ]
-        },
-        {
-          "title": "OcuDigital Technologies Inc is hiring Software Engineer - Phaser / typescript (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/ocudigital-technologies-inc-software-engineer-phaser-typescript-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "NeuroVisual Trainer is a vision therapy and neurovisual rehabilitation platform designed for both in-office and remote use. The platform works across devices and includes a growing library of interactive and video-based exercises used by optometrists, vision therapists, and patients around the",
-          "score": 5,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Thatgamecompany is hiring Technical Game Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-technical-game-designer-remote-job-7d9136ec-72c9-42f9-91b3-1026a33f5f3e",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We are a small studio dedicated to crafting unique and high-quality interactive experiences, and we are looking for a talented designer-programmer hybrid who will collaborate with both the engineering and design teams. The goal in this role is to drive the creation and improvement of core gameplay",
-          "score": 5,
-          "specialties": [
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
-          "title": "Senior Backend Developer - PT/FT - EMEA/LATAM/NA",
-          "url": "https://arc.dev/remote-jobs/details/senior-backend-developer-pt-ft-emea-latam-na-oszuxwk6tr",
-          "source": "ArcDev",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "score": 5,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "TigerRoll Studios is hiring a 3D Weapon Artist (Hero Asset) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/tigerroll-studios-3d-weapon-artist-hero-asset",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We're commissioning the first of a series of hero magical weapons: an engraved one-handed sword whose Latin and geometric etchings glow when the blade is activated — a medieval take on a lightsaber. Tags: [Art & Animation] [Freelance]",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "Eucalyptus Heavy Industries is hiring a Unreal Netcode Specialist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/eucalyptus-heavy-industries-unreal-netcode-specialist",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re looking for an experienced C++ programmer with Unreal Engine 5 netcode and lobby development experience to manage a focused multiplayer systems overhaul. Tags: [Programming] [Contract]",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Bluelight Consulting Fullstack PHP developer . Latin America",
-          "url": "https://remoteOK.com/remote-jobs/remote-bluelight-consulting-fullstack-php-developer-latin-america-bluelight-consulting-1132450",
-          "source": "Remote OK Dev",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "Bluelight is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives. With a steadfast commitment to delivering exceptional service to our clients, Bluelight excels in its focus on quality and customer satisfaction. Our mission is not",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Lead Generator",
-          "url": "https://remoteOK.com/remote-jobs/remote-lead-generator-breevy-1132473",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "I’m looking to connect with an experienced Lead Generator / Appointment Setter who can help identify and reach out to quality B2B prospects in the Cloud, DevOps, AWS, and AI in Cloud space.I’m especially interested in someone who can target companies that may need help with:AWS cloud",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Senior Vue Developer",
-          "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383",
-          "source": "Remote OK Dev",
-          "country": "Cuba",
-          "region": "latin_america",
-          "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.What we offer:The rate depends on your seniority level, skills",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Gameplay Galaxy is hiring Senior Backend Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/gameplay-galaxy-senior-backend-engineer-remote-job-5f70c3c5-45cd-4979-be60-a371db58a736",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "About the role\nYou'll own the backend for a live mobile F2P game and the AI agentic platform that powers how we operate it. Feature releases, live ops, monetization, analytics pipeline, reliability. Senior IC with real ownership from day one and a path to platform / tech lead as we scale. You work",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Turtle Rock Studios is hiring Senior Sandbox Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-sandbox-designer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Armor Games Studios is hiring a Senior Marketing Manager to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/armor-games-studios-senior-marketing-manager",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Armor Games Studios is looking for a highly creative, proactive, strategic, and experienced Part-Time Senior Marketing Manager!  Tags: [Marketing & Community] [Part Time]",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Edge of the World Studios is hiring 3D Environment Artist (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-3d-environment-artist-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re hiring and looking to connect with a 3D Environment Artists!",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Edge of the World Studios is hiring Audio / SFX Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-audio-sfx-engineer-remote-job-e066a80f-2441-4d09-a39b-089046a039bd",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re hiring and looking to connect with an Audio / SFX Engineer!\n \nEdge of the World Studios is looking to connect with an Audio /SFX Engineer to help shape the soundscape of Halima, a 2.5D narrative puzzle-platforming adventure currently in development. This role will support the game’s audio",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Turtle Rock Studios is hiring Associate Network Platform Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-associate-network-platform-engineer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Turtle Rock Studios is hiring Tools Engineer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-tools-engineer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Jeff Murray's Programming Shop, Inc.: Experienced Software Developer",
-          "url": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters:\nURL: https://www.jprog.com\n\nJob Title: Software DeveloperLocation: 100% Remote (Continental U.S. Only. Requires U.S. Central Time core hours.)Job Type: Full-timeAbout Us:jProg develops innovative software solutions in the HIV public health space, with a deep commitment to improving",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Data Engineer Remote at Cyrantos",
-          "url": "https://careernest.cloud/jobs/data-engineer-remote-cyrantos-1780364687688",
-          "source": "Career Nest Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Full-time Software Development role at Cyrantos. Location: Kraków, małopolskie. Updated today. Check requirements and apply online free.",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Senior Full-Stack AI Engineer (Python, Supabase) - FT - Worldwide",
-          "url": "https://arc.dev/remote-jobs/details/senior-full-stack-ai-engineer-python-supabase-ft-worldwide-otriujq3qv",
-          "source": "ArcDev",
-          "country": "Remote",
-          "region": "remote",
-          "description": "",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Ride the Lion Studios is hiring a Unreal Engine Game Tester to work from GMT-1 to GMT+7",
-          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-unreal-engine-game-tester",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We are looking for an experienced game tester well-versed in Unreal Engine. Tags: [QA & CS] [Contract]",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Mobius Digital is hiring a DevOps/Infrastructure Engineer to work from L.A. or United States",
-          "url": "https://www.workwithindies.com/careers/mobius-digital-devops-infrastructure-engineer",
-          "source": "WorkWithIndies",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "We are looking for an engineer to help maintain our technical infrastructure, from the physical hardware maintenance of workstations and on-premises servers to the implementation of build pipelines. Tags: [Programming] [Full Time]",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Especialista En Marketing Digital Y Gestión De Contenidos",
-          "url": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132665",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Canarias.combusca incorporar una persona con visión estratégica, experiencia real y capacidad de crecimiento para desarrollar uno de los dominios turísticos más potentes de Canarias.Perfil Que Buscamos Capacidad de redacción profesional y creativa Experiencia demostrable en marketing digital",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Especialista En Marketing Digital Y Gestión De Contenidos",
-          "url": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132666",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Canarias.combusca incorporar una persona con visión estratégica, experiencia real y capacidad de crecimiento para desarrollar uno de los dominios turísticos más potentes de Canarias.Perfil Que Buscamos Capacidad de redacción profesional y creativa Experiencia demostrable en marketing digital",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Business Analyst Remoto",
-          "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-remoto-wondercom-1132664",
-          "source": "Remote OK Dev",
-          "country": "Remote",
-          "region": "remote",
-          "description": "A KnowledgeWorks, pertencente ao Grupo Wondercom, é uma Software House com vários projetos em curso nas mais variadas tecnologias. Somos, por isso, capazes de tornar realidade, as visões dos nossos clientes.Gostamos de ser desafiados e de sair da nossa zona de conforto.Respiramos tecnologia que",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Site Reliability Engineer",
-          "url": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-rbc-1132479",
-          "source": "Remote OK Dev",
-          "country": "Usa",
-          "region": "us_canada_europe",
-          "description": "Job DescriptionAPPLICATION DEADLINE: JUNE 8TH, 2026This role can be located the Caribbean Banking Market or in Canada where the successful candidate residesWhat is the opportunity?In this role you will be responsible for creation, automation (DevOps), monitoring, maintenance, and management of test",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "DOCENTE LIMPIEZA GESTIÓN DE RESIDUOS Y MEDIOAMBIENTE",
-          "url": "https://remoteOK.com/remote-jobs/remote-docente-limpieza-gestion-de-residuos-y-medioambiente-grupo-euroformac-1132336",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Buscamos un/a formador/a con experiencia en gestión medioambiental y servicios de limpieza para impartir este curso en modalidad mixta (aula virtual y teleformación).¿Qué harás?Impartir el módulo SEAG039PO, acercando al alumnado los fundamentos de la limpieza profesional, la gestión de residuos y",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
-          "url": "https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: Prince Edward Island/HQ / Halifax, Nova Scotia / Newfoundland & Labrador / Nova Scotia / Ontario\n\nThe Company 2025 Deloitte Technology Fast 50 Canada Recipient & Fast 500 North America Recipient  SpryPoint is modernizing how utilities serve their communities. As a high-growth",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Mind Friend Pro: Website Admin / Design INTERNSHIP",
-          "url": "https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: United Kingdom\n\nThis is an internship for someone who is looking to work closely and learn from web developers. This is a two month training programme. Mind Friend PRO is looking for a creative and detail-oriented Website Administrator/Designer to join our team. This role entails",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Systabuild Software Group: Junior DevOps Engineer (m/w/d)",
-          "url": "https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: Salzstraße 25, 87499 Wildpoldsried, Germany\n\nCompany DescriptionSYSTABUILD is building a shared cloud and platform foundation for a group of software companies in the construction, CAD and ERP domain.To support this platform, we are looking for a Junior DevOps CI/CD Engineer who is",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sticker Mule: Software engineer",
-          "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: New York, NY\n    URL: https://www.stickermule.com\n\nSticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Praia Health Inc.: Staff Software Engineer - Data Infrastructure",
-          "url": "https://weworkremotely.com/remote-jobs/praia-health-inc-staff-software-engineer-data-infrastructure",
-          "source": "We Work Remotely Programming",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: Chicago, IL\n    URL: https://praiahealth.com\n\n\nPraia is seeking a Staff Software Engineer to serve as a technical anchor and architect for our core consumer experience platform. In this role, you will establish deep, end-to-end architectural ownership of our platform, spanning",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 44,
+      "job_count": 47,
       "jobs": [
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
@@ -672,7 +71,6 @@
             "3d_animator",
             "technical_artist",
             "rigger",
-            "texture_surfacing",
             "vfx_fx",
             "game_dev"
           ]
@@ -687,8 +85,7 @@
           "score": 13,
           "specialties": [
             "3d_animator",
-            "generalist",
-            "developer"
+            "generalist"
           ]
         },
         {
@@ -701,8 +98,7 @@
           "score": 12,
           "specialties": [
             "3d_animator",
-            "concept_artist",
-            "developer"
+            "concept_artist"
           ]
         },
         {
@@ -728,8 +124,7 @@
           "description": "We're an indie studios in very early stages of development of our first game and are looking for a full time 3D Animator. Tags: [Art & Animation] [Full Time]",
           "score": 11,
           "specialties": [
-            "3d_animator",
-            "developer"
+            "3d_animator"
           ]
         },
         {
@@ -742,8 +137,7 @@
           "score": 11,
           "specialties": [
             "3d_modeler",
-            "3d_animator",
-            "developer"
+            "3d_animator"
           ]
         },
         {
@@ -908,6 +302,19 @@
           ]
         },
         {
+          "title": "VFX Animator - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/vfx-animator/job/519184/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Animator -VFX (All Levels) - ILM London\n\nJob Summary:\n\nPosition ... more ",
+          "score": 6,
+          "specialties": [
+            "3d_animator",
+            "vfx_fx"
+          ]
+        },
+        {
           "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
           "source": "WorkWithIndies",
@@ -969,36 +376,7 @@
           "description": "Coincidence is a small cooperative game studio located in Redmond, WA. We currently have two artists, both 2D generalists, and are looking for a third to join the team. Tags: [Art & Animation] [Contract]",
           "score": 6,
           "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "MSFS 2024 Blender Animators/Modelers that Know MSFS 2024 SDK XML [PAID]",
-          "url": "https://blenderartists.org/t/msfs-2024-blender-animators-modelers-that-know-msfs-2024-sdk-xml-paid/1640374",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi All,\nWe are looking to hire additional devs and artists for the team!\nThis is a Monthly PAID position with additional royalty payments.\nMUST have familiarity and ability to work on Aircraft within the MSFS 2024 SDK.\n***This means XML! Including Blender exporting and associate XML.\nJust being",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
             "3d_animator"
-          ]
-        },
-        {
-          "title": "Two Walking cycles male or female",
-          "url": "https://blenderartists.org/t/two-walking-cycles-male-or-female/1640278",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hello,\nI need to create two walking cycles (animations and frames) for a medical article. The cycle needs to be highly accurate.\nhttps://www.preprints.org/manuscript/202603.0733\nI’m familiar with Blender, but I must admit I’m a complete novice when it comes to rigging and armatures.\nThe subject can",
-          "score": 6,
-          "specialties": [
-            "3d_animator",
-            "rigger",
-            "render"
           ]
         },
         {
@@ -1027,16 +405,28 @@
           ]
         },
         {
-          "title": "Animation Pipeline Technical Director - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/animation-pipeline-technical-director/job/506054/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Technical Director - Animation - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-director-animation/job/499294/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
           "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Technical Director, you will design and develop innovative ... more ",
           "score": 4,
           "specialties": [
             "3d_animator",
             "technical_artist"
+          ]
+        },
+        {
+          "title": "Inoutbox is hiring a Animator to work from NA, SA, or EU",
+          "url": "https://www.workwithindies.com/careers/inoutbox-animator",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "Inoutbox are looking for a skilled Animator to join our team on a project-based contract.  Tags: [Art & Animation] [Freelance]",
+          "score": 4,
+          "specialties": [
+            "3d_animator"
           ]
         },
         {
@@ -1048,8 +438,7 @@
           "description": "We're commissioning the first of a series of hero magical weapons: an engraved one-handed sword whose Latin and geometric etchings glow when the blade is activated — a medieval take on a lightsaber. Tags: [Art & Animation] [Freelance]",
           "score": 4,
           "specialties": [
-            "3d_animator",
-            "developer"
+            "3d_animator"
           ]
         },
         {
@@ -1165,6 +554,54 @@
           ]
         },
         {
+          "title": "Animator - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/animator/job/521935/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Les Films Sony Imageworks Québec Inc.\n\n700 Rue Saint-Hubert, Suite 400, Montreal ... more ",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Animator - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/animator/job/521936/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Les Films Sony Imageworks Québec Inc.\n\n700 Rue Saint-Hubert, Suite 400, Montreal ... more ",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Feature Animator - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/feature-animator/job/519183/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Animator - Feature (All Levels) - ILM London\n\nJob Summary:\n\nPosition ... more ",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Dark Dark Goose is hiring a UI Artist to work from GMT +4 to +12",
+          "url": "https://www.workwithindies.com/careers/dark-dark-goose-ui-artist",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We’re looking for an experienced designer who can help evolve the existing design system, enhance the key visual design elements and craft beautiful micro interactions. Tags: [Art & Animation] [Part Time]",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
           "title": "Brain Rack Games is hiring a Art Director to work from United Kingdom",
           "url": "https://www.workwithindies.com/careers/brain-rack-games-art-director",
           "source": "WorkWithIndies",
@@ -1223,17 +660,415 @@
           "specialties": [
             "3d_animator"
           ]
+        }
+      ]
+    },
+    {
+      "slug": "developer",
+      "label": "Developer / Programmer",
+      "job_count": 33,
+      "jobs": [
+        {
+          "title": "Kiagu Studios is hiring Technical Animator / Animation Programmer - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-animator-animation-programmer-dark-fantasy-anime-arpg-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "To help us process your application efficiently, please start your email subject line with [KCTA].",
+          "score": 9,
+          "specialties": [
+            "3d_animator",
+            "developer"
+          ]
         },
         {
-          "title": "Deep Pink Games is hiring a UI/UX Designer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/deep-pink-games-ui-ux-designer",
+          "title": "WALTER: Senior Fullstack Engineer (Ruby+React)",
+          "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\nHeadquarters: Remote\n    URL: http://gowalter.co\n\n\n\n\nDescription\n\nOur client is a full-service digital product agency. They build businesses at the intersection of content and commerce, and since 2020, we've been focused on the creator economy and online education space.\nWe're a distributed team",
+          "score": 8,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Blanksword is hiring a Game Programmer  to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/blanksword-game-programmer",
           "source": "WorkWithIndies",
           "country": "Remote",
           "region": "remote",
-          "description": "We’re looking for a UI designer to help us craft the visuals, animations, and interactions for a voice-focused NSFW game. Tags: [Design] [Contract]",
+          "description": "We’re looking for a programming generalist that is comfortable juggling between different areas, including but not limited to systems, gameplay implementation, procgen, UI work and testing/bugfixing. Tags: [Programming] [Contract]",
+          "score": 6,
+          "specialties": [
+            "generalist",
+            "game_dev",
+            "developer"
+          ]
+        },
+        {
+          "title": "Clickteam is hiring a C++ Cross Platform Programmer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/clickteam-c-cross-platform-programmer",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Clickteam is looking for a motivated candidate to join its programming team with a focus on our flagship product Clickteam Fusion. Tags: [Programming] [Contract]",
+          "score": 6,
+          "specialties": [
+            "compositor",
+            "developer"
+          ]
+        },
+        {
+          "title": "Lobah Poland is hiring Senior Backend Integration Programmer (UE5 / Online Systems) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/lobah-poland-senior-backend-integration-programmer-ue5-online-systems-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "About the Role\nWe are developing a third-person competitive shooter in Unreal Engine 5, currently in beta testing, with a strong focus on online multiplayer systems and long-term live operations.\nThis role focuses on integrating gameplay-facing online systems and platform services into the game",
+          "score": 6,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Turtle Rock Studios is hiring Senior Software Engineer, IT (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/turtle-rock-studios-senior-software-engineer-it-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "At Turtle Rock, we make the games we want to play. We're dedicated to providing a collaborative environment where our team members feel empowered with the creative freedom to contribute and grow. While we are based in Orange County, CA, we support flexible work arrangements ranging from in-studio,",
+          "score": 6,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Thatgamecompany is hiring Senior Engine Programmer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-senior-engine-programmer-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We’re looking for an exceptional Senior Engine Programmer to join our live team to help craft the most advanced social game on earth.",
+          "score": 6,
+          "specialties": [
+            "game_dev",
+            "developer"
+          ]
+        },
+        {
+          "title": "S-PRO: Senior/Lead DevOps Engineer",
+          "url": "https://weworkremotely.com/remote-jobs/s-pro-senior-lead-devops-engineer",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\nHeadquarters: Remote job, ZH, Switzerland\n\nJob descriptionS-PRO, a top-tier Digital Innovation and Software Engineering company. We specialise in providing cutting-edge services for fast-growing businesses and enterprises, with a strong focus on Finance, Renewable Energy and Healthcare domains and",
+          "score": 6,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Lemon.io: Senior Full-stack Angular & PHP Developer",
+          "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer",
+          "source": "We Work Remotely Programming",
+          "country": "Cuba",
+          "region": "latin_america",
+          "description": "\nHeadquarters: New York, NY\n    URL: https://lemon.io\n\nAre you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\nWhat we",
+          "score": 6,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "bunny.net: Staff Software Engineer (Magic Containers)",
+          "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: Slovenia\n    URL: http://bunny.net\n\nStaff Software Engineer (Magic Containers)\nMagic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No Kubernetes. No YAML jungles. Just a simple,",
+          "score": 6,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "OcuDigital Technologies Inc is hiring Software Engineer - Phaser / typescript (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/ocudigital-technologies-inc-software-engineer-phaser-typescript-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "NeuroVisual Trainer is a vision therapy and neurovisual rehabilitation platform designed for both in-office and remote use. The platform works across devices and includes a growing library of interactive and video-based exercises used by optometrists, vision therapists, and patients around the",
+          "score": 5,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Thatgamecompany is hiring Technical Game Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-technical-game-designer-remote-job-7d9136ec-72c9-42f9-91b3-1026a33f5f3e",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We are a small studio dedicated to crafting unique and high-quality interactive experiences, and we are looking for a talented designer-programmer hybrid who will collaborate with both the engineering and design teams. The goal in this role is to drive the creation and improvement of core gameplay",
+          "score": 5,
+          "specialties": [
+            "game_dev",
+            "developer"
+          ]
+        },
+        {
+          "title": "Full Stack Developer (Frontend Focus) (m/f/d) at Mirantus Health",
+          "url": "https://careernest.cloud/jobs/full-stack-developer-frontend-focus-mfd-mirantus-health-1780411084693",
+          "source": "Career Nest Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We're a young, well-funded health-tech startup on a mission to make quality care reachable for everyone. By enabling doctors to deliver distributed healthcare solutions, we bring treatment to patients in remote and underserved areas — and we're already operational, serving hundreds of patients every",
+          "score": 5,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "COOLNET is hiring a Experienced Game Programmer to work from Dublin, IE",
+          "url": "https://www.workwithindies.com/careers/coolnet-experienced-game-programmer",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "Are you ready to build a cutting-edge multiplayer game where creativity meets scientific goals? Tags: [Programming] [Full Time]",
+          "score": 4,
+          "specialties": [
+            "game_dev",
+            "developer"
+          ]
+        },
+        {
+          "title": "Eucalyptus Heavy Industries is hiring a Unreal Netcode Specialist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/eucalyptus-heavy-industries-unreal-netcode-specialist",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We’re looking for an experienced C++ programmer with Unreal Engine 5 netcode and lobby development experience to manage a focused multiplayer systems overhaul. Tags: [Programming] [Contract]",
+          "score": 4,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Bluelight Consulting Fullstack PHP developer . Latin America",
+          "url": "https://remoteOK.com/remote-jobs/remote-bluelight-consulting-fullstack-php-developer-latin-america-bluelight-consulting-1132450",
+          "source": "Remote OK Dev",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "Bluelight is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives. With a steadfast commitment to delivering exceptional service to our clients, Bluelight excels in its focus on quality and customer satisfaction. Our mission is not",
+          "score": 4,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Lead Generator",
+          "url": "https://remoteOK.com/remote-jobs/remote-lead-generator-breevy-1132473",
+          "source": "Remote OK Dev",
+          "country": "",
+          "region": "remote",
+          "description": "I’m looking to connect with an experienced Lead Generator / Appointment Setter who can help identify and reach out to quality B2B prospects in the Cloud, DevOps, AWS, and AI in Cloud space.I’m especially interested in someone who can target companies that may need help with:AWS cloud",
+          "score": 4,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Senior Vue Developer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383",
+          "source": "Remote OK Dev",
+          "country": "Cuba",
+          "region": "latin_america",
+          "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.What we offer:The rate depends on your seniority level, skills",
+          "score": 4,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Gameplay Galaxy is hiring Senior Backend Engineer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/gameplay-galaxy-senior-backend-engineer-remote-job-5f70c3c5-45cd-4979-be60-a371db58a736",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "About the role\nYou'll own the backend for a live mobile F2P game and the AI agentic platform that powers how we operate it. Feature releases, live ops, monetization, analytics pipeline, reliability. Senior IC with real ownership from day one and a path to platform / tech lead as we scale. You work",
+          "score": 4,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Software Engineer - Python control software (f/m/d) at eleQtron GmbH",
+          "url": "https://careernest.cloud/jobs/software-engineer-python-control-software-fmd-eleqtron-gmbh-1780418210148",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "eleQtron develops and operates full-stack quantum computers based on trapped-ion technology. Quantum computing is a new computing paradigm rapidly approaching commercial viability. Our unique approach combines laser-cooled trapped ions with microwave control and tailored magnetic fields. Our next-ge",
+          "score": 4,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "region": "remote",
+          "description": "At Atom Computing, we build quantum computers using arrays of optically trapped neutral atoms that will empower customers to achieve unprecedented computational breakthroughs. Join a world-class team of scientists, engineers, and business professionals to advance the state-of-the-art in quantum",
+          "score": 3,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Jeff Murray's Programming Shop, Inc.: Experienced Software Developer",
+          "url": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters:\nURL: https://www.jprog.com\n\nJob Title: Software DeveloperLocation: 100% Remote (Continental U.S. Only. Requires U.S. Central Time core hours.)Job Type: Full-timeAbout Us:jProg develops innovative software solutions in the HIV public health space, with a deep commitment to improving",
+          "score": 3,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Senior AI Backend Engineer at SumUp",
+          "url": "https://careernest.cloud/jobs/senior-ai-backend-engineer-sumup-1780411084673",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Team description SumUp Edge is our most ambitious product bet right now — an AI-powered co-pilot that transforms raw merchant data into proactive, real-time business insights. We're moving from being a payments processor to becoming an intelligent operating system for small businesses, and the backe",
+          "score": 3,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Senior Full-Stack AI Engineer (Python, Supabase) - FT - Worldwide",
+          "url": "https://arc.dev/remote-jobs/details/senior-full-stack-ai-engineer-python-supabase-ft-worldwide-otriujq3qv",
+          "source": "ArcDev",
+          "country": "Remote",
+          "region": "remote",
+          "description": "",
+          "score": 3,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Mobius Digital is hiring a DevOps/Infrastructure Engineer to work from L.A. or United States",
+          "url": "https://www.workwithindies.com/careers/mobius-digital-devops-infrastructure-engineer",
+          "source": "WorkWithIndies",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "We are looking for an engineer to help maintain our technical infrastructure, from the physical hardware maintenance of workstations and on-premises servers to the implementation of build pipelines. Tags: [Programming] [Full Time]",
           "score": 2,
           "specialties": [
-            "3d_animator"
+            "developer"
+          ]
+        },
+        {
+          "title": "Site Reliability Engineer",
+          "url": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-rbc-1132479",
+          "source": "Remote OK Dev",
+          "country": "Spain",
+          "region": "us_canada_europe",
+          "description": "Job DescriptionAPPLICATION DEADLINE: JUNE 8TH, 2026This role can be located the Caribbean Banking Market or in Canada where the successful candidate residesWhat is the opportunity?In this role you will be responsible for creation, automation (DevOps), monitoring, maintenance, and management of test",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
+          "url": "https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\nHeadquarters: Prince Edward Island/HQ / Halifax, Nova Scotia / Newfoundland & Labrador / Nova Scotia / Ontario\n\nThe Company 2025 Deloitte Technology Fast 50 Canada Recipient & Fast 500 North America Recipient  SpryPoint is modernizing how utilities serve their communities. As a high-growth",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Systabuild Software Group: Junior DevOps Engineer (m/w/d)",
+          "url": "https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\nHeadquarters: Salzstraße 25, 87499 Wildpoldsried, Germany\n\nCompany DescriptionSYSTABUILD is building a shared cloud and platform foundation for a group of software companies in the construction, CAD and ERP domain.To support this platform, we are looking for a Junior DevOps CI/CD Engineer who is",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Sticker Mule: Software engineer",
+          "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: New York, NY\n    URL: https://www.stickermule.com\n\nSticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Praia Health Inc.: Staff Software Engineer - Data Infrastructure",
+          "url": "https://weworkremotely.com/remote-jobs/praia-health-inc-staff-software-engineer-data-infrastructure",
+          "source": "We Work Remotely Programming",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: Chicago, IL\n    URL: https://praiahealth.com\n\n\nPraia is seeking a Staff Software Engineer to serve as a technical anchor and architect for our core consumer experience platform. In this role, you will establish deep, end-to-end architectural ownership of our platform, spanning",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "BI Consultant Data Engineer (all levels & genders) at Maren Sommerbeck",
+          "url": "https://careernest.cloud/jobs/bi-consultant-data-engineer-all-levels-and-genders-maren-sommerbeck-1780414575816",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Bist Du auch so begeistert von IT und von Menschen wie wir? Wir von linkFISH Consulting sind Datenversteher und verlinken IT mit Betriebswirtschaft zu Business Intelligence- und Data Analytics- Lösungen. Wir entwickeln aus unseren vielfältigen Kompetenzen für unsere Kund:innen immer wieder bestmögli",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "DevOps Engineer at Global Market Solutions GmbH",
+          "url": "https://careernest.cloud/jobs/devops-engineer-global-market-solutions-gmbh-1780411084684",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "GMS is an operational consultancy with expertise in data and digital systems. Whether digitalisation, data & analytics or compliance - our consultants are the missing piece of our customer’s digital puzzle. We empower their ongoing digital transformation and transform challenges into opportuniti",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Desarrollador Unity Ref 25 583",
+          "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-unity-ref-25-583",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Desarrollador freelance para Startup de arquitectura. Es un desarrollo puntual en principio para producto MVP, que puede orgánicamente ir avanzando en mayores funcionalidades hasta producto final. Responsabilidades: Desarrollar MVP a partir de los requisitos propuestos. Requerimientos excluyentes:",
+          "score": 2,
+          "specialties": [
+            "developer"
           ]
         }
       ]
@@ -1241,7 +1076,7 @@
     {
       "slug": "game_dev",
       "label": "Game Developer",
-      "job_count": 19,
+      "job_count": 20,
       "jobs": [
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
@@ -1255,7 +1090,6 @@
             "3d_animator",
             "technical_artist",
             "rigger",
-            "texture_surfacing",
             "vfx_fx",
             "game_dev"
           ]
@@ -1295,8 +1129,7 @@
           "description": "Pleasart Studios is expanding 🚀",
           "score": 10,
           "specialties": [
-            "game_dev",
-            "developer"
+            "game_dev"
           ]
         },
         {
@@ -1322,8 +1155,7 @@
           "description": "We are a mobile F2P game developer with 20 years of experience and a team of over 100 people, divided into two independent studios: Adventure and RPG. \nOur RPG team is working on Void Hunters — a tactical RPG focused on deep systems, squad progression, and meaningful player decisions. The project",
           "score": 7,
           "specialties": [
-            "game_dev",
-            "developer"
+            "game_dev"
           ]
         },
         {
@@ -1363,8 +1195,7 @@
           "description": "Pleasart Studios is expanding 🚀",
           "score": 6,
           "specialties": [
-            "game_dev",
-            "developer"
+            "game_dev"
           ]
         },
         {
@@ -1406,15 +1237,28 @@
           ]
         },
         {
-          "title": "Raw Fury is hiring a Product Manager to work from Stockholm, SE",
-          "url": "https://www.workwithindies.com/careers/raw-fury-product-manager",
+          "title": "Beef Noodle Studios is hiring a Technical Game Designer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/beef-noodle-studios-technical-game-designer",
           "source": "WorkWithIndies",
-          "country": "",
+          "country": "Remote",
           "region": "remote",
-          "description": "On our quest to be recognized as the world’s best partner to indie game developers, we're looking to strengthen the team with a Product Manager. Tags: [Production] [Full Time]",
+          "description": "Beef Noodle Studios is looking for an experienced Technical Game Designer to prototype, design, and implement various game systems, features, and content in our endless story generating colony sim. Tags: [Design] [Contract]",
           "score": 4,
           "specialties": [
             "game_dev"
+          ]
+        },
+        {
+          "title": "COOLNET is hiring a Experienced Game Programmer to work from Dublin, IE",
+          "url": "https://www.workwithindies.com/careers/coolnet-experienced-game-programmer",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "Are you ready to build a cutting-edge multiplayer game where creativity meets scientific goals? Tags: [Programming] [Full Time]",
+          "score": 4,
+          "specialties": [
+            "game_dev",
+            "developer"
           ]
         },
         {
@@ -1495,7 +1339,7 @@
     {
       "slug": "technical_artist",
       "label": "Technical Artist",
-      "job_count": 11,
+      "job_count": 12,
       "jobs": [
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
@@ -1509,7 +1353,6 @@
             "3d_animator",
             "technical_artist",
             "rigger",
-            "texture_surfacing",
             "vfx_fx",
             "game_dev"
           ]
@@ -1551,8 +1394,7 @@
           "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
           "score": 8,
           "specialties": [
-            "technical_artist",
-            "texture_surfacing"
+            "technical_artist"
           ]
         },
         {
@@ -1593,12 +1435,12 @@
           ]
         },
         {
-          "title": "Animation Pipeline Technical Director - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/animation-pipeline-technical-director/job/506054/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Technical Director - Animation - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-director-animation/job/499294/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
           "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Technical Director, you will design and develop innovative ... more ",
           "score": 4,
           "specialties": [
             "3d_animator",
@@ -1619,6 +1461,30 @@
           ]
         },
         {
+          "title": "Technical Director - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-director/job/499293/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Senior Technical Director, you will develop and support innovative ... more ",
+          "score": 3,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Junior Creature Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-creature-technical-director/job/519289/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Junior Creature Technical Director (Project Hire) - ILM San Francisco\n\nJob Summary:\n\nPosition ... more ",
+          "score": 2,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
           "title": "Lighting Technical Director - Industrial Light & Magic",
           "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
@@ -1629,162 +1495,13 @@
           "specialties": [
             "technical_artist"
           ]
-        },
-        {
-          "title": "Pipeline Technical Director - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/pipeline-technical-director/job/506018/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "3d_modeler",
-      "label": "3D Modeler",
-      "job_count": 10,
-      "jobs": [
-        {
-          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
-          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
-          "score": 11,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
-          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
-          "score": 10,
-          "specialties": [
-            "3d_modeler",
-            "concept_artist",
-            "render"
-          ]
-        },
-        {
-          "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
-          "url": "https://blenderartists.org/t/paid-hiring-solo-blender-modelers-residential-3d-for-three-js/1640125",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "I’m hiring solo junior-to-mid freelancers for real, ongoing paid Blender work at BASE, a residential 3D visualization platform.\nProduction work: low-poly home interiors and exteriors that render in Three.js on the web. Asset-store fixtures OK. Clean shell modeling, spec-driven, fast turnaround. Not",
-          "score": 9,
-          "specialties": [
-            "3d_modeler",
-            "render"
-          ]
-        },
-        {
-          "title": "Bad Source is hiring a 3D Character Modeler to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/bad-source-3d-character-modeler",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "I'm an indie developer seeking a modeler to bring our cast of characters from concept art into game-ready 3D. Tags: [Art & Animation] [Freelance]",
-          "score": 8,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator",
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "3D Modeler - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/3d-modeler/job/506032/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 7,
-          "specialties": [
-            "3d_modeler"
-          ]
-        },
-        {
-          "title": "3D Modeler - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/3d-modeler/job/506017/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 7,
-          "specialties": [
-            "3d_modeler"
-          ]
-        },
-        {
-          "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re hiring a 3D Artist who’s as comfortable modeling in Blender as they are setting assets up in Unity. Tags: [Art & Animation] [Full Time]",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "MSFS 2024 Blender Animators/Modelers that Know MSFS 2024 SDK XML [PAID]",
-          "url": "https://blenderartists.org/t/msfs-2024-blender-animators-modelers-that-know-msfs-2024-sdk-xml-paid/1640374",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi All,\nWe are looking to hire additional devs and artists for the team!\nThis is a Monthly PAID position with additional royalty payments.\nMUST have familiarity and ability to work on Aircraft within the MSFS 2024 SDK.\n***This means XML! Including Blender exporting and associate XML.\nJust being",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling",
-          "url": "https://blenderartists.org/t/hiring-a-blender-artist-for-paid-1-1-mentoring-anime-chibi-character-modeling/1641273",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Title: Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling\n\nHi,\nI’m hiring a Blender artist for paid 1:1 mentoring in anime chibi character modeling, from scratch in Blender. Reference style below.\n\n\nType of project: Paid 1:1 mentoring. I learn by doing work and getting",
-          "score": 2,
-          "specialties": [
-            "3d_modeler"
-          ]
-        },
-        {
-          "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
-          "url": "https://blenderartists.org/t/looking-for-a-paid-1-1-tutor-stylized-3d-character-modeling-blender-kirby-nintendo-style/1641073",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
-          "score": 2,
-          "specialties": [
-            "3d_modeler"
-          ]
         }
       ]
     },
     {
       "slug": "generalist",
       "label": "Generalist",
-      "job_count": 10,
+      "job_count": 11,
       "jobs": [
         {
           "title": "Throwback Studios is hiring a 3D Art Generalist (Unity) to work from United States",
@@ -1796,8 +1513,7 @@
           "score": 13,
           "specialties": [
             "3d_animator",
-            "generalist",
-            "developer"
+            "generalist"
           ]
         },
         {
@@ -1883,20 +1599,6 @@
           ]
         },
         {
-          "title": "Coincidence is hiring a 2D Game Artist to work from Redmond, WA",
-          "url": "https://www.workwithindies.com/careers/coincidence-2d-game-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "Coincidence is a small cooperative game studio located in Redmond, WA. We currently have two artists, both 2D generalists, and are looking for a third to join the team. Tags: [Art & Animation] [Contract]",
-          "score": 6,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
           "title": "HR Generalist",
           "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-check-off-your-list-1132591",
           "source": "Remote OK Dev",
@@ -1904,6 +1606,18 @@
           "region": "remote",
           "description": "About Check Off Your ListThis is a remote position; however, we are currently hiring team members based in Florida, Georgia, Maine, Ohio, and Texas.Have you been looking for a professional opportunity to grow your career, expand your expertise, and make a meaningful impact on small businesses?Check",
           "score": 6,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "HR Generalist (m/w/d) mit Schwerpunkt Operative Personalarbeit & Recruiting at PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
+          "url": "https://careernest.cloud/jobs/hr-generalist-mwd-mit-schwerpunkt-operative-personalarbeit-and-recruiting-ptr-profi-talent-recruitment-ug-haftungsbeschrankt-1780414575792",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Für unseren Kunden, ein etabliertes Unternehmen im industriellen Umfeld, suchen wir einen HR Generalist (m/w/d) mit Schwerpunkt operative Personalarbeit und Recruiting. In dieser vielseitigen Position übernimmst du eine zentrale Rolle innerhalb der Personalabteilung und begleitest Mitarbeitende entl",
+          "score": 5,
           "specialties": [
             "generalist"
           ]
@@ -1920,12 +1634,24 @@
             "3d_animator",
             "generalist"
           ]
+        },
+        {
+          "title": "Executive Director AMES Foundation at AMES Foundation",
+          "url": "https://careernest.cloud/jobs/executive-director-ames-foundation-ames-foundation-1780418210194",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "AMES is searching for an entrepreneurial generalist with structural discipline. Capable of building institutional processes from scratch, managing across multiple legal entities, and operating with a high degree of autonomy. Genuine connection to the mission is essential. The AMES Executive Director",
+          "score": 2,
+          "specialties": [
+            "generalist"
+          ]
         }
       ]
     },
     {
-      "slug": "texture_surfacing",
-      "label": "Texture / Surfacing",
+      "slug": "vfx_fx",
+      "label": "VFX / FX",
       "job_count": 9,
       "jobs": [
         {
@@ -1940,242 +1666,6 @@
             "3d_animator",
             "technical_artist",
             "rigger",
-            "texture_surfacing",
-            "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Saguni Studio is hiring Technical Artist Shaders - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
-          "score": 8,
-          "specialties": [
-            "technical_artist",
-            "texture_surfacing"
-          ]
-        },
-        {
-          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
-          "score": 7,
-          "specialties": [
-            "texture_surfacing",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
-          "score": 5,
-          "specialties": [
-            "texture_surfacing",
-            "developer"
-          ]
-        },
-        {
-          "title": "I need an 11 second animation of a deer skull",
-          "url": "https://blenderartists.org/t/i-need-an-11-second-animation-of-a-deer-skull/1640611",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi there, I need an 11 second animation of a deer skull (realistic bone texture) stationary in the middle of frame. Over the 11 seconds it begins to grow moss across the skull and bleed slightly from the eyeballs.\nHappy to pay $125-175 for someone with the right portfolio.\nI have an 11 second",
-          "score": 5,
-          "specialties": [
-            "3d_animator",
-            "texture_surfacing"
-          ]
-        },
-        {
-          "title": "Texture Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/texture-artist/job/506056/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 4,
-          "specialties": [
-            "texture_surfacing"
-          ]
-        },
-        {
-          "title": "Texture Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/texture-artist/job/506020/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 4,
-          "specialties": [
-            "texture_surfacing"
-          ]
-        },
-        {
-          "title": "HUMAN RESOURCES ASSTISTANT NF2 at U.S. Marine Corps",
-          "url": "https://careernest.cloud/jobs/human-resources-asstistant-nf2-us-marine-corps-1780350315527",
-          "source": "Career Nest Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "One year experience in an administrative role within a professional office setting. Experience with scheduling appointments, compiling information for audits, preparing information for reports, preparing documents and packets of information for distribution, and maintenance of databases. Knowledge o",
-          "score": 2,
-          "specialties": [
-            "texture_surfacing"
-          ]
-        },
-        {
-          "title": "Information System Security Manager (ISSM) at U.S. Marine Corps",
-          "url": "https://careernest.cloud/jobs/information-system-security-manager-issm-us-marine-corps-1780344845620",
-          "source": "Career Nest Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Bachelor's Degree in Information Technology or Business related field appropriate to the work of position AND three years of experience performing specific tasks for Information System Security Manager (ISSM), security assessments, vulnerability management, or cybersecurity (CY): OR an appropriate c",
-          "score": 2,
-          "specialties": [
-            "texture_surfacing"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "2d_artist",
-      "label": "2D Artist",
-      "job_count": 8,
-      "jobs": [
-        {
-          "title": "Playcademy is hiring a 2D Artist / Visual Designer to work from Austin, TX or United States",
-          "url": "https://www.workwithindies.com/careers/playcademy-2d-artist-visual-designer",
-          "source": "WorkWithIndies",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "We are a well funded, early stage team looking for a versatile 2D art generalist and visual designer to become a key visual owner across Playcademy. Tags: [Art & Animation] [Full Time]",
-          "score": 11,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Snackbar Studio is hiring a Senior 2D Generalist Game Artist (Unity) to work from EU & UK",
-          "url": "https://www.workwithindies.com/careers/snackbar-studio-senior-2d-generalist-game-artist-unity",
-          "source": "WorkWithIndies",
-          "country": "Uk",
-          "region": "us_canada_europe",
-          "description": "We're looking for a 2D Generalist Game Artist to help bring The SnackBar at the End of the World to life.  Tags: [Art & Animation] [Contract]",
-          "score": 10,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Bebo's Dev House is hiring a 2D Artist / Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/bebos-dev-house-2d-artist-animator",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "I am looking for a part-time 2D artist/animator. Location is anywhere. Tags: [Art & Animation] [Freelance]",
-          "score": 9,
-          "specialties": [
-            "2d_artist",
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Coincidence is hiring a 2D Game Artist to work from Redmond, WA",
-          "url": "https://www.workwithindies.com/careers/coincidence-2d-game-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "Coincidence is a small cooperative game studio located in Redmond, WA. We currently have two artists, both 2D generalists, and are looking for a third to join the team. Tags: [Art & Animation] [Contract]",
-          "score": 6,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Panna Cotta Software is hiring a Illustrator / Character Illustrator to work from Canada",
-          "url": "https://www.workwithindies.com/careers/panna-cotta-software-illustrator-character-illustrator",
-          "source": "WorkWithIndies",
-          "country": "Canada",
-          "region": "us_canada_europe",
-          "description": "Panna Cotta Software is seeking a freelance Illustrator / Character Illustrator to produce characters and items for our horror / dark fantasy themed digital card game. Tags: [Art & Animation] [Freelance]",
-          "score": 4,
-          "specialties": [
-            "2d_artist",
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design] [Freelance]",
-          "score": 3,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer",
-          "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-gamdom-1132426",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "We’re looking for a creative and detail-oriented Graphic Designer to join our growing team. You’ll be responsible for creating engaging visuals across digital platforms, including marketing campaigns, social media, branding assets, banners, and product-related materials.This role is ideal for",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Contra: Graphic Designer",
-          "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: San Francisco, CA\n    URL: http://bit.ly/3kLhMdk\n\n\n\n\nAbout Contra Labs\n\n\n\n\n\n\nContra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "vfx_fx",
-      "label": "VFX / FX",
-      "job_count": 8,
-      "jobs": [
-        {
-          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
-          "score": 17,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "rigger",
-            "texture_surfacing",
             "vfx_fx",
             "game_dev"
           ]
@@ -2204,6 +1694,32 @@
           "specialties": [
             "texture_surfacing",
             "vfx_fx"
+          ]
+        },
+        {
+          "title": "VFX Animator - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/vfx-animator/job/519184/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Animator -VFX (All Levels) - ILM London\n\nJob Summary:\n\nPosition ... more ",
+          "score": 6,
+          "specialties": [
+            "3d_animator",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "VFX Executive Producer (Business Development) - Visionary FX",
+          "url": "https://www.entertainmentcareers.net/visionary-fx/vfx-executive-producer-business-development/job/519673/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  OVERVIEW\n\nAs the studio enters a focused growth phase, we are seeking a senior Executive ... more ",
+          "score": 5,
+          "specialties": [
+            "vfx_fx",
+            "production"
           ]
         },
         {
@@ -2244,18 +1760,6 @@
           ]
         },
         {
-          "title": "FX Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/fx-artist/job/506021/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
           "title": "Interested building performance simulation",
           "url": "https://remoteOK.com/remote-jobs/remote-interested-building-performance-simulation-tlk-energy-1132474",
           "source": "Remote OK Dev",
@@ -2272,7 +1776,7 @@
     {
       "slug": "editor",
       "label": "Editor / Post",
-      "job_count": 8,
+      "job_count": 9,
       "jobs": [
         {
           "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
@@ -2286,6 +1790,18 @@
             "3d_animator",
             "editor",
             "game_dev"
+          ]
+        },
+        {
+          "title": "RUNE is hiring a Multimedia Creative (Video Editor) to work from United Kingdom",
+          "url": "https://www.workwithindies.com/careers/rune-multimedia-creative-video-editor",
+          "source": "WorkWithIndies",
+          "country": "United Kingdom",
+          "region": "us_canada_europe",
+          "description": "The Multimedia Creative will be joining RUNE's small but growing team to deliver impactful, high-quality video content and digital assets for indie game developers and publishers. Tags: [Marketing & Community] [Full Time]",
+          "score": 8,
+          "specialties": [
+            "editor"
           ]
         },
         {
@@ -2376,10 +1892,242 @@
       ]
     },
     {
-      "slug": "production",
-      "label": "Production",
+      "slug": "2d_artist",
+      "label": "2D Artist",
       "job_count": 8,
       "jobs": [
+        {
+          "title": "Playcademy is hiring a 2D Artist / Visual Designer to work from Austin, TX or United States",
+          "url": "https://www.workwithindies.com/careers/playcademy-2d-artist-visual-designer",
+          "source": "WorkWithIndies",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "We are a well funded, early stage team looking for a versatile 2D art generalist and visual designer to become a key visual owner across Playcademy. Tags: [Art & Animation] [Full Time]",
+          "score": 11,
+          "specialties": [
+            "2d_artist",
+            "3d_animator",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Snackbar Studio is hiring a Senior 2D Generalist Game Artist (Unity) to work from EU & UK",
+          "url": "https://www.workwithindies.com/careers/snackbar-studio-senior-2d-generalist-game-artist-unity",
+          "source": "WorkWithIndies",
+          "country": "Uk",
+          "region": "us_canada_europe",
+          "description": "We're looking for a 2D Generalist Game Artist to help bring The SnackBar at the End of the World to life.  Tags: [Art & Animation] [Contract]",
+          "score": 10,
+          "specialties": [
+            "2d_artist",
+            "3d_animator",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Bebo's Dev House is hiring a 2D Artist / Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/bebos-dev-house-2d-artist-animator",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I am looking for a part-time 2D artist/animator. Location is anywhere. Tags: [Art & Animation] [Freelance]",
+          "score": 9,
+          "specialties": [
+            "2d_artist",
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Panna Cotta Software is hiring a Illustrator / Character Illustrator to work from Canada",
+          "url": "https://www.workwithindies.com/careers/panna-cotta-software-illustrator-character-illustrator",
+          "source": "WorkWithIndies",
+          "country": "Canada",
+          "region": "us_canada_europe",
+          "description": "Panna Cotta Software is seeking a freelance Illustrator / Character Illustrator to produce characters and items for our horror / dark fantasy themed digital card game. Tags: [Art & Animation] [Freelance]",
+          "score": 4,
+          "specialties": [
+            "2d_artist",
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design] [Freelance]",
+          "score": 3,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Graphic Designer",
+          "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-gamdom-1132426",
+          "source": "Remote OK Dev",
+          "country": "",
+          "region": "remote",
+          "description": "We’re looking for a creative and detail-oriented Graphic Designer to join our growing team. You’ll be responsible for creating engaging visuals across digital platforms, including marketing campaigns, social media, branding assets, banners, and product-related materials.This role is ideal for",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "MailerLite: Graphic Designer",
+          "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: USA\n    URL: https://www.mailerlite.com/company-values\n\n\n\n\n\nMailerLite is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world stay in touch with their customers. Today, we are a team of more than 170 dreamers, adventurers, and",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Contra: Graphic Designer",
+          "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\nHeadquarters: San Francisco, CA\n    URL: http://bit.ly/3kLhMdk\n\n\n\n\nAbout Contra Labs\n\n\n\n\n\n\nContra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "3d_modeler",
+      "label": "3D Modeler",
+      "job_count": 8,
+      "jobs": [
+        {
+          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
+          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
+          "score": 11,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
+          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
+          "score": 10,
+          "specialties": [
+            "3d_modeler",
+            "render"
+          ]
+        },
+        {
+          "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
+          "url": "https://blenderartists.org/t/paid-hiring-solo-blender-modelers-residential-3d-for-three-js/1640125",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "I’m hiring solo junior-to-mid freelancers for real, ongoing paid Blender work at BASE, a residential 3D visualization platform.\nProduction work: low-poly home interiors and exteriors that render in Three.js on the web. Asset-store fixtures OK. Clean shell modeling, spec-driven, fast turnaround. Not",
+          "score": 9,
+          "specialties": [
+            "3d_modeler",
+            "render"
+          ]
+        },
+        {
+          "title": "Bad Source is hiring a 3D Character Modeler to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/bad-source-3d-character-modeler",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I'm an indie developer seeking a modeler to bring our cast of characters from concept art into game-ready 3D. Tags: [Art & Animation] [Freelance]",
+          "score": 8,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator",
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We’re hiring a 3D Artist who’s as comfortable modeling in Blender as they are setting assets up in Unity. Tags: [Art & Animation] [Full Time]",
+          "score": 6,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling",
+          "url": "https://blenderartists.org/t/hiring-a-blender-artist-for-paid-1-1-mentoring-anime-chibi-character-modeling/1641273",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Title: Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling\n\nHi,\nI’m hiring a Blender artist for paid 1:1 mentoring in anime chibi character modeling, from scratch in Blender. Reference style below.\n\n\nType of project: Paid 1:1 mentoring. I learn by doing work and getting",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
+          "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
+          "url": "https://blenderartists.org/t/looking-for-a-paid-1-1-tutor-stylized-3d-character-modeling-blender-kirby-nintendo-style/1641073",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
+          "title": "Animador 3D Ref 25 584",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-ref-25-584",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Animadores 3d , Solo en 3ds Max. Responsabilidades: Animacion 3d Requerimientos excluyentes: Manejo avanzado del software Requerimientos no excluyentes: Edad: 18-60 Lugar de trabajo: Remoto / Argentina Modalidad: Freelance Vacantes: 3 Postulate Aquí Si no tenés tu CV cargado en la nube lo podés",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "production",
+      "label": "Production",
+      "job_count": 7,
+      "jobs": [
+        {
+          "title": "VFX Executive Producer (Business Development) - Visionary FX",
+          "url": "https://www.entertainmentcareers.net/visionary-fx/vfx-executive-producer-business-development/job/519673/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  OVERVIEW\n\nAs the studio enters a focused growth phase, we are seeking a senior Executive ... more ",
+          "score": 5,
+          "specialties": [
+            "vfx_fx",
+            "production"
+          ]
+        },
         {
           "title": "Audio Producer",
           "url": "https://remoteOK.com/remote-jobs/remote-audio-producer-positive-behavior-steps-1132364",
@@ -2412,30 +2160,6 @@
           "country": "Remote",
           "region": "remote",
           "description": "As a Producer, you will take ownership of multiple titles and be responsible for guiding them through to successful release and beyond. Tags: [Production] [Full Time]",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Technical support",
-          "url": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132475",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Project managerAmet risus nullam eget felis eget nunc lobortis mattis aliquam.Apply for this job",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Junior Project Manager",
-          "url": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-haystack-1132350",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "We're hiring on behalf of a Haystack partner!The Role• Analyze and respond to user inquiries for IT-related issues.• Assist with improving project efficiency and effectiveness within an IT support context.• Perform professional technology support tasks including account access requests and",
           "score": 2,
           "specialties": [
             "production"
@@ -2482,7 +2206,7 @@
     {
       "slug": "rigger",
       "label": "Rigger",
-      "job_count": 6,
+      "job_count": 5,
       "jobs": [
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
@@ -2496,7 +2220,6 @@
             "3d_animator",
             "technical_artist",
             "rigger",
-            "texture_surfacing",
             "vfx_fx",
             "game_dev"
           ]
@@ -2540,18 +2263,6 @@
           ]
         },
         {
-          "title": "3D Character Rigger - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/3d-character-rigger/job/506019/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 7,
-          "specialties": [
-            "rigger"
-          ]
-        },
-        {
           "title": "Two Walking cycles male or female",
           "url": "https://blenderartists.org/t/two-walking-cycles-male-or-female/1640278",
           "source": "BlenderArtists Paid Jobs",
@@ -2560,7 +2271,6 @@
           "description": "Hello,\nI need to create two walking cycles (animations and frames) for a medical article. The cycle needs to be highly accurate.\nhttps://www.preprints.org/manuscript/202603.0733\nI’m familiar with Blender, but I must admit I’m a complete novice when it comes to rigging and armatures.\nThe subject can",
           "score": 6,
           "specialties": [
-            "3d_animator",
             "rigger",
             "render"
           ]
@@ -2570,7 +2280,7 @@
     {
       "slug": "concept_artist",
       "label": "Concept Artist",
-      "job_count": 5,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Midain Studios is hiring a 2D Character / Concept Artist to work from Anywhere",
@@ -2582,22 +2292,7 @@
           "score": 12,
           "specialties": [
             "3d_animator",
-            "concept_artist",
-            "developer"
-          ]
-        },
-        {
-          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
-          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
-          "score": 10,
-          "specialties": [
-            "3d_modeler",
-            "concept_artist",
-            "render"
+            "concept_artist"
           ]
         },
         {
@@ -2671,7 +2366,6 @@
           "score": 10,
           "specialties": [
             "3d_modeler",
-            "concept_artist",
             "render"
           ]
         },
@@ -2697,7 +2391,6 @@
           "description": "Hello,\nI need to create two walking cycles (animations and frames) for a medical article. The cycle needs to be highly accurate.\nhttps://www.preprints.org/manuscript/202603.0733\nI’m familiar with Blender, but I must admit I’m a complete novice when it comes to rigging and armatures.\nThe subject can",
           "score": 6,
           "specialties": [
-            "3d_animator",
             "rigger",
             "render"
           ]
@@ -2705,88 +2398,46 @@
       ]
     },
     {
-      "slug": "layout_previs",
-      "label": "Layout / Previs",
+      "slug": "texture_surfacing",
+      "label": "Texture / Surfacing",
       "job_count": 3,
       "jobs": [
         {
-          "title": "Layout Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/layout-artist/job/506029/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 4,
-          "specialties": [
-            "layout_previs"
-          ]
-        },
-        {
-          "title": "Looking for a Level Designer — Low-Poly Map",
-          "url": "https://blenderartists.org/t/looking-for-a-level-designer-low-poly-map/1641045",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Budget: $750 · 20% upfront\nWe need a level designer to build a map/world in Blender.\nThe map must be low-poly style. We have a rough idea of what we want, but we’re relying on your creativity to bring the world to life.\nWhat we need:\n\nLow-poly map/world built in Blender\nGood layout, atmosphere, and",
-          "score": 4,
-          "specialties": [
-            "layout_previs",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Ecommerce",
-          "url": "https://remoteOK.com/remote-jobs/remote-ecommerce-naukripay-group-1132532",
-          "source": "Remote OK Dev",
-          "country": "Uk",
-          "region": "us_canada_europe",
-          "description": "Mail:- info@naukripay.comeCommerce job description defines the strategic, technical, and operational roles required to manage online sales. It covers responsibilities like digital store management, customer journey optimization, inventory tracking, and campaign execution.This versatile template",
-          "score": 2,
-          "specialties": [
-            "layout_previs"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "cad_designer",
-      "label": "CAD / Industrial Design",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "Working student Mechanical Engineering (m/f/d) at Willowprint",
-          "url": "https://careernest.cloud/jobs/working-student-mechanical-engineering-mfd-willowprint-1780335422102",
-          "source": "Career Nest Jobs",
-          "country": "Germany",
-          "region": "us_canada_europe",
-          "description": "Paste Extrusion System Development | Aachen, Germany | Sustainable Tech Start-up We are developing scalable, large-format 3D printing technologies with bio-based materials for the construction and design industry. We are looking for a motivated working student to join our team and contribute to the",
-          "score": 6,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Looking for 3D Printable STL Model of Antique Farm Implement From Photos for Family Reunion Display",
-          "url": "https://blenderartists.org/t/looking-for-3d-printable-stl-model-of-antique-farm-implement-from-photos-for-family-reunion-display/1642453",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hello,\nI am kinda new to 3D printing, I am pretty fluent in assembling parts when needed. My background is in industrial mechanical. I am looking to eventually be able commission work like this in gthe future. I am working on a library of work. I need to print a table top piece for a family",
-          "score": 4,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Thatgamecompany is hiring UI Technical Designer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/thatgamecompany-ui-technical-designer-remote-job",
+          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
           "source": "Remote Game Jobs",
           "country": "Remote",
           "region": "remote",
-          "description": "At thatgamecompany, we strive to create beautiful and intuitive UI, which embraces and contributes to the emotional experiences of our games. Our company is known for having a distinct perspective on what games can be, and crafting unique experiences that players can’t find elsewhere as a result;",
-          "score": 3,
+          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
+          "score": 7,
           "specialties": [
-            "cad_designer"
+            "texture_surfacing",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
+          "score": 5,
+          "specialties": [
+            "texture_surfacing"
+          ]
+        },
+        {
+          "title": "I need an 11 second animation of a deer skull",
+          "url": "https://blenderartists.org/t/i-need-an-11-second-animation-of-a-deer-skull/1640611",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi there, I need an 11 second animation of a deer skull (realistic bone texture) stationary in the middle of frame. Over the 11 seconds it begins to grow moss across the skull and bleed slightly from the eyeballs.\nHappy to pay $125-175 for someone with the right portfolio.\nI have an 11 second",
+          "score": 5,
+          "specialties": [
+            "3d_animator",
+            "texture_surfacing"
           ]
         }
       ]
@@ -2835,6 +2486,101 @@
       ]
     },
     {
+      "slug": "compositor",
+      "label": "Compositor",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "Clickteam is hiring a C++ Cross Platform Programmer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/clickteam-c-cross-platform-programmer",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Clickteam is looking for a motivated candidate to join its programming team with a focus on our flagship product Clickteam Fusion. Tags: [Programming] [Contract]",
+          "score": 6,
+          "specialties": [
+            "compositor",
+            "developer"
+          ]
+        },
+        {
+          "title": "Compositor - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/compositor/job/521937/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Les Films Sony Imageworks Québec Inc.\n\n700 Rue Saint-Hubert, Suite 400, Montreal ... more ",
+          "score": 5,
+          "specialties": [
+            "compositor"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "layout_previs",
+      "label": "Layout / Previs",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "Looking for a Level Designer — Low-Poly Map",
+          "url": "https://blenderartists.org/t/looking-for-a-level-designer-low-poly-map/1641045",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Budget: $750 · 20% upfront\nWe need a level designer to build a map/world in Blender.\nThe map must be low-poly style. We have a rough idea of what we want, but we’re relying on your creativity to bring the world to life.\nWhat we need:\n\nLow-poly map/world built in Blender\nGood layout, atmosphere, and",
+          "score": 4,
+          "specialties": [
+            "layout_previs",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Ecommerce",
+          "url": "https://remoteOK.com/remote-jobs/remote-ecommerce-naukripay-group-1132532",
+          "source": "Remote OK Dev",
+          "country": "Uk",
+          "region": "us_canada_europe",
+          "description": "Mail:- info@naukripay.comeCommerce job description defines the strategic, technical, and operational roles required to manage online sales. It covers responsibilities like digital store management, customer journey optimization, inventory tracking, and campaign execution.This versatile template",
+          "score": 2,
+          "specialties": [
+            "layout_previs"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cad_designer",
+      "label": "CAD / Industrial Design",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "Looking for 3D Printable STL Model of Antique Farm Implement From Photos for Family Reunion Display",
+          "url": "https://blenderartists.org/t/looking-for-3d-printable-stl-model-of-antique-farm-implement-from-photos-for-family-reunion-display/1642453",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hello,\nI am kinda new to 3D printing, I am pretty fluent in assembling parts when needed. My background is in industrial mechanical. I am looking to eventually be able commission work like this in gthe future. I am working on a library of work. I need to print a table top piece for a family",
+          "score": 4,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Thatgamecompany is hiring UI Technical Designer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/thatgamecompany-ui-technical-designer-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "At thatgamecompany, we strive to create beautiful and intuitive UI, which embraces and contributes to the emotional experiences of our games. Our company is known for having a distinct perspective on what games can be, and crafting unique experiences that players can’t find elsewhere as a result;",
+          "score": 3,
+          "specialties": [
+            "cad_designer"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "audio_composer",
       "label": "Music / Audio",
       "job_count": 2,
@@ -2867,29 +2613,9 @@
       ]
     },
     {
-      "slug": "compositor",
-      "label": "Compositor",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "Clickteam is hiring a C++ Cross Platform Programmer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/clickteam-c-cross-platform-programmer",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Clickteam is looking for a motivated candidate to join its programming team with a focus on our flagship product Clickteam Fusion. Tags: [Programming] [Contract]",
-          "score": 6,
-          "specialties": [
-            "compositor",
-            "developer"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "video_production",
       "label": "Video Production",
-      "job_count": 1,
+      "job_count": 2,
       "jobs": [
         {
           "title": "XM: Turkish-Speaking Video & Motion Graphics Designer",
@@ -2903,6 +2629,18 @@
             "editor",
             "video_production"
           ]
+        },
+        {
+          "title": "Danish Social Media Working Student (m/f/d) at KoRo Handels GmbH",
+          "url": "https://careernest.cloud/jobs/danish-social-media-working-student-mfd-koro-handels-gmbh-1780414575780",
+          "source": "Career Nest Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Deine Aufgaben Are you passionate about social media and excited to create engaging content? We are looking for an open, energetic Danish Social Media Working Student to help bring our brand to life across our channels! If you love food trends, are comfortable showing your face on camera, and thrive",
+          "score": 2,
+          "specialties": [
+            "video_production"
+          ]
         }
       ]
     },
@@ -2912,42 +2650,42 @@
       "job_count": 4,
       "jobs": [
         {
+          "title": "Lighting Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/lighting-artist/job/521938/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Les Films Sony Imageworks Quebec Inc.\n\n700 Rue Saint-Hubert, Suite 400, Montreal ... more ",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "CG Supervisor - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/cg-supervisor/job/521900/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nWe are seeking a CG Supervisor with the innovative ... more ",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Unreal Engine Artist - Pixomondo",
+          "url": "https://www.entertainmentcareers.net/pixomondo/unreal-engine-artist/job/519414/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Unreal Artist (Applicants must hold KSA citizenship)\n\nWhat you'll be doing. \n• Work collaboratively ... more ",
+          "score": 0,
+          "specialties": []
+        },
+        {
           "title": "Media Engineer Associate - Sony Imageworks",
           "url": "https://www.entertainmentcareers.net/sony-imageworks/media-engineer-associate/job/521848/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
           "region": "remote",
           "description": "pls RT ECNIDRSS @entcareersnet  Indigenous Land Acknowledgement\n\nJob Summary\nAs an Associate Media Engineer, ... more ",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Lighting Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/lighting-artist/job/506030/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Matte Painter - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/matte-painter/job/506001/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Lighting Specialist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/lighting-specialist/job/506000/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
           "score": 0,
           "specialties": []
         }

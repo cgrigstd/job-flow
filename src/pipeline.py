@@ -1,3 +1,4 @@
+import re
 from datetime import datetime, timedelta
 from collections import defaultdict
 
@@ -22,6 +23,9 @@ from src.scrapers.imagecampus import scrape_imagecampus
 EXCLUDED_TERMS = {"unpaid", "volunteer"}
 
 FLAT_KEYWORDS = {kw for spec in SPECIALTIES for kw in spec.keywords}
+FLAT_PATTERN = re.compile(
+    rf'\b(?:{"|".join(re.escape(kw) for kw in FLAT_KEYWORDS)})\b'
+)
 
 
 def _is_excluded(content: str) -> bool:
@@ -30,7 +34,7 @@ def _is_excluded(content: str) -> bool:
 
 def _is_relevant(title: str, description: str) -> bool:
     content = (title + " " + description).lower()
-    return any(kw in content for kw in FLAT_KEYWORDS)
+    return bool(FLAT_PATTERN.search(content))
 
 
 def _build_output_specialties(specialty_map: dict[str, list[Job]]) -> list[dict]:
