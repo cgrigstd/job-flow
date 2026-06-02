@@ -1,4 +1,4 @@
-LIMIT_DAYS = 7
+LIMIT_DAYS = 30
 MAX_JOBS_PER_SPECIALTY = 50
 
 FEEDS = [
@@ -11,6 +11,7 @@ FEEDS = [
     ("BlenderArtists Paid Jobs", "https://blenderartists.org/c/jobs/paid-work/53.rss"),
     ("We Work Remotely Programming", "https://weworkremotely.com/categories/remote-programming-jobs.rss"),
     ("We Work Remotely Design", "https://weworkremotely.com/categories/remote-design-jobs.rss"),
+    ("Career Nest Jobs", "https://careernest.cloud/api/feed.xml"),
 ]
 
 ARC_DEV_URL = "https://arc.dev/en-ar/remote-jobs"

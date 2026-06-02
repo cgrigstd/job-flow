@@ -13,11 +13,6 @@ SPECIALTIES: list[Specialty] = [
         "2d generalist", "motion graphics artist", "vector artist",
         "2d asset", "2d designer", "2d illustrator",
     ]),
-    Specialty("2d_animator", "2D Animator", [
-        "2d animator", "traditional animator", "frame by frame",
-        "flash animator", "toon boom", "2d animation", "cel animation",
-        "2d character animator", "moho", "tvpaint",
-    ]),
     Specialty("3d_modeler", "3D Modeler", [
         "3d modeler", "3d modeling", "modeler", "modeling",
         "poly modeling", "zbrush", "sculpting", "sculpt artist",
@@ -54,11 +49,6 @@ SPECIALTIES: list[Specialty] = [
         "texture artist", "texturing artist",
         "mari", "shading", "material artist",
     ]),
-    Specialty("lighting", "Lighting", [
-        "lighting", "lighting artist", "lighting td",
-        "look development", "look dev", "light artist",
-        "lighting supervisor",
-    ]),
     Specialty("compositor", "Compositor", [
         "compositing", "compositor", "nuke", "fusion",
         "after effects", "compositing artist",
@@ -93,10 +83,6 @@ SPECIALTIES: list[Specialty] = [
         "colorist", "online editor",
         "premiere", "final cut", "da vinci", "motion graphics",
     ]),
-    Specialty("pipeline_td", "Pipeline TD", [
-        "pipeline td", "pipeline developer", "cg supervisor",
-        "pipeline engineer", "pipeline supervisor", "cg pipeline",
-    ]),
     Specialty("generalist", "Generalist", [
         "generalist", "generalista", "3d generalist",
         "cg generalist", "art generalist", "3d artist",
@@ -113,10 +99,6 @@ SPECIALTIES: list[Specialty] = [
         "gameplay programmer", "engine programmer",
         "level designer", "game engineer",
         "vr", "ar developer",
-    ]),
-    Specialty("art_director", "Art Director", [
-        "art director", "creative director", "art direction",
-        "art supervisor", "director of art",
     ]),
     Specialty("developer", "Developer / Programmer", [
         "software developer", "software engineer", "programmer",
@@ -160,14 +142,6 @@ SPECIALTIES: list[Specialty] = [
         "game audio", "audio programmer",
         "sound design", "sound effects",
         "compositor musical", "music composer",
-    ]),
-    Specialty("voice_actor", "Voice Acting / Dubbing", [
-        "voice actor", "voice over", "dubbing",
-        "doblaje", "locucion", "locutor",
-        "voice artist", "narration", "narrador",
-        "voice talent", "actor de doblaje",
-        "doblador", "actuacion de voz",
-        "locución", "doblaje",
     ]),
     Specialty("writer", "Writing / Content", [
         "writer", "copywriter", "content writer",
