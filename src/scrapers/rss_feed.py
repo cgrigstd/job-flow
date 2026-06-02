@@ -1,21 +1,21 @@
 import feedparser
-import urllib.request
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
 from src.models import Job
 from src.utils.html_utils import clean_html, truncate_description, detect_country
+from src.config import DEFAULT_USER_AGENT, DEFAULT_TIMEOUT
 
 
 def _parse_rss(url: str):
-    headers = {"User-Agent": "Mozilla/5.0"}
-    req = urllib.request.Request(url, headers=headers)
-
-    with urllib.request.urlopen(req, timeout=10) as response:
-        data = response.read()
-
-    return feedparser.parse(data)
+    resp = requests.get(
+        url,
+        headers={"User-Agent": DEFAULT_USER_AGENT},
+        timeout=DEFAULT_TIMEOUT,
+    )
+    resp.raise_for_status()
+    return feedparser.parse(resp.content)
 
 
 def scrape_rss_feed(
@@ -74,8 +74,8 @@ def scrape_entertainment_careers_fallback(
     try:
         html = requests.get(
             url,
-            headers={"User-Agent": "Mozilla/5.0"},
-            timeout=10,
+            headers={"User-Agent": DEFAULT_USER_AGENT},
+            timeout=DEFAULT_TIMEOUT,
         ).text
         soup = BeautifulSoup(html, "html.parser")
     except Exception:

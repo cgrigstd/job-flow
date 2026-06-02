@@ -1,6 +1,9 @@
 LIMIT_DAYS = 30
 MAX_JOBS_PER_SPECIALTY = 50
 
+DEFAULT_USER_AGENT = "Mozilla/5.0"
+DEFAULT_TIMEOUT = 10
+
 FEEDS = [
     ("Entertainment Careers", "https://www.entertainmentcareers.net/ecnjcat173"),
     ("WorkWithIndies", "https://www.workwithindies.com/careers/rss.xml"),

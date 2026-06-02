@@ -1,10 +1,10 @@
-import requests
 from bs4 import BeautifulSoup
 
 from src.models import Job
 from src.config import IMAGE_CAMPUS_SEARCH_TERMS
 from src.utils.html_utils import (
     clean_imagecampus_description,
+    fetch_page,
     is_job_covered,
     truncate_description,
 )
@@ -16,16 +16,11 @@ def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
 
     for keyword in IMAGE_CAMPUS_SEARCH_TERMS:
         url = f"https://www.imagecampus.edu.ar/?s={keyword}&post_type%5B%5D=empleos"
-
-        try:
-            response = requests.get(
-                url,
-                headers={"User-Agent": "Mozilla/5.0"},
-                timeout=10,
-            )
-            soup = BeautifulSoup(response.text, "html.parser")
-        except Exception:
+        html = fetch_page(url)
+        if not html:
             continue
+
+        soup = BeautifulSoup(html, "html.parser")
 
         for link in soup.select("a"):
             href = link.get("href")
@@ -46,23 +41,14 @@ def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
             title = slug.replace("-", " ").title()
             description = ""
 
-            try:
-                job_page = requests.get(
-                    href,
-                    headers={"User-Agent": "Mozilla/5.0"},
-                    timeout=10,
-                )
-
-                if is_job_covered(job_page.text):
+            job_html = fetch_page(href)
+            if job_html:
+                if is_job_covered(job_html):
                     continue
-
-                soup_job = BeautifulSoup(job_page.text, "html.parser")
+                soup_job = BeautifulSoup(job_html, "html.parser")
                 raw_text = soup_job.get_text(" ", strip=True)
                 description = clean_imagecampus_description(raw_text)
                 description = truncate_description(description)
-
-            except Exception:
-                pass
 
             job = Job(
                 title=title,

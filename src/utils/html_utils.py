@@ -1,6 +1,22 @@
 import warnings
 
+import requests
 from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
+
+from src.config import DEFAULT_TIMEOUT, DEFAULT_USER_AGENT
+
+
+def fetch_page(url: str) -> str | None:
+    try:
+        resp = requests.get(
+            url,
+            headers={"User-Agent": DEFAULT_USER_AGENT},
+            timeout=DEFAULT_TIMEOUT,
+        )
+        resp.raise_for_status()
+        return resp.text
+    except Exception:
+        return None
 
 
 warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)

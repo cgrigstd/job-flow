@@ -1,18 +1,13 @@
 {
   "title": "JobFlow",
-  "updated": "2026-06-01 22:10",
-  "total_jobs": 189,
+  "updated": "2026-06-01 23:15",
+  "total_jobs": 190,
   "filters": {
     "regions": [
       "latin_america",
       "remote",
       "us_canada_europe"
     ],
-    "region_labels": {
-      "latin_america": "Latinoamérica",
-      "remote": "Remoto",
-      "us_canada_europe": "US / Canadá / Europa"
-    },
     "specialties": [
       "2d_artist",
       "3d_modeler",
@@ -632,6 +627,18 @@
           ]
         },
         {
+          "title": "Data Engineer Remote at Cyrantos",
+          "url": "https://careernest.cloud/jobs/data-engineer-remote-cyrantos-1780364687688",
+          "source": "Career Nest Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Full-time Software Development role at Cyrantos. Location: Kraków, małopolskie. Updated today. Check requirements and apply online free.",
+          "score": 3,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
           "title": "Senior Full-Stack AI Engineer (Python, Supabase) - FT - Worldwide",
           "url": "https://arc.dev/remote-jobs/details/senior-full-stack-ai-engineer-python-supabase-ft-worldwide-otriujq3qv",
           "source": "ArcDev",
@@ -674,18 +681,6 @@
           "country": "United States",
           "region": "us_canada_europe",
           "description": "We are looking for an engineer to help maintain our technical infrastructure, from the physical hardware maintenance of workstations and on-premises servers to the implementation of build pipelines. Tags: [Programming] [Full Time]",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Especialista En Marketing Digital Y Gestión De Contenidos",
-          "url": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132665",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Canarias.combusca incorporar una persona con visión estratégica, experiencia real y capacidad de crecimiento para desarrollar uno de los dominios turísticos más potentes de Canarias.Perfil Que Buscamos Capacidad de redacción profesional y creativa Experiencia demostrable en marketing digital",
           "score": 2,
           "specialties": [
             "developer"
@@ -1751,7 +1746,7 @@
           "source": "ImageCampus",
           "country": "Argentina",
           "region": "latin_america",
-          "description": "",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil de lider de equipos, proactiva y organizada; para coordinar diferentes equipos de trabajo en las áreas de modelado 3D y texturizado de assets e",
           "score": 7,
           "specialties": [
             "generalist"
@@ -1763,7 +1758,7 @@
           "source": "ImageCampus",
           "country": "Argentina",
           "region": "latin_america",
-          "description": "",
+          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con muy buen manejo de herramientas de modelado 3D, principalmente en el área de arquitectura y entornos digitales. Responsabilidades: • Modelado de objetos,",
           "score": 7,
           "specialties": [
             "generalist"
@@ -1881,7 +1876,7 @@
           "source": "ImageCampus",
           "country": "Argentina",
           "region": "latin_america",
-          "description": "",
+          "description": "SmartPixel is a Quebec-based SME with close to 30 employees, specializing in the development of interactive digital experiences to help companies communicate more effectively and showcase their products and offerings in a fun and innovative way. SmartPixel’s niche market is new residential real",
           "score": 2,
           "specialties": [
             "generalist"
@@ -1897,6 +1892,196 @@
           "score": 2,
           "specialties": [
             "generalist"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vfx_fx",
+      "label": "VFX / FX",
+      "job_count": 14,
+      "jobs": [
+        {
+          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
+          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
+          "score": 17,
+          "specialties": [
+            "3d_animator",
+            "technical_artist",
+            "rigger",
+            "texture_surfacing",
+            "vfx_fx",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 11,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
+          "score": 11,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx",
+            "developer"
+          ]
+        },
+        {
+          "title": "Compositor De Nuke Jr Mid Sr Ref 23 562",
+          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-de-nuke-jr-mid-sr-ref-23-562",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Nebraska Vfx busca compositores con conocimientos en nuke para diversos proyectos de publicidad y cine. Responsabilidades: - Requerimientos excluyentes: - Manejo de herramientas de composición nodal (Nuke). - Conocimiento de herramientas de trackeo y rotoscopía-Manejo de herramientas de composición",
+          "score": 10,
+          "specialties": [
+            "compositor",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
+          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
+          "score": 9,
+          "specialties": [
+            "vfx_fx",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Vfx Artist Ref 23 553",
+          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
+          "score": 8,
+          "specialties": [
+            "compositor",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Happy Cauldron Games is hiring a Senior Unity VFX Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Happy Cauldron Games is seeking a freelance Senior Unity VFX Artist to create player ability VFX for Fractured: Conquest. Tags: [Art & Animation] [Freelance]",
+          "score": 7,
+          "specialties": [
+            "3d_animator",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
+          "score": 7,
+          "specialties": [
+            "texture_surfacing",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "[Hiring] VFX artist for short horror film",
+          "url": "https://blenderartists.org/t/hiring-vfx-artist-for-short-horror-film/1643014",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hello! I am in the midst of editing a 14 min short that I am self-funding. I have a very low budget but will definitely pay something that I hope is reasonable. If there’s anyone interested in starting a portfolio - I’m mostly looking for touch-ups on SFX, and 2-3 standalone effects - please",
+          "score": 5,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Visual Effects Coordinator - NBCUniversal",
+          "url": "https://www.entertainmentcareers.net/nbcuniversal/visual-effects-coordinator/job/521600/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  The VFX Coordinator position will manage the day-to-day administrative functions for the SVP of Visual ... more ",
+          "score": 4,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "11 Dot Studio is hiring a Pixel Artist to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/11-dot-studio-pixel-artist",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "11 Dot Studio is seeking a Pixel Artist for a cozy life simulation, cafe management game. Tags: [Art & Animation] [Contract]",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "FX Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/fx-artist/job/506021/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Interested building performance simulation",
+          "url": "https://remoteOK.com/remote-jobs/remote-interested-building-performance-simulation-tlk-energy-1132474",
+          "source": "Remote OK Dev",
+          "country": "",
+          "region": "remote",
+          "description": "Gemeinsam die Gebäude von morgen gestalten.Wir bei SBC.sim sind ein junges, innovatives Unternehmen mit Fokus auf die Simulation von Gebäudeenergiesystemen.Unser Ziel: Mit modernsten Methoden und Tools die Gebäudetechnik von morgen mitgestalten – nah an der Forschung, mitten in der Praxis.",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Artista Vfx Ref 22 495",
+          "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes - Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
           ]
         }
       ]
@@ -2077,184 +2262,6 @@
           "score": 2,
           "specialties": [
             "technical_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "vfx_fx",
-      "label": "VFX / FX",
-      "job_count": 13,
-      "jobs": [
-        {
-          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
-          "score": 17,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "rigger",
-            "texture_surfacing",
-            "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "3D Vfx Technical Artist Ref 24 572",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
-          "score": 11,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Technical Artist Vfx Artist Ref 20 406",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
-          "score": 11,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx",
-            "developer"
-          ]
-        },
-        {
-          "title": "Compositor De Nuke Jr Mid Sr Ref 23 562",
-          "url": "https://www.imagecampus.edu.ar/busqueda/compositor-de-nuke-jr-mid-sr-ref-23-562",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Nebraska Vfx busca compositores con conocimientos en nuke para diversos proyectos de publicidad y cine. Responsabilidades: - Requerimientos excluyentes: - Manejo de herramientas de composición nodal (Nuke). - Conocimiento de herramientas de trackeo y rotoscopía-Manejo de herramientas de composición",
-          "score": 10,
-          "specialties": [
-            "compositor",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
-          "score": 9,
-          "specialties": [
-            "vfx_fx",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Vfx Artist Ref 23 553",
-          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
-          "score": 8,
-          "specialties": [
-            "compositor",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Happy Cauldron Games is hiring a Senior Unity VFX Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Happy Cauldron Games is seeking a freelance Senior Unity VFX Artist to create player ability VFX for Fractured: Conquest. Tags: [Art & Animation] [Freelance]",
-          "score": 7,
-          "specialties": [
-            "3d_animator",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
-          "score": 7,
-          "specialties": [
-            "texture_surfacing",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Visual Effects Coordinator - NBCUniversal",
-          "url": "https://www.entertainmentcareers.net/nbcuniversal/visual-effects-coordinator/job/521600/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  The VFX Coordinator position will manage the day-to-day administrative functions for the SVP of Visual ... more ",
-          "score": 4,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "11 Dot Studio is hiring a Pixel Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/11-dot-studio-pixel-artist",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "11 Dot Studio is seeking a Pixel Artist for a cozy life simulation, cafe management game. Tags: [Art & Animation] [Contract]",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "FX Artist - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/fx-artist/job/506021/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  1285 W Pender St Vancouver, BC V6E 4B1\n\nProject based, Full Time\n\nLanguage ... more ",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Interested building performance simulation",
-          "url": "https://remoteOK.com/remote-jobs/remote-interested-building-performance-simulation-tlk-energy-1132474",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Gemeinsam die Gebäude von morgen gestalten.Wir bei SBC.sim sind ein junges, innovatives Unternehmen mit Fokus auf die Simulation von Gebäudeenergiesystemen.Unser Ziel: Mit modernsten Methoden und Tools die Gebäudetechnik von morgen mitgestalten – nah an der Forschung, mitten in der Praxis.",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Artista Vfx Ref 22 495",
-          "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes - Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
           ]
         }
       ]

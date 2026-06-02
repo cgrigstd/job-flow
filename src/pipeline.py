@@ -112,20 +112,12 @@ def search_jobs():
 
     regions_in_use = sorted({j.region for j in valid_jobs if j.region})
 
-    region_labels = {
-        "latin_america": "Latinoamérica",
-        "remote": "Remoto",
-        "us_canada_europe": "US / Canadá / Europa",
-        "other": "Otros",
-    }
-
     return {
         "title": "JobFlow",
         "updated": now.strftime("%Y-%m-%d %H:%M"),
         "total_jobs": total_unique,
         "filters": {
             "regions": regions_in_use,
-            "region_labels": {r: region_labels.get(r, r) for r in regions_in_use},
             "specialties": [s.slug for s in SPECIALTIES],
             "specialty_labels": {s.slug: s.label for s in SPECIALTIES},
         },

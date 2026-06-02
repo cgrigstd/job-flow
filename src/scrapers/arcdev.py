@@ -1,22 +1,16 @@
-import requests
 from bs4 import BeautifulSoup
 
 from src.models import Job
-from src.utils.html_utils import detect_country
+from src.utils.html_utils import detect_country, fetch_page
 from src.config import ARC_DEV_URL
 
 
 def scrape_arcdev(seen_urls: set[str]) -> list[Job]:
-    try:
-        response = requests.get(
-            ARC_DEV_URL,
-            headers={"User-Agent": "Mozilla/5.0"},
-            timeout=10,
-        )
-        soup = BeautifulSoup(response.text, "html.parser")
-    except Exception:
+    html = fetch_page(ARC_DEV_URL)
+    if not html:
         return []
 
+    soup = BeautifulSoup(html, "html.parser")
     jobs: list[Job] = []
 
     for link in soup.select("a"):
