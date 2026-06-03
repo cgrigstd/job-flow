@@ -57,23 +57,39 @@ def _build_search_terms() -> list[str]:
     return terms[:_MAX_SEARCH_TERMS]
 
 
-def _parse_job_detail(href: str) -> tuple[str, str]:
+def _parse_job_detail(href: str) -> tuple[str, str, str]:
     slug = href.split("/")[-1]
     title = slug.replace("-", " ").title()
     description = ""
+    workplace = ""
 
     job_html = _cached_fetch(href)
     if not job_html:
-        return title, description
+        return title, description, workplace
 
     if is_job_covered(job_html):
-        return "", ""
+        return "", "", ""
 
     soup_job = BeautifulSoup(job_html, "html.parser")
     raw_text = soup_job.get_text(" ", strip=True)
+
+    workplace = _extract_workplace(raw_text)
     description = clean_imagecampus_description(raw_text)
     description = truncate_description(description)
-    return title, description
+    return title, description, workplace
+
+
+def _extract_workplace(text: str) -> str:
+    import re
+    m = re.search(
+        r'Lugar\s+de\s+trabajo\s*:\s*(remoto|presencial|híbrido|hibrido)',
+        text,
+        re.IGNORECASE,
+    )
+    if m:
+        val = m.group(1).lower()
+        return {"remoto": "remote", "presencial": "onsite", "híbrido": "hybrid", "hibrido": "hybrid"}.get(val, val)
+    return ""
 
 
 def _collect_all_urls() -> list[str]:
@@ -107,7 +123,7 @@ def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
             continue
         seen_urls.add(href)
 
-        title, description = _parse_job_detail(href)
+        title, description, workplace = _parse_job_detail(href)
         if not title:
             continue
 
@@ -117,6 +133,7 @@ def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
             source="ImageCampus",
             country="Argentina",
             description=description,
+            workplace=workplace,
         )
         jobs.append(job)
 
