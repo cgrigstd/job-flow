@@ -67,7 +67,7 @@ def _parse_job_detail(href: str) -> tuple[str, str]:
         return title, description
 
     if is_job_covered(job_html):
-        return title, description
+        return "", ""
 
     soup_job = BeautifulSoup(job_html, "html.parser")
     raw_text = soup_job.get_text(" ", strip=True)
