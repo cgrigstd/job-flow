@@ -15,6 +15,8 @@ FEEDS = [
     ("We Work Remotely Programming", "https://weworkremotely.com/categories/remote-programming-jobs.rss"),
     ("We Work Remotely Design", "https://weworkremotely.com/categories/remote-design-jobs.rss"),
     ("Career Nest Jobs", "https://careernest.cloud/api/feed.xml"),
+    ("Behance Jobs", "https://www.behance.net/feeds/jobs"),
+    ("Dribbble Jobs", "https://dribbble.com/jobs.rss"),
 ]
 
 ARC_DEV_URL = "https://arc.dev/en-ar/remote-jobs"

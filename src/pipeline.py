@@ -18,6 +18,7 @@ from src.scrapers.rss_feed import (
 )
 from src.scrapers.arcdev import scrape_arcdev
 from src.scrapers.imagecampus import scrape_imagecampus
+from src.scrapers.computrabajo import scrape_computrabajo
 
 
 EXCLUDED_TERMS = {"unpaid", "volunteer"}
@@ -85,6 +86,7 @@ def search_jobs():
 
     all_jobs.extend(scrape_arcdev(seen_urls))
     all_jobs.extend(scrape_imagecampus(seen_urls))
+    all_jobs.extend(scrape_computrabajo(seen_urls))
 
     valid_jobs: list[Job] = []
 
