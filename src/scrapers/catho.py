@@ -10,12 +10,12 @@ from src.utils.html_utils import fetch_page, truncate_description
 _CATHO_DOMAIN = "www.catho.com.br"
 
 _SEARCH_TERMS = [
-    "animacao 3d", "design grafico", "desenvolvedor", "video edicao",
-    "modelagem 3d", "game developer", "ilustrador", "multimedia",
-    "designer", "programador",
+    "animacao 3d", "modelagem 3d", "animador 3d",
+    "game", "unreal", "unity", "vfx",
+    "ilustrador", "designer grafico", "video edicao",
 ]
 
-_MAX_SEARCH_TERMS = 3
+_MAX_SEARCH_TERMS = 5
 _MAX_JOBS = 100
 
 

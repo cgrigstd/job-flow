@@ -11,12 +11,12 @@ _ELEMPLEO_DOMAIN = "www.elempleo.com"
 _ELEMPLEO_COUNTRY = "co"
 
 _SEARCH_TERMS = [
-    "animacion 3d", "diseño grafico", "desarrollador", "edicion video",
-    "modelado 3d", "game developer", "ilustrador", "multimedia",
-    "programador", "audiovisual",
+    "animacion 3d", "modelado 3d", "game developer",
+    "vfx", "rigging", "blender", "unreal", "unity",
+    "animador", "videojuegos",
 ]
 
-_MAX_SEARCH_TERMS = 3
+_MAX_SEARCH_TERMS = 5
 _MAX_JOBS = 80
 
 

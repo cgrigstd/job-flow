@@ -15,12 +15,12 @@ _COUNTRY_DOMAINS = [
 ]
 
 _SEARCH_TERMS = [
-    "animacion 3d", "modelado 3d", "diseño grafico", "desarrollador",
-    "video edicion", "game developer", "unity", "diseño industrial",
-    "multimedia", "ilustrador",
+    "animacion 3d", "modelado 3d", "diseñador 3d",
+    "game developer", "rigging", "unity", "unreal",
+    "diseño grafico", "multimedia", "vfx",
 ]
 
-_MAX_SEARCH_TERMS = 3
+_MAX_SEARCH_TERMS = 4
 _MAX_JOBS_PER_DOMAIN = 80
 
 
