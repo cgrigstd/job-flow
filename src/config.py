@@ -1,7 +1,7 @@
 LIMIT_DAYS = 30
-MAX_JOBS_PER_SPECIALTY = 50
+MAX_JOBS_PER_SPECIALTY = 100
 
-DEFAULT_USER_AGENT = "Mozilla/5.0"
+DEFAULT_USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
 DEFAULT_TIMEOUT = 10
 
 FEEDS = [
@@ -21,7 +21,7 @@ FEEDS = [
 
 ARC_DEV_URL = "https://arc.dev/en-ar/remote-jobs"
 
-BYPASS_SOURCES = {"Entertainment Careers"}
+BYPASS_SOURCES = {"Entertainment Careers", "Catho", "Elempleo"}
 
 IMAGE_CAMPUS_SEARCH_TERMS = [
     "3d", "vfx", "blender", "maya", "houdini",

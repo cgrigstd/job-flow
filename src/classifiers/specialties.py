@@ -13,6 +13,7 @@ SPECIALTIES: list[Specialty] = [
         "2d artist", "2d designer", "illustrator", "graphic designer",
         "2d generalist", "motion graphics artist", "vector artist",
         "2d asset", "2d designer", "2d illustrator",
+        "design grafico", "designer grafico", "diseno grafico",
     ]),
     Specialty("3d_modeler", "3D Modeler", [
         "3d modeler", "3d modeling", "modeler", "modeling",
@@ -110,6 +111,7 @@ SPECIALTIES: list[Specialty] = [
         "mobile developer", "ios", "android", "flutter",
         "react native", "api developer", "software architect",
         "desarrollador", "programador", "ingeniero de software",
+        "desenvolvedor",
         "dotnet", ".net", "php", "ruby", "sql", "docker",
         "kubernetes", "aws", "azure", "backend developer",
         "frontend developer", "fullstack",
@@ -131,6 +133,7 @@ SPECIALTIES: list[Specialty] = [
         "diseñador industrial", "diseñador mecanico",
         "ingenieria inversa", "reverse engineering",
         "modelado 3d industrial", "industrial 3d",
+        "projetista", "projetista mecanico", "projetista 3d",
     ]),
     Specialty("audio_composer", "Music / Audio", [
         "composer", "music producer",

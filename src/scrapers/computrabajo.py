@@ -12,17 +12,16 @@ _COUNTRY_DOMAINS = [
     ("Mexico", "www.computrabajo.com.mx"),
     ("Argentina", "www.computrabajo.com.ar"),
     ("Colombia", "www.computrabajo.com.co"),
-    ("Chile", "www.computrabajo.cl"),
-    ("Peru", "www.computrabajo.com.pe"),
 ]
 
 _SEARCH_TERMS = [
-    "3d", "animacion", "diseño", "desarrollador", "programador",
-    "video", "ilustrador", "modelado", "audiovisual", "software",
+    "animacion 3d", "modelado 3d", "diseño grafico", "desarrollador",
+    "video edicion", "game developer", "unity", "diseño industrial",
+    "multimedia", "ilustrador",
 ]
 
-_MAX_SEARCH_TERMS = 5
-_MAX_JOBS_PER_DOMAIN = 60
+_MAX_SEARCH_TERMS = 3
+_MAX_JOBS_PER_DOMAIN = 80
 
 
 def _extract_search_results(html: str, domain: str) -> list[dict]:
