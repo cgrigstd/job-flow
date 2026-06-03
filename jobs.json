@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-06-02 23:33",
-  "total_jobs": 293,
+  "updated": "2026-06-03 02:50",
+  "total_jobs": 222,
   "filters": {
     "regions": [
       "latin_america",
@@ -57,8 +57,22 @@
     {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 49,
+      "job_count": 48,
       "jobs": [
+        {
+          "title": "[PAID][REMOTE] Motioncapture Post Production Animator",
+          "url": "https://polycount.com/discussion/238614/paid-remote-motioncapture-post-production-animator",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mercurial Dance are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR®Your RoleAs part of our asset creation process, we are creating a custom movement library for our new title EmbodyXR® which includes",
+          "score": 14,
+          "specialties": [
+            "3d_animator",
+            "editor",
+            "game_dev"
+          ]
+        },
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
           "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
@@ -97,20 +111,6 @@
           "description": "Throwback Studios is seeking a scrappy, self-directed 3D artist with a strong sense of art direction to own the art-pipeline for a social sandbox baseball game. Tags: [Art & Animation] [Full Time]",
           "score": 11,
           "specialties": [
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Playcademy is hiring a 2D Artist / Visual Designer to work from Austin, TX or United States",
-          "url": "https://www.workwithindies.com/careers/playcademy-2d-artist-visual-designer",
-          "source": "WorkWithIndies",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "We are a well funded, early stage team looking for a versatile 2D art generalist and visual designer to become a key visual owner across Playcademy. Tags: [Art & Animation] [Full Time]",
-          "score": 11,
-          "specialties": [
-            "2d_artist",
             "3d_animator",
             "generalist"
           ]
@@ -223,6 +223,19 @@
           ]
         },
         {
+          "title": "[PAID] FPS Weapon Animator/Rigger Needed",
+          "url": "https://polycount.com/discussion/238556/paid-fps-weapon-animator-rigger-needed",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Hi everyone,We are looking for a first-person weapon animator/rigger for our tactical FPS project, built in s&box / Source 2.We will provide:weapon modelalready rigged first-person armstextures/materials (if requested)reference examples for weapon positioning and animation style (if requested)The",
+          "score": 9,
+          "specialties": [
+            "3d_animator",
+            "rigger"
+          ]
+        },
+        {
           "title": "Bad Source is hiring a 3D Character Modeler to work from Anywhere",
           "url": "https://www.workwithindies.com/careers/bad-source-3d-character-modeler",
           "source": "WorkWithIndies",
@@ -286,20 +299,6 @@
           "specialties": [
             "3d_animator",
             "developer"
-          ]
-        },
-        {
-          "title": "Senior Motion Designer",
-          "url": "https://www.behance.net/joblist/352631/Senior-Motion-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Interface Media Group (IMG), Washington, DC's premier creative media production company, is looking for an exceptional Senior Motion Designer to join our team.We're seeking a highly creative visual storyteller with strong design instincts, advanced motion graphics/animation skills, and the ability",
-          "score": 7,
-          "specialties": [
-            "3d_animator",
-            "editor",
-            "video_production"
           ]
         },
         {
@@ -378,18 +377,6 @@
           "specialties": [
             "3d_animator",
             "vfx_fx"
-          ]
-        },
-        {
-          "title": "Roboto Games is hiring a Senior Combat Technical Animator (Unity) to work from PT ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/roboto-games-senior-combat-technical-animator-unity",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We are looking for a Senior Combat Technical Animator to own the feel, responsiveness, and in-engine implementation of third-person melee combat and locomotion in Stormforge.  Tags: [Art & Animation] [Contract]",
-          "score": 5,
-          "specialties": [
-            "3d_animator"
           ]
         },
         {
@@ -556,6 +543,18 @@
           ]
         },
         {
+          "title": "[PAID][REMOTE] Hiring Multiple 2D Traditional Animators - Game Project Tie-Down & Cleanup",
+          "url": "https://polycount.com/discussion/238595/paid-remote-hiring-multiple-2d-traditional-animators-game-project-tie-down-cleanup",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Hi everyone,\nWe’re looking for freelance 2D traditional animators to help with tie-down and cleanup work on an active game project currently in production.\nThe work will be paid at a flat rate per frame. We’re looking for artists who are comfortable working in a traditional 2D animation pipeline",
+          "score": 3,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
           "title": "Animator - Sony Imageworks",
           "url": "https://www.entertainmentcareers.net/sony-imageworks/animator/job/521935/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
@@ -674,25 +673,13 @@
           "specialties": [
             "3d_animator"
           ]
-        },
-        {
-          "title": "Coincidence is hiring a 2D Game Artist to work from Redmond, WA",
-          "url": "https://www.workwithindies.com/careers/coincidence-2d-game-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "Coincidence is a small cooperative game studio located in Redmond, WA. We currently have two artists, both 2D generalists, and are looking for a third to join the team. Tags: [Art & Animation] [Contract]",
-          "score": 2,
-          "specialties": [
-            "3d_animator"
-          ]
         }
       ]
     },
     {
       "slug": "developer",
       "label": "Developer / Programmer",
-      "job_count": 39,
+      "job_count": 35,
       "jobs": [
         {
           "title": "WALTER: Senior Fullstack Engineer (Ruby+React)",
@@ -905,18 +892,6 @@
           ]
         },
         {
-          "title": "Trabalhe de Casa React Native Tech Lead",
-          "url": "https://www.catho.com.br/vagas/trabalhe-de-casa-react-native-tech-lead/36883773",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BAIRESDEV - Barueri + 35 cidades",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
           "title": "Senior Software Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
           "source": "Remote OK Dev",
@@ -992,7 +967,7 @@
           "title": "Site Reliability Engineer",
           "url": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-rbc-1132479",
           "source": "Remote OK Dev",
-          "country": "Canada",
+          "country": "Spain",
           "region": "us_canada_europe",
           "description": "Job DescriptionAPPLICATION DEADLINE: JUNE 8TH, 2026This role can be located the Caribbean Banking Market or in Canada where the successful candidate residesWhat is the opportunity?In this role you will be responsible for creation, automation (DevOps), monitoring, maintenance, and management of test",
           "score": 2,
@@ -1085,30 +1060,6 @@
           ]
         },
         {
-          "title": "Visual Designer ? Brand, Marketing &amp; Product",
-          "url": "https://www.behance.net/joblist/352959/Visual-Designer-Brand-Marketing-Product",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "We are looking for a versatile visual designer who gets excited about complex, technically rich subject matter ? signal maps, data overlays, the kind of visuals that make hard things feel immediate and clear. You work across the full stack: social content, original visual creation, pitch decks,",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sr. Full Stack Designer",
-          "url": "https://www.behance.net/joblist/352739/Sr-Full-Stack-Designer",
-          "source": "Behance Jobs",
-          "country": "Usa",
-          "region": "us_canada_europe",
-          "description": "Job SummaryThe Sr Full Stack Designer operates as an independent contributor with strong conceptual and practical knowledge in UI/UX design and front-end development. This role solves complex problems, works with minimal guidance, and may lead project steps or moderately complex initiatives. The",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
           "title": "Desarrollador Unity Ref 25 583",
           "url": "https://www.imagecampus.edu.ar/busqueda/desarrollador-unity-ref-25-583",
           "source": "ImageCampus",
@@ -1155,25 +1106,13 @@
           "specialties": [
             "developer"
           ]
-        },
-        {
-          "title": "Trabalhe de Casa Desenvolvedor de Jogos",
-          "url": "https://www.catho.com.br/vagas/trabalhe-de-casa-desenvolvedor-de-jogos/36883862",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BAIRESDEV - Barueri + 35 cidades",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
         }
       ]
     },
     {
       "slug": "cad_designer",
       "label": "CAD / Industrial Design",
-      "job_count": 37,
+      "job_count": 26,
       "jobs": [
         {
           "title": "Dibujante  Solidworks",
@@ -1189,38 +1128,25 @@
           ]
         },
         {
-          "title": "Industrial Design Project Manager (Fractional / Part-Time)",
-          "url": "https://www.behance.net/joblist/352653/Industrial-Design-Project-Manager-(Fractional-Part-Time)",
-          "source": "Behance Jobs",
-          "country": "Remote",
+          "title": "We are a newly established studio and are currently seeking a cost-effective 3D paleontologist / ZBr",
+          "url": "https://polycount.com/discussion/238602/we-are-a-newly-established-studio-and-are-currently-seeking-a-cost-effective-3d-paleontologist-zbr",
+          "source": "Polycount Freelance",
+          "country": "",
           "region": "remote",
-          "description": "Industrial Design Project Manager (Fractional / Part-Time)Location: San Jose, CA ? On-Site Only (On-Site Applicants preferred and prioritized)Type: Part-Time / Fractional (Ongoing) ? approximately 15?25 hours per weekCompensation: $55?$65/hour, depending on experienceStart: July 1, 2026About Hatch",
-          "score": 4,
-          "specialties": [
-            "production",
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "PROJETISTA MECANICO",
-          "url": "https://www.catho.com.br/vagas/projetista-mecanico/36871077",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "UNIRH - Rio Claro",
-          "score": 4,
+          "description": "High-detail carving abilityPossess experience in animal anatomy / biological carvingCan output printable STL/OBJ filesSuitable for 3D printing and commercial displayDoes not accept AI-generated or copied modelsIf appropriate, long-term cooperation is possibleWe specifically focus on the scientific",
+          "score": 2,
           "specialties": [
             "cad_designer"
           ]
         },
         {
-          "title": "Projetista 3D para solados",
-          "url": "https://www.catho.com.br/vagas/projetista-3d-para-solados/36871072",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "JWS Desenvolvimento Humano - Novo Hamburgo",
-          "score": 4,
+          "title": "[PAID] Looking for Stylized Environment Artist for Cozy Nature Game Prototype",
+          "url": "https://polycount.com/discussion/238580/paid-looking-for-stylized-environment-artist-for-cozy-nature-game-prototype",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Hello,I’m a solo developer currently prototyping a small cozy wildlife/garden game with a focus on calm atmosphere, stylized environments, and readable gameplay spaces.The visual direction leans toward painterly/stylized nature environments with a slightly elevated or semi-isometric perspective,",
+          "score": 2,
           "specialties": [
             "cad_designer"
           ]
@@ -1500,785 +1426,258 @@
           "specialties": [
             "cad_designer"
           ]
-        },
-        {
-          "title": "Projetista de Automação",
-          "url": "https://www.catho.com.br/vagas/projetista-de-automacao/36862960",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "CHRIS CINTOS - São Paulo",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "PROJETISTA ELETRICISTA",
-          "url": "https://www.catho.com.br/vagas/projetista-eletricista/36871111",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "UNIRH - Rio Claro",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista Mecânico Pleno / Sr.",
-          "url": "https://www.catho.com.br/vagas/projetista-mecanico-pleno-sr./36880149",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "OPUSPAC - Louveira",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Vendedor Projetista - Móveis Planejados",
-          "url": "https://www.catho.com.br/vagas/vendedor-projetista-moveis-planejados/36882624",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Empresa Confidencial - Rio de Janeiro",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista",
-          "url": "https://www.catho.com.br/vagas/projetista/36883355",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "ZOE CONSULTING - Santo Andre",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista Mecânico",
-          "url": "https://www.catho.com.br/vagas/projetista-mecanico/36887280",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "GRUPO RSC - Ribeirão Preto",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista Sênior (Projetista Mecânico)",
-          "url": "https://www.catho.com.br/vagas/projetista-senior-projetista-mecanico/36827919",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "EDC SERVICOS - Londrina",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Vendedor Projetista",
-          "url": "https://www.catho.com.br/vagas/vendedor-projetista/36864558",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "LCN.Niucor Mobiliário Sob Medida - Guarulhos",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Desenhista Projetista",
-          "url": "https://www.catho.com.br/vagas/desenhista-projetista/36824298",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "PROJINOX - Guarulhos",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista de PPCI",
-          "url": "https://www.catho.com.br/vagas/projetista-de-ppci/36879775",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "MODO PROJETOS ENGENHARIA - São Paulo",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
         }
       ]
     },
     {
-      "slug": "2d_artist",
-      "label": "2D Artist",
-      "job_count": 31,
+      "slug": "technical_artist",
+      "label": "Technical Artist",
+      "job_count": 19,
       "jobs": [
         {
-          "title": "Playcademy is hiring a 2D Artist / Visual Designer to work from Austin, TX or United States",
-          "url": "https://www.workwithindies.com/careers/playcademy-2d-artist-visual-designer",
-          "source": "WorkWithIndies",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "We are a well funded, early stage team looking for a versatile 2D art generalist and visual designer to become a key visual owner across Playcademy. Tags: [Art & Animation] [Full Time]",
-          "score": 11,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Snackbar Studio is hiring a Senior 2D Generalist Game Artist (Unity) to work from EU & UK",
-          "url": "https://www.workwithindies.com/careers/snackbar-studio-senior-2d-generalist-game-artist-unity",
-          "source": "WorkWithIndies",
-          "country": "Uk",
-          "region": "us_canada_europe",
-          "description": "We're looking for a 2D Generalist Game Artist to help bring The SnackBar at the End of the World to life.  Tags: [Art & Animation] [Contract]",
-          "score": 10,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Bebo's Dev House is hiring a 2D Artist / Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/bebos-dev-house-2d-artist-animator",
-          "source": "WorkWithIndies",
+          "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
+          "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
+          "source": "Polycount Freelance",
           "country": "Remote",
           "region": "remote",
-          "description": "I am looking for a part-time 2D artist/animator. Location is anywhere. Tags: [Art & Animation] [Freelance]",
-          "score": 9,
+          "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
+          "score": 14,
           "specialties": [
-            "2d_artist",
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Motion graphic designer",
-          "url": "https://www.behance.net/joblist/332125/Motion-graphic-designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "ResponsibilitiesConceptualize, design, and animate motion graphics for digital, social, and video platformsCollaborate with the creative team to develop visual concepts and storyboardsEdit and enhance video footage with motion graphics and visual effectsEnsure brand consistency across all visuals",
-          "score": 6,
-          "specialties": [
-            "2d_artist",
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Senior Graphic Designer",
-          "url": "https://www.behance.net/joblist/335011/Senior-Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Prime Scale Creative is hiring a Senior Graphic Designer with a sharp eye for typography, strong creative instincts, and the ability to bring clarity, energy, and polish to every layout, whether it's a full brand identity, a product brochure, a pitch deck, or merchandise.We're a small, fast-moving",
-          "score": 5,
-          "specialties": [
-            "2d_artist",
-            "layout_previs"
-          ]
-        },
-        {
-          "title": "Panna Cotta Software is hiring a Illustrator / Character Illustrator to work from Canada",
-          "url": "https://www.workwithindies.com/careers/panna-cotta-software-illustrator-character-illustrator",
-          "source": "WorkWithIndies",
-          "country": "Canada",
-          "region": "us_canada_europe",
-          "description": "Panna Cotta Software is seeking a freelance Illustrator / Character Illustrator to produce characters and items for our horror / dark fantasy themed digital card game. Tags: [Art & Animation] [Freelance]",
-          "score": 4,
-          "specialties": [
-            "2d_artist",
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Motion Graphic Designer",
-          "url": "https://www.behance.net/joblist/353145/Motion-Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "About the jobMotionworx is evolving. As part of a broader shift into Nova ? a forward-thinking creative and technology-led environment ? we're expanding beyond traditional video production into more integrated, idea-driven content and digital experiences.We're currently looking for one strong",
-          "score": 4,
-          "specialties": [
-            "2d_artist",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Videographer / Motion Graphic Designer Aran?yor",
-          "url": "https://www.behance.net/joblist/352803/Videographer-Motion-Graphic-Designer-Aranyor",
-          "source": "Behance Jobs",
-          "country": "Uk",
-          "region": "us_canada_europe",
-          "description": "? Videographer / Motion Graphic DesignerAI destekli içerik üretim süreçlerinde aktif rol alabilecek, yarat?c? bak?? aç?s?na sahip bir videographer / motion graphic designer ar?yorum.Özellikle k?sa format video üretiminde h?zl? dü?ünebilen, sosyal medya trendlerini takip eden ve dinamik içerik",
-          "score": 4,
-          "specialties": [
-            "2d_artist",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Nice Wolf Pty Ltd is hiring for a position of Senior Graphic Designer w/ Motion in Remote",
-          "url": "https://dribbble.com/jobs/305819-Senior-Graphic-Designer-w-Motion?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "",
-          "score": 4,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Senior 3D Graphic Designer - Telemundo",
-          "url": "https://www.entertainmentcareers.net/telemundo/senior-3d-graphic-designer/job/522031/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  This role is a key contributor to the News Graphics Design team, responsible for shaping the creative ... more ",
-          "score": 3,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design] [Freelance]",
-          "score": 3,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer",
-          "url": "https://www.behance.net/joblist/352667/Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "ABOUT THE JOB:We're looking a Junior / Mid-Weight Graphic Designer or a small-scale studio of designers to help with our Design workload. Tasks include:Re-sizing hero artwork to various social/screen sizesConceptualising Event / Promotion designsAdjusting &amp; creating Restaurant Menu's &amp;",
-          "score": 3,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "MailerLite is hiring for a position of Graphic Designer in Remote",
-          "url": "https://dribbble.com/jobs/307205-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "",
-          "score": 3,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "XM is hiring for a position of Turkish-Speaking Motion Graphic Designer in Remote",
-          "url": "https://dribbble.com/jobs/305984-Turkish-Speaking-Motion-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "",
-          "score": 3,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer",
-          "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-gamdom-1132426",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "We’re looking for a creative and detail-oriented Graphic Designer to join our growing team. You’ll be responsible for creating engaging visuals across digital platforms, including marketing campaigns, social media, branding assets, banners, and product-related materials.This role is ideal for",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "MailerLite: Graphic Designer",
-          "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: USA\n    URL: https://www.mailerlite.com/company-values\n\n\n\n\n\nMailerLite is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world stay in touch with their customers. Today, we are a team of more than 170 dreamers, adventurers, and",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Contra: Graphic Designer",
-          "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\nHeadquarters: San Francisco, CA\n    URL: http://bit.ly/3kLhMdk\n\n\n\n\nAbout Contra Labs\n\n\n\n\n\n\nContra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Amazon Graphic Designer",
-          "url": "https://www.behance.net/joblist/353207/Amazon-Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We prioritize all applicants who will complete this form: https://forms.clickup.com/9017022429/f/8cq9nyx-212637/SHIHU6VR8VQ6UMAMA7About the CompanyAmazon Growth Lab (AGL) is a full-service Amazon marketing agency that helps eCommerce brands grow and scale on the platform. We specialize in improving",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer UI/UX Designer",
-          "url": "https://www.behance.net/joblist/343691/Graphic-Designer-UIUX-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Graphic Designer UI/UX Designer Graphic Designer UI/UX Designer Graphic Designer UI/UX Designer Graphic Designer UI/UX Designer Graphic Designer UI/UX Designer Graphic Designer UI/UX Designer ",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic designer",
-          "url": "https://www.behance.net/joblist/332127/Graphic-designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "We're looking for a talented Graphic Designer to create visually striking designs that communicate our brand's message across digital and print platforms.You'll collaborate with our marketing and creative teams to produce engaging visuals, from social media graphics to brand",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer Needed in Yogyakarta",
-          "url": "https://www.behance.net/joblist/339149/Graphic-Designer-Needed-in-Yogyakarta",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "About the RoleWe're looking for a versatile and creative Graphic Designer to join our team on a contract basis. In this role, you'll work across a wide range of design projects ? from logos and brand identities to digital assets and print materials. You'll collaborate with account managers and",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer Wanted",
-          "url": "https://www.behance.net/joblist/353003/Graphic-Designer-Wanted",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "???? ?? Graphic Designer ???? ???????? ??? ?????? ?? ????.??? ??? ????? ??? ??????? ??? ???????? ???? ????? ?????? ???? ????? ????? ??????? ????????? ?????? ??????? ?????????? ??? ???? ????? ???? ???? ???.??????????? ??????? ??????? ?????.????? ??????? ?????????.????? ????? ????? ??????? ????????",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Manager Graphic Designer",
-          "url": "https://www.behance.net/joblist/352835/Manager-Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "? We're Hiring | 2D Event Graphic Designer ?? Location: Shubash Nagar? Full-Time Role? Experience: 3?5 YearsAn event agency in New Delhi is looking for a creative and proactive 2D Graphic Designer with hands-on experience in event creatives and print production.? What We're Looking For:? Strong",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer",
-          "url": "https://www.behance.net/joblist/352793/Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Graphic DesignerWe are looking for a creative and skilled Graphic Designer to join our growing creative team for a premium real estate brand based in Bengaluru.The role involves creating engaging short-form videos, Instagram reels, walkthrough videos, promotional content, marketing material, and",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "motion graphic designer ai",
-          "url": "https://www.behance.net/joblist/352615/motion-graphic-designer-ai",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Motion Graphic Designer (AI-First Creative)Location: Ulubari, Guwahati, Assam Job Type: Full-Time Company: [Your Agency Name]About UsWe are an AI-first marketing agency focused on building modern, high-performance brands through creative storytelling, automation, and cutting-edge content",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Graphic Designer",
-          "url": "https://www.behance.net/joblist/352509/Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "We are hiring a Creative Graphic Designer for our print &amp; customization studio in Lucknow.Skills RequiredCorelDRAWAdobe PhotoshopBasic knowledge of print designingCreative thinking &amp; fast working speedWork IncludesVisiting cardsFlex &amp; banner designsStickers &amp; labelsSocial media",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Melii is hiring for a position of Packaging Graphic Designer in Montréal, QC",
-          "url": "https://dribbble.com/jobs/306809-Packaging-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "American Traffic Safety Services is hiring for a position of Graphic Designer in Fredericksburg, VA",
-          "url": "https://dribbble.com/jobs/306644-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Snapdragon Cann. Co. is hiring for a position of Graphic Designer in Chattanooga, TN",
-          "url": "https://dribbble.com/jobs/306380-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "Talent101, Inc is hiring for a position of Art Director/Graphic Designer in Dallas, TX",
-          "url": "https://dribbble.com/jobs/306347-Art-Director-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        },
-        {
-          "title": "eternal.ag is hiring for a position of Graphic Designer in Bangalore, India",
-          "url": "https://dribbble.com/jobs/306215-Graphic-Designer?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "editor",
-      "label": "Editor / Post",
-      "job_count": 21,
-      "jobs": [
-        {
-          "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
-          "source": "WorkWithIndies",
-          "country": "United Kingdom",
-          "region": "us_canada_europe",
-          "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation] [Freelance]",
-          "score": 10,
-          "specialties": [
-            "3d_animator",
-            "editor",
+            "3d_modeler",
+            "technical_artist",
+            "rigger",
             "game_dev"
           ]
         },
         {
-          "title": "Creative Video Editor &amp; AI Content Creator",
-          "url": "https://www.behance.net/joblist/352853/Creative-Video-Editor-AI-Content-Creator",
-          "source": "Behance Jobs",
+          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
+          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
+          "source": "WorkWithIndies",
           "country": "",
           "region": "remote",
-          "description": "ResponsibilitiesCreate and edit advertisements, branded content, reels, and social media videosUse AI tools to enhance video production, visuals, concepts, and workflowsDevelop engaging edits with strong storytelling, pacing, and sound designWork on campaign videos, product shoots, lifestyle",
-          "score": 8,
-          "specialties": [
-            "editor",
-            "writer",
-            "video_production"
-          ]
-        },
-        {
-          "title": "We are looking for a video editor / motion graphics",
-          "url": "https://www.behance.net/joblist/348589/We-are-looking-for-a-video-editor-motion-graphics",
-          "source": "Behance Jobs",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "Video Editor Job Description -100% on site- DULTHThis position is not available outside the United States. Please refrain from applying.Summary We're looking for a video editor with strong motion graphics capability who can take ownership of projects from raw footage through final delivery. This",
-          "score": 8,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Senior Motion Designer",
-          "url": "https://www.behance.net/joblist/352631/Senior-Motion-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Interface Media Group (IMG), Washington, DC's premier creative media production company, is looking for an exceptional Senior Motion Designer to join our team.We're seeking a highly creative visual storyteller with strong design instincts, advanced motion graphics/animation skills, and the ability",
-          "score": 7,
+          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
+          "score": 13,
           "specialties": [
             "3d_animator",
-            "editor",
-            "video_production"
+            "technical_artist",
+            "rigger",
+            "vfx_fx",
+            "game_dev"
           ]
         },
         {
-          "title": "Video Editor",
-          "url": "https://remoteOK.com/remote-jobs/remote-video-editor-our-hillside-1132459",
-          "source": "Remote OK Dev",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Editor — Our Hillside (London, Remote)Our Hillside is a creative production and post studio, and we're opening our first London base. We're looking for a mid-level editor to help anchor the post side as we grow into the UK market.We make commercials, brand films, doc-style content, and a steady",
-          "score": 6,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Motion graphic designer",
-          "url": "https://www.behance.net/joblist/332125/Motion-graphic-designer",
-          "source": "Behance Jobs",
+          "title": "Torpor Games is hiring a Senior Technical Artist (m/f/d) to work from Berlin, DE",
+          "url": "https://www.workwithindies.com/careers/torpor-games-senior-technical-artist-m-f-d",
+          "source": "WorkWithIndies",
           "country": "",
           "region": "remote",
-          "description": "ResponsibilitiesConceptualize, design, and animate motion graphics for digital, social, and video platformsCollaborate with the creative team to develop visual concepts and storyboardsEdit and enhance video footage with motion graphics and visual effectsEnsure brand consistency across all visuals",
-          "score": 6,
+          "description": "Torpor Games is seeking a Technical Artist to build and maintain the rendering pipeline for The Conformist, translating 2D art direction into a functioning 3D visual system within Unity. Tags: [Art & Animation] [Full Time]",
+          "score": 10,
           "specialties": [
-            "2d_artist",
-            "editor",
-            "video_production"
+            "3d_animator",
+            "technical_artist",
+            "render"
           ]
         },
         {
-          "title": "XM: Turkish-Speaking Video & Motion Graphics Designer",
-          "url": "https://weworkremotely.com/remote-jobs/xm-turkish-speaking-video-motion-graphics-designer",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: Cyprus or Remote\n    URL: https://xm.com\n\n\nTurkish-Speaking Video & Motion Graphics Designer\n \nThe Role:\n \nAs a Video and Motion Graphics Designer, you will be responsible for producing professional, creative videos, and motion assets across our product range, marketing",
-          "score": 5,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Get Dopa Limited is hiring for a position of Digital Designer & Video Editor in Remote",
-          "url": "https://dribbble.com/jobs/306281-Digital-Designer-Video-Editor?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "",
-          "score": 5,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "YouTube Video Editor - Fox Entertainment",
-          "url": "https://www.entertainmentcareers.net/fox-entertainment/youtube-video-editor/job/521578/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a highly skilled and creative YouTube Video Editor with advanced editing abilities and ... more ",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "RUNE is hiring a Multimedia Creative (Video Editor) to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/rune-multimedia-creative-video-editor",
+          "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
+          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
           "source": "WorkWithIndies",
           "country": "United Kingdom",
           "region": "us_canada_europe",
-          "description": "The Multimedia Creative will be joining RUNE's small but growing team to deliver impactful, high-quality video content and digital assets for indie game developers and publishers. Tags: [Marketing & Community] [Full Time]",
-          "score": 4,
+          "description": "We are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR® Tags: [Art & Animation] [Contract]",
+          "score": 9,
           "specialties": [
-            "editor"
+            "3d_animator",
+            "technical_artist",
+            "game_dev"
           ]
         },
         {
-          "title": "Video Editor",
-          "url": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
-          "source": "Remote OK Dev",
-          "country": "",
-          "region": "remote",
-          "description": "Posted 7:27:42 PM. We are one of the leading tech-driven media and entertainment companies, producing uplifting…See this and similar jobs on LinkedIn.",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "[Paid] Video Editor Wanted — Blender Addon Tutorial + Trailer",
-          "url": "https://blenderartists.org/t/paid-video-editor-wanted-blender-addon-tutorial-trailer/1641830",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi everyone!\nI’m the creator of Auto-Building, a Blender add-on (https://superhivemarket.com/products/auto-building), and I’m looking for a freelance video editor to help with two videos for its upcoming big update.\nSome knowledge of Blender is a real plus here, it helps with pacing decisions,",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Video Editor for Premium Real Estate Brand in Bengaluru",
-          "url": "https://www.behance.net/joblist/352791/Video-Editor-for-Premium-Real-Estate-Brand-in-Bengaluru",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Our premium real estate brand in Bengaluru is expanding, and we need a talented Video Editor / Reel Editor to join our creative team. The main focus of this role will be producing captivating short-form videos, Instagram reels, walkthroughs, and promotional content tailored for digital platforms",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Video Editor",
-          "url": "https://www.behance.net/joblist/352783/Video-Editor",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Video Editor Wanted ? Full-TimeLocation: New Town, KolkataWorking Days: Monday to SaturdaySalary: ?15,000 ? ?25,000 per month, depending on skill and work qualityWe are looking for a creative and skilled Video Editor to join our team full-time in New Town, Kolkata. The ideal candidate should have",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Animador 2D Editor De Video Ref 22 513",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
+          "title": "3D Vfx Technical Artist Ref 24 572",
+          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
           "source": "ImageCampus",
           "country": "Argentina",
           "region": "latin_america",
-          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
-          "score": 4,
+          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
+          "score": 9,
           "specialties": [
-            "editor",
-            "video_production"
+            "technical_artist",
+            "vfx_fx"
           ]
         },
         {
-          "title": "Associate News Editor",
-          "url": "https://remoteOK.com/remote-jobs/remote-associate-news-editor-newsweek-1132489",
-          "source": "Remote OK Dev",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "News Editor",
-          "url": "https://remoteOK.com/remote-jobs/remote-news-editor-newsweek-1132508",
-          "source": "Remote OK Dev",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor Y Posproduccion De Videos Ref 23 558",
-          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
+          "title": "Technical Artist Vfx Artist Ref 20 406",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
           "source": "ImageCampus",
           "country": "Argentina",
           "region": "latin_america",
-          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
-          "score": 2,
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
+          "score": 7,
           "specialties": [
-            "editor"
+            "technical_artist",
+            "vfx_fx"
           ]
         },
         {
-          "title": "Editor audiovisual",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-audiovisual-corporativo-en-azcapotzalco-107043A099A260AF61373E686DCF3405#lc=ListOffers-Score3-4",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Azcapotzalco, Ciudad",
-          "score": 2,
+          "title": "Senior Crowds Technical Artist - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/senior-crowds-technical-artist/job/521794/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Crowds Technical Senior Artist, you will assist the Crowds Supervisor with technical and creative ... more ",
+          "score": 6,
           "specialties": [
-            "editor"
+            "technical_artist"
           ]
         },
         {
-          "title": "Editor/a de Vídeo",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-editora-de-video-en-bogota-dc-CCDCCE034A1A341A61373E686DCF3405#lc=ListOffers-Score3-4",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "TURISMED COLOMBIA SAS",
-          "score": 2,
+          "title": "Saguni Studio is hiring Technical Artist Shaders - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
+          "score": 6,
           "specialties": [
-            "editor"
+            "technical_artist"
           ]
         },
         {
-          "title": "Trabalhe de Casa Editor de Vídeo",
-          "url": "https://www.catho.com.br/vagas/trabalhe-de-casa-editor-de-video/36880481",
-          "source": "Catho",
-          "country": "Brazil",
+          "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
+          "url": "https://polycount.com/discussion/238591/hiring-realtime-technical-asset-specialist-for-optimization-mesh-retopology-and-material-conversion",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Greetings! We are developing a premium browser-based 3D configurator for fiberglass swimming pools and are looking for an experienced realtime technical artist / game-ready asset specialist to assist with optimization, retopology, material conversion, and realtime rendering workflows. We need",
+          "score": 6,
+          "specialties": [
+            "3d_modeler",
+            "technical_artist",
+            "render"
+          ]
+        },
+        {
+          "title": "Junior Technical Artist, Crowds - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/junior-technical-artist-crowds/job/521795/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Junior  Technical  Artist in crowds you will be  responsible for  helping   its assigned  departments ... more ",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Area Setup Technical Artist Ref 24 575",
+          "url": "https://www.imagecampus.edu.ar/busqueda/area-setup-technical-artist-ref-24-575",
+          "source": "ImageCampus",
+          "country": "Argentina",
           "region": "latin_america",
-          "description": "BAIRESDEV - Barueri + 35 cidades",
+          "description": "En Búho estamos buscando artistas apasionados para unirse a nuestro equipo multidisciplinario en la creación de videojuegos. Con casi 10 años de trayectoria, y desde 2021 colaborando con Tactile Games Dinamarca en títulos como Lily’s Garden, Penny & Flo y otros, apostamos al trabajo en equipo,",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Technical Artist Remoto Ref 20 410",
+          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-remoto-ref-20-410",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral y que está desarrollando varios de los proyectos más importantes de la región? Responsabilidades: Supervisar tecnicismos importantes para los programadores y artistas. Preparar las entregas y responder consultas de",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Technical Director - Animation - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-director-animation/job/499294/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Technical Director, you will design and develop innovative ... more ",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
+          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation] [Contract]",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "White Lotus Interactive is hiring a Indie Tech Artist (Environment) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/white-lotus-interactive-indie-tech-artist-environment",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We’re looking for a seasoned tech artist who can independently and collaboratively apply their technical expertise and creativity to our game. Tags: [Art & Animation] [Contract]",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Senior Lighting Artist / Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/senior-lighting-artist-technical-director/job/521988/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nWe are seeking a Senior Lighting Artist who reflects ... more ",
+          "score": 3,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Technical Director - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-director/job/499293/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Senior Technical Director, you will develop and support innovative ... more ",
+          "score": 3,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Junior Creature Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-creature-technical-director/job/519289/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Junior Creature Technical Director (Project Hire) - ILM San Francisco\n\nJob Summary:\n\nPosition ... more ",
           "score": 2,
           "specialties": [
-            "editor"
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Lighting Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "score": 2,
+          "specialties": [
+            "technical_artist"
           ]
         }
       ]
@@ -2288,6 +1687,35 @@
       "label": "Game Developer",
       "job_count": 19,
       "jobs": [
+        {
+          "title": "[PAID][REMOTE] Motioncapture Post Production Animator",
+          "url": "https://polycount.com/discussion/238614/paid-remote-motioncapture-post-production-animator",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mercurial Dance are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR®Your RoleAs part of our asset creation process, we are creating a custom movement library for our new title EmbodyXR® which includes",
+          "score": 14,
+          "specialties": [
+            "3d_animator",
+            "editor",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
+          "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
+          "score": 14,
+          "specialties": [
+            "3d_modeler",
+            "technical_artist",
+            "rigger",
+            "game_dev"
+          ]
+        },
         {
           "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
           "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
@@ -2329,18 +1757,6 @@
           "specialties": [
             "3d_animator",
             "technical_artist",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Floaty Studio is hiring a Senior Game Developer (Mobile) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/floaty-studio-senior-game-developer-mobile",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Floaty Studio is looking for a Senior Unity Developer to join our team and help us take our mobile games to the next level. Tags: [Programming] [Contract]",
-          "score": 8,
-          "specialties": [
             "game_dev"
           ]
         },
@@ -2518,242 +1934,6 @@
           "specialties": [
             "game_dev"
           ]
-        },
-        {
-          "title": "Floaty Studio is hiring a Game Designer (Mobile) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/floaty-studio-game-designer-mobile",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Floaty Studio is seeking a creative and passionate Game Designer to join our indie game studio. Tags: [Design] [Contract]",
-          "score": 2,
-          "specialties": [
-            "game_dev"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "technical_artist",
-      "label": "Technical Artist",
-      "job_count": 17,
-      "jobs": [
-        {
-          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
-          "score": 13,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "rigger",
-            "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Torpor Games is hiring a Senior Technical Artist (m/f/d) to work from Berlin, DE",
-          "url": "https://www.workwithindies.com/careers/torpor-games-senior-technical-artist-m-f-d",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "Torpor Games is seeking a Technical Artist to build and maintain the rendering pipeline for The Conformist, translating 2D art direction into a functioning 3D visual system within Unity. Tags: [Art & Animation] [Full Time]",
-          "score": 10,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "render"
-          ]
-        },
-        {
-          "title": "Mercurial Dance is hiring a 3D Character Technical Artist  to work from United Kingdom",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
-          "source": "WorkWithIndies",
-          "country": "United Kingdom",
-          "region": "us_canada_europe",
-          "description": "We are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR® Tags: [Art & Animation] [Contract]",
-          "score": 9,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "3D Vfx Technical Artist Ref 24 572",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
-          "score": 9,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Technical Artist Vfx Artist Ref 20 406",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
-          "score": 7,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Senior Crowds Technical Artist - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/senior-crowds-technical-artist/job/521794/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Crowds Technical Senior Artist, you will assist the Crowds Supervisor with technical and creative ... more ",
-          "score": 6,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Saguni Studio is hiring Technical Artist Shaders - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
-          "score": 6,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Junior Technical Artist, Crowds - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/junior-technical-artist-crowds/job/521795/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a Junior  Technical  Artist in crowds you will be  responsible for  helping   its assigned  departments ... more ",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Area Setup Technical Artist Ref 24 575",
-          "url": "https://www.imagecampus.edu.ar/busqueda/area-setup-technical-artist-ref-24-575",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "En Búho estamos buscando artistas apasionados para unirse a nuestro equipo multidisciplinario en la creación de videojuegos. Con casi 10 años de trayectoria, y desde 2021 colaborando con Tactile Games Dinamarca en títulos como Lily’s Garden, Penny & Flo y otros, apostamos al trabajo en equipo,",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Technical Artist Remoto Ref 20 410",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-remoto-ref-20-410",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral y que está desarrollando varios de los proyectos más importantes de la región? Responsabilidades: Supervisar tecnicismos importantes para los programadores y artistas. Preparar las entregas y responder consultas de",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Technical Director - Animation - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/technical-director-animation/job/499294/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Technical Director, you will design and develop innovative ... more ",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Snow Day Games is hiring a 2D Technical Pixel Artist  to work from EST ± 3 hours",
-          "url": "https://www.workwithindies.com/careers/snow-day-games-2d-technical-pixel-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We are Snow Day Games and we are seeking a 2D Technical Artist for our Unity Project, Vesuvius.  Tags: [Art & Animation] [Contract]",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "White Lotus Interactive is hiring a Indie Tech Artist (Environment) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/white-lotus-interactive-indie-tech-artist-environment",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re looking for a seasoned tech artist who can independently and collaboratively apply their technical expertise and creativity to our game. Tags: [Art & Animation] [Contract]",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Senior Lighting Artist / Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/senior-lighting-artist-technical-director/job/521988/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nWe are seeking a Senior Lighting Artist who reflects ... more ",
-          "score": 3,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Technical Director - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/technical-director/job/499293/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\nAs a Senior Technical Director, you will develop and support innovative ... more ",
-          "score": 3,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Junior Creature Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/junior-creature-technical-director/job/519289/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Junior Creature Technical Director (Project Hire) - ILM San Francisco\n\nJob Summary:\n\nPosition ... more ",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Lighting Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lighting-technical-director/job/521538/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
         }
       ]
     },
@@ -2771,20 +1951,6 @@
           "description": "Throwback Studios is seeking a scrappy, self-directed 3D artist with a strong sense of art direction to own the art-pipeline for a social sandbox baseball game. Tags: [Art & Animation] [Full Time]",
           "score": 11,
           "specialties": [
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Playcademy is hiring a 2D Artist / Visual Designer to work from Austin, TX or United States",
-          "url": "https://www.workwithindies.com/careers/playcademy-2d-artist-visual-designer",
-          "source": "WorkWithIndies",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "We are a well funded, early stage team looking for a versatile 2D art generalist and visual designer to become a key visual owner across Playcademy. Tags: [Art & Animation] [Full Time]",
-          "score": 11,
-          "specialties": [
-            "2d_artist",
             "3d_animator",
             "generalist"
           ]
@@ -2960,6 +2126,19 @@
           ]
         },
         {
+          "title": "[PAID] Freelance 3D Artist - Emerald Ash Borer",
+          "url": "https://polycount.com/discussion/238672/paid-freelance-3d-artist-emerald-ash-borer",
+          "source": "Polycount Freelance",
+          "country": "Uk",
+          "region": "us_canada_europe",
+          "description": "Hi everyone,We’re looking for freelance 3D artists experienced in creating realistic 3D models.Task: Create a photorealistic model of a pest beetle. Use the main reference for modeling:",
+          "score": 4,
+          "specialties": [
+            "3d_modeler",
+            "generalist"
+          ]
+        },
+        {
           "title": "Animador 3D Generalista Ref 24 573",
           "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
           "source": "ImageCampus",
@@ -2983,6 +2162,567 @@
           "specialties": [
             "vfx_fx",
             "generalist"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2d_artist",
+      "label": "2D Artist",
+      "job_count": 15,
+      "jobs": [
+        {
+          "title": "Snackbar Studio is hiring a Senior 2D Generalist Game Artist (Unity) to work from EU & UK",
+          "url": "https://www.workwithindies.com/careers/snackbar-studio-senior-2d-generalist-game-artist-unity",
+          "source": "WorkWithIndies",
+          "country": "Uk",
+          "region": "us_canada_europe",
+          "description": "We're looking for a 2D Generalist Game Artist to help bring The SnackBar at the End of the World to life.  Tags: [Art & Animation] [Contract]",
+          "score": 10,
+          "specialties": [
+            "2d_artist",
+            "3d_animator",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Bebo's Dev House is hiring a 2D Artist / Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/bebos-dev-house-2d-artist-animator",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I am looking for a part-time 2D artist/animator. Location is anywhere. Tags: [Art & Animation] [Freelance]",
+          "score": 9,
+          "specialties": [
+            "2d_artist",
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Panna Cotta Software is hiring a Illustrator / Character Illustrator to work from Canada",
+          "url": "https://www.workwithindies.com/careers/panna-cotta-software-illustrator-character-illustrator",
+          "source": "WorkWithIndies",
+          "country": "Canada",
+          "region": "us_canada_europe",
+          "description": "Panna Cotta Software is seeking a freelance Illustrator / Character Illustrator to produce characters and items for our horror / dark fantasy themed digital card game. Tags: [Art & Animation] [Freelance]",
+          "score": 4,
+          "specialties": [
+            "2d_artist",
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Senior 3D Graphic Designer - Telemundo",
+          "url": "https://www.entertainmentcareers.net/telemundo/senior-3d-graphic-designer/job/522031/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  This role is a key contributor to the News Graphics Design team, responsible for shaping the creative ... more ",
+          "score": 3,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Ark is hiring a  Senior Graphic Designer to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/ark-senior-graphic-designer",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I'm looking for a senior designer to be both a tutor and an ongoing collaborator on graphics for characters and robots, posters, fictional corporate marks for in-world factions, UI overlays, some web. Tags: [Design] [Freelance]",
+          "score": 3,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "MailerLite is hiring for a position of Graphic Designer in Remote",
+          "url": "https://dribbble.com/jobs/307205-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "",
+          "score": 3,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "XM is hiring for a position of Turkish-Speaking Motion Graphic Designer in Remote",
+          "url": "https://dribbble.com/jobs/305984-Turkish-Speaking-Motion-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "",
+          "score": 3,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Graphic Designer",
+          "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-gamdom-1132426",
+          "source": "Remote OK Dev",
+          "country": "",
+          "region": "remote",
+          "description": "We’re looking for a creative and detail-oriented Graphic Designer to join our growing team. You’ll be responsible for creating engaging visuals across digital platforms, including marketing campaigns, social media, branding assets, banners, and product-related materials.This role is ideal for",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "MailerLite: Graphic Designer",
+          "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: USA\n    URL: https://www.mailerlite.com/company-values\n\n\n\n\n\nMailerLite is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world stay in touch with their customers. Today, we are a team of more than 170 dreamers, adventurers, and",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Contra: Graphic Designer",
+          "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\nHeadquarters: San Francisco, CA\n    URL: http://bit.ly/3kLhMdk\n\n\n\n\nAbout Contra Labs\n\n\n\n\n\n\nContra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Melii is hiring for a position of Packaging Graphic Designer in Montréal, QC",
+          "url": "https://dribbble.com/jobs/306809-Packaging-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "American Traffic Safety Services is hiring for a position of Graphic Designer in Fredericksburg, VA",
+          "url": "https://dribbble.com/jobs/306644-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Snapdragon Cann. Co. is hiring for a position of Graphic Designer in Chattanooga, TN",
+          "url": "https://dribbble.com/jobs/306380-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "Talent101, Inc is hiring for a position of Art Director/Graphic Designer in Dallas, TX",
+          "url": "https://dribbble.com/jobs/306347-Art-Director-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        },
+        {
+          "title": "eternal.ag is hiring for a position of Graphic Designer in Bangalore, India",
+          "url": "https://dribbble.com/jobs/306215-Graphic-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "score": 2,
+          "specialties": [
+            "2d_artist"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "editor",
+      "label": "Editor / Post",
+      "job_count": 15,
+      "jobs": [
+        {
+          "title": "[PAID][REMOTE] Motioncapture Post Production Animator",
+          "url": "https://polycount.com/discussion/238614/paid-remote-motioncapture-post-production-animator",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mercurial Dance are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR®Your RoleAs part of our asset creation process, we are creating a custom movement library for our new title EmbodyXR® which includes",
+          "score": 14,
+          "specialties": [
+            "3d_animator",
+            "editor",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Mercurial Dance is hiring a Motion Capture Technical Animator to work from United Kingdom",
+          "url": "https://www.workwithindies.com/careers/mercurial-dance-motion-capture-technical-animator",
+          "source": "WorkWithIndies",
+          "country": "United Kingdom",
+          "region": "us_canada_europe",
+          "description": "We are hiring a Freelance Motion Capture Technical Animator/ Post-Production Artist to support the development of VR game assets for EmbodyXR® Tags: [Art & Animation] [Freelance]",
+          "score": 10,
+          "specialties": [
+            "3d_animator",
+            "editor",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Video Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-video-editor-our-hillside-1132459",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Editor — Our Hillside (London, Remote)Our Hillside is a creative production and post studio, and we're opening our first London base. We're looking for a mid-level editor to help anchor the post side as we grow into the UK market.We make commercials, brand films, doc-style content, and a steady",
+          "score": 6,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "XM: Turkish-Speaking Video & Motion Graphics Designer",
+          "url": "https://weworkremotely.com/remote-jobs/xm-turkish-speaking-video-motion-graphics-designer",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: Cyprus or Remote\n    URL: https://xm.com\n\n\nTurkish-Speaking Video & Motion Graphics Designer\n \nThe Role:\n \nAs a Video and Motion Graphics Designer, you will be responsible for producing professional, creative videos, and motion assets across our product range, marketing",
+          "score": 5,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Get Dopa Limited is hiring for a position of Digital Designer & Video Editor in Remote",
+          "url": "https://dribbble.com/jobs/306281-Digital-Designer-Video-Editor?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "",
+          "score": 5,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "YouTube Video Editor - Fox Entertainment",
+          "url": "https://www.entertainmentcareers.net/fox-entertainment/youtube-video-editor/job/521578/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  We are seeking a highly skilled and creative YouTube Video Editor with advanced editing abilities and ... more ",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "RUNE is hiring a Multimedia Creative (Video Editor) to work from United Kingdom",
+          "url": "https://www.workwithindies.com/careers/rune-multimedia-creative-video-editor",
+          "source": "WorkWithIndies",
+          "country": "United Kingdom",
+          "region": "us_canada_europe",
+          "description": "The Multimedia Creative will be joining RUNE's small but growing team to deliver impactful, high-quality video content and digital assets for indie game developers and publishers. Tags: [Marketing & Community] [Full Time]",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Video Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
+          "source": "Remote OK Dev",
+          "country": "",
+          "region": "remote",
+          "description": "Posted 7:27:42 PM. We are one of the leading tech-driven media and entertainment companies, producing uplifting…See this and similar jobs on LinkedIn.",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "[Paid] Video Editor Wanted — Blender Addon Tutorial + Trailer",
+          "url": "https://blenderartists.org/t/paid-video-editor-wanted-blender-addon-tutorial-trailer/1641830",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi everyone!\nI’m the creator of Auto-Building, a Blender add-on (https://superhivemarket.com/products/auto-building), and I’m looking for a freelance video editor to help with two videos for its upcoming big update.\nSome knowledge of Blender is a real plus here, it helps with pacing decisions,",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Animador 2D Editor De Video Ref 22 513",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Associate News Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-associate-news-editor-newsweek-1132489",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "News Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-news-editor-newsweek-1132508",
+          "source": "Remote OK Dev",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor Y Posproduccion De Videos Ref 23 558",
+          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor audiovisual",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-audiovisual-corporativo-en-azcapotzalco-107043A099A260AF61373E686DCF3405#lc=ListOffers-Score3-4",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Azcapotzalco, Ciudad",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor/a de Vídeo",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-editora-de-video-en-bogota-dc-CCDCCE034A1A341A61373E686DCF3405#lc=ListOffers-Score3-4",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "TURISMED COLOMBIA SAS",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "3d_modeler",
+      "label": "3D Modeler",
+      "job_count": 13,
+      "jobs": [
+        {
+          "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
+          "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
+          "score": 14,
+          "specialties": [
+            "3d_modeler",
+            "technical_artist",
+            "rigger",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
+          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
+          "score": 9,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Bad Source is hiring a 3D Character Modeler to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/bad-source-3d-character-modeler",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I'm an indie developer seeking a modeler to bring our cast of characters from concept art into game-ready 3D. Tags: [Art & Animation] [Freelance]",
+          "score": 8,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator",
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
+          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
+          "score": 8,
+          "specialties": [
+            "3d_modeler",
+            "render"
+          ]
+        },
+        {
+          "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We’re hiring a 3D Artist who’s as comfortable modeling in Blender as they are setting assets up in Unity. Tags: [Art & Animation] [Full Time]",
+          "score": 6,
+          "specialties": [
+            "3d_modeler",
+            "3d_animator",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
+          "url": "https://polycount.com/discussion/238591/hiring-realtime-technical-asset-specialist-for-optimization-mesh-retopology-and-material-conversion",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Greetings! We are developing a premium browser-based 3D configurator for fiberglass swimming pools and are looking for an experienced realtime technical artist / game-ready asset specialist to assist with optimization, retopology, material conversion, and realtime rendering workflows. We need",
+          "score": 6,
+          "specialties": [
+            "3d_modeler",
+            "technical_artist",
+            "render"
+          ]
+        },
+        {
+          "title": "Dibujante  Solidworks",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-solidworks-en-san-luis-potosi-2500EBA095D12DFF61373E686DCF3405#lc=ListOffers-Score3-11",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Potosí, San",
+          "score": 6,
+          "specialties": [
+            "3d_modeler",
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
+          "url": "https://blenderartists.org/t/paid-hiring-solo-blender-modelers-residential-3d-for-three-js/1640125",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "I’m hiring solo junior-to-mid freelancers for real, ongoing paid Blender work at BASE, a residential 3D visualization platform.\nProduction work: low-poly home interiors and exteriors that render in Three.js on the web. Asset-store fixtures OK. Clean shell modeling, spec-driven, fast turnaround. Not",
+          "score": 5,
+          "specialties": [
+            "3d_modeler",
+            "render"
+          ]
+        },
+        {
+          "title": "[PAID] Freelance 3D Artist - Emerald Ash Borer",
+          "url": "https://polycount.com/discussion/238672/paid-freelance-3d-artist-emerald-ash-borer",
+          "source": "Polycount Freelance",
+          "country": "Uk",
+          "region": "us_canada_europe",
+          "description": "Hi everyone,We’re looking for freelance 3D artists experienced in creating realistic 3D models.Task: Create a photorealistic model of a pest beetle. Use the main reference for modeling:",
+          "score": 4,
+          "specialties": [
+            "3d_modeler",
+            "generalist"
+          ]
+        },
+        {
+          "title": "[PAID] Freelance 3D Creature Artists - Realistic High-Poly Animals - Zbrush & XGen",
+          "url": "https://polycount.com/discussion/238585/paid-freelance-3d-creature-artists-realistic-high-poly-animals-zbrush-xgen",
+          "source": "Polycount Freelance",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Hi everyone,We’re Lucid Realm Studio, an indie 3D game art production team, currently looking for freelance 3D artists experienced in creating realistic high-poly animals for an Action Adventure game with near-AAA visual quality.We have attached reference images to showcase the target quality",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
+          "title": "Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling",
+          "url": "https://blenderartists.org/t/hiring-a-blender-artist-for-paid-1-1-mentoring-anime-chibi-character-modeling/1641273",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Title: Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling\n\nHi,\nI’m hiring a Blender artist for paid 1:1 mentoring in anime chibi character modeling, from scratch in Blender. Reference style below.\n\n\nType of project: Paid 1:1 mentoring. I learn by doing work and getting",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
+          "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
+          "url": "https://blenderartists.org/t/looking-for-a-paid-1-1-tutor-stylized-3d-character-modeling-blender-kirby-nintendo-style/1641073",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
+          ]
+        },
+        {
+          "title": "Animador 3D Ref 25 584",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-ref-25-584",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Animadores 3d , Solo en 3ds Max. Responsabilidades: Animacion 3d Requerimientos excluyentes: Manejo avanzado del software Requerimientos no excluyentes: Edad: 18-60 Lugar de trabajo: Remoto / Argentina Modalidad: Freelance Vacantes: 3 Postulate Aquí Si no tenés tu CV cargado en la nube lo podés",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
           ]
         }
       ]
@@ -3166,7 +2906,7 @@
     {
       "slug": "production",
       "label": "Production",
-      "job_count": 11,
+      "job_count": 10,
       "jobs": [
         {
           "title": "Generalista 3D Ref 22 503",
@@ -3206,19 +2946,6 @@
           "specialties": [
             "production",
             "audio_composer"
-          ]
-        },
-        {
-          "title": "Industrial Design Project Manager (Fractional / Part-Time)",
-          "url": "https://www.behance.net/joblist/352653/Industrial-Design-Project-Manager-(Fractional-Part-Time)",
-          "source": "Behance Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Industrial Design Project Manager (Fractional / Part-Time)Location: San Jose, CA ? On-Site Only (On-Site Applicants preferred and prioritized)Type: Part-Time / Fractional (Ongoing) ? approximately 15?25 hours per weekCompensation: $55?$65/hour, depending on experienceStart: July 1, 2026About Hatch",
-          "score": 4,
-          "specialties": [
-            "production",
-            "cad_designer"
           ]
         },
         {
@@ -3308,129 +3035,6 @@
       ]
     },
     {
-      "slug": "3d_modeler",
-      "label": "3D Modeler",
-      "job_count": 9,
-      "jobs": [
-        {
-          "title": "Ride the Lion Studios is hiring a 3D Modeler (Skins / Outfits) to work from GMT-1 to GMT+7",
-          "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-3d-modeler-femaleskins-outfits",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We are looking for an experienced 3D Modeler that knows how to design and make very sexy skins and outfits for our adult game.  Tags: [Art & Animation] [Contract]",
-          "score": 9,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Bad Source is hiring a 3D Character Modeler to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/bad-source-3d-character-modeler",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "I'm an indie developer seeking a modeler to bring our cast of characters from concept art into game-ready 3D. Tags: [Art & Animation] [Freelance]",
-          "score": 8,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator",
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "[PAID] 3D Character Modeler needed — 7 stylized characters, 2-week turnaround",
-          "url": "https://blenderartists.org/t/paid-3d-character-modeler-needed-7-stylized-characters-2-week-turnaround/1641887",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi all,\nWe’re looking to hire a 3D character artist to build a set of 7 characters based on existing concept designs we already have. Answers to the standard questions below.\n1. Type of project: 3D character modeling. We need clean, render-ready character models only. Deliverables would be the",
-          "score": 8,
-          "specialties": [
-            "3d_modeler",
-            "render"
-          ]
-        },
-        {
-          "title": "Happy Lemon Games is hiring a 3D Artist (Unity) to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/happy-lemon-games-3d-artist-unity",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We’re hiring a 3D Artist who’s as comfortable modeling in Blender as they are setting assets up in Unity. Tags: [Art & Animation] [Full Time]",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "3d_animator",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Dibujante  Solidworks",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-solidworks-en-san-luis-potosi-2500EBA095D12DFF61373E686DCF3405#lc=ListOffers-Score3-11",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Potosí, San",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "[PAID] Hiring solo Blender modelers — residential 3D for Three.js",
-          "url": "https://blenderartists.org/t/paid-hiring-solo-blender-modelers-residential-3d-for-three-js/1640125",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "I’m hiring solo junior-to-mid freelancers for real, ongoing paid Blender work at BASE, a residential 3D visualization platform.\nProduction work: low-poly home interiors and exteriors that render in Three.js on the web. Asset-store fixtures OK. Clean shell modeling, spec-driven, fast turnaround. Not",
-          "score": 5,
-          "specialties": [
-            "3d_modeler",
-            "render"
-          ]
-        },
-        {
-          "title": "Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling",
-          "url": "https://blenderartists.org/t/hiring-a-blender-artist-for-paid-1-1-mentoring-anime-chibi-character-modeling/1641273",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Title: Hiring a Blender artist for paid 1:1 mentoring - anime chibi character modeling\n\nHi,\nI’m hiring a Blender artist for paid 1:1 mentoring in anime chibi character modeling, from scratch in Blender. Reference style below.\n\n\nType of project: Paid 1:1 mentoring. I learn by doing work and getting",
-          "score": 2,
-          "specialties": [
-            "3d_modeler"
-          ]
-        },
-        {
-          "title": "Looking for a paid 1:1 tutor, stylized 3D character modeling (Blender, Kirby/Nintendo-style)",
-          "url": "https://blenderartists.org/t/looking-for-a-paid-1-1-tutor-stylized-3d-character-modeling-blender-kirby-nintendo-style/1641073",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi,\nI’m looking to hire a Blender artist for paid async support as I learn stylized 3D character work. Not a one-off project, and not traditional hourly tutoring, more like ongoing access to someone experienced who can unstick me when I hit walls.\n\n\nType of project: Async mentorship / critique.",
-          "score": 2,
-          "specialties": [
-            "3d_modeler"
-          ]
-        },
-        {
-          "title": "Animador 3D Ref 25 584",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-ref-25-584",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Animadores 3d , Solo en 3ds Max. Responsabilidades: Animacion 3d Requerimientos excluyentes: Manejo avanzado del software Requerimientos no excluyentes: Edad: 18-60 Lugar de trabajo: Remoto / Argentina Modalidad: Freelance Vacantes: 3 Postulate Aquí Si no tenés tu CV cargado en la nube lo podés",
-          "score": 2,
-          "specialties": [
-            "3d_modeler"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "render",
       "label": "Render",
       "job_count": 9,
@@ -3474,6 +3078,20 @@
             "compositor",
             "render",
             "generalist"
+          ]
+        },
+        {
+          "title": "Hiring realtime technical asset specialist for optimization, mesh retopology and material conversion",
+          "url": "https://polycount.com/discussion/238591/hiring-realtime-technical-asset-specialist-for-optimization-mesh-retopology-and-material-conversion",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Greetings! We are developing a premium browser-based 3D configurator for fiberglass swimming pools and are looking for an experienced realtime technical artist / game-ready asset specialist to assist with optimization, retopology, material conversion, and realtime rendering workflows. We need",
+          "score": 6,
+          "specialties": [
+            "3d_modeler",
+            "technical_artist",
+            "render"
           ]
         },
         {
@@ -3540,131 +3158,95 @@
             "render",
             "generalist"
           ]
-        },
-        {
-          "title": "Senior Product Visualisation Artist",
-          "url": "https://www.behance.net/joblist/352575/Senior-Product-Visualisation-Artist",
-          "source": "Behance Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Voltex Electrical is hiring a Senior Product Visualisation Artist to own our product render pipeline from CAD files through to polished, photorealistic commercial imagery.This is a hands-on senior specialist role for someone who loves craft, detail and technical product accuracy. You'll create",
-          "score": 3,
-          "specialties": [
-            "render"
-          ]
         }
       ]
     },
     {
-      "slug": "video_production",
-      "label": "Video Production",
-      "job_count": 8,
+      "slug": "rigger",
+      "label": "Rigger",
+      "job_count": 6,
       "jobs": [
         {
-          "title": "Creative Video Editor &amp; AI Content Creator",
-          "url": "https://www.behance.net/joblist/352853/Creative-Video-Editor-AI-Content-Creator",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "ResponsibilitiesCreate and edit advertisements, branded content, reels, and social media videosUse AI tools to enhance video production, visuals, concepts, and workflowsDevelop engaging edits with strong storytelling, pacing, and sound designWork on campaign videos, product shoots, lifestyle",
-          "score": 8,
-          "specialties": [
-            "editor",
-            "writer",
-            "video_production"
-          ]
-        },
-        {
-          "title": "We are looking for a video editor / motion graphics",
-          "url": "https://www.behance.net/joblist/348589/We-are-looking-for-a-video-editor-motion-graphics",
-          "source": "Behance Jobs",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "Video Editor Job Description -100% on site- DULTHThis position is not available outside the United States. Please refrain from applying.Summary We're looking for a video editor with strong motion graphics capability who can take ownership of projects from raw footage through final delivery. This",
-          "score": 8,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Senior Motion Designer",
-          "url": "https://www.behance.net/joblist/352631/Senior-Motion-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Interface Media Group (IMG), Washington, DC's premier creative media production company, is looking for an exceptional Senior Motion Designer to join our team.We're seeking a highly creative visual storyteller with strong design instincts, advanced motion graphics/animation skills, and the ability",
-          "score": 7,
-          "specialties": [
-            "3d_animator",
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Motion graphic designer",
-          "url": "https://www.behance.net/joblist/332125/Motion-graphic-designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "ResponsibilitiesConceptualize, design, and animate motion graphics for digital, social, and video platformsCollaborate with the creative team to develop visual concepts and storyboardsEdit and enhance video footage with motion graphics and visual effectsEnsure brand consistency across all visuals",
-          "score": 6,
-          "specialties": [
-            "2d_artist",
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "XM: Turkish-Speaking Video & Motion Graphics Designer",
-          "url": "https://weworkremotely.com/remote-jobs/xm-turkish-speaking-video-motion-graphics-designer",
-          "source": "We Work Remotely Design",
+          "title": "[PAID][REMOTE] 3D Character Modeler / Technical Artist",
+          "url": "https://polycount.com/discussion/238613/paid-remote-3d-character-modeler-technical-artist",
+          "source": "Polycount Freelance",
           "country": "Remote",
           "region": "remote",
-          "description": "\n\nHeadquarters: Cyprus or Remote\n    URL: https://xm.com\n\n\nTurkish-Speaking Video & Motion Graphics Designer\n \nThe Role:\n \nAs a Video and Motion Graphics Designer, you will be responsible for producing professional, creative videos, and motion assets across our product range, marketing",
-          "score": 5,
+          "description": "Mercurial Dance are seeking a freelance 3D Character Technical Artist to support the development of VR game characters for EmbodyXR®Your RoleYou will create 5 x 3D VR ready human characters from our concept designs. The role focuses on the creation, rigging, optimisation, and technical preparation",
+          "score": 14,
           "specialties": [
-            "editor",
-            "video_production"
+            "3d_modeler",
+            "technical_artist",
+            "rigger",
+            "game_dev"
           ]
         },
         {
-          "title": "Motion Graphic Designer",
-          "url": "https://www.behance.net/joblist/353145/Motion-Graphic-Designer",
-          "source": "Behance Jobs",
+          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
+          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
+          "source": "WorkWithIndies",
           "country": "",
           "region": "remote",
-          "description": "About the jobMotionworx is evolving. As part of a broader shift into Nova ? a forward-thinking creative and technology-led environment ? we're expanding beyond traditional video production into more integrated, idea-driven content and digital experiences.We're currently looking for one strong",
-          "score": 4,
+          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
+          "score": 13,
           "specialties": [
-            "2d_artist",
-            "video_production"
+            "3d_animator",
+            "technical_artist",
+            "rigger",
+            "vfx_fx",
+            "game_dev"
           ]
         },
         {
-          "title": "Videographer / Motion Graphic Designer Aran?yor",
-          "url": "https://www.behance.net/joblist/352803/Videographer-Motion-Graphic-Designer-Aranyor",
-          "source": "Behance Jobs",
-          "country": "Uk",
-          "region": "us_canada_europe",
-          "description": "? Videographer / Motion Graphic DesignerAI destekli içerik üretim süreçlerinde aktif rol alabilecek, yarat?c? bak?? aç?s?na sahip bir videographer / motion graphic designer ar?yorum.Özellikle k?sa format video üretiminde h?zl? dü?ünebilen, sosyal medya trendlerini takip eden ve dinamik içerik",
-          "score": 4,
+          "title": "Mysteria Studio is hiring a Character Rigger & Animator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/mysteria-studio-character-rigger-animator",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position.  Tags: [Art & Animation] [Freelance]",
+          "score": 11,
           "specialties": [
-            "2d_artist",
-            "video_production"
+            "3d_animator",
+            "rigger"
           ]
         },
         {
-          "title": "Animador 2D Editor De Video Ref 22 513",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
+          "title": "Mysteria Studio UG is hiring Character Rigger & Animator (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-character-rigger-animator-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position. You will play a key role in bringing our PC Action RPG Asterfel to life, giving our hero, enemies, and monstrosities the movement and game feel that make them believable in combat and exploration. Both",
+          "score": 10,
+          "specialties": [
+            "3d_animator",
+            "rigger"
+          ]
+        },
+        {
+          "title": "[PAID] FPS Weapon Animator/Rigger Needed",
+          "url": "https://polycount.com/discussion/238556/paid-fps-weapon-animator-rigger-needed",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Hi everyone,We are looking for a first-person weapon animator/rigger for our tactical FPS project, built in s&box / Source 2.We will provide:weapon modelalready rigged first-person armstextures/materials (if requested)reference examples for weapon positioning and animation style (if requested)The",
+          "score": 9,
+          "specialties": [
+            "3d_animator",
+            "rigger"
+          ]
+        },
+        {
+          "title": "Two Walking cycles male or female",
+          "url": "https://blenderartists.org/t/two-walking-cycles-male-or-female/1640278",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hello,\nI need to create two walking cycles (animations and frames) for a medical article. The cycle needs to be highly accurate.\nhttps://www.preprints.org/manuscript/202603.0733\nI’m familiar with Blender, but I must admit I’m a complete novice when it comes to rigging and armatures.\nThe subject can",
           "score": 4,
           "specialties": [
-            "editor",
-            "video_production"
+            "rigger",
+            "render"
           ]
         }
       ]
@@ -3743,63 +3325,58 @@
       ]
     },
     {
-      "slug": "rigger",
-      "label": "Rigger",
+      "slug": "texture_surfacing",
+      "label": "Texture / Surfacing",
       "job_count": 4,
       "jobs": [
         {
-          "title": "Vinci Games is hiring a Sr Tech Artist, VFX & Interaction (Social VR) to work from S.F. or North America",
-          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We’re looking for a hands-on Senior Technical Artist to own the VFX, pet animation polish, shaders, rigging, IK, cosmetics, diegetic UI, and technical art implementation for Ruffnauts. Tags: [Art & Animation] [Contract]",
-          "score": 13,
-          "specialties": [
-            "3d_animator",
-            "technical_artist",
-            "rigger",
-            "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Mysteria Studio is hiring a Character Rigger & Animator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/mysteria-studio-character-rigger-animator",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position.  Tags: [Art & Animation] [Freelance]",
-          "score": 11,
-          "specialties": [
-            "3d_animator",
-            "rigger"
-          ]
-        },
-        {
-          "title": "Mysteria Studio UG is hiring Character Rigger & Animator (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/mysteria-studio-ug-character-rigger-animator-remote-job",
+          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
           "source": "Remote Game Jobs",
           "country": "Remote",
           "region": "remote",
-          "description": "Mysteria Studio is seeking an experienced Character Rigger & Animator for a freelance position. You will play a key role in bringing our PC Action RPG Asterfel to life, giving our hero, enemies, and monstrosities the movement and game feel that make them believable in combat and exploration. Both",
-          "score": 10,
+          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
+          "score": 5,
           "specialties": [
-            "3d_animator",
-            "rigger"
+            "texture_surfacing",
+            "vfx_fx"
           ]
         },
         {
-          "title": "Two Walking cycles male or female",
-          "url": "https://blenderartists.org/t/two-walking-cycles-male-or-female/1640278",
+          "title": "I need an 11 second animation of a deer skull",
+          "url": "https://blenderartists.org/t/i-need-an-11-second-animation-of-a-deer-skull/1640611",
           "source": "BlenderArtists Paid Jobs",
           "country": "",
           "region": "remote",
-          "description": "Hello,\nI need to create two walking cycles (animations and frames) for a medical article. The cycle needs to be highly accurate.\nhttps://www.preprints.org/manuscript/202603.0733\nI’m familiar with Blender, but I must admit I’m a complete novice when it comes to rigging and armatures.\nThe subject can",
+          "description": "Hi there, I need an 11 second animation of a deer skull (realistic bone texture) stationary in the middle of frame. Over the 11 seconds it begins to grow moss across the skull and bleed slightly from the eyeballs.\nHappy to pay $125-175 for someone with the right portfolio.\nI have an 11 second",
           "score": 4,
           "specialties": [
-            "rigger",
-            "render"
+            "3d_animator",
+            "texture_surfacing"
+          ]
+        },
+        {
+          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
+          "score": 3,
+          "specialties": [
+            "texture_surfacing"
+          ]
+        },
+        {
+          "title": "[PAID] 3D Stylized Hand-painted Artists/Studios - MMORPG Armors",
+          "url": "https://polycount.com/discussion/238612/paid-3d-stylized-hand-painted-artists-studios-mmorpg-armors",
+          "source": "Polycount Freelance",
+          "country": "",
+          "region": "remote",
+          "description": "Hi everyone,We’re Lucid Realm Studio, an indie 3D game art production team, currently looking for mid-level freelance 3D artists experienced in creating stylized hand-painted armors for a stylized MMORPG project.Texture quality level and art direction is similar to WoW.Project StyleStylized",
+          "score": 3,
+          "specialties": [
+            "texture_surfacing"
           ]
         }
       ]
@@ -3866,21 +3443,8 @@
     {
       "slug": "layout_previs",
       "label": "Layout / Previs",
-      "job_count": 4,
+      "job_count": 3,
       "jobs": [
-        {
-          "title": "Senior Graphic Designer",
-          "url": "https://www.behance.net/joblist/335011/Senior-Graphic-Designer",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Prime Scale Creative is hiring a Senior Graphic Designer with a sharp eye for typography, strong creative instincts, and the ability to bring clarity, energy, and polish to every layout, whether it's a full brand identity, a product brochure, a pitch deck, or merchandise.We're a small, fast-moving",
-          "score": 5,
-          "specialties": [
-            "2d_artist",
-            "layout_previs"
-          ]
-        },
         {
           "title": "Looking for a Level Designer — Low-Poly Map",
           "url": "https://blenderartists.org/t/looking-for-a-level-designer-low-poly-map/1641045",
@@ -3916,108 +3480,6 @@
           "score": 2,
           "specialties": [
             "layout_previs"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "writer",
-      "label": "Writing / Content",
-      "job_count": 4,
-      "jobs": [
-        {
-          "title": "Creative Video Editor &amp; AI Content Creator",
-          "url": "https://www.behance.net/joblist/352853/Creative-Video-Editor-AI-Content-Creator",
-          "source": "Behance Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "ResponsibilitiesCreate and edit advertisements, branded content, reels, and social media videosUse AI tools to enhance video production, visuals, concepts, and workflowsDevelop engaging edits with strong storytelling, pacing, and sound designWork on campaign videos, product shoots, lifestyle",
-          "score": 8,
-          "specialties": [
-            "editor",
-            "writer",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Cozy Game Studio is hiring Narrative Designer (Mobile Games) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/cozy-game-studio-narrative-designer-mobile-games-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "We are looking for a Narrative Designer/Writer for a 4-month contract (preferably freelance) starting in May. As our Narrative Designer, you will play a pivotal role in shaping the soul of Spirit World. You will collaborate closely with the team to flesh out a cozy magical world that feels alive",
-          "score": 3,
-          "specialties": [
-            "writer"
-          ]
-        },
-        {
-          "title": "KO_OP is hiring a Community Manager & Content Creator (en/fr) to work from Canada",
-          "url": "https://www.workwithindies.com/careers/ko-op-community-manager-content-creator-en-fr",
-          "source": "WorkWithIndies",
-          "country": "Canada",
-          "region": "us_canada_europe",
-          "description": "KO_OP is looking to bring on a Community Manager / Content Creator to help create video assets for our upcoming multiplayer game Young Suns. Tags: [Marketing & Community] [Contract]",
-          "score": 2,
-          "specialties": [
-            "writer"
-          ]
-        },
-        {
-          "title": "Content Creator",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-content-creator-en-leon-B113901A62F62A7D61373E686DCF3405#lc=ListOffers-Score3-2",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - León, Guanajuato",
-          "score": 2,
-          "specialties": [
-            "writer"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "texture_surfacing",
-      "label": "Texture / Surfacing",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "Mudtek is hiring VFX Artist (Unity / Shader Graph) (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "VFX Artist (Unity / Shader Graph) - Mudtek\nAdditional compensation will come in the form of profit sharing tied to game sales and milestones. Please include your expected monthly salary with your application.\nCompany Description\nMudtek specializes in creating immersive multiplayer experiences that",
-          "score": 5,
-          "specialties": [
-            "texture_surfacing",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "I need an 11 second animation of a deer skull",
-          "url": "https://blenderartists.org/t/i-need-an-11-second-animation-of-a-deer-skull/1640611",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hi there, I need an 11 second animation of a deer skull (realistic bone texture) stationary in the middle of frame. Over the 11 seconds it begins to grow moss across the skull and bleed slightly from the eyeballs.\nHappy to pay $125-175 for someone with the right portfolio.\nI have an 11 second",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "texture_surfacing"
-          ]
-        },
-        {
-          "title": "Kiagu Studios is hiring Technical Shader Artist - Dark Fantasy Anime ARPG (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "To help us process your application efficiently, please start your email subject line with “[SSTACES]”.",
-          "score": 3,
-          "specialties": [
-            "texture_surfacing"
           ]
         }
       ]
@@ -4067,9 +3529,85 @@
       ]
     },
     {
+      "slug": "writer",
+      "label": "Writing / Content",
+      "job_count": 3,
+      "jobs": [
+        {
+          "title": "Cozy Game Studio is hiring Narrative Designer (Mobile Games) (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/cozy-game-studio-narrative-designer-mobile-games-remote-job",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We are looking for a Narrative Designer/Writer for a 4-month contract (preferably freelance) starting in May. As our Narrative Designer, you will play a pivotal role in shaping the soul of Spirit World. You will collaborate closely with the team to flesh out a cozy magical world that feels alive",
+          "score": 3,
+          "specialties": [
+            "writer"
+          ]
+        },
+        {
+          "title": "KO_OP is hiring a Community Manager & Content Creator (en/fr) to work from Canada",
+          "url": "https://www.workwithindies.com/careers/ko-op-community-manager-content-creator-en-fr",
+          "source": "WorkWithIndies",
+          "country": "Canada",
+          "region": "us_canada_europe",
+          "description": "KO_OP is looking to bring on a Community Manager / Content Creator to help create video assets for our upcoming multiplayer game Young Suns. Tags: [Marketing & Community] [Contract]",
+          "score": 2,
+          "specialties": [
+            "writer"
+          ]
+        },
+        {
+          "title": "Content Creator",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-content-creator-en-leon-B113901A62F62A7D61373E686DCF3405#lc=ListOffers-Score3-2",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - León, Guanajuato",
+          "score": 2,
+          "specialties": [
+            "writer"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "video_production",
+      "label": "Video Production",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "XM: Turkish-Speaking Video & Motion Graphics Designer",
+          "url": "https://weworkremotely.com/remote-jobs/xm-turkish-speaking-video-motion-graphics-designer",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: Cyprus or Remote\n    URL: https://xm.com\n\n\nTurkish-Speaking Video & Motion Graphics Designer\n \nThe Role:\n \nAs a Video and Motion Graphics Designer, you will be responsible for producing professional, creative videos, and motion assets across our product range, marketing",
+          "score": 5,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Animador 2D Editor De Video Ref 22 513",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
+          "source": "ImageCampus",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "other",
       "label": "Other",
-      "job_count": 60,
+      "job_count": 23,
       "jobs": [
         {
           "title": "Lighting Artist - Sony Imageworks",
@@ -4108,376 +3646,6 @@
           "country": "",
           "region": "remote",
           "description": "pls RT ECNIDRSS @entcareersnet  Indigenous Land Acknowledgement\n\nJob Summary\nAs an Associate Media Engineer, ... more ",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Arquiteto de Projetos Residenciais e Interiores (C147)",
-          "url": "https://www.catho.com.br/vagas/arquiteto-de-projetos-residenciais-e-interiores-c147/36825076",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "LIGAJOBS BY CONSTRULIGA - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Produtor de Vídeo (Belo Horizonte - MG) #1108",
-          "url": "https://www.catho.com.br/vagas/produtor-de-video-belo-horizonte-mg-1108/36836367",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "RHF Talentos Rio de Janeiro - Av. das Américas/RJ - Belo Horizonte",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Designer Pleno",
-          "url": "https://www.catho.com.br/vagas/designer-pleno/36866453",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "OSURE - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Designer Pleno",
-          "url": "https://www.catho.com.br/vagas/designer-pleno/36862567",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "ADECCO - MATRIZ - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Analista de Produto",
-          "url": "https://www.catho.com.br/vagas/analista-de-produto/36831426",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "ZEENTECH - São Bernardo do Campo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Designer de pintura",
-          "url": "https://www.catho.com.br/vagas/designer-de-pintura/36862677",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Empresa Confidencial - João Pessoa",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Técnico de Produtos - Manufatura",
-          "url": "https://www.catho.com.br/vagas/tecnico-de-produtos-manufatura/35940139",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "MAPDATA - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Arquiteto recém formado e Estagiário",
-          "url": "https://www.catho.com.br/vagas/arquiteto-recem-formado-e-estagiario/36879741",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "PORTO JACOB - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Operador Centro Usinagem",
-          "url": "https://www.catho.com.br/vagas/operador-centro-usinagem/36888139",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Empresa Confidencial - Caxias do Sul",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Auxiliar de Engenharia Agrimensura",
-          "url": "https://www.catho.com.br/vagas/auxiliar-de-engenharia-agrimensura/36883940",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "TOPO NORTE ENGENHARIA LTDA - Belo Horizonte",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Desenhista Cadista com domínio em modelagem 3D (BIM)",
-          "url": "https://www.catho.com.br/vagas/desenhista-cadista-com-dominio-em-modelagem-3d-bim/35812892",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Empresa Confidencial - Curitiba",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Engenheiro(a) Civil Arquiteto(a) para atuar em Modelagem 3D/BIM C134",
-          "url": "https://www.catho.com.br/vagas/engenheiroa-civil-arquitetoa-para-atuar-em-modelagem-3dbim-c134/36289490",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "LIGAJOBS BY CONSTRULIGA - Goiania",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Engenheiro(a) Civil Arquiteto(a) para atuar em Modelagem 3D/BIM C134",
-          "url": "https://www.catho.com.br/vagas/engenheiroa-civil-arquitetoa-para-atuar-em-modelagem-3dbim-c134/36289423",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "LIGAJOBS BY CONSTRULIGA - Santos",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Estágio em Arquitetura / Design de Interiores",
-          "url": "https://www.catho.com.br/vagas/estagio-em-arquitetura-design-de-interiores/36862966",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "DNA STUDIO - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Estágio em Arquitetura",
-          "url": "https://www.catho.com.br/vagas/estagio-em-arquitetura/36831255",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "CASA S MARCENARIA - Cotia",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "consultor de vendas",
-          "url": "https://www.catho.com.br/vagas/consultor-de-vendas/36884199",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "ID ARQUITETURA E DESIGN - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Modelista",
-          "url": "https://www.catho.com.br/vagas/modelista/36862781",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "SAMEK CONSULTORIA - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Animador 3D | Reconstituições 3D",
-          "url": "https://www.catho.com.br/vagas/animador-3d-reconstituicoes-3d/36359695",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "LAWTTA - Florianópolis",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Op. de Telemarketing Sac Multiskill (5x2)",
-          "url": "https://www.catho.com.br/vagas/op.-de-telemarketing-sac-multiskill-5x2/36879750",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Empresa Confidencial - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter Apresentador de Jogos",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos/36212365",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - Apresentador de Jogos",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos/35696277",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - Apresentador de Jogos",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos/35696278",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - Apresentador de Jogos",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos/35696307",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - Apresentador de Jogos",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos/35696308",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - Apresentador de Jogos",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos/35696310",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Master - Campinas",
-          "url": "https://www.catho.com.br/vagas/game-master-campinas/36675403",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "ESCAPE60 - Campinas",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "FQA - Game Tester",
-          "url": "https://www.catho.com.br/vagas/fqa-game-tester/35702924",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "TESTFLY - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Técnico em Games e Videogames | Doctor Fast",
-          "url": "https://www.catho.com.br/vagas/tecnico-em-games-e-videogames-doctor-fast/35832366",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "FASTGAIN - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - São Paulo > Bogotá",
-          "url": "https://www.catho.com.br/vagas/game-presenter-sao-paulo-bogota/35696285",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Arrise - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Game Presenter - Apresentador de Jogos Online- Sem experiencia",
-          "url": "https://www.catho.com.br/vagas/game-presenter-apresentador-de-jogos-online-sem-experiencia/36708060",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Cross Border talents - São Paulo",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Assistente de Parcerias - Brasil Game Show",
-          "url": "https://www.catho.com.br/vagas/assistente-de-parcerias-brasil-game-show/36588638",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BRASIL GAME SHOW - Niteroi",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Estagiário(a) Administrativo (a) - Brasil Game Show",
-          "url": "https://www.catho.com.br/vagas/estagiarioa-administrativo-a-brasil-game-show/36689060",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BRASIL GAME SHOW - Niteroi",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Vendedor(a) Loja de Games e Eletrônicos #1108",
-          "url": "https://www.catho.com.br/vagas/vendedora-loja-de-games-e-eletronicos-1108/36697741",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "RHF Talentos Rio de Janeiro - Av. das Américas/RJ - Teresópolis",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Vendedor(a) Loja de Games e Eletrônicos #1108",
-          "url": "https://www.catho.com.br/vagas/vendedora-loja-de-games-e-eletronicos-1108/36697746",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "RHF Talentos Rio de Janeiro - Av. das Américas/RJ - Cabo Frio",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Estagiário(a) de RH - Brasil Game Show",
-          "url": "https://www.catho.com.br/vagas/estagiarioa-de-rh-brasil-game-show/36689021",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BRASIL GAME SHOW - Niteroi",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Executivo de Vendas B2B - Brasil Game Show",
-          "url": "https://www.catho.com.br/vagas/executivo-de-vendas-b2b-brasil-game-show/36588668",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BRASIL GAME SHOW - Niteroi",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Estagiário(a) de Produção de Eventos - Brasil Game Show",
-          "url": "https://www.catho.com.br/vagas/estagiarioa-de-producao-de-eventos-brasil-game-show/36689041",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BRASIL GAME SHOW - Niteroi",
           "score": 0,
           "specialties": []
         },
