@@ -22,6 +22,7 @@ from src.scrapers.computrabajo import scrape_computrabajo
 from src.scrapers.catho import scrape_catho
 from src.scrapers.elempleo import scrape_elempleo
 from src.scrapers.cadcrowd import scrape_cadcrowd
+from src.scrapers.disney import scrape_disney
 
 
 EXCLUDED_TERMS = {"unpaid", "volunteer"}
@@ -93,6 +94,7 @@ def search_jobs():
     all_jobs.extend(scrape_catho(seen_urls))
     all_jobs.extend(scrape_elempleo(seen_urls))
     all_jobs.extend(scrape_cadcrowd(seen_urls))
+    all_jobs.extend(scrape_disney(seen_urls))
 
     valid_jobs: list[Job] = []
 
