@@ -169,9 +169,18 @@ SPECIALTIES: list[Specialty] = [
 ]
 
 
-def classify_job(title: str, description: str) -> list[str]:
+def classify_job(title: str, description: str, source: str = "") -> list[str]:
     content = (title + " " + description).lower()
     matched: list[str] = []
+
+    if source == "CadCrowd":
+        cad_spec = next((s for s in SPECIALTIES if s.slug == "cad_designer"), None)
+        if cad_spec:
+            for keyword in cad_spec.keywords:
+                if re.search(rf'\b{re.escape(keyword)}\b', content):
+                    matched.append("cad_designer")
+                    break
+        return matched
 
     for spec in SPECIALTIES:
         for keyword in spec.keywords:

@@ -105,7 +105,7 @@ def search_jobs():
         if job.source not in BYPASS_SOURCES and not _is_relevant(job.title, job.description):
             continue
 
-        job.specialties = classify_job(job.title, job.description)
+        job.specialties = classify_job(job.title, job.description, job.source)
         job.score = score_job(job.title, job.description)
         job.region = detect_region(job.country)
         valid_jobs.append(job)
