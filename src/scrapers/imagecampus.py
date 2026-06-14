@@ -151,6 +151,8 @@ def _check_site_access() -> bool:
     busqueda_links = [a.get("href") for a in soup.select("a") if a.get("href") and "/busqueda/" in a.get("href")]
     all_links = [a.get("href") for a in soup.select("a[href]") if a.get("href")]
     print(f"[ImageCampus] Listing: {len(html)}b | title={title[:60]} | enlaces totales={len(all_links)} | /busqueda/={len(busqueda_links)}")
+    if len(html) < 1000:
+        print(f"[ImageCampus] HTML completo ({len(html)}b): {html[:200]}")
     if not busqueda_links and all_links:
         print(f"[ImageCampus]   Muestra de enlaces: {all_links[:5]}")
     return len(busqueda_links) > 0
