@@ -1,5 +1,6 @@
 from urllib.parse import quote
 
+import requests
 from bs4 import BeautifulSoup
 
 from src.models import Job
@@ -10,6 +11,23 @@ from src.utils.html_utils import (
     is_job_covered,
     truncate_description,
 )
+from src.config import DEFAULT_USER_AGENT, DEFAULT_TIMEOUT
+
+
+_SESSION = requests.Session()
+_SESSION.headers.update({
+    "User-Agent": DEFAULT_USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://www.google.com/",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+})
 
 
 LISTING_URL = "https://www.imagecampus.edu.ar/busquedas"
@@ -17,10 +35,19 @@ _PAGE_CACHE: dict[str, str] = {}
 _MAX_SEARCH_TERMS = 15
 
 
+def _session_fetch(url: str) -> str | None:
+    try:
+        resp = _SESSION.get(url, timeout=DEFAULT_TIMEOUT)
+        resp.raise_for_status()
+        return resp.text
+    except Exception:
+        return None
+
+
 def _cached_fetch(url: str) -> str | None:
     if url in _PAGE_CACHE:
         return _PAGE_CACHE[url]
-    html = fetch_page(url)
+    html = _session_fetch(url)
     if html is not None:
         _PAGE_CACHE[url] = html
     return html
@@ -114,11 +141,30 @@ def _collect_all_urls() -> list[str]:
     return all_urls
 
 
+def _check_site_access() -> bool:
+    html = _session_fetch(LISTING_URL)
+    if not html:
+        print(f"[ImageCampus] No se pudo acceder a {LISTING_URL}")
+        return False
+    soup = BeautifulSoup(html, "html.parser")
+    title = soup.title.string.strip() if soup.title else "sin title"
+    busqueda_links = [a.get("href") for a in soup.select("a") if a.get("href") and "/busqueda/" in a.get("href")]
+    all_links = [a.get("href") for a in soup.select("a[href]") if a.get("href")]
+    print(f"[ImageCampus] Listing: {len(html)}b | title={title[:60]} | enlaces totales={len(all_links)} | /busqueda/={len(busqueda_links)}")
+    if not busqueda_links and all_links:
+        print(f"[ImageCampus]   Muestra de enlaces: {all_links[:5]}")
+    return len(busqueda_links) > 0
+
+
 def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
     jobs: list[Job] = []
+
+    if not _check_site_access():
+        return jobs
+
     all_urls = _collect_all_urls()
     if not all_urls:
-        print("[ImageCampus] No se encontraron URLs (sitio bloqueó o cambió)")
+        print("[ImageCampus] No se encontraron URLs tras recorrer listing + búsquedas")
         return jobs
 
     for href in all_urls:
