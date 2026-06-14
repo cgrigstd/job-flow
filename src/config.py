@@ -21,7 +21,7 @@ FEEDS = [
 
 ARC_DEV_URL = "https://arc.dev/en-ar/remote-jobs"
 
-BYPASS_SOURCES = {"Entertainment Careers", "Catho", "Elempleo", "InGameJob"}
+BYPASS_SOURCES = {"Entertainment Careers", "InGameJob"}
 
 IMAGE_CAMPUS_SEARCH_TERMS = [
     "3d", "vfx", "blender", "maya", "houdini",
