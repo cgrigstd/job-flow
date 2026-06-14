@@ -10,6 +10,7 @@ class Job:
     region: str = ""
     description: str = ""
     workplace: str = ""
+    posted_at: str = ""
     score: int = 0
     specialties: list[str] = field(default_factory=list)
 

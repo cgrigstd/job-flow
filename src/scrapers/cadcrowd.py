@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from bs4 import BeautifulSoup
 
 from src.models import Job
@@ -63,6 +65,14 @@ def _extract_jobs(html: str) -> list[dict]:
         time_el = card.select_one("time.timeago")
         datetime_str = time_el.get("datetime", "") if time_el else ""
 
+        posted_at = ""
+        if datetime_str:
+            try:
+                dt = datetime.fromisoformat(datetime_str.replace("Z", "+00:00"))
+                posted_at = dt.strftime("%Y-%m-%d")
+            except (ValueError, TypeError):
+                posted_at = ""
+
         jobs.append({
             "url": url,
             "title": title,
@@ -70,13 +80,13 @@ def _extract_jobs(html: str) -> list[dict]:
             "workplace": workplace,
             "description": description,
             "country": country,
-            "datetime": datetime_str,
+            "posted_at": posted_at,
         })
 
     return jobs
 
 
-def scrape_cadcrowd(seen_urls: set[str]) -> list[Job]:
+def scrape_cadcrowd(seen_urls: set[str], cutoff: datetime | None = None) -> list[Job]:
     jobs: list[Job] = []
     collected_urls: set[str] = set()
 
@@ -96,6 +106,15 @@ def scrape_cadcrowd(seen_urls: set[str]) -> list[Job]:
         for r in results:
             if r["url"] in seen_urls or r["url"] in collected_urls:
                 continue
+
+            if cutoff and r["posted_at"]:
+                try:
+                    job_date = datetime.strptime(r["posted_at"], "%Y-%m-%d")
+                    if job_date < cutoff:
+                        continue
+                except ValueError:
+                    pass
+
             collected_urls.add(r["url"])
 
             jobs.append(Job(
@@ -105,6 +124,7 @@ def scrape_cadcrowd(seen_urls: set[str]) -> list[Job]:
                 country=r["country"],
                 workplace=r["workplace"],
                 description=r["description"],
+                posted_at=r["posted_at"],
             ))
 
     for job in jobs:

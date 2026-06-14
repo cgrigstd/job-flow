@@ -33,12 +33,15 @@ def scrape_rss_feed(
 
     for entry in feed.entries:
         published = getattr(entry, "published_parsed", None)
+        posted_at = ""
 
         if published:
             job_date = datetime(*published[:6])
 
             if job_date < cutoff:
                 continue
+
+            posted_at = job_date.strftime("%Y-%m-%d")
 
         if entry.link in seen_urls:
             continue
@@ -61,6 +64,7 @@ def scrape_rss_feed(
             source=name,
             country=country,
             description=description,
+            posted_at=posted_at,
         )
         jobs.append(job)
 

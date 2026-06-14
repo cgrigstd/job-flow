@@ -1,3 +1,6 @@
+import re
+from datetime import datetime, timedelta
+
 from bs4 import BeautifulSoup
 
 from src.models import Job
@@ -13,6 +16,42 @@ _CATEGORIES = [
 ]
 _MAX_PAGES = 10
 _MAX_JOBS = 100
+
+
+def _parse_disney_date(date_text: str) -> str:
+    if not date_text:
+        return ""
+    text = date_text.lower().strip()
+    now = datetime.now()
+
+    m = re.search(r"(\d+)\s+day", text)
+    if m:
+        days = int(m.group(1))
+        return (now - timedelta(days=days)).strftime("%Y-%m-%d")
+
+    m = re.search(r"(\d+)\s+week", text)
+    if m:
+        weeks = int(m.group(1))
+        return (now - timedelta(weeks=weeks)).strftime("%Y-%m-%d")
+
+    m = re.search(r"(\d+)\s+month", text)
+    if m:
+        months = int(m.group(1))
+        return (now - timedelta(days=months * 30)).strftime("%Y-%m-%d")
+
+    if "today" in text:
+        return now.strftime("%Y-%m-%d")
+
+    if "yesterday" in text:
+        return (now - timedelta(days=1)).strftime("%Y-%m-%d")
+
+    for fmt in ("%m/%d/%Y", "%Y-%m-%d", "%B %d, %Y", "%b %d, %Y"):
+        try:
+            return datetime.strptime(date_text.strip(), fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+
+    return ""
 
 
 def _extract_jobs(html: str) -> list[dict]:
@@ -43,13 +82,14 @@ def _extract_jobs(html: str) -> list[dict]:
 
         date_el = link.select_one("span.job-date-posted")
         date_posted = date_el.get_text(strip=True) if date_el else ""
+        posted_at = _parse_disney_date(date_posted)
 
         jobs.append({
             "url": url,
             "title": title,
             "brand": brand,
             "location": location,
-            "date_posted": date_posted,
+            "posted_at": posted_at,
         })
 
     return jobs
@@ -67,7 +107,7 @@ def _get_total_pages(html: str) -> int:
     return 1
 
 
-def scrape_disney(seen_urls: set[str]) -> list[Job]:
+def scrape_disney(seen_urls: set[str], cutoff: datetime | None = None) -> list[Job]:
     jobs: list[Job] = []
     collected_urls: set[str] = set()
 
@@ -102,11 +142,20 @@ def scrape_disney(seen_urls: set[str]) -> list[Job]:
             for r in results:
                 if r["url"] in seen_urls or r["url"] in collected_urls:
                     continue
+
+                if cutoff and r["posted_at"]:
+                    try:
+                        job_date = datetime.strptime(r["posted_at"], "%Y-%m-%d")
+                        if job_date < cutoff:
+                            continue
+                    except ValueError:
+                        pass
+
                 collected_urls.add(r["url"])
 
                 description = f"{r['brand']} | {r['location']}"
-                if r["date_posted"]:
-                    description += f" | Posted: {r['date_posted']}"
+                if r["posted_at"]:
+                    description += f" | Posted: {r['posted_at']}"
 
                 jobs.append(Job(
                     title=r["title"],
@@ -115,6 +164,7 @@ def scrape_disney(seen_urls: set[str]) -> list[Job]:
                     country=r["location"],
                     workplace="On-site",
                     description=description,
+                    posted_at=r["posted_at"],
                 ))
 
     for job in jobs:
