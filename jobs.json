@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-06-14 22:58",
-  "total_jobs": 318,
+  "updated": "2026-06-14 23:30",
+  "total_jobs": 316,
   "filters": {
     "regions": [
       "latin_america",
@@ -1551,7 +1551,7 @@
     {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 30,
+      "job_count": 34,
       "jobs": [
         {
           "title": "Senior 3D Animator / Rigger / Lead Artist (Photorealistic Human Animation) Blender",
@@ -1682,6 +1682,51 @@
           "score": 6,
           "specialties": [
             "3d_animator"
+          ]
+        },
+        {
+          "title": "Character Effects Artist - DreamWorks Animation",
+          "url": "https://www.entertainmentcareers.net/dreamworks-animation/character-effects-artist/job/522835/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  “What would you say you do here?”\n• Designs and crafts character effects such as cloth and ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "Associate Animation Technical Director - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/associate-animation-technical-director/job/522775/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Animation Assistant Technical Director\n\n658 Homer Street., Suite 405, Vancouver, ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Associate Technical Director in Animation - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/associate-technical-director-in-animation/job/522776/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Associé(e) directeur(trice) technique en animation (ATD Animation)\n\n700, rue Saint-Hubert, ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
           ]
         },
         {
@@ -1834,6 +1879,20 @@
           "workplace": "remote",
           "posted_at": "",
           "score": 3,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Unreal Engine Animator - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/unreal-engine-animator/job/523138/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  658 Homer Street., Suite 405, Vancouver, BC, V6B 2R4\n\nLanguage in work environment ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-13",
+          "score": 2,
           "specialties": [
             "3d_animator"
           ]
@@ -2347,10 +2406,277 @@
       ]
     },
     {
+      "slug": "technical_artist",
+      "label": "Technical Artist",
+      "job_count": 17,
+      "jobs": [
+        {
+          "title": "3D Technical Artist (Animation & Game Feel)",
+          "url": "https://mx.ingamejob.com/en/job/senior-3d-artist-generalist-1",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "HyperVR Games - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 9,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Generalist Technical Artist",
+          "url": "https://mx.ingamejob.com/en/job/generalist-technical-artist",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 9,
+          "specialties": [
+            "technical_artist",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Generalist Technical Artist - Playable ads",
+          "url": "https://mx.ingamejob.com/en/job/generalist-playable-ads",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "WonderBrains Recruiting Agency - Remote - Middle - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 8,
+          "specialties": [
+            "technical_artist",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Unreal Technical Artist",
+          "url": "https://mx.ingamejob.com/en/job/unreal-technical-artist-3",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Kevuru Games - Remote - Senior - Freelance",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 7,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Senior Technical Artist (Unity, C#)",
+          "url": "https://mx.ingamejob.com/en/job/senior-technical-artist-unity-c",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Cubic Games - Relocate, Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 7,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Senior Technical Artist - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/senior-technical-artist/job/522771/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 6,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Sr Tech Artist, VFX & Interaction (Social VR)",
+          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
+          "source": "Work With Indies",
+          "country": "S.F. or North America",
+          "region": "other",
+          "description": "Vinci Games | S.F. or North America",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 6,
+          "specialties": [
+            "technical_artist",
+            "vfx_fx",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Senior Technical Artist (m/f/d)",
+          "url": "https://www.workwithindies.com/careers/torpor-games-senior-technical-artist-m-f-d",
+          "source": "Work With Indies",
+          "country": "Berlin, DE",
+          "region": "other",
+          "description": "Torpor Games | Berlin, DE",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 6,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Unity Technical Artist",
+          "url": "https://mx.ingamejob.com/en/job/unity-technical-artist-23",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Dream Team Base - Remote - Middle - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 6,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Technical Artist - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/technical-artist/job/522797/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThis posting is an opportunity to submit your resume for future consideration; this is not ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Technical Artist Support Specialist - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/technical-artist-support-specialist/job/522586/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  As a Technical Artist Support, you will be responsible for helping assigned departments to solve basic ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "3D Character Technical Artist",
+          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
+          "source": "Work With Indies",
+          "country": "United Kingdom",
+          "region": "us_canada_europe",
+          "description": "Mercurial Dance | United Kingdom",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Associate Animation Technical Director - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/associate-animation-technical-director/job/522775/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Animation Assistant Technical Director\n\n658 Homer Street., Suite 405, Vancouver, ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Associate Technical Director in Animation - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/associate-technical-director-in-animation/job/522776/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Associé(e) directeur(trice) technique en animation (ATD Animation)\n\n700, rue Saint-Hubert, ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Lead Creature Technical Director - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lead-creature-technical-director/job/522937/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nThe Lead Creature TD is responsible for providing creative ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-11",
+          "score": 2,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Unreal Tech Artist",
+          "url": "https://www.workwithindies.com/careers/skymap-games-unreal-tech-artist",
+          "source": "Work With Indies",
+          "country": "Quebec",
+          "region": "other",
+          "description": "Skymap Games | Quebec",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "technical_artist"
+          ]
+        },
+        {
+          "title": "Indie Tech Artist (Environment)",
+          "url": "https://www.workwithindies.com/careers/white-lotus-interactive-indie-tech-artist-environment",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "White Lotus Interactive | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "technical_artist"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "production",
       "label": "Production",
-      "job_count": 15,
+      "job_count": 16,
       "jobs": [
+        {
+          "title": "Production Assistant - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-assistant/job/513930/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  700 Rue Saint-Hubert, Suite 400, Montreal QC HY2 0C1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 7,
+          "specialties": [
+            "production",
+            "video_production"
+          ]
+        },
         {
           "title": "Freelancer Production Assistant – Booking (Expression of Interest) (ABC News)",
           "url": "https://www.disneycareers.com/en/job/new-york/freelancer-production-assistant-booking-expression-of-interest-abc-news/391/96346339328",
@@ -2770,6 +3096,199 @@
       ]
     },
     {
+      "slug": "editor",
+      "label": "Editor / Post",
+      "job_count": 13,
+      "jobs": [
+        {
+          "title": "Looking for archiviz and video editor freelancers",
+          "url": "https://blenderartists.org/t/looking-for-archiviz-and-video-editor-freelancers/1644872",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hello, I hope everyone is doing well!\nMarfurt 3D is looking to expand its database of freelancers we work with.\nWe are looking for professionals focused on the archviz field:\n3D modelers and texture artists\nVideo editors\nWe will save the contacts of the selected professionals to work in partnership",
+          "workplace": "",
+          "posted_at": "2026-06-14",
+          "score": 6,
+          "specialties": [
+            "texture_surfacing",
+            "editor"
+          ]
+        },
+        {
+          "title": "Post Production Engineer - 12 Month FTC",
+          "url": "https://www.disneycareers.com/en/job/sofia/post-production-engineer-12-month-ftc/391/96024592944",
+          "source": "Disney",
+          "country": "Sofia,  Bulgaria",
+          "region": "other",
+          "description": "Disney Entertainment and ESPN Product & Technology | Sofia,  Bulgaria",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Diseñador Multimedia 3D y Motion Graphics Bilingüe",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-3d-y-motion-graphics-bilingue-en-bogota-dc-0A1BD95FE4E3A37161373E686DCF3405#lc=ListOffers-Score3-0",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Diseñador Multimedia 3D y Motion Graphics Bilingüe",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-3d-y-motion-graphics-bilingue-en-bogota-dc-0A1BD95FE4E3A37161373E686DCF3405#lc=ListOffers-Score3-4",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Diseñador Multimedia 3D y Motion Graphics Bilingüe",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-3d-y-motion-graphics-bilingue-en-bogota-dc-0A1BD95FE4E3A37161373E686DCF3405#lc=ListOffers-Score4-0",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Multimedia Creative (Video Editor)",
+          "url": "https://www.workwithindies.com/careers/rune-multimedia-creative-video-editor",
+          "source": "Work With Indies",
+          "country": "United Kingdom",
+          "region": "us_canada_europe",
+          "description": "RUNE | United Kingdom",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Lead Motion Editor - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/lead-motion-editor/job/517071/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Position Summary:\n\nThe Lead Motion Editor will collaborate with the Motion Edit ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Motion Editor - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/motion-editor/job/517072/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Motion Editor (All Levels) -  ILM London\n\nJob Summary:\n\nPosition ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Medical Editor",
+          "url": "https://remoteOK.com/remote-jobs/remote-medical-editor-synchrony-group-llc-1133291",
+          "source": "Remote OK Dev",
+          "country": "Usa",
+          "region": "us_canada_europe",
+          "description": "Be part of something great!Synchrony Group is an independently owned network of companies, headquartered in West Chester, PA.At Synchrony, we are dedicated to providing the highest quality products and services in the medical communications industry. Our vision is to create the highest value for",
+          "workplace": "",
+          "posted_at": "2026-06-11",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor audiovisual",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-audiovisual-corporativo-en-azcapotzalco-107043A099A260AF61373E686DCF3405#lc=ListOffers-Score3-2",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Azcapotzalco, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor de Video",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-de-video-corporativo-en-azcapotzalco-E7866CBF52EC61AA61373E686DCF3405#lc=ListOffers-Score3-3",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Azcapotzalco, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor/a de Vídeo",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-editora-de-video-en-bogota-dc-CCDCCE034A1A341A61373E686DCF3405#lc=ListOffers-Score3-7",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "TURISMED COLOMBIA SAS",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Creative Trailer Editor",
+          "url": "https://www.workwithindies.com/careers/quest-fox-creative-trailer-editor",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Quest Fox | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "generalist",
       "label": "Generalist",
       "job_count": 12,
@@ -2951,83 +3470,10 @@
       ]
     },
     {
-      "slug": "technical_artist",
-      "label": "Technical Artist",
-      "job_count": 11,
+      "slug": "vfx_fx",
+      "label": "VFX / FX",
+      "job_count": 8,
       "jobs": [
-        {
-          "title": "3D Technical Artist (Animation & Game Feel)",
-          "url": "https://mx.ingamejob.com/en/job/senior-3d-artist-generalist-1",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "HyperVR Games - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Generalist Technical Artist",
-          "url": "https://mx.ingamejob.com/en/job/generalist-technical-artist",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "technical_artist",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Generalist Technical Artist - Playable ads",
-          "url": "https://mx.ingamejob.com/en/job/generalist-playable-ads",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "WonderBrains Recruiting Agency - Remote - Middle - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "technical_artist",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Unreal Technical Artist",
-          "url": "https://mx.ingamejob.com/en/job/unreal-technical-artist-3",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Kevuru Games - Remote - Senior - Freelance",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Senior Technical Artist (Unity, C#)",
-          "url": "https://mx.ingamejob.com/en/job/senior-technical-artist-unity-c",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Cubic Games - Relocate, Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
         {
           "title": "Sr Tech Artist, VFX & Interaction (Social VR)",
           "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
@@ -3045,238 +3491,102 @@
           ]
         },
         {
-          "title": "Senior Technical Artist (m/f/d)",
-          "url": "https://www.workwithindies.com/careers/torpor-games-senior-technical-artist-m-f-d",
-          "source": "Work With Indies",
-          "country": "Berlin, DE",
-          "region": "other",
-          "description": "Torpor Games | Berlin, DE",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Unity Technical Artist",
-          "url": "https://mx.ingamejob.com/en/job/unity-technical-artist-23",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Dream Team Base - Remote - Middle - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "3D Character Technical Artist",
-          "url": "https://www.workwithindies.com/careers/mercurial-dance-3d-character-technical-artist",
-          "source": "Work With Indies",
-          "country": "United Kingdom",
-          "region": "us_canada_europe",
-          "description": "Mercurial Dance | United Kingdom",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Unreal Tech Artist",
-          "url": "https://www.workwithindies.com/careers/skymap-games-unreal-tech-artist",
-          "source": "Work With Indies",
-          "country": "Quebec",
-          "region": "other",
-          "description": "Skymap Games | Quebec",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Indie Tech Artist (Environment)",
-          "url": "https://www.workwithindies.com/careers/white-lotus-interactive-indie-tech-artist-environment",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "White Lotus Interactive | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "editor",
-      "label": "Editor / Post",
-      "job_count": 11,
-      "jobs": [
-        {
-          "title": "Looking for archiviz and video editor freelancers",
-          "url": "https://blenderartists.org/t/looking-for-archiviz-and-video-editor-freelancers/1644872",
-          "source": "BlenderArtists Paid Jobs",
+          "title": "Character Effects Artist - DreamWorks Animation",
+          "url": "https://www.entertainmentcareers.net/dreamworks-animation/character-effects-artist/job/522835/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
           "country": "",
           "region": "remote",
-          "description": "Hello, I hope everyone is doing well!\nMarfurt 3D is looking to expand its database of freelancers we work with.\nWe are looking for professionals focused on the archviz field:\n3D modelers and texture artists\nVideo editors\nWe will save the contacts of the selected professionals to work in partnership",
+          "description": "pls RT ECNIDRSS @entcareersnet  “What would you say you do here?”\n• Designs and crafts character effects such as cloth and ... more ",
           "workplace": "",
-          "posted_at": "2026-06-14",
-          "score": 6,
-          "specialties": [
-            "texture_surfacing",
-            "editor"
-          ]
-        },
-        {
-          "title": "Post Production Engineer - 12 Month FTC",
-          "url": "https://www.disneycareers.com/en/job/sofia/post-production-engineer-12-month-ftc/391/96024592944",
-          "source": "Disney",
-          "country": "Sofia,  Bulgaria",
-          "region": "other",
-          "description": "Disney Entertainment and ESPN Product & Technology | Sofia,  Bulgaria",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Diseñador Multimedia 3D y Motion Graphics Bilingüe",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-3d-y-motion-graphics-bilingue-en-bogota-dc-0A1BD95FE4E3A37161373E686DCF3405#lc=ListOffers-Score3-0",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "",
-          "workplace": "",
-          "posted_at": "",
+          "posted_at": "2026-06-10",
           "score": 4,
           "specialties": [
-            "editor",
-            "video_production"
+            "3d_animator",
+            "vfx_fx"
           ]
         },
         {
-          "title": "Diseñador Multimedia 3D y Motion Graphics Bilingüe",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-3d-y-motion-graphics-bilingue-en-bogota-dc-0A1BD95FE4E3A37161373E686DCF3405#lc=ListOffers-Score3-4",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "",
+          "title": "Visual Effects Supervisor - MSG Entertainment",
+          "url": "https://www.entertainmentcareers.net/msg-entertainment/visual-effects-supervisor/job/522619/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nWe are looking for a Visual Effects Supervisor to join a groundbreaking VFX team based in ... more ",
           "workplace": "",
-          "posted_at": "",
+          "posted_at": "2026-06-08",
           "score": 4,
           "specialties": [
-            "editor",
-            "video_production"
+            "vfx_fx"
           ]
         },
         {
-          "title": "Diseñador Multimedia 3D y Motion Graphics Bilingüe",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-3d-y-motion-graphics-bilingue-en-bogota-dc-0A1BD95FE4E3A37161373E686DCF3405#lc=ListOffers-Score4-0",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "",
+          "title": "Senior Unreal FX Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/senior-unreal-fx-artist/job/522760/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  658 Homer Street., Suite 405, Vancouver, BC, V6B 2R4\n\nLanguage in work environment ... more ",
           "workplace": "",
-          "posted_at": "",
-          "score": 4,
+          "posted_at": "2026-06-10",
+          "score": 3,
           "specialties": [
-            "editor",
-            "video_production"
+            "vfx_fx"
           ]
         },
         {
-          "title": "Multimedia Creative (Video Editor)",
-          "url": "https://www.workwithindies.com/careers/rune-multimedia-creative-video-editor",
-          "source": "Work With Indies",
-          "country": "United Kingdom",
-          "region": "us_canada_europe",
-          "description": "RUNE | United Kingdom",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Medical Editor",
-          "url": "https://remoteOK.com/remote-jobs/remote-medical-editor-synchrony-group-llc-1133291",
-          "source": "Remote OK Dev",
-          "country": "Usa",
-          "region": "us_canada_europe",
-          "description": "Be part of something great!Synchrony Group is an independently owned network of companies, headquartered in West Chester, PA.At Synchrony, we are dedicated to providing the highest quality products and services in the medical communications industry. Our vision is to create the highest value for",
-          "workplace": "",
-          "posted_at": "2026-06-11",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor audiovisual",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-audiovisual-corporativo-en-azcapotzalco-107043A099A260AF61373E686DCF3405#lc=ListOffers-Score3-2",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Azcapotzalco, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor de Video",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-de-video-corporativo-en-azcapotzalco-E7866CBF52EC61AA61373E686DCF3405#lc=ListOffers-Score3-3",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Azcapotzalco, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor/a de Vídeo",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-editora-de-video-en-bogota-dc-CCDCCE034A1A341A61373E686DCF3405#lc=ListOffers-Score3-7",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "TURISMED COLOMBIA SAS",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Creative Trailer Editor",
-          "url": "https://www.workwithindies.com/careers/quest-fox-creative-trailer-editor",
+          "title": "Senior Unity VFX Artist",
+          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
           "source": "Work With Indies",
           "country": "Anywhere",
           "region": "other",
-          "description": "Quest Fox | Anywhere",
+          "description": "Happy Cauldron Games | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 3,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "VFX Artist - Dhar Mann Studios",
+          "url": "https://www.entertainmentcareers.net/dhar-mann-studios/vfx-artist/job/519889/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  BIG PICTURE:\n\nWe are searching for a talented and detailed VFX Artist to help us ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "VFX Artist",
+          "url": "https://www.workwithindies.com/careers/cakefish-vfx-artist",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Cakefish | Anywhere",
           "workplace": "Remote",
           "posted_at": "",
           "score": 2,
           "specialties": [
-            "editor"
+            "vfx_fx"
+          ]
+        },
+        {
+          "title": "UE5 Real Time VFX Artist",
+          "url": "https://www.workwithindies.com/careers/promorte-games-ue5-real-time-vfx-artist",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Promorte Games | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "vfx_fx"
           ]
         }
       ]
@@ -3439,75 +3749,25 @@
       ]
     },
     {
-      "slug": "vfx_fx",
-      "label": "VFX / FX",
-      "job_count": 4,
-      "jobs": [
-        {
-          "title": "Sr Tech Artist, VFX & Interaction (Social VR)",
-          "url": "https://www.workwithindies.com/careers/vinci-games-sr-tech-artist-vfx-interaction-social-vr",
-          "source": "Work With Indies",
-          "country": "S.F. or North America",
-          "region": "other",
-          "description": "Vinci Games | S.F. or North America",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx",
-            "game_dev"
-          ]
-        },
-        {
-          "title": "Senior Unity VFX Artist",
-          "url": "https://www.workwithindies.com/careers/happy-cauldron-games-senior-unity-vfx-artist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Happy Cauldron Games | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "VFX Artist",
-          "url": "https://www.workwithindies.com/careers/cakefish-vfx-artist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Cakefish | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "UE5 Real Time VFX Artist",
-          "url": "https://www.workwithindies.com/careers/promorte-games-ue5-real-time-vfx-artist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Promorte Games | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "video_production",
       "label": "Video Production",
-      "job_count": 4,
+      "job_count": 5,
       "jobs": [
+        {
+          "title": "Production Assistant - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-assistant/job/513930/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  700 Rue Saint-Hubert, Suite 400, Montreal QC HY2 0C1\n\nProject based, Full Time\n\nLanguage ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 7,
+          "specialties": [
+            "production",
+            "video_production"
+          ]
+        },
         {
           "title": "Freelancer Production Assistant – Booking (Expression of Interest) (ABC News)",
           "url": "https://www.disneycareers.com/en/job/new-york/freelancer-production-assistant-booking-expression-of-interest-abc-news/391/96346339328",
@@ -3620,6 +3880,56 @@
       ]
     },
     {
+      "slug": "texture_surfacing",
+      "label": "Texture / Surfacing",
+      "job_count": 3,
+      "jobs": [
+        {
+          "title": "Looking for archiviz and video editor freelancers",
+          "url": "https://blenderartists.org/t/looking-for-archiviz-and-video-editor-freelancers/1644872",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hello, I hope everyone is doing well!\nMarfurt 3D is looking to expand its database of freelancers we work with.\nWe are looking for professionals focused on the archviz field:\n3D modelers and texture artists\nVideo editors\nWe will save the contacts of the selected professionals to work in partnership",
+          "workplace": "",
+          "posted_at": "2026-06-14",
+          "score": 6,
+          "specialties": [
+            "texture_surfacing",
+            "editor"
+          ]
+        },
+        {
+          "title": "Senior Texture Artist - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/senior-texture-artist/job/522819/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nAre you a creative visionary with a passion for bringing ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-10",
+          "score": 5,
+          "specialties": [
+            "texture_surfacing"
+          ]
+        },
+        {
+          "title": "Digital Human Artist - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/digital-human-artist/job/517073/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Immersive (Model and Texture) -  ILM London\n\nJob Summary:\n\nPosition ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 2,
+          "specialties": [
+            "texture_surfacing"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "concept_artist",
       "label": "Concept Artist",
       "job_count": 3,
@@ -3719,28 +4029,6 @@
       ]
     },
     {
-      "slug": "texture_surfacing",
-      "label": "Texture / Surfacing",
-      "job_count": 1,
-      "jobs": [
-        {
-          "title": "Looking for archiviz and video editor freelancers",
-          "url": "https://blenderartists.org/t/looking-for-archiviz-and-video-editor-freelancers/1644872",
-          "source": "BlenderArtists Paid Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "Hello, I hope everyone is doing well!\nMarfurt 3D is looking to expand its database of freelancers we work with.\nWe are looking for professionals focused on the archviz field:\n3D modelers and texture artists\nVideo editors\nWe will save the contacts of the selected professionals to work in partnership",
-          "workplace": "",
-          "posted_at": "2026-06-14",
-          "score": 6,
-          "specialties": [
-            "texture_surfacing",
-            "editor"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "layout_previs",
       "label": "Layout / Previs",
       "job_count": 1,
@@ -3791,7 +4079,7 @@
     {
       "slug": "other",
       "label": "Other",
-      "job_count": 90,
+      "job_count": 72,
       "jobs": [
         {
           "title": "Roman Architecture 3d Modeler",
@@ -3863,6 +4151,18 @@
           "workplace": "Remote",
           "posted_at": "2026-06-09",
           "score": 6,
+          "specialties": []
+        },
+        {
+          "title": "Production Technology Systems Engineer - MSG Entertainment",
+          "url": "https://www.entertainmentcareers.net/msg-entertainment/production-technology-systems-engineer/job/522558/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nThe Senior Systems and Production Technology Engineer works closely with Corporate IT, engineering, ... more ",
+          "workplace": "",
+          "posted_at": "2026-06-08",
+          "score": 4,
           "specialties": []
         },
         {
@@ -4574,266 +4874,38 @@
           "specialties": []
         },
         {
-          "title": "Vacante inclusiva dirigida a personas con discapacidad-analista de pruebas qa",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/vacante-inclusiva-dirigida-a-personas-con-discapacidadanalista-de-pruebas-qa-1886726239",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "AGENCIA DE EMPLEO COLSUBSIDIO - Bogotá",
+          "title": "Environment Artist - Sony Imageworks",
+          "url": "https://www.entertainmentcareers.net/sony-imageworks/environment-artist/job/497501/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\n1285 W Pender St\nVancouver, BC V6E 4B1\n\nLanguage in work environment - English\n\nThe ... more ",
           "workplace": "",
-          "posted_at": "",
+          "posted_at": "2026-06-08",
           "score": 0,
           "specialties": []
         },
         {
-          "title": "Gerente de alto valor ii sector bancario bucaramanga",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/gerente-de-alto-valor-ii-sector-bancario-bucaramanga-1886726248",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "ADECCO COLOMBIA S A - Bogotá",
+          "title": "Technical Assistant - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/technical-assistant/job/517180/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  \nPosition Summary\n\nThe Technical Assistant position is an exciting opportunity ... more ",
           "workplace": "",
-          "posted_at": "",
+          "posted_at": "2026-06-08",
           "score": 0,
           "specialties": []
         },
         {
-          "title": "Coordinador de ventas bogotá",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/coordinador-de-ventas-bogota-1886679713",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "SUMMAR PRODUCTIVIDAD S.A.S - Bogotá",
+          "title": "Real-Time Environment Artist - Industrial Light & Magic",
+          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/real-time-environment-artist/job/522560/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  This posting is an opportunity to submit your resume for future consideration; this is not a role that ... more ",
           "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Vacante inclusiva dirigida a personas con discapacidad-qa automatizador - remoto colombia",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/vacante-inclusiva-dirigida-a-personas-con-discapacidadqa-automatizador-remoto-colombia-1886726240",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "AGENCIA DE EMPLEO COLSUBSIDIO - Remoto",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Ejecutivo comercial tecnologia",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/ejecutivo-comercial-tecnologia-1886726243",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Empresa confidencial - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Ejecutivo comercial de inversiones inmobiliarias",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/ejecutivo-comercial-de-inversiones-inmobiliarias-1886726247",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Accion Raiz F&V SAS - Cali",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Vacante inclusiva dirigida a personas con discapacidad - consultor talent",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/vacante-inclusiva-dirigida-a-personas-con-discapacidad-consultor-talent-1886726238",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "AGENCIA DE EMPLEO COLSUBSIDIO - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Administrador   restaurante bogotá",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/administrador-restaurante-bogota-1886726244",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Carolina Jaramillo Santacoloma - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Gerente de alto valor ii sector bancario",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/gerente-de-alto-valor-ii-sector-bancario-1886726250",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "ADECCO COLOMBIA S A - Barrancabermeja",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Gerente de alto valor ii sector bancario",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/gerente-de-alto-valor-ii-sector-bancario-1886726249",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "ADECCO COLOMBIA S A - Barranquilla",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Representante de ventas de distribuidoras de consumo masivo caquetá",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/representante-de-ventas-de-distribuidoras-de-consumo-masivo-caqueta-1886726160",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Empresa confidencial - Florencia",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Gerente bilingue de selección y desarrollo sector financiero",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/gerente-bilingue-de-seleccion-y-desarrollo-sector-financiero-1886726119",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Empresa confidencial - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Soacha. profesor de portugues ed. superior",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/soacha-profesor-de-portugues-ed-superior-1886726187",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Empresa confidencial - Soacha",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Analista en analisis de  mercados",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/analista-en-analisis-de-mercados-1886726188",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Empresa confidencial - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Coordinador del sistema de gestión de calidad - armenia/pereira",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/coordinador-del-sistema-de-gestion-de-calidad-armenia-pereira-1886726195",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "M&S VITAMINS SAS - Remoto",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Cajero financiero - barranquilla",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/cajero-financiero-barranquilla-1886726191",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "SUMMAR PRODUCTIVIDAD S.A.S - Barranquilla",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Asistente de compras",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/asistente-de-compras-1886726199",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Empresa confidencial - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Analista contable",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/analista-contable-1886726201",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Aseocolba S. A. - Barranquilla",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Supervisor  de mercadeo cadenas y mayorista",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/supervisor-de-mercadeo-cadenas-y-mayorista-1886726207",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "ADECCO COLOMBIA S A - Bogotá",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Supervisor de mantenimiento",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/supervisor-de-mantenimiento-1886726202",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Aseocolba S. A. - Barranquilla",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Ejecutivo comercial banca - medellín",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/ejecutivo-comercial-banca-medellin-1886726175",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "ADECCO COLOMBIA S A - Medellín",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Estamos creciendo. tú podrías crecer con nosotros (bq)",
-          "url": "https://www.elempleo.com/co/ofertas-trabajo/estamos-creciendo-tu-podrias-crecer-con-nosotros-bq-1886726181",
-          "source": "Elempleo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "EDITORA TKE LEARNING COLOMBIA  SAS - Barranquilla",
-          "workplace": "",
-          "posted_at": "",
+          "posted_at": "2026-06-08",
           "score": 0,
           "specialties": []
         },
