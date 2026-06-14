@@ -117,6 +117,9 @@ def _collect_all_urls() -> list[str]:
 def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
     jobs: list[Job] = []
     all_urls = _collect_all_urls()
+    if not all_urls:
+        print("[ImageCampus] No se encontraron URLs (sitio bloqueó o cambió)")
+        return jobs
 
     for href in all_urls:
         if href in seen_urls:
