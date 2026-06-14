@@ -155,9 +155,11 @@ def _collect_urls_via_rss() -> list[str]:
 
 
 def scrape_imagecampus(seen_urls: set[str]) -> list[Job]:
+    global _SITE_BLOCKED
     all_urls = _collect_urls_via_search()
 
     if not all_urls:
+        _SITE_BLOCKED = False
         all_urls = _collect_urls_via_rss()
         if not all_urls:
             print("[ImageCampus] No se pudo acceder (búsquedas ni RSS)")
