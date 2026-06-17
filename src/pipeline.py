@@ -27,6 +27,7 @@ from src.scrapers.workwithindies import scrape_workwithindies
 from src.scrapers.occ_mundial import scrape_occ_mundial
 from src.scrapers.ingamejob import scrape_ingamejob
 from src.scrapers.bumeran import scrape_bumeran
+from src.scrapers.remotive import scrape_remotive
 
 
 EXCLUDED_TERMS = {"unpaid", "volunteer"}
@@ -103,6 +104,7 @@ def search_jobs():
     all_jobs.extend(scrape_occ_mundial(seen_urls))
     all_jobs.extend(scrape_ingamejob(seen_urls))
     all_jobs.extend(scrape_bumeran(seen_urls))
+    all_jobs.extend(scrape_remotive(seen_urls))
 
     valid_jobs: list[Job] = []
 
