@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-08-03 01:54",
-  "total_jobs": 315,
+  "updated": "2026-08-04 01:29",
+  "total_jobs": 280,
   "filters": {
     "regions": [
       "latin_america",
@@ -58,7 +58,7 @@
     {
       "slug": "cad_designer",
       "label": "CAD / Industrial Design",
-      "job_count": 66,
+      "job_count": 73,
       "jobs": [
         {
           "title": "Design a 3D Printable Underwater Scooter Shell Around My Water Jet Kit (Fusion 360/CAD)",
@@ -70,6 +70,34 @@
           "workplace": "Remote",
           "posted_at": "2026-07-30",
           "score": 16,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Fusion 360 designer for tabletop token",
+          "url": "https://www.cadcrowd.com/job/9755-fusion-360-designer-for-tabletop-token",
+          "source": "CadCrowd",
+          "country": "Norway",
+          "region": "us_canada_europe",
+          "description": "I need one reusable parametric gaming token designed in Autodesk Fusion for multi-colour FDM printing.\r\n\r\nThe token should be approximately 32 mm wide and based on the attached concept image, with:\r\n\r\nGothic outer shape and raised ornamental frame\r\nOne master size parameter, set to 32 mm by default,... | Skills: 3D Printing Design, 3D Design Services, 3D Modeling",
+          "workplace": "Remote",
+          "posted_at": "2026-08-04",
+          "score": 12,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Fusion 360 Structural/Manufacturing Modeler for Modular Steel Buildings",
+          "url": "https://www.cadcrowd.com/job/9728-fusion-360-structural-manufacturing-modeler-for",
+          "source": "CadCrowd",
+          "country": "Israel",
+          "region": "other",
+          "description": "We are looking for an experienced Fusion 360 modeler to create fabrication-ready 3D models and shop drawings for modular steel buildings. The work includes heavy steel frames, light-gauge steel elements, modular connections, transport divisions, bills of materials and manufacturing drawings. Experie... | Skills: Structural Design Services, Shop Drawing Services, 3D Modeling, Steel Detailing Services, Mechanical Design Services",
+          "workplace": "Remote",
+          "posted_at": "2026-08-03",
+          "score": 12,
           "specialties": [
             "cad_designer"
           ]
@@ -174,17 +202,16 @@
           ]
         },
         {
-          "title": "Dibujante CAD / Proyectista Industrial (Rhino o SolidWorks)",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-cad-proyectista-industrial-rhino-o-solidworks-con-experiencia-en-gustavo-a-madero-9EA094ECCBF7EF9661373E686DCF3405#lc=ListOffers-Score3-12",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "PELOTINAS - Madero, Ciudad",
-          "workplace": "",
-          "posted_at": "",
+          "title": "Solidworks",
+          "url": "https://www.cadcrowd.com/job/9735-solidworks",
+          "source": "CadCrowd",
+          "country": "India",
+          "region": "other",
+          "description": "We need to open step files which were in solidworks. We need to open step files which were in solidworks. | Skills: SolidWorks Design Services, 3D Modeling, Mechanical Design Services",
+          "workplace": "Remote",
+          "posted_at": "2026-08-03",
           "score": 8,
           "specialties": [
-            "3d_modeler",
             "cad_designer"
           ]
         },
@@ -210,7 +237,7 @@
           "region": "us_canada_europe",
           "description": "Hi, I’m looking for a CAD designer to create a variety of custom rivet, button, and metal badge concepts for a clothing project, with stainless steel as the preferred material. I’ll provide references, dimensions, and design direction.\r\n\r\nCould you please send examples of similar work, your pricing,... | Skills: Drafting and Design Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-07-31",
+          "posted_at": "2026-08-04",
           "score": 8,
           "specialties": [
             "cad_designer"
@@ -238,7 +265,7 @@
           "region": "us_canada_europe",
           "description": "Smart Cavity Creator LLC, a Washington, DC medical device company, seeks a SolidWorks professional based in the DC metro area (DC, Northern Virginia, or nearby Maryland) for an ongoing contract rebuilding a percutaneous instrument set as native parametric models.\r\n\r\nLocal candidates only. This engag... | Skills: SolidWorks Design Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 8,
           "specialties": [
             "cad_designer"
@@ -252,7 +279,7 @@
           "region": "other",
           "description": "We are running a structured evaluation project for an AI assistant that generates SolidWorks CAD outputs from natural-language prompts. We are looking for experienced mechanical / CAD engineers to work through a defined set of exercises, judge the assistant's outputs, and log detailed results in a t... | Skills: CAD Design File Validation, SolidWorks Design Services, Mechanical CAD Design",
           "workplace": "Remote",
-          "posted_at": "2026-07-29",
+          "posted_at": "2026-08-03",
           "score": 8,
           "specialties": [
             "cad_designer"
@@ -294,7 +321,7 @@
           "region": "other",
           "description": "I am looking for an experienced product design/mechanical engineer to develop a functional prototype for a medical container.\r\n\r\nThe primary objective is to create:\r\n\r\n- A robust and well-optimized snap-fit mechanism that provides a secure and reliable connection.\r\n- A threaded bottle and cap with s... | Skills: 3D Modeling, 3D Product Modeling, Design Engineering Services, 3D Product Rendering and Design",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-04",
           "score": 8,
           "specialties": [
             "cad_designer"
@@ -308,25 +335,9 @@
           "region": "us_canada_europe",
           "description": "Agrivanna is an early-stage agtech company building a solar-powered GPS virtual fencing collar for beef cattle. We just finished our first on-animal field pilot and the current housing, a rigid 3D-printed PLA enclosure, cracked and broke apart under normal cattle behavior (rubbing, head strikes, one... | Skills: Product Engineering Services, Design for Additive Manufacturing, 3D Printing Design, 3D Modeling, 3D Product Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-07-31",
+          "posted_at": "2026-08-03",
           "score": 8,
           "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Desarrollador De Producto Industrial Con Experiencia En SolidWorks",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-producto-industrial-con-experiencia-en-solidworks-inicio-inmediato-en-bogota-dc-766A3246AF3B766C61373E686DCF3405#lc=ListOffers-Score3-12",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "HUMAN RESOURCES MANAGMENT SA",
-          "workplace": "",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "developer",
             "cad_designer"
           ]
         },
@@ -338,7 +349,7 @@
           "region": "us_canada_europe",
           "description": "We are looking for a freelancer to convert our 2D AutoCAD shop drawings into a 3D model of a custom curved staircase.\r\n\r\nThe stair is fully clad in architectural millwork and includes stone treads. The model will be used for customer review and design approval, mainly to communicate the overall desi... | Skills: 3D Modeling, CAD Conversion Services, 2D to 3D Conversion Services, Architectural 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-07-31",
+          "posted_at": "2026-08-03",
           "score": 6,
           "specialties": [
             "cad_designer"
@@ -380,7 +391,7 @@
           "region": "us_canada_europe",
           "description": "Looking for a CAD designer to create a 3MF file for a new product I am launching and 2D representations of my drawings. Looking for a CAD designer to create a 3MF file for a new product I am launching and 2D representations of my drawings. | Skills: 3D Modeling, 3D Design Services, Engineering Design",
           "workplace": "Remote",
-          "posted_at": "2026-07-31",
+          "posted_at": "2026-08-04",
           "score": 6,
           "specialties": [
             "cad_designer"
@@ -401,8 +412,23 @@
           ]
         },
         {
+          "title": "profesional en ingeniería industrial, mecánica o electrónica para Proyectista Experto en SolidWorks",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-profesional-en-ingenieria-industrial-mecanica-o-electronica-para-proyectista-experto-en-solidworks-experiencia-en-metalmecanica-siberia-en-siberia-4FFCE3A59721685B61373E686DCF3405#lc=ListOffers-Score3-7",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "MULTISOLUCIONES A&A SAS - Siberia, Cundinamarca",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "3d_modeler",
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Diseñador Industrial Manejo de Rhino",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-manejo-de-rhino-en-medellin-C902C3E6FBB1B02461373E686DCF3405#lc=ListOffers-Score3-11",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-manejo-de-rhino-en-medellin-C902C3E6FBB1B02461373E686DCF3405#lc=ListOffers-Score3-16",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
@@ -415,28 +441,28 @@
           ]
         },
         {
-          "title": "PDF to DWG/CAD",
-          "url": "https://www.cadcrowd.com/job/9643-pdf-to-dwg-cad",
+          "title": "CAD design, complete package — patent-pending precision firearm accessory (CNC aluminum + machined polymer) — HARD DEADLINE",
+          "url": "https://www.cadcrowd.com/job/9748-cad-design-complete-package-patent-pending",
           "source": "CadCrowd",
-          "country": "Spain",
+          "country": "United States",
           "region": "us_canada_europe",
-          "description": "I am looking for a CAD designer to recreate a series of technical PDF drawings for a small business developing premium wooden children's toys.\r\n\r\nThe drawings are currently in PDF format and need to be accurately redrawn as fully editable CAD files. I require the final files in **STEP (STP)** format... | Skills: AutoCAD Conversion Services, PDF to DWG Conversion, 3D Design Services",
+          "description": "Seeking a mechanical designer for a complete, fixed-scope design job: a small precision accessory for a firearm platform (non-regulated, fully legal category — specifics after NDA). I supply a professional design brief with client-measured dimensions, functional spec, and reference figures on NDA si... | Skills: Mechanical Design Services, Machine Design, Prototype Design Services, CAD Drafting Services, Mechanical Engineering",
           "workplace": "Remote",
-          "posted_at": "2026-07-28",
+          "posted_at": "2026-08-04",
           "score": 4,
           "specialties": [
             "cad_designer"
           ]
         },
         {
-          "title": "Fine Jewelry Designer for Complete Website Collection",
-          "url": "https://www.cadcrowd.com/job/9435-fine-jewelry-designer-for-complete-website",
+          "title": "3D CAD Design for Plastic Manufacturing – Convert Photo/Sample to .STEP File",
+          "url": "https://www.cadcrowd.com/job/9734-3d-cad-design-for-plastic-manufacturing",
           "source": "CadCrowd",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "We are seeking a talented, creative, and detail-oriented Freelance CAD Designer to collaborate with us on bringing new fine jewelry collections to life.\r\n\r\nIn this role, you will take conceptual themes and translate them into cohesive, stunning, and production-ready jewelry designs. If you have a pa... | Skills: Jewelry Design, 3D Jewelry Rendering, Jewelry Design",
+          "country": "India",
+          "region": "other",
+          "description": "I need a skilled 3D CAD designer to reverse-engineer a physical, T-shaped plastic paddle from a reference photo and convert it into a production-ready 3D model. This part is being designed for high-volume plastic injection molding (target run of 50,000 units with a manufacturer in India).Scope of Wo... | Skills: 3D Design Services, 3D CAD Translation Services, 2D CAD Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-07-28",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": [
             "cad_designer"
@@ -450,7 +476,7 @@
           "region": "us_canada_europe",
           "description": "My name is Mohamed Jâafar, and I am based in France. I am developing a self-contained, battery-powered panoramic camera for recording, streaming and analyzing football matches.\r\n\r\nI already have a functional electronics and software prototype using two synchronized 4K cameras and a Radxa ROCK 5B+. I... | Skills: Mechanical Design Services, Mechanical CAD Design, Manufacturing Drawings",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": [
             "cad_designer"
@@ -485,8 +511,22 @@
           ]
         },
         {
+          "title": "Diseñador Industrial",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-empresa-manufacturera-en-tonala-B54780192ADC420A61373E686DCF3405#lc=ListOffers-Score3-11",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Muebles Lacandona - Tonalá, Jalisco",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Diseñador Industrial  Material POP  Exhibidores",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-material-pop-exhibidores-rhino-y-v-ray-en-benito-juarez-5DCFFEA4F6CACE4261373E686DCF3405#lc=ListOffers-Score3-5",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-material-pop-exhibidores-rhino-y-v-ray-en-benito-juarez-5DCFFEA4F6CACE4261373E686DCF3405#lc=ListOffers-Score3-15",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -499,22 +539,8 @@
           ]
         },
         {
-          "title": "Ingeniero Mecanico",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-mecanico-disenador-industrial-en-villa-de-tezontepec-44631D22B106E09761373E686DCF3405#lc=ListOffers-Score3-13",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Tezontepec, Hidalgo",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
           "title": "Diseñador Industrial",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-modelador-3d-rhinoceros-en-azcapotzalco-805E18573384A0C961373E686DCF3405#lc=ListOffers-Score4-0",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-modelador-3d-rhinoceros-en-azcapotzalco-805E18573384A0C961373E686DCF3405#lc=ListOffers-Score4-1",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -527,8 +553,22 @@
           ]
         },
         {
+          "title": "Diseñador industrial",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-facil-acceso-a-tesistan-zapopan-en-zapopan-B8140E7808F11F1161373E686DCF3405#lc=ListOffers-Score3-4",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "IFD Group - Zapopan, Jalisco",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Diseñador Industrial Mobiliario Retail",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-mobiliario-retail-en-miguel-hidalgo-79C8CBB27C77D6E261373E686DCF3405#lc=ListOffers-Score3-6",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-mobiliario-retail-en-miguel-hidalgo-79C8CBB27C77D6E261373E686DCF3405#lc=ListOffers-Score3-5",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -541,12 +581,40 @@
           ]
         },
         {
-          "title": "Diseñador Industrial control documental",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-control-documental-en-miguel-hidalgo-33CFA601D399E21B61373E686DCF3405#lc=ListOffers-Score3-7",
+          "title": "Diseñador industrial de especificaciones",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-de-especificaciones-en-azcapotzalco-1D4A45D335E0C96161373E686DCF3405#lc=ListOffers-Score3-8",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
-          "description": " - Hidalgo, Ciudad",
+          "description": " - Azcapotzalco, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador Industrial",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-empresa-manufacturera-en-tonala-B54780192ADC420A61373E686DCF3405#lc=ListOffers-Score3-9",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Muebles Lacandona - Tonalá, Jalisco",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador Industrial  Material POP  Exhibidores",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-material-pop-exhibidores-rhino-y-v-ray-en-benito-juarez-5DCFFEA4F6CACE4261373E686DCF3405#lc=ListOffers-Score3-11",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Juárez, Ciudad",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -556,7 +624,7 @@
         },
         {
           "title": "Diseñador Industrial Control Documental",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-control-documental-en-miguel-hidalgo-4094E4745D427B5361373E686DCF3405#lc=ListOffers-Score3-8",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-control-documental-en-miguel-hidalgo-4094E4745D427B5361373E686DCF3405#lc=ListOffers-Score3-12",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -569,8 +637,22 @@
           ]
         },
         {
+          "title": "Diseñador Industrial control documental",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-control-documental-en-miguel-hidalgo-33CFA601D399E21B61373E686DCF3405#lc=ListOffers-Score3-13",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Hidalgo, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Diseñador industrial",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-en-guadalajara-5CAEC3A841EC1D3C61373E686DCF3405#lc=ListOffers-Score3-9",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-en-guadalajara-5CAEC3A841EC1D3C61373E686DCF3405#lc=ListOffers-Score3-14",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -584,7 +666,7 @@
         },
         {
           "title": "Diseñador Industrial de especificaciones",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-de-especificaciones-manufactura-en-miguel-hidalgo-4847C555FA60726C61373E686DCF3405#lc=ListOffers-Score3-10",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-de-especificaciones-manufactura-en-miguel-hidalgo-4847C555FA60726C61373E686DCF3405#lc=ListOffers-Score3-15",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -597,54 +679,12 @@
           ]
         },
         {
-          "title": "Diseñador Industrial manufactura",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-manufactura-retail-en-azcapotzalco-8DB789348DF084B661373E686DCF3405#lc=ListOffers-Score3-11",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Azcapotzalco, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
           "title": "Ingeniero Mecanico",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-mecanico-disenador-industrial-en-villa-de-tezontepec-44631D22B106E09761373E686DCF3405#lc=ListOffers-Score3-12",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-mecanico-disenador-industrial-en-villa-de-tezontepec-44631D22B106E09761373E686DCF3405#lc=ListOffers-Score3-16",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
           "description": " - Tezontepec, Hidalgo",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Diseñador Industrial",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-ing-disenador-industrial-en-puente-nacional-AFEEBB0DED08A8D761373E686DCF3405#lc=ListOffers-Score3-16",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "PERFILTECXA - Nacional, Veracruz",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Diseñador Industrial",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-en-puebla-9DFD23DD1537FB2061373E686DCF3405#lc=ListOffers-Score3-18",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Puebla, Puebla",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -668,11 +708,25 @@
         },
         {
           "title": "Diseñador Industrial",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-con-experiencia-en-malagueno-F71474E5ABFAE8CE61373E686DCF3405#lc=ListOffers-Score3-2",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-con-experiencia-en-malagueno-F71474E5ABFAE8CE61373E686DCF3405#lc=ListOffers-Score3-1",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
           "description": "MUNDO JUEGOS SRL - Malagueño, Córdoba",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador Industrial",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-para-importante-industria-de-calzado-en-rosario-en-rosario-5825CD0AD809115261373E686DCF3405#lc=ListOffers-Score3-2",
+          "source": "Computrabajo",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Tuttolomondo Consultores - Rosario, Santa",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -687,20 +741,6 @@
           "country": "Argentina",
           "region": "latin_america",
           "description": "Tecna Ingenieria - Berazategui, Buenos",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Diseñador Industrial",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-para-importante-industria-de-calzado-en-rosario-en-rosario-5825CD0AD809115261373E686DCF3405#lc=ListOffers-Score3-4",
-          "source": "Computrabajo",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Tuttolomondo Consultores - Rosario, Santa",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -724,7 +764,7 @@
         },
         {
           "title": "Dibujante Proyectista HVAC",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-hvac-en-san-fernando-B28E375F3AE5683A61373E686DCF3405#lc=ListOffers-Score0-8",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-hvac-en-san-fernando-B28E375F3AE5683A61373E686DCF3405#lc=ListOffers-Score0-7",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -738,7 +778,7 @@
         },
         {
           "title": "Dibujante técnico",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-proyectista-en-pilar-5486CCF82FAE2BD961373E686DCF3405#lc=ListOffers-Score0-13",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-proyectista-en-pilar-5486CCF82FAE2BD961373E686DCF3405#lc=ListOffers-Score0-12",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -752,7 +792,7 @@
         },
         {
           "title": "diseñador industrial",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-especializado-en-muebles-en-escobar-9D8BA030DBE5C24761373E686DCF3405#lc=ListOffers-Score0-14",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-especializado-en-muebles-en-escobar-9D8BA030DBE5C24761373E686DCF3405#lc=ListOffers-Score0-13",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -793,8 +833,78 @@
           ]
         },
         {
+          "title": "Dibujante Industrial",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-industrial-en-medellin-F1B3CC1E551412E661373E686DCF3405#lc=ListOffers-Score3-2",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Medellín, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Analista Dibujante de Ingeniería / Sector Metalmecanico",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-analista-dibujante-de-ingenieria-sector-metalmecanico-en-medellin-A30880F1C83498FF61373E686DCF3405#lc=ListOffers-Score3-5",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Medellín, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "dibujante mecánico",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-mecanico-en-cali-D0B8CAA8E6DE924561373E686DCF3405#lc=ListOffers-Score3-10",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Cali, Valle",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Dibujante Proyectista",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-proyectista-mecanico-en-bogota-dc-B534DCF831538D2661373E686DCF3405#lc=ListOffers-Score3-11",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "SGC Cranes SAS",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Dibujante Industrial",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-industrial-en-medellin-5F6D8D65DC69FE8761373E686DCF3405#lc=ListOffers-Score3-12",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Medellín, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Dibujante modelador de redes eléctricas",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-modelador-de-redes-electricas-en-bogota-dc-829736824878B20C61373E686DCF3405#lc=ListOffers-Score3-3",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-modelador-de-redes-electricas-en-bogota-dc-829736824878B20C61373E686DCF3405#lc=ListOffers-Score3-15",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
@@ -808,7 +918,7 @@
         },
         {
           "title": "dibujante eléctrico",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-electrico-en-bogota-dc-A0D75CCDF7911F0E61373E686DCF3405#lc=ListOffers-Score3-5",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-electrico-en-bogota-dc-A0D75CCDF7911F0E61373E686DCF3405#lc=ListOffers-Score3-17",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
@@ -822,25 +932,11 @@
         },
         {
           "title": "dibujante técnico",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-disenador-cad-en-barranquilla-89850C5E8C36810261373E686DCF3405#lc=ListOffers-Score3-7",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-disenador-cad-en-barranquilla-89850C5E8C36810261373E686DCF3405#lc=ListOffers-Score3-19",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
           "description": " - Barranquilla, Atlántico",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Diseñador Industrial",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-en-bogota-dc-1EB5B15416D0060261373E686DCF3405#lc=ListOffers-Score3-18",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -863,12 +959,12 @@
           ]
         },
         {
-          "title": "dibujante técnico",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-disenador-cad-en-barranquilla-89850C5E8C36810261373E686DCF3405#lc=ListOffers-Score3-13",
+          "title": "Diseñador Industrial con Experiencia en Productos Metálicos.",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-con-experiencia-en-productos-metalicos-en-giron-6540B49C6A9FC39161373E686DCF3405#lc=ListOffers-Score3-14",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
-          "description": " - Barranquilla, Atlántico",
+          "description": " - Girón, Santander",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -877,12 +973,12 @@
           ]
         },
         {
-          "title": "Dibujante Diseñador",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-disenador-en-bogota-dc-0F18CA9BF84C952F61373E686DCF3405#lc=ListOffers-Score3-18",
+          "title": "dibujante técnico",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-disenador-cad-en-barranquilla-89850C5E8C36810261373E686DCF3405#lc=ListOffers-Score3-18",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
-          "description": "2B eCommerce",
+          "description": " - Barranquilla, Atlántico",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -898,7 +994,7 @@
           "region": "other",
           "description": "We are looking for an experienced Electrical Design Engineer with industrial fuel system experience to prepare complete electrical and control drawings for a resort fuel farm project We are looking for an experienced Electrical Design Engineer with industrial fuel system experience to prepare comple... | Skills: Electrical Engineering, PLC Programming, Industrial Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -912,7 +1008,7 @@
           "region": "other",
           "description": "Looking for someone to design a water pistol/cannon that will shoot jet of water at a moving target. Two types will be created,   software in progress, now time to design types. Looking for someone to design a water pistol/cannon that will shoot jet of water at a moving target. Two types will be cre... | Skills: Industrial Design Services, Product Engineering Services, 3D Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-08-01",
+          "posted_at": "2026-08-03",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -968,7 +1064,7 @@
           "region": "us_canada_europe",
           "description": "Prepare as built drawings\r\nPrepare Architecural drawings\r\nConvert PDF to DWG Prepare as built drawings\r\nPrepare Architecural drawings\r\nConvert PDF to DWG | Skills: Architectural Drawing Services, As-Built Drawings, Architectural Drafting Services, AutoCAD Drawing Services, AutoCAD Drafting & Design",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -993,7 +1089,7 @@
     {
       "slug": "developer",
       "label": "Developer / Programmer",
-      "job_count": 42,
+      "job_count": 31,
       "jobs": [
         {
           "title": "Graphic Programmer / Technical Artist",
@@ -1054,42 +1150,12 @@
           ]
         },
         {
-          "title": "Desarrollador De Producto Industrial Con Experiencia En SolidWorks",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-producto-industrial-con-experiencia-en-solidworks-inicio-inmediato-en-bogota-dc-766A3246AF3B766C61373E686DCF3405#lc=ListOffers-Score3-12",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "HUMAN RESOURCES MANAGMENT SA",
-          "workplace": "",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "developer",
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Articy is hiring a Senior Frontend Developer (m/f/d) to work from Germany",
+          "title": "Senior Frontend Developer (m/f/d)",
           "url": "https://www.workwithindies.com/careers/articy-senior-frontend-developer-m-f-d",
-          "source": "WorkWithIndies",
+          "source": "Work With Indies",
           "country": "Germany",
           "region": "us_canada_europe",
-          "description": "We are looking for an experienced frontend developer (m/f/d) who will take an active role in helping us further adapt our products to the diverse needs of our customers. Tags: [Programming] [Full Time]",
-          "workplace": "",
-          "posted_at": "2026-07-28",
-          "score": 5,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Senior, Java Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/buenos-aires/senior-java-software-engineer/391/97873901440",
-          "source": "Disney",
-          "country": "Buenos Aires,  Argentina",
-          "region": "latin_america",
-          "description": "Disney Entertainment and ESPN Product & Technology | Buenos Aires,  Argentina",
+          "description": "Articy | Germany",
           "workplace": "On-site",
           "posted_at": "",
           "score": 5,
@@ -1112,21 +1178,6 @@
           ]
         },
         {
-          "title": "Low-Level Unreal Engine Programmer",
-          "url": "https://mx.ingamejob.com/en/job/low-level-unreal-engine-programmer",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Farom Studio - Remote - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "game_dev",
-            "developer"
-          ]
-        },
-        {
           "title": "Viridian is hiring a OpenGL SDL Programmer to work from GMT ± 4 hours",
           "url": "https://www.workwithindies.com/careers/viridian-opengl-sdl-programmer",
           "source": "WorkWithIndies",
@@ -1138,20 +1189,6 @@
           "score": 4,
           "specialties": [
             "render",
-            "developer"
-          ]
-        },
-        {
-          "title": "Sr Full Stack Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/orlando/sr-full-stack-software-engineer/391/94614343632",
-          "source": "Disney",
-          "country": "Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
             "developer"
           ]
         },
@@ -1201,20 +1238,6 @@
           ]
         },
         {
-          "title": "Desarrollador Full stack .Net",
-          "url": "https://www.occ.com.mx/empleos/?job_id=21277026",
-          "source": "OCC Mundial",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "NETA SYSTEMS S.A. DE C.V. - León, Guanajuato | $ 35,000 - $ 40,000 Mensual",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
           "title": "Senior Data Engineer (Scala, Spark, Airflow)",
           "url": "https://mx.ingamejob.com/en/job/senior-data-engineer-sparkscala-airflow",
           "source": "InGameJob",
@@ -1229,13 +1252,13 @@
           ]
         },
         {
-          "title": "Senior Product Software Engineer (Kotlin)",
-          "url": "https://www.disneycareers.com/en/job/new-york/senior-product-software-engineer-kotlin/391/98526004448",
-          "source": "Disney",
-          "country": "New York,  New York / Glendale,  California",
-          "region": "other",
-          "description": "Disney Entertainment and ESPN Product & Technology | New York,  New York / Glendale,  California",
-          "workplace": "On-site",
+          "title": "Senior Backend / Database Developer (Supabase) - Part-time - NA/LATAM/EU",
+          "url": "https://arc.dev/remote-jobs/details/senior-backend-database-developer-supabase-part-time-na-latam-eu-p8m09vfz6g",
+          "source": "ArcDev",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "workplace": "",
           "posted_at": "",
           "score": 3,
           "specialties": [
@@ -1299,6 +1322,20 @@
           ]
         },
         {
+          "title": "Playcademy is hiring a Software Engineer (Pedagogy) to work from Austin, TX or US",
+          "url": "https://www.workwithindies.com/careers/playcademy-software-engineer-pedagogy",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "Turn direct instruction into software: build the lessons and tutorials kids actually learn from. Tags: [Programming] [Full Time]",
+          "workplace": "",
+          "posted_at": "2026-08-03",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
           "title": "Camunda Software Engineer",
           "url": "https://arc.dev/remote-jobs/j/engine-camunda-software-engineer-p8wfj40jmx",
           "source": "ArcDev",
@@ -1327,22 +1364,8 @@
           ]
         },
         {
-          "title": "Diseñador y Programador de Moldes",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-y-programador-de-moldes-en-benito-juarez-74A1230B31C7361161373E686DCF3405#lc=ListOffers-Score3-19",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Servicios Integrales en Manufactura - Juárez, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
           "title": "Disenador mecanico / Programador Operador CNC",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-mecanico-programador-operador-cnc-programador-plc-en-cordoba-8E227F94E0B7988D61373E686DCF3405#lc=ListOffers-Score0-17",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-mecanico-programador-operador-cnc-programador-plc-en-cordoba-8E227F94E0B7988D61373E686DCF3405#lc=ListOffers-Score0-15",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -1383,96 +1406,12 @@
           ]
         },
         {
-          "title": "Sr Data Engineer",
-          "url": "https://www.disneycareers.com/en/job/orlando/sr-data-engineer/391/93932292832",
+          "title": "Software Engineer II",
+          "url": "https://www.disneycareers.com/en/job/seattle/software-engineer-ii/391/96312342176",
           "source": "Disney",
-          "country": "Orlando,  Florida / Glendale,  California / Seattle,  Washington",
+          "country": "Seattle,  Washington / Glendale,  California",
           "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida / Glendale,  California / Seattle,  Washington",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Staff Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/burbank/staff-software-engineer/391/97537828304",
-          "source": "Disney",
-          "country": "Burbank,  California",
-          "region": "other",
-          "description": "The Walt Disney Studios | Burbank,  California",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Lead Data Engineer - Solutioning",
-          "url": "https://www.disneycareers.com/en/job/orlando/lead-data-engineer-solutioning/391/98426848240",
-          "source": "Disney",
-          "country": "Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/orlando/software-engineer/391/97882595600",
-          "source": "Disney",
-          "country": "Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sr Software Engineer- DevSecOps",
-          "url": "https://www.disneycareers.com/en/job/orlando/sr-software-engineer-devsecops/391/97888032176",
-          "source": "Disney",
-          "country": "Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Lead Software Engineer-AI Licensing & Publishing Systems",
-          "url": "https://www.disneycareers.com/en/job/orlando/lead-software-engineer-ai-licensing-and-publishing-systems/391/87032371952",
-          "source": "Disney",
-          "country": "Orlando,  Florida / Glendale,  California",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida / Glendale,  California",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sr Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/glendale/sr-software-engineer/391/96254197408",
-          "source": "Disney",
-          "country": "Glendale,  California / Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Glendale,  California / Orlando,  Florida",
+          "description": "Disney Entertainment and ESPN Product & Technology | Seattle,  Washington / Glendale,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 2,
@@ -1597,7 +1536,7 @@
     {
       "slug": "3d_animator",
       "label": "3D Animator",
-      "job_count": 29,
+      "job_count": 28,
       "jobs": [
         {
           "title": "Freelance 3D Animator / Character Technical Artist",
@@ -1688,17 +1627,18 @@
           ]
         },
         {
-          "title": "3D Animator Ref 20 407",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-animator-ref-20-407",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando animador 3D",
-          "workplace": "",
+          "title": "Production Coordinator - Disney Television Animation",
+          "url": "https://www.disneycareers.com/en/job/glendale/production-coordinator-disney-television-animation/391/96878327648",
+          "source": "Disney",
+          "country": "Glendale,  California",
+          "region": "other",
+          "description": "Disney Branded Television | Glendale,  California",
+          "workplace": "On-site",
           "posted_at": "",
           "score": 7,
           "specialties": [
-            "3d_animator"
+            "3d_animator",
+            "production"
           ]
         },
         {
@@ -1747,14 +1687,29 @@
           ]
         },
         {
-          "title": "Senior Animator - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/senior-animator/job/518341/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
+          "title": "Bunch'o'Nerds is hiring a 3D Artist (Environment & Map Design) to work from CET ± 4 hours",
+          "url": "https://www.workwithindies.com/careers/bunch-o-nerds-3d-artist-environment-map-design",
+          "source": "WorkWithIndies",
           "country": "",
           "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  As a  Senior  Animator , you will  be  responsible for  giving credibility and transmitting  the specific ... more ",
+          "description": "We're an indie game studio building games in Unity, and we're looking for a mid-senior 3D Artist to join our team and work on our new game.  Tags: [Art & Animation] [Full Time]",
           "workplace": "",
-          "posted_at": "2026-07-27",
+          "posted_at": "2026-08-03",
+          "score": 5,
+          "specialties": [
+            "3d_animator",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Production Department Secretary - Disney Television Animation",
+          "url": "https://www.disneycareers.com/en/job/glendale/production-department-secretary-disney-television-animation/391/98715788528",
+          "source": "Disney",
+          "country": "Glendale,  California",
+          "region": "other",
+          "description": "Disney Branded Television | Glendale,  California",
+          "workplace": "On-site",
+          "posted_at": "",
           "score": 5,
           "specialties": [
             "3d_animator"
@@ -1789,33 +1744,33 @@
           ]
         },
         {
-          "title": "StageCraft Motion Capture Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/stagecraft-motion-capture-technical-director/job/518137/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
+          "title": "[PAID] 90-second 360° VR animation",
+          "url": "https://blenderartists.org/t/paid-90-second-360-vr-animation/1649298",
+          "source": "BlenderArtists Paid Jobs",
           "country": "",
           "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Motion Capture Technical Director (StageCraft) - London\n\nJob Summary:\n\nPosition ... more ",
+          "description": "[PAID] 90-second 360° VR animation — Saudi National Day / Vision 2030 theme\nHi everyone,\nI’m looking for a freelance Blender artist to create a short 90-second\n360° VR video for Saudi National Day, themed around Saudi Vision 2030.\nScope:\n\n90 seconds total, 360° VR format\nAerial-style scenes",
           "workplace": "",
-          "posted_at": "2026-07-27",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": [
             "3d_animator",
-            "technical_artist"
+            "game_dev"
           ]
         },
         {
-          "title": "Mocap  Editor (Fixed Term Contract)",
-          "url": "https://www.disneycareers.com/en/job/mumbai/mocap-editor-fixed-term-contract/391/94211524624",
+          "title": "Associate Producer - Disney Television Animation",
+          "url": "https://www.disneycareers.com/en/job/glendale/associate-producer-disney-television-animation/391/95106486160",
           "source": "Disney",
-          "country": "Mumbai,  India",
+          "country": "Glendale,  California",
           "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
+          "description": "Disney Branded Television | Glendale,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 4,
           "specialties": [
             "3d_animator",
-            "editor"
+            "production"
           ]
         },
         {
@@ -1842,6 +1797,20 @@
           "workplace": "remote",
           "posted_at": "",
           "score": 4,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Represent Studio is hiring for a position of UI Designer for Motion & Animation in Remote",
+          "url": "https://dribbble.com/jobs/308921-UI-Designer-for-Motion-Animation?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "",
+          "workplace": "",
+          "posted_at": "2026-08-03",
+          "score": 3,
           "specialties": [
             "3d_animator"
           ]
@@ -1904,20 +1873,6 @@
         },
         {
           "title": "2D Animator",
-          "url": "https://mx.ingamejob.com/en/job/2d-animator-137",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Divine Zone - Remote - Middle - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "2D Animator",
           "url": "https://mx.ingamejob.com/en/job/2d-animator-135",
           "source": "InGameJob",
           "country": "Mexico",
@@ -1945,20 +1900,6 @@
           ]
         },
         {
-          "title": "Animator - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/animator/job/518340/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  As an animator, you will be responsible for giving credibility and transmitting the specific emotions ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 2,
-          "specialties": [
-            "3d_animator"
-          ]
-        },
-        {
           "title": "Topdeck Productions is hiring a Art Director to work from GMT ± 4 hours",
           "url": "https://www.workwithindies.com/careers/topdeck-productions-art-director",
           "source": "WorkWithIndies",
@@ -1967,20 +1908,6 @@
           "description": "Looking to hire a contract Art Director to define the visual identity of a roguelite deckbuilder (STS × Darkest Dungeon). Tags: [Art & Animation] [Contract]",
           "workplace": "",
           "posted_at": "2026-07-31",
-          "score": 2,
-          "specialties": [
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "Candlestick Games is hiring a Stylized 3D Character Artist to work from Ontario",
-          "url": "https://www.workwithindies.com/careers/candlestick-games-stylized-3d-character-artist",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We're currently looking for a talented 3D character artist to contribute to a highly gamified productivity tool set in a faerie realm. Tags: [Art & Animation] [Contract]",
-          "workplace": "",
-          "posted_at": "2026-07-28",
           "score": 2,
           "specialties": [
             "3d_animator"
@@ -2019,7 +1946,7 @@
     {
       "slug": "game_dev",
       "label": "Game Developer",
-      "job_count": 26,
+      "job_count": 27,
       "jobs": [
         {
           "title": "Game Designer  Generalist",
@@ -2033,6 +1960,20 @@
           "score": 8,
           "specialties": [
             "generalist",
+            "game_dev"
+          ]
+        },
+        {
+          "title": "Senior Game Developer (Pixi.js)",
+          "url": "https://mx.ingamejob.com/en/job/senior-game-developer-pixijs",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Linkera Group - Remote - Senior - Freelance",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 7,
+          "specialties": [
             "game_dev"
           ]
         },
@@ -2093,18 +2034,18 @@
           ]
         },
         {
-          "title": "Low-Level Unreal Engine Programmer",
-          "url": "https://mx.ingamejob.com/en/job/low-level-unreal-engine-programmer",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Farom Studio - Remote - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 5,
+          "title": "[PAID] 90-second 360° VR animation",
+          "url": "https://blenderartists.org/t/paid-90-second-360-vr-animation/1649298",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "[PAID] 90-second 360° VR animation — Saudi National Day / Vision 2030 theme\nHi everyone,\nI’m looking for a freelance Blender artist to create a short 90-second\n360° VR video for Saudi National Day, themed around Saudi Vision 2030.\nScope:\n\n90 seconds total, 360° VR format\nAerial-style scenes",
+          "workplace": "",
+          "posted_at": "2026-08-03",
+          "score": 4,
           "specialties": [
-            "game_dev",
-            "developer"
+            "3d_animator",
+            "game_dev"
           ]
         },
         {
@@ -2150,6 +2091,20 @@
           "specialties": [
             "game_dev",
             "developer"
+          ]
+        },
+        {
+          "title": "Middle/Senior Game Designer",
+          "url": "https://mx.ingamejob.com/en/job/middlesenior-game-designer-9",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Trailhade Interactive - Remote - Middle - Freelance",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "game_dev"
           ]
         },
         {
@@ -2363,20 +2318,6 @@
           ]
         },
         {
-          "title": "Technical Game Designer",
-          "url": "https://www.workwithindies.com/careers/spatial-magic-technical-game-designer",
-          "source": "Work With Indies",
-          "country": "Venice Beach, CA",
-          "region": "other",
-          "description": "Spatial Magic | Venice Beach, CA",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "game_dev"
-          ]
-        },
-        {
           "title": "Unreal Developer",
           "url": "https://www.workwithindies.com/careers/tigerroll-studios-unreal-developer",
           "source": "Work With Indies",
@@ -2395,66 +2336,36 @@
     {
       "slug": "production",
       "label": "Production",
-      "job_count": 24,
+      "job_count": 17,
       "jobs": [
         {
-          "title": "Production Assistant",
-          "url": "https://www.disneycareers.com/en/job/mumbai/production-assistant/391/95237378432",
+          "title": "Production Coordinator - Disney Television Animation",
+          "url": "https://www.disneycareers.com/en/job/glendale/production-coordinator-disney-television-animation/391/96878327648",
           "source": "Disney",
-          "country": "Mumbai,  India",
+          "country": "Glendale,  California",
           "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
+          "description": "Disney Branded Television | Glendale,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 7,
           "specialties": [
-            "production",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Generalista 3D Ref 22 503",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "render",
-            "generalist",
+            "3d_animator",
             "production"
           ]
         },
         {
-          "title": "Production Coordinator - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-coordinator/job/521070/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Production Coordinator, Intermediate\n\n700, rue Saint-Hubert, bureau 400, MontrÃ©al (QC) H2Y 0C1\n\nÃ€ ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 5,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Digital Video Producer I (Spanish)",
-          "url": "https://www.disneycareers.com/en/job/bristol/digital-video-producer-i-spanish/391/98521069536",
+          "title": "Associate Producer - Disney Television Animation",
+          "url": "https://www.disneycareers.com/en/job/glendale/associate-producer-disney-television-animation/391/95106486160",
           "source": "Disney",
-          "country": "Bristol,  Connecticut",
+          "country": "Glendale,  California",
           "region": "other",
-          "description": "ESPN | Bristol,  Connecticut",
+          "description": "Disney Branded Television | Glendale,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 4,
           "specialties": [
-            "production",
-            "video_production"
+            "3d_animator",
+            "production"
           ]
         },
         {
@@ -2528,20 +2439,6 @@
           ]
         },
         {
-          "title": "Telescope Games is hiring Technical Producer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/telescope-games-technical-producer-remote-job",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Technical Producer\n \nTelescope Games is hiring an experienced and highly organized Technical Producer to join our fully remote team of game developers. You'll work closely with engineering and other cross-disciplinary teams to plan and coordinate the development of the complex systems and features",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 3,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
           "title": "Producer (PC / Steam)",
           "url": "https://mx.ingamejob.com/en/job/producer-pc-steam",
           "source": "InGameJob",
@@ -2584,78 +2481,22 @@
           ]
         },
         {
-          "title": "Tarkett: Regional Civil Design Engineer Project Manager",
-          "url": "https://weworkremotely.com/remote-jobs/tarkett-regional-civil-design-engineer-project-manager",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
+          "title": "Playcademy is hiring a Social Media & Content Producer to work from Austin, TX or US",
+          "url": "https://www.workwithindies.com/careers/playcademy-social-media-content-producer",
+          "source": "WorkWithIndies",
+          "country": "",
           "region": "remote",
-          "description": "\n\nHeadquarters: Seattle, Washington - United States\n    URL: http://tarkett-group.com\n\nWe are seeking a Regional Civil Design Engineering Project Manager working remotely in and around the West region(California, Oregon, Washington, Arizona) of the United States. Reporting to the West Region VP of",
+          "description": "Turn weekly conversations with the people building and using Playcademy into the content that introduces us to parents. Tags: [Marketing & Community] [Contract]",
           "workplace": "",
-          "posted_at": "2026-07-27",
+          "posted_at": "2026-08-03",
           "score": 2,
           "specialties": [
             "production"
           ]
         },
         {
-          "title": "Videogame Producer Ref 20 403",
-          "url": "https://www.imagecampus.edu.ar/busqueda/videogame-producer-ref-20-403",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando productor de",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Art Producer Ref 20 402",
-          "url": "https://www.imagecampus.edu.ar/busqueda/art-producer-ref-20-402",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando Productores",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Principal Technical Project Manager",
-          "url": "https://www.disneycareers.com/en/job/orlando/principal-technical-project-manager/391/98437426352",
-          "source": "Disney",
-          "country": "Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Lead Technology Project Manager",
-          "url": "https://www.disneycareers.com/en/job/orlando/lead-technology-project-manager/391/97631472656",
-          "source": "Disney",
-          "country": "Orlando,  Florida",
-          "region": "other",
-          "description": "Disney Experiences | Orlando,  Florida",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Sr Tech Project Manager",
-          "url": "https://www.disneycareers.com/en/job/orlando/sr-tech-project-manager/391/98562635328",
+          "title": "Sr Technical Project Manager",
+          "url": "https://www.disneycareers.com/en/job/orlando/sr-technical-project-manager/391/98720689200",
           "source": "Disney",
           "country": "Orlando,  Florida",
           "region": "other",
@@ -2742,7 +2583,7 @@
     {
       "slug": "technical_artist",
       "label": "Technical Artist",
-      "job_count": 23,
+      "job_count": 13,
       "jobs": [
         {
           "title": "Technical Artist / 3D Generalist",
@@ -2775,21 +2616,6 @@
           ]
         },
         {
-          "title": "3D Vfx Technical Artist Ref 24 572",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
-          "workplace": "",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
-        {
           "title": "3D Animator / Character Technical Artist",
           "url": "https://www.workwithindies.com/careers/promorte-games-3d-animator-character-technical-artist",
           "source": "Work With Indies",
@@ -2817,6 +2643,21 @@
           "specialties": [
             "3d_animator",
             "technical_artist"
+          ]
+        },
+        {
+          "title": "Generalist Technical Artist",
+          "url": "https://mx.ingamejob.com/en/job/generalist-technical-artist",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 9,
+          "specialties": [
+            "technical_artist",
+            "generalist"
           ]
         },
         {
@@ -2865,21 +2706,6 @@
           ]
         },
         {
-          "title": "Technical Artist Vfx Artist Ref 20 406",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
-          "workplace": "",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
-        {
           "title": "Senior Unity Integrator/Technical Artist",
           "url": "https://mx.ingamejob.com/en/job/senior-unity-integrator",
           "source": "InGameJob",
@@ -2922,63 +2748,6 @@
           ]
         },
         {
-          "title": "Area Setup Technical Artist Ref 24 575",
-          "url": "https://www.imagecampus.edu.ar/busqueda/area-setup-technical-artist-ref-24-575",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "En Búho estamos buscando artistas apasionados para unirse a nuestro equipo multidisciplinario en la creación de videojuegos. Con casi 10 años de trayectoria, y desde 2021 colaborando con Tactile Games Dinamarca en títulos como Lily’s Garden, Penny & Flo y otros, apostamos al trabajo en equipo,",
-          "workplace": "",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Technical Artist Remoto Ref 20 410",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-remoto-ref-20-410",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral y que está desarrollando varios de los proyectos más importantes de la región? Responsabilidades: Supervisar tecnicismos importantes para los programadores y artistas. Preparar las entregas y responder consultas de",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "StageCraft Motion Capture Technical Director - Industrial Light & Magic",
-          "url": "https://www.entertainmentcareers.net/industrial-light-and-magic/stagecraft-motion-capture-technical-director/job/518137/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Motion Capture Technical Director (StageCraft) - London\n\nJob Summary:\n\nPosition ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Senior Crowd Technical Director(Expression Of Interest)",
-          "url": "https://www.disneycareers.com/en/job/mumbai/senior-crowd-technical-director-expression-of-interest/391/92906953072",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
           "title": "Senior Tech Artist (3D & Unity)",
           "url": "https://www.workwithindies.com/careers/chimera-entertainment-senior-tech-artist-3d-unity",
           "source": "Work With Indies",
@@ -2988,76 +2757,6 @@
           "workplace": "On-site",
           "posted_at": "",
           "score": 3,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Pipeline Technical Director - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/pipeline-technical-director/job/512269/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Directeur (trice) technique des pipeline - expérimenté(e) / Experienced Pipeline TD\n\n700, ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Associate Technical Director - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/associate-technical-director/job/521149/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Associate Technical Director (ATD)\n\n658 Homer Street., Suite 405, Vancouver, BC, V6B 2R4\n\nProject based, ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Lead Lighting Technical Director",
-          "url": "https://www.disneycareers.com/en/job/mumbai/lead-lighting-technical-director/391/97121055488",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Look Dev Technical Director",
-          "url": "https://www.disneycareers.com/en/job/mumbai/look-dev-technical-director/391/97859013328",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
-        },
-        {
-          "title": "Sr Look Dev Technical Director",
-          "url": "https://www.disneycareers.com/en/job/mumbai/sr-look-dev-technical-director/391/97859013104",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
           "specialties": [
             "technical_artist"
           ]
@@ -3081,7 +2780,7 @@
     {
       "slug": "generalist",
       "label": "Generalist",
-      "job_count": 17,
+      "job_count": 12,
       "jobs": [
         {
           "title": "Technical Artist / 3D Generalist",
@@ -3095,21 +2794,6 @@
           "score": 11,
           "specialties": [
             "technical_artist",
-            "generalist"
-          ]
-        },
-        {
-          "title": "3D Generalist Diseno 3D Metaverso Ref 23 559",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-diseno-3d-metaverso-ref-23-559",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil creativo de diseño en las áreas de concept art, planificación lógica y estratégica, game design y arquitectura de juegos. Responsabilidades: •",
-          "workplace": "",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "concept_artist",
             "generalist"
           ]
         },
@@ -3129,18 +2813,17 @@
           ]
         },
         {
-          "title": "Generalista 3D Ref 22 491",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
-          "source": "ImageCampus",
-          "country": "Argentina",
+          "title": "Generalist Technical Artist",
+          "url": "https://mx.ingamejob.com/en/job/generalist-technical-artist",
+          "source": "InGameJob",
+          "country": "Mexico",
           "region": "latin_america",
-          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
-          "workplace": "",
+          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
+          "workplace": "remote",
           "posted_at": "",
-          "score": 8,
+          "score": 9,
           "specialties": [
-            "compositor",
-            "render",
+            "technical_artist",
             "generalist"
           ]
         },
@@ -3160,34 +2843,6 @@
           ]
         },
         {
-          "title": "3D Generalist Sr Responsable De Coordinacion De Equipo Ref 23 561",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-sr-responsable-de-coordinacion-de-equipo-ref-23-561",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil de lider de equipos, proactiva y organizada; para coordinar diferentes equipos de trabajo en las áreas de modelado 3D y texturizado de assets e",
-          "workplace": "",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "3D Generalist Ref 23 560",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-ref-23-560",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con muy buen manejo de herramientas de modelado 3D, principalmente en el área de arquitectura y entornos digitales. Responsabilidades: • Modelado de objetos,",
-          "workplace": "",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
           "title": "Generalist Technical Art Team Lead – Playable Ads",
           "url": "https://mx.ingamejob.com/en/job/generalist-technical-art-team-lead-playable-ads",
           "source": "InGameJob",
@@ -3197,36 +2852,6 @@
           "workplace": "remote",
           "posted_at": "",
           "score": 7,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "Generalista 3D Ref 22 503",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "render",
-            "generalist",
-            "production"
-          ]
-        },
-        {
-          "title": "Generalist Artist Mid-Senior (DMP Specialized)",
-          "url": "https://www.disneycareers.com/en/job/mumbai/generalist-artist-mid-senior-dmp-specialized/391/95530680016",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 6,
           "specialties": [
             "generalist"
           ]
@@ -3246,32 +2871,17 @@
           ]
         },
         {
-          "title": "Animador 3D Generalista Ref 24 573",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "render",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
+          "title": "Bunch'o'Nerds is hiring a 3D Artist (Environment & Map Design) to work from CET ± 4 hours",
+          "url": "https://www.workwithindies.com/careers/bunch-o-nerds-3d-artist-environment-map-design",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We're an indie game studio building games in Unity, and we're looking for a mid-senior 3D Artist to join our team and work on our new game.  Tags: [Art & Animation] [Full Time]",
           "workplace": "",
-          "posted_at": "",
-          "score": 4,
+          "posted_at": "2026-08-03",
+          "score": 5,
           "specialties": [
-            "vfx_fx",
+            "3d_animator",
             "generalist"
           ]
         },
@@ -3330,29 +2940,28 @@
           "specialties": [
             "generalist"
           ]
+        },
+        {
+          "title": "Generalista de Recursos Humanos",
+          "url": "https://www.occ.com.mx/empleos/?job_id=21279014",
+          "source": "OCC Mundial",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sordo Madaleno Arquitectos - Ciudad de México | $ 20,000 - $ 25,000 Mensual",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "generalist"
+          ]
         }
       ]
     },
     {
       "slug": "vfx_fx",
       "label": "VFX / FX",
-      "job_count": 13,
+      "job_count": 8,
       "jobs": [
-        {
-          "title": "3D Vfx Technical Artist Ref 24 572",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-vfx-technical-artist-ref-24-572",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "At LambdaClass, we are dedicated to creating innovative and immersive video game experiences. We are currently seeking a talented 3D VFX Technical Artist to join our Game Development team. If you are passionate about creating stunning visual effects that enhance the gaming experience, this is the",
-          "workplace": "",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
         {
           "title": "Senior Technical Artist (UE5 / VFX)",
           "url": "https://www.workwithindies.com/careers/lunacy-studios-senior-technical-artist-ue5-vfx",
@@ -3366,51 +2975,6 @@
           "specialties": [
             "technical_artist",
             "vfx_fx"
-          ]
-        },
-        {
-          "title": "Technical Artist Vfx Artist Ref 20 406",
-          "url": "https://www.imagecampus.edu.ar/busqueda/technical-artist-vfx-artist-ref-20-406",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "¿Querés sumarte a una empresa en crecimiento, flexible, con un gran clima laboral, y que está desarrollando varios de los proyectos de videojuegos más importantes de la región? En Nimble Giant Entertainment, empresa líder de desarrollo de videojuegos de Latinoamérica, estamos buscando technical",
-          "workplace": "",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "technical_artist",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Vfx Artist Ref 23 553",
-          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "compositor",
-            "vfx_fx"
-          ]
-        },
-        {
-          "title": "Generalista 3D Simulador Creador De Personajes Ref 22 517",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-simulador-creador-de-personajes-ref-22-517",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Buscamos artistas que estén comenzando su camino en el mundo de los VFX y que quieran perfeccionar sus habilidades en un entorno de trabajo agradable y creativo. Responsabilidades: La única responsabilidad que pedimos es el interés por mejorar cada día. Requerimientos excluyentes: Manejo",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "vfx_fx",
-            "generalist"
           ]
         },
         {
@@ -3484,20 +3048,6 @@
           ]
         },
         {
-          "title": "Artista Vfx Ref 22 495",
-          "url": "https://www.imagecampus.edu.ar/busqueda/artista-vfx-ref-22-495",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "SE BUSCA VFX para cortometraje ganador de beca del Fondo Nacional de las Artes - Proyecto experimental busca unx artista vfx para trabajo de chroma y trackeo. Remunerado. El proyecto es independiente y busca sumar a alguien que le interese crecer también creativamente y trabajar en equipo. El",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "vfx_fx"
-          ]
-        },
-        {
           "title": "VFX Artist",
           "url": "https://www.workwithindies.com/careers/table-knight-games-vfx-artist",
           "source": "Work With Indies",
@@ -3523,365 +3073,6 @@
           "score": 2,
           "specialties": [
             "vfx_fx"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "editor",
-      "label": "Editor / Post",
-      "job_count": 9,
-      "jobs": [
-        {
-          "title": "Technical Writer/Editor",
-          "url": "https://www.workwithindies.com/careers/wickworks-technical-writer-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Wickworks | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "editor",
-            "writer"
-          ]
-        },
-        {
-          "title": "Animador 2D Editor De Video Ref 22 513",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Mocap  Editor (Fixed Term Contract)",
-          "url": "https://www.disneycareers.com/en/job/mumbai/mocap-editor-fixed-term-contract/391/94211524624",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "editor"
-          ]
-        },
-        {
-          "title": "Video Editor",
-          "url": "https://www.workwithindies.com/careers/vendetta-video-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Vendetta | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor Y Posproduccion De Videos Ref 23 558",
-          "url": "https://www.imagecampus.edu.ar/busqueda/editor-y-posproduccion-de-videos-ref-23-558",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Creación de videos para Youtube e Instagram a partir de las orientaciones generales de la producción ejecutiva y de los vídeos grabados a modo de insumo que se les envíen. Responsabilidades: Entrega en tiempo y forma de los videos solicitados por la produccion. Manejo de crudos y un minimo de 2",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Editor de Video",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-de-video-corporativo-en-azcapotzalco-1654D2FC0F4FFD2261373E686DCF3405#lc=ListOffers-Score3-8",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Azcapotzalco, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Travel Editor (National Geographic)",
-          "url": "https://www.disneycareers.com/en/job/washington/travel-editor-national-geographic/391/98141123824",
-          "source": "Disney",
-          "country": "Washington,  DC / New York,  New York",
-          "region": "other",
-          "description": "National Geographic | Washington,  DC / New York,  New York",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Commissioning Editor",
-          "url": "https://www.disneycareers.com/en/job/london/commissioning-editor/391/98568336992",
-          "source": "Disney",
-          "country": "London,  United Kingdom",
-          "region": "us_canada_europe",
-          "description": "National Geographic | London,  United Kingdom",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Social Media Video Creator & Editor",
-          "url": "https://www.workwithindies.com/careers/optillusion-games-social-media-video-creator-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Optillusion Games | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "concept_artist",
-      "label": "Concept Artist",
-      "job_count": 7,
-      "jobs": [
-        {
-          "title": "3D Generalist Diseno 3D Metaverso Ref 23 559",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-generalist-diseno-3d-metaverso-ref-23-559",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Somos un estudio de Arquitectura Digital enfocado en crear experiencias en el Metaverso y nos encontramos en la búsqueda de una persona con un perfil creativo de diseño en las áreas de concept art, planificación lógica y estratégica, game design y arquitectura de juegos. Responsabilidades: •",
-          "workplace": "",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "concept_artist",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Visual Development / Concept Artist",
-          "url": "https://www.workwithindies.com/careers/clay-urn-visual-development-concept-artist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Clay Urn | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "The Leyva Group is hiring a Character Illustrator to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/the-leyva-group-character-illustrator",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "I’m looking for a freelance illustrator to help finish a character design sheet for an original IP inspired by the visuals of Power Rangers and Super Sentai. Tags: [Art & Animation] [Freelance]",
-          "workplace": "",
-          "posted_at": "2026-07-29",
-          "score": 6,
-          "specialties": [
-            "2d_artist",
-            "3d_animator",
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "Stylized Character Concept Artist",
-          "url": "https://www.workwithindies.com/careers/plumeria-studio-stylized-character-concept-artist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Plumeria Studio | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "Concept Artist",
-          "url": "https://www.workwithindies.com/careers/cakefish-concept-artist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Cakefish | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "Illustrator / Digital Painter for Concept Art",
-          "url": "https://mx.ingamejob.com/en/job/illustrator-digital-painter-for-concept-art",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Mellow AI Scout - Remote - Middle - Freelance",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "2d_artist",
-            "concept_artist"
-          ]
-        },
-        {
-          "title": "Environment Surfacing Artist - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/environment-surfacing-artist/job/527185/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  As an Environment Surfacing Artist, you will be involved in many aspects of the visual development and ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-30",
-          "score": 4,
-          "specialties": [
-            "texture_surfacing",
-            "concept_artist"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "render",
-      "label": "Render",
-      "job_count": 7,
-      "jobs": [
-        {
-          "title": "Diseñador industrial 3D para diseño de producto cad cam 3d render dibujante",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-3d-para-diseno-de-producto-cad-cam-3d-render-dibujante-diseno-de-joyeria-disenador-ia-de-disenos-en-envigado-B993C5F4F68DC8B161373E686DCF3405#lc=ListOffers-Score4-1",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "Esmeraldas Colombia - Envigado, Antioquia",
-          "workplace": "",
-          "posted_at": "",
-          "score": 11,
-          "specialties": [
-            "render",
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Generalista 3D Ref 22 491",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
-          "workplace": "",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "compositor",
-            "render",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Graphic Programmer, Render Developer",
-          "url": "https://mx.ingamejob.com/en/job/graphic-programmer-render-developer",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "FLEXUS - Remote - Middle - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "render",
-            "developer"
-          ]
-        },
-        {
-          "title": "Generalista 3D Ref 22 503",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-503",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Se busca diseñador con nivel avanzado en 3d studio max, motor de render Corona, post produccion en Photoshop. Para trabajo remoto. Responsabilidades: Desarrollo de proyectos de visualización arquitectónica de 0 a 100. Con proyección de convertirse en Project Manager en el mediano plazo, por lo cual",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "render",
-            "generalist",
-            "production"
-          ]
-        },
-        {
-          "title": "3D Render Artist Ref 26 590",
-          "url": "https://www.imagecampus.edu.ar/busqueda/3d-render-artist-ref-26-590",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "En Third Round estamos buscando un 3D Render Artist con disponibilidad full-time para sumarse a nuestro equipo de Producción. Este rol es clave para transformar modelos e ideas en imágenes potentes, capaces de contar una historia visual clara, atractiva y estratégica. Es una gran oportunidad para",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "render"
-          ]
-        },
-        {
-          "title": "Viridian is hiring a OpenGL SDL Programmer to work from GMT ± 4 hours",
-          "url": "https://www.workwithindies.com/careers/viridian-opengl-sdl-programmer",
-          "source": "WorkWithIndies",
-          "country": "",
-          "region": "remote",
-          "description": "We're hiring an OpenGL SDL Programmer to implement and maintain rendering features using OpenGL and SDL, ensuring compatibility and performance. Tags: [Programming] [Contract]",
-          "workplace": "",
-          "posted_at": "2026-07-30",
-          "score": 4,
-          "specialties": [
-            "render",
-            "developer"
-          ]
-        },
-        {
-          "title": "Animador 3D Generalista Ref 24 573",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "render",
-            "generalist"
           ]
         }
       ]
@@ -3981,25 +3172,182 @@
       ]
     },
     {
+      "slug": "concept_artist",
+      "label": "Concept Artist",
+      "job_count": 6,
+      "jobs": [
+        {
+          "title": "Visual Development / Concept Artist",
+          "url": "https://www.workwithindies.com/careers/clay-urn-visual-development-concept-artist",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Clay Urn | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 7,
+          "specialties": [
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "The Leyva Group is hiring a Character Illustrator to work from Anywhere",
+          "url": "https://www.workwithindies.com/careers/the-leyva-group-character-illustrator",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "I’m looking for a freelance illustrator to help finish a character design sheet for an original IP inspired by the visuals of Power Rangers and Super Sentai. Tags: [Art & Animation] [Freelance]",
+          "workplace": "",
+          "posted_at": "2026-07-29",
+          "score": 6,
+          "specialties": [
+            "2d_artist",
+            "3d_animator",
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "Stylized Character Concept Artist",
+          "url": "https://www.workwithindies.com/careers/plumeria-studio-stylized-character-concept-artist",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Plumeria Studio | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "Concept Artist",
+          "url": "https://www.workwithindies.com/careers/cakefish-concept-artist",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Cakefish | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "Illustrator / Digital Painter for Concept Art",
+          "url": "https://mx.ingamejob.com/en/job/illustrator-digital-painter-for-concept-art",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Mellow AI Scout - Remote - Middle - Freelance",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "2d_artist",
+            "concept_artist"
+          ]
+        },
+        {
+          "title": "Environment Surfacing Artist - Skydance",
+          "url": "https://www.entertainmentcareers.net/skydance/environment-surfacing-artist/job/527185/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  As an Environment Surfacing Artist, you will be involved in many aspects of the visual development and ... more ",
+          "workplace": "",
+          "posted_at": "2026-07-30",
+          "score": 4,
+          "specialties": [
+            "texture_surfacing",
+            "concept_artist"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "editor",
+      "label": "Editor / Post",
+      "job_count": 5,
+      "jobs": [
+        {
+          "title": "Video Editor",
+          "url": "https://www.workwithindies.com/careers/vendetta-video-editor",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Vendetta | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Qloud Games is hiring a Trailer Editor & Capture Artist to work from Sydney, AU or Remote",
+          "url": "https://www.workwithindies.com/careers/qloud-games-trailer-editor-capture-artist",
+          "source": "WorkWithIndies",
+          "country": "Remote",
+          "region": "remote",
+          "description": "We're looking for a Trailer Editor & Capture Artist to work together with existing team members to produce our final gameplay trailers that will showcase Loftia’s launch to the world! Tags: [Marketing & Community] [Contract]",
+          "workplace": "",
+          "posted_at": "2026-08-03",
+          "score": 3,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Editor de Video",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-editor-de-video-corporativo-en-azcapotzalco-1654D2FC0F4FFD2261373E686DCF3405#lc=ListOffers-Score3-9",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Azcapotzalco, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Associate Editor- Disney Publishing",
+          "url": "https://www.disneycareers.com/en/job/celebration/associate-editor-disney-publishing/391/98715788608",
+          "source": "Disney",
+          "country": "Celebration,  Florida",
+          "region": "other",
+          "description": "Disney Experiences | Celebration,  Florida",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Social Media Video Creator & Editor",
+          "url": "https://www.workwithindies.com/careers/optillusion-games-social-media-video-creator-editor",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Optillusion Games | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "writer",
       "label": "Writing / Content",
       "job_count": 5,
       "jobs": [
-        {
-          "title": "Technical Writer/Editor",
-          "url": "https://www.workwithindies.com/careers/wickworks-technical-writer-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Wickworks | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "editor",
-            "writer"
-          ]
-        },
         {
           "title": "Social Media Content Creator & Manager",
           "url": "https://www.workwithindies.com/careers/qloud-games-social-media-content-creator-manager",
@@ -4024,6 +3372,20 @@
           "workplace": "remote",
           "posted_at": "",
           "score": 3,
+          "specialties": [
+            "writer"
+          ]
+        },
+        {
+          "title": "Coordinator, Creative Marketing Copywriter",
+          "url": "https://www.disneycareers.com/en/job/tlalpan/coordinator-creative-marketing-copywriter/391/98720711408",
+          "source": "Disney",
+          "country": "Tlalpan,  Mexico",
+          "region": "latin_america",
+          "description": "The Walt Disney Company (LATAM) | Tlalpan,  Mexico",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
           "specialties": [
             "writer"
           ]
@@ -4059,164 +3421,24 @@
       ]
     },
     {
-      "slug": "3d_modeler",
-      "label": "3D Modeler",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "Dibujante CAD / Proyectista Industrial (Rhino o SolidWorks)",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-cad-proyectista-industrial-rhino-o-solidworks-con-experiencia-en-gustavo-a-madero-9EA094ECCBF7EF9661373E686DCF3405#lc=ListOffers-Score3-12",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "PELOTINAS - Madero, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "3d_modeler",
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Desarrollador De Producto Industrial Con Experiencia En SolidWorks",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-producto-industrial-con-experiencia-en-solidworks-inicio-inmediato-en-bogota-dc-766A3246AF3B766C61373E686DCF3405#lc=ListOffers-Score3-12",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "HUMAN RESOURCES MANAGMENT SA",
-          "workplace": "",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "3d_modeler",
-            "developer",
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Architect / Revit Modeler",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-architect-revit-modeler-en-cordoba-2C229CC7FDB1196861373E686DCF3405#lc=ListOffers-Score0-9",
-          "source": "Computrabajo",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": " - Córdoba, Córdoba",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "3d_modeler"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "audio_composer",
-      "label": "Music / Audio",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "2D Animation Artist (Cyberpunk Music Project)",
-          "url": "https://mx.ingamejob.com/en/job/2d-animation-artist",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Asterman - Relocate, Remote - Senior - Freelance",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "3d_animator",
-            "audio_composer"
-          ]
-        },
-        {
-          "title": "Chiptune Composer / Sound Designer",
-          "url": "https://www.workwithindies.com/careers/dave-miller-chiptune-composer-sound-designer",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Dave Miller | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "audio_composer"
-          ]
-        },
-        {
-          "title": "Senior Sound Designer",
-          "url": "https://www.disneycareers.com/en/job/glendale/senior-sound-designer/391/98588563856",
-          "source": "Disney",
-          "country": "Glendale,  California",
-          "region": "other",
-          "description": "Disney Experiences | Glendale,  California",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "audio_composer"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "video_production",
-      "label": "Video Production",
-      "job_count": 3,
-      "jobs": [
-        {
-          "title": "Production Assistant",
-          "url": "https://www.disneycareers.com/en/job/mumbai/production-assistant/391/95237378432",
-          "source": "Disney",
-          "country": "Mumbai,  India",
-          "region": "other",
-          "description": "Industrial Light & Magic | Mumbai,  India",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 7,
-          "specialties": [
-            "production",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Animador 2D Editor De Video Ref 22 513",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-2d-editor-de-video-ref-22-513",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "Generar piezas audiovisuales estéticas, atractivas e interesantes combinando los criterios y las capacidades técnicas de animación 2D y la edición de video. Responsabilidades: Entregar piezas audiovisuales de calidad colaborando con el equipo y las personas que formamos parte de este",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Digital Video Producer I (Spanish)",
-          "url": "https://www.disneycareers.com/en/job/bristol/digital-video-producer-i-spanish/391/98521069536",
-          "source": "Disney",
-          "country": "Bristol,  Connecticut",
-          "region": "other",
-          "description": "ESPN | Bristol,  Connecticut",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "production",
-            "video_production"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "rigger",
       "label": "Rigger",
-      "job_count": 2,
+      "job_count": 3,
       "jobs": [
+        {
+          "title": "3D game model and rigging it i have the model need to add bones for it",
+          "url": "https://blenderartists.org/t/3d-game-model-and-rigging-it-i-have-the-model-need-to-add-bones-for-it/1649357",
+          "source": "BlenderArtists Paid Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "Hi!\ni need for a suvival character no need many details\nFor your character, require:\n\nOriginal humanized stylized low-poly male—not Minecraft, Roblox or blocky.\nGame-ready topology, UVs and mobile optimization.\nBase body wearing black boxer briefs.\nModular body prepared for armor, clothing, boots,",
+          "workplace": "",
+          "posted_at": "2026-08-03",
+          "score": 2,
+          "specialties": [
+            "rigger"
+          ]
+        },
         {
           "title": "[PAID] Looking for help scaling a Hulkbuster character (Rigging / UE3)",
           "url": "https://blenderartists.org/t/paid-looking-for-help-scaling-a-hulkbuster-character-rigging-ue3/1648958",
@@ -4243,6 +3465,94 @@
           "score": 2,
           "specialties": [
             "rigger"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "render",
+      "label": "Render",
+      "job_count": 3,
+      "jobs": [
+        {
+          "title": "Diseñador industrial 3D para diseño de producto cad cam 3d render dibujante",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-3d-para-diseno-de-producto-cad-cam-3d-render-dibujante-diseno-de-joyeria-disenador-ia-de-disenos-en-envigado-B993C5F4F68DC8B161373E686DCF3405#lc=ListOffers-Score4-1",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "Esmeraldas Colombia - Envigado, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 11,
+          "specialties": [
+            "render",
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Graphic Programmer, Render Developer",
+          "url": "https://mx.ingamejob.com/en/job/graphic-programmer-render-developer",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "FLEXUS - Remote - Middle - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 8,
+          "specialties": [
+            "render",
+            "developer"
+          ]
+        },
+        {
+          "title": "Viridian is hiring a OpenGL SDL Programmer to work from GMT ± 4 hours",
+          "url": "https://www.workwithindies.com/careers/viridian-opengl-sdl-programmer",
+          "source": "WorkWithIndies",
+          "country": "",
+          "region": "remote",
+          "description": "We're hiring an OpenGL SDL Programmer to implement and maintain rendering features using OpenGL and SDL, ensuring compatibility and performance. Tags: [Programming] [Contract]",
+          "workplace": "",
+          "posted_at": "2026-07-30",
+          "score": 4,
+          "specialties": [
+            "render",
+            "developer"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "3d_modeler",
+      "label": "3D Modeler",
+      "job_count": 2,
+      "jobs": [
+        {
+          "title": "profesional en ingeniería industrial, mecánica o electrónica para Proyectista Experto en SolidWorks",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-profesional-en-ingenieria-industrial-mecanica-o-electronica-para-proyectista-experto-en-solidworks-experiencia-en-metalmecanica-siberia-en-siberia-4FFCE3A59721685B61373E686DCF3405#lc=ListOffers-Score3-7",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "MULTISOLUCIONES A&A SAS - Siberia, Cundinamarca",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "3d_modeler",
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Architect / Revit Modeler",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-architect-revit-modeler-en-cordoba-2C229CC7FDB1196861373E686DCF3405#lc=ListOffers-Score0-8",
+          "source": "Computrabajo",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": " - Córdoba, Córdoba",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "3d_modeler"
           ]
         }
       ]
@@ -4285,42 +3595,46 @@
       ]
     },
     {
-      "slug": "compositor",
-      "label": "Compositor",
+      "slug": "audio_composer",
+      "label": "Music / Audio",
       "job_count": 2,
       "jobs": [
         {
-          "title": "Generalista 3D Ref 22 491",
-          "url": "https://www.imagecampus.edu.ar/busqueda/generalista-3d-ref-22-491",
-          "source": "ImageCampus",
-          "country": "Argentina",
+          "title": "2D Animation Artist (Cyberpunk Music Project)",
+          "url": "https://mx.ingamejob.com/en/job/2d-animation-artist",
+          "source": "InGameJob",
+          "country": "Mexico",
           "region": "latin_america",
-          "description": "Estamos en la búsqueda de una persona que sea Generalista 3D, para unirse a nuestro equipo de trabajo de forma presencial. Responsabilidades: - Requerimientos excluyentes: 1-Amplia experiencia en 3D Max, Cinema, Maya, Nuke. After Effects. Con inclinación en iluminación, materiales y render.",
-          "workplace": "",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "compositor",
-            "render",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Vfx Artist Ref 23 553",
-          "url": "https://www.imagecampus.edu.ar/busqueda/vfx-artist-ref-23-553",
-          "source": "ImageCampus",
-          "country": "Argentina",
-          "region": "latin_america",
-          "description": "En WAYPOINT.LA estamos en búsqueda de un artista capaz de crear efectos visuales y simulaciones en Houdini, o similar. Además de poder componer dentro de Nuke. Queremos que seas capaz de crear e implementar arte de alta calidad, de una manera cohesiva y prolija. Es importante tener un pensamiento",
+          "description": "Asterman - Relocate, Remote - Senior - Freelance",
           "workplace": "remote",
           "posted_at": "",
           "score": 6,
           "specialties": [
-            "compositor",
-            "vfx_fx"
+            "3d_animator",
+            "audio_composer"
+          ]
+        },
+        {
+          "title": "Chiptune Composer / Sound Designer",
+          "url": "https://www.workwithindies.com/careers/dave-miller-chiptune-composer-sound-designer",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Dave Miller | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "audio_composer"
           ]
         }
       ]
+    },
+    {
+      "slug": "compositor",
+      "label": "Compositor",
+      "job_count": 0,
+      "jobs": []
     },
     {
       "slug": "layout_previs",
@@ -4329,9 +3643,15 @@
       "jobs": []
     },
     {
+      "slug": "video_production",
+      "label": "Video Production",
+      "job_count": 0,
+      "jobs": []
+    },
+    {
       "slug": "other",
       "label": "Other",
-      "job_count": 66,
+      "job_count": 63,
       "jobs": [
         {
           "title": "I'm looking for someone to design a 3D model of an IA render coming from a sketch",
@@ -4343,6 +3663,18 @@
           "workplace": "Remote",
           "posted_at": "2026-08-02",
           "score": 11,
+          "specialties": []
+        },
+        {
+          "title": "3D Modeling of Upholstered Armchair (Wood Frame + Upholstery) – Output in .3dm",
+          "url": "https://www.cadcrowd.com/job/9746-3d-modeling-of-upholstered-armchair-wood-frame",
+          "source": "CadCrowd",
+          "country": "Italy",
+          "region": "us_canada_europe",
+          "description": "I need a professional 3D modeler to create a complete 3D model of an upholstered armchair, starting from an existing 3D file of the wooden frame (without upholstery) and reference photos of the finished, upholstered product.\r\n\r\nWhat I have:\r\n- A 3D file of the wooden frame/structure only (no padding... | Skills: 3D Furniture Modeling Services, 3D Modeling, 3D Design Services",
+          "workplace": "Remote",
+          "posted_at": "2026-08-03",
+          "score": 8,
           "specialties": []
         },
         {
@@ -4365,7 +3697,7 @@
           "region": "other",
           "description": "I need help in creating charts on excel for 3-4 data sets. I need in next 3 days after i send the data. It isnt 3D visualisation.  I chose that as it was fixed option when selecting.  Its charts on excel. I need help in creating charts on excel for 3-4 data sets. I need in next 3 days after i send t... | Skills: 3D Visualization Services, 3D Modeling, 3D Rendering Services",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 6,
           "specialties": []
         },
@@ -4389,8 +3721,32 @@
           "region": "other",
           "description": "i need a detailed simulation based on the drawings that are attached i need a detailed simulation based on the drawings that are attached | Skills: FEA Finite Element Analysis, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-08-01",
+          "posted_at": "2026-08-03",
           "score": 6,
+          "specialties": []
+        },
+        {
+          "title": "Design of a DEvice to Prevent Snoring",
+          "url": "https://www.cadcrowd.com/job/9752-design-of-a-device-to-prevent-snoring",
+          "source": "CadCrowd",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "I am searching for someone for designing a device to prevent snoring. I have an existing device that needs to be scanned and modified. \r\nPlease contact me if this interests you.\r\nThank you\r\nDr. Joseph Schames I am searching for someone for designing a device to prevent snoring. I have an existing de... | Skills: Medical Devices Design, 3D Design Services, 3D Modeling",
+          "workplace": "Remote",
+          "posted_at": "2026-08-04",
+          "score": 4,
+          "specialties": []
+        },
+        {
+          "title": "Cap prototype",
+          "url": "https://www.cadcrowd.com/job/9689-cap-prototype",
+          "source": "CadCrowd",
+          "country": "Macao",
+          "region": "other",
+          "description": "Cap prototype 3d cad STL file to get produced at a manufacturer. This cap must be made exact so the manufacturer will not have to remake because that cost money. The perforated holes are 40 in each section on the cap. Cap prototype 3d cad STL file to get produced at a manufacturer. This cap must be ... | Skills: Prototype Design Services, 3D Product Modeling, 3D Modeling",
+          "workplace": "",
+          "posted_at": "2026-08-03",
+          "score": 4,
           "specialties": []
         },
         {
@@ -4413,7 +3769,7 @@
           "region": "other",
           "description": "We are looking for an experienced mechanical design engineer / conveyor and material-handling equipment designer to redesign an existing 90° spiral chute used in an airport baggage handling system (BHS).\r\n\r\nThe existing chute is experiencing baggage jamming, particularly with cling-film/stretch-wrap... | Skills: 3D Modeling, Mechanical Design Services, Engineering Design",
           "workplace": "",
-          "posted_at": "2026-07-31",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": []
         },
@@ -4437,7 +3793,7 @@
           "region": "us_canada_europe",
           "description": "Key Responsibilities\r\n•\tDesign and engineer free-standing air-beam (inflatable) structures, from concept through to detailed design and prototype.\r\nCandidate must have experience designing inflatable structures.\r\n•\tDevelop structural solutions for clear-span internal volumes with no internal poles, ... | Skills: Design Engineering Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-07-31",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": []
         },
@@ -4449,7 +3805,7 @@
           "region": "us_canada_europe",
           "description": "Project type: One-time review / fixed price\r\nDeliverable: Written findings report\r\n\r\nOverview\r\n\r\nWe're a hardware startup preparing to fabricate the first prototypes of a CM4-based electronic musical instrument. The board has been designed and routed by our manufacturing partner, and we're seeking a... | Skills: PCB Design Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": []
         },
@@ -4462,18 +3818,6 @@
           "description": "We need a file and filament printed figure in the shape of a turtle that is 4-5 inches long. These will be used by kids, so we need the file in order to print more. We need the title to look cutesy with a big head, something like squirt from finding Nemo. We need the surface to be able to be painted... | Skills: Custom Miniatures, Toys & Games Design, 3D Modeling, 3D Character Modeling Services",
           "workplace": "Remote",
           "posted_at": "2026-07-29",
-          "score": 4,
-          "specialties": []
-        },
-        {
-          "title": "Modular play bear",
-          "url": "https://www.cadcrowd.com/job/9452-modular-play-bear",
-          "source": "CadCrowd",
-          "country": "Macao",
-          "region": "other",
-          "description": "3d cad STL file to get produced at a manufacturer. This requires patience to get it right!!. 3d cad STL file to get produced at a manufacturer. This requires patience to get it right!!. | Skills: Prototype Design Services, 3D Product Modeling, 3D Modeling",
-          "workplace": "",
-          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": []
         },
@@ -4497,7 +3841,7 @@
           "region": "us_canada_europe",
           "description": "3D Virtual Tour of a Proposed Mixed-Use Land Development for a Fairfax VA Property. \r\n\r\nThe 3D models need to be accurate in scale, land slopes, tree types, materials, surrounding house sizes (grey box or generic models), accurate location of the sun with shadows.\r\n\r\nThere needs to be 3 different bu... | Skills: 3D Architectural Modeling, 3D Design Services, 3D Exterior Rendering, 3D Interior Rendering, 3D Flythroughs",
           "workplace": "Remote",
-          "posted_at": "2026-08-02",
+          "posted_at": "2026-08-03",
           "score": 4,
           "specialties": []
         },
@@ -4514,27 +3858,15 @@
           "specialties": []
         },
         {
-          "title": "FEA Landing Gear",
-          "url": "https://www.cadcrowd.com/job/9181-fea-landing-gear",
+          "title": "Seats design",
+          "url": "https://www.cadcrowd.com/job/9730-seats-design",
           "source": "CadCrowd",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "I have designed a landing gear system for an aircraft. What I would like to do is see how strong it is and identify weak areas or areas I can optimize for weight savings. The system is built from 7075T6 aluminium. I would like to see how much load can be applied pushing up on the axle before it fail... | Skills: FEA Finite Element Analysis, 3D Design Services, 3D Modeling",
+          "country": "Saudi Arabia",
+          "region": "other",
+          "description": "Dear ,\r\nI need to design a 300 movable seat plan in scaffold technical , for outdoor use , \r\nthanks Dear ,\r\nI need to design a 300 movable seat plan in scaffold technical , for outdoor use , \r\nthanks | Skills: 3D Furniture Modeling Services, Furniture Design, 3D Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-08-01",
-          "score": 4,
-          "specialties": []
-        },
-        {
-          "title": "Production Services Technician - Sony Imageworks",
-          "url": "https://www.entertainmentcareers.net/sony-imageworks/production-services-technician/job/523866/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  **DESCRIPTION:**\n\n**Production Services Technician (PST)**\n\n**Language ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 3,
+          "posted_at": "2026-08-03",
+          "score": 2,
           "specialties": []
         },
         {
@@ -4558,18 +3890,6 @@
           "description": "I need interior designer for my 2.5 BHK in Dhanori Pune. It include all interior designs as per requirements and support for laminate selections. I need interior designer for my 2.5 BHK in Dhanori Pune. It include all interior designs as per requirements and support for laminate selections. | Skills: Interior Design, 3D Interior Rendering, 3D Design Services",
           "workplace": "Remote",
           "posted_at": "2026-07-29",
-          "score": 2,
-          "specialties": []
-        },
-        {
-          "title": "layout design for 150 sqm",
-          "url": "https://www.cadcrowd.com/job/9634-layout-design-for-150-sqm",
-          "source": "CadCrowd",
-          "country": "United Arab Emirates",
-          "region": "other",
-          "description": "Hello,\r\n\r\nI am looking for an experienced architect or architectural designer to create the best possible layout for an independent rental annex in Dubai. The building area will be approximately 125-150 sqm, and I want the design to be practical, modern, and optimized for privacy and space efficienc... | Skills: Floor Plan Design, Architectural Planning and Design, Interior Design",
-          "workplace": "Remote",
-          "posted_at": "2026-07-28",
           "score": 2,
           "specialties": []
         },
@@ -4604,6 +3924,30 @@
           "country": "Mexico",
           "region": "latin_america",
           "description": "Values Value - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": []
+        },
+        {
+          "title": "Senior Media Buyer (Rewarded UA / INCENT)",
+          "url": "https://mx.ingamejob.com/en/job/senior-media-buyer-rewarded-ua-incent",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "GameGears - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": []
+        },
+        {
+          "title": "Senior Game QA Analyst",
+          "url": "https://mx.ingamejob.com/en/job/senior-qa-analyst-roblox-games",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Speedway Games - Remote - Middle - Full time",
           "workplace": "remote",
           "posted_at": "",
           "score": 2,
@@ -4772,18 +4116,6 @@
           "country": "Mexico",
           "region": "latin_america",
           "description": "Values Value - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": []
-        },
-        {
-          "title": "Motion Designer ( Middle/Senior), GameDev",
-          "url": "https://mx.ingamejob.com/en/job/motion-designer-middlesenior-2",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Starplay DMCC - Remote - Senior - Full time",
           "workplace": "remote",
           "posted_at": "",
           "score": 2,
@@ -5042,18 +4374,6 @@
           "specialties": []
         },
         {
-          "title": "Custom MetaHuman Character Artist / Technical Character Artist - UE5",
-          "url": "https://mx.ingamejob.com/en/job/custom-metahuman-character-artist-technical-character-artist-ue5",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Hit Box Games LLC - Remote - Middle - Freelance",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 1,
-          "specialties": []
-        },
-        {
           "title": "Character FX Pipeline Technician - Sony Imageworks",
           "url": "https://www.entertainmentcareers.net/sony-imageworks/character-fx-pipeline-technician/job/527280/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
@@ -5062,42 +4382,6 @@
           "description": "pls RT ECNIDRSS @entcareersnet  658 Homer St, Vancouver, BC V6B 0T5\n\nLanguage in work environment - English\n\nAbout the Role\n\nWe are ... more ",
           "workplace": "",
           "posted_at": "2026-07-30",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Real Time Graphics Team Lead - Versant",
-          "url": "https://www.entertainmentcareers.net/versant/real-time-graphics-team-lead/job/523448/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Company Description\n\nJob Description\n\nWe are seeking a versatile, ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Real-Time Graphics Team Lead - Versant",
-          "url": "https://www.entertainmentcareers.net/versant/real-time-graphics-team-lead/job/523467/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  Company Description\n\nJob Description\n\nWe are seeking a versatile, highly skilled, and leadership-oriented ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Lead Matte Painting Artist - Skydance",
-          "url": "https://www.entertainmentcareers.net/skydance/lead-matte-painting-artist/job/526820/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  As the lead of the Matte Painting department you must meet the following requirements: at least 6/8 ... more ",
-          "workplace": "",
-          "posted_at": "2026-07-27",
           "score": 0,
           "specialties": []
         },
