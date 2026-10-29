@@ -1,7 +1,7 @@
 {
   "title": "JobFlow",
-  "updated": "2026-10-28 03:06",
-  "total_jobs": 316,
+  "updated": "2026-10-29 03:32",
+  "total_jobs": 328,
   "filters": {
     "regions": [
       "latin_america",
@@ -58,8 +58,22 @@
     {
       "slug": "cad_designer",
       "label": "CAD / Industrial Design",
-      "job_count": 76,
+      "job_count": 83,
       "jobs": [
+        {
+          "title": "3D CAD DESIGNERS",
+          "url": "https://www.cadcrowd.com/job/11611-3d-cad-designers",
+          "source": "CadCrowd",
+          "country": "India",
+          "region": "other",
+          "description": "Need a cad designer for my 3d print farm. Should know software like fusion 360 or solidworks. Should be able to change and edit files Need a cad designer for my 3d print farm. Should know software like fusion 360 or solidworks. Should be able to change and edit files | Skills: 3D Modeling, 3D Design Services, Mechanical CAD Design",
+          "workplace": "",
+          "posted_at": "2026-10-28",
+          "score": 20,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
         {
           "title": "Freelance CAD Designer Needed – Waterproof Product Enclosure Design (3D Printing / DFM)",
           "url": "https://www.cadcrowd.com/job/11586-freelance-cad-designer-needed-waterproof",
@@ -68,8 +82,36 @@
           "region": "other",
           "description": "looking for a skilled CAD / Industrial Product Designer to design a small, waterproof (IP67) plastic housing for a two-wheeler IoT device.\r\n​Scope of Work:\r\n​Design a compact magnetic puck enclosure (SolidWorks / Fusion 360) to fit a small IoT PCB, battery, and optical sensor.\r\n​Include an O-ring se... | Skills: 3D Printing Design, Product Engineering Services, 3D Design Services, Electronic Enclosures Design, Design for Manufacturability (DFM Services)",
           "workplace": "",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 16,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Robot Neck Redesign - Reduce Motor Loading | Fusion 360",
+          "url": "https://www.cadcrowd.com/job/11621-robot-neck-redesign-reduce-motor-loading",
+          "source": "CadCrowd",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "We're Addition Robotics, building Plus, a bimanual mobile robot that works alongside care teams in senior living communities. We're looking for an experienced mechanical designer/engineer to redesign the robot's neck to reduce mechanical loading and strain on its motors.\r\n\r\nThis project covers the n... | Skills: Mechanical Engineering, 3D Design Services, 3D Modeling",
+          "workplace": "Remote",
+          "posted_at": "2026-10-29",
+          "score": 13,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Mechanical Designer - Robot Forearm Shell | Fusion 360 & FDM",
+          "url": "https://www.cadcrowd.com/job/11620-mechanical-designer-robot-forearm-shell-fusion",
+          "source": "CadCrowd",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "We're Addition Robotics, building Plus, a bimanual mobile robot that works alongside care teams in senior living communities. We're looking for an experienced mechanical designer to design and prototype a 3D-printed shell for the forearm of our robot arm, iterating with us on physical prints until i... | Skills: Mechanical Design Services, 3D Design Services, 3D Modeling",
+          "workplace": "Remote",
+          "posted_at": "2026-10-29",
+          "score": 13,
           "specialties": [
             "cad_designer"
           ]
@@ -89,20 +131,6 @@
           ]
         },
         {
-          "title": "We are looking for an experienced 3D CAD designer to assist with the design and modelling of a honeybee-inspired flapping-wing micro aerial vehicle (MAV) as part of our Final Year Project (FYP) in Mechanical Engineering.",
-          "url": "https://www.cadcrowd.com/job/11497-we-are-looking-for-an-experienced-3d-cad-designer",
-          "source": "CadCrowd",
-          "country": "Pakistan",
-          "region": "other",
-          "description": "We require the following three deliverables:\r\n\r\n1. Honeybee Model for ANSYS Fluent CFD Simulation\r\n\r\n- Develop a 3D CAD model of a honeybee-inspired drone, including its body and wings.\r\n- Ensure the geometry is suitable for aerodynamic analysis in ANSYS Fluent.\r\n- The model should support the study... | Skills: 3D Modeling, 3D Design Services, Mechanical Design Services, Mechanical Engineering, Drone Design",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
-          "score": 10,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
           "title": "solidworks design automatic chain link fence machine",
           "url": "https://www.cadcrowd.com/job/11433-solidworks-design-automatic-chain-link-fence",
           "source": "CadCrowd",
@@ -110,21 +138,7 @@
           "region": "other",
           "description": "I am looking for a 3D CAD design of an Automatic Chain Link Fence Machine using SolidWorks.\r\nProject Requirements:\r\n1. Complete 3D Assembly (.sldasm) and Part files (.sldprt) with an editable feature tree.\r\n2. Mechanical mechanisms for wire feeding, spiral weaving mold, cutting unit, and edge treatm... | Skills: Engineering Design, 3D Modeling, SolidWorks Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-10-26",
-          "score": 10,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Reverse Shoulder Implant – 3D CAD Models and 2D Drawings for Prototyping",
-          "url": "https://www.cadcrowd.com/job/11369-reverse-shoulder-implant-3d-cad-models-and-2d",
-          "source": "CadCrowd",
-          "country": "Japan",
-          "region": "us_canada_europe",
-          "description": "We are seeking an experienced CAD designer or mechanical engineer to develop 3D CAD models and 2D manufacturing drawings for a reverse shoulder implant prototype.\r\n\r\nWe have an initial concept that can be shared for further development. We also welcome alternative proposals or existing design concep... | Skills: Medical Devices Design, 3D Design Services, 3D Modeling",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
+          "posted_at": "2026-10-28",
           "score": 10,
           "specialties": [
             "cad_designer"
@@ -180,7 +194,7 @@
           "region": "other",
           "description": "•\tPrepare production drawings and technical documentation.\r\n•\tDevelop technical specifications for the purchasing team.\r\n•\tCreate and manage parametric 3D models using Autodesk Inventor.\r\n•\tDevelop and maintain iLogic rules to automate design and production processes.\r\n•\tCollaborate with external ma... | Skills: Fabrication Drawings Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 9,
           "specialties": [
             "cad_designer"
@@ -222,7 +236,7 @@
           "region": "us_canada_europe",
           "description": "I require an architectural floor plan supplied as a PDF to be manually traced/redrawn in AutoCAD and supplied as a clean DWG file. pdf file attached I require an architectural floor plan supplied as a PDF to be manually traced/redrawn in AutoCAD and supplied as a clean DWG file. pdf file attached | Skills: 2D CAD Drafting Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 8,
           "specialties": [
             "cad_designer"
@@ -264,7 +278,7 @@
           "region": "us_canada_europe",
           "description": "he goal of this project is to finalize the camera support for my Admetec Orchid loupe light, based on the functional prototype developed in the previous project.\r\n\r\nThe new design should incorporate:\r\n\r\nFixed camera-to-lens angle, removing the adjustable camera tilt mechanism in order to make the as... | Skills: 3D Printing Design, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-10-26",
+          "posted_at": "2026-10-28",
           "score": 8,
           "specialties": [
             "cad_designer"
@@ -306,7 +320,7 @@
           "region": "us_canada_europe",
           "description": "I’m looking for an experienced CAD designer to refine an existing measuring spoon prototype. The product has already been designed and 3D printed, so **the goal is to improve the existing design rather than redesign the product from scratch.**\r\n\r\nThe product features a distinctive raised dragon-scal... | Skills: Prototype Design Services, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-29",
           "score": 6,
           "specialties": [
             "cad_designer"
@@ -320,7 +334,7 @@
           "region": "us_canada_europe",
           "description": "## Project overview\r\n\r\nAn enclosure has already been fully designed for the MJVision panoramic football camera using the Radxa ROCK 5B+ board. The existing project includes the CAD/source files, STEP assemblies, STL files, drawings, internal holders, battery holder, tripod mount, buttons, connector ... | Skills: Product Engineering Services, Industrial Design Services, 3D Product Modeling, Electronic Enclosures Design, Mechanical Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 6,
           "specialties": [
             "cad_designer"
@@ -334,7 +348,7 @@
           "region": "us_canada_europe",
           "description": "Hi there!\r\n\r\nI'm looking for an experienced mechanical or product designer to help transform a series of concept images into a fully developed, manufacturable 3D design for a Halloween-themed advent calendar.\r\n\r\nThe project involves creating a miniature Victorian-style haunted mansion featuring 31 i... | Skills: Mechanical Design Services, Industrial Design Services, 3D Architectural Modeling, Prototype Design Services, Product Engineering Services",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-29",
           "score": 6,
           "specialties": [
             "cad_designer"
@@ -348,7 +362,7 @@
           "region": "other",
           "description": "○ Develop accurate shop drawings using Dextall Studio, Revit, and AutoCAD.\r\n○ Ensure designs meet company standards, project requirements, and codes.\r\n○ Prepare and respond to RFIs clearly and efficiently.\r\n○ Contribute to engineering analysis tasks to validate key components.\r\n○ Create detailed win... | Skills: Revit Design Services, AutoCAD Drawing Services, Design Engineering Services, AutoCAD Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 6,
           "specialties": [
             "cad_designer"
@@ -411,21 +425,6 @@
           ]
         },
         {
-          "title": "Senior Technical Designer in Animation (R27369)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-technical-designer-in-animation-r27369",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "3d_animator",
-            "cad_designer"
-          ]
-        },
-        {
           "title": "Diseñador Mecánico (SolidWorks)",
           "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-mecanico-solidworks-exp-modelado-3d-y-planos-de-fabricacion-en-jesus-maria-D3B224CC2D289E6261373E686DCF3405#lc=ListOffers-Score4-3",
           "source": "Computrabajo",
@@ -452,6 +451,34 @@
           "score": 4,
           "specialties": [
             "3d_modeler",
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "SolidWorks Detail Drawings for CNC Machining (DFM & GD&T Knowledge Required)",
+          "url": "https://www.cadcrowd.com/job/11614-solidworks-detail-drawings-for-cnc-machining-dfm",
+          "source": "CadCrowd",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Hi everyone,\r\n\r\nWe run an internal CNC and conventional machine shop and need a SolidWorks drafter to create manufacturing-ready 2D drawings from our existing 3D designs. These drawings go straight to the shop floor, so our machinists must be able to make the parts from them without follow-up questi... | Skills: Manufacturing Drawings, DFM Services, 3D Design Services",
+          "workplace": "Remote",
+          "posted_at": "2026-10-28",
+          "score": 4,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Pressure Vessels Mechanical Draftsman",
+          "url": "https://www.cadcrowd.com/job/11618-pressure-vessels-mechanical-draftsman",
+          "source": "CadCrowd",
+          "country": "Iraq",
+          "region": "other",
+          "description": "I am looking for a Mechanical Static Equipment Draftsman that has experience in oil & gas international projects to create detail drawings for pressure vessels \r\n\r\nthe candidate is required to show experience in Detail Drawings for pressure vessels including and not limited to:\r\nGA Drawings \r\nDetail... | Skills: Mechanical Drafting, Engineering Design, 2D CAD Design Services, Oil & Gas, Mechanical Drawing Services",
+          "workplace": "Remote",
+          "posted_at": "2026-10-28",
+          "score": 4,
+          "specialties": [
             "cad_designer"
           ]
         },
@@ -519,7 +546,7 @@
           "region": "other",
           "description": "Looking for 3D SolidWorks Model & Manufacturing Drawings for Automatic Chain-Link Fence Machine\r\n\r\nDescription:\r\nI am looking for an experienced Mechanical Design Engineer to provide a 3D CAD model and complete manufacturing drawings for an Automatic Chain-Link Fence Machine (similar to the machine ... | Skills: Mechanical Design Services, SolidWorks Design Services, Machine Design",
           "workplace": "Remote",
-          "posted_at": "2026-10-26",
+          "posted_at": "2026-10-28",
           "score": 4,
           "specialties": [
             "cad_designer"
@@ -540,37 +567,8 @@
           ]
         },
         {
-          "title": "Ongoing On-demand 2d Floorplan & 3D rendering gig",
-          "url": "https://www.cadcrowd.com/job/11155-ongoing-on-demand-2d-floorplan-and-3d-rendering-gig",
-          "source": "CadCrowd",
-          "country": "Germany",
-          "region": "us_canada_europe",
-          "description": "Ongoing freelance Planner 5D modeller for outdoor-living showrooms\r\n\r\nWe are looking for a reliable freelance modeller we can turn to whenever we assess a new showroom space. The aim is to work with the same person over time, so you become familiar with our products and concept.\r\n\r\nWe provide floor ... | Skills: 2D CAD Design Services, 3D Rendering Services, Architectural Drawing Services",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
-          "score": 4,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Technical Designer in Animation (R27321)",
-          "url": "https://mx.ingamejob.com/en/away/job/technical-designer-in-animation-r27321",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "cad_designer"
-          ]
-        },
-        {
           "title": "Dibujante Modelado 3d",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-modelado-3d-en-miguel-hidalgo-AE44C1F323ACD5FB61373E686DCF3405#lc=ListOffers-Score3-3",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-modelado-3d-en-miguel-hidalgo-AE44C1F323ACD5FB61373E686DCF3405#lc=ListOffers-Score3-0",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -598,7 +596,7 @@
         },
         {
           "title": "Dibujante Modelado 3d",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-modelado-3d-en-miguel-hidalgo-AE44C1F323ACD5FB61373E686DCF3405#lc=ListOffers-Score4-1",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-modelado-3d-en-miguel-hidalgo-AE44C1F323ACD5FB61373E686DCF3405#lc=ListOffers-Score4-0",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -612,7 +610,7 @@
         },
         {
           "title": "Diseñador Industrial o Arquitecto",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-o-arquitecto-con-experiencia-en-modelado-3d-en-cuajimalpa-de-morelos-602DF6ED9DD4761561373E686DCF3405#lc=ListOffers-Score4-2",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-o-arquitecto-con-experiencia-en-modelado-3d-en-cuajimalpa-de-morelos-602DF6ED9DD4761561373E686DCF3405#lc=ListOffers-Score4-1",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
@@ -625,12 +623,12 @@
           ]
         },
         {
-          "title": "Dibujante Especializado Mecánico (Maquinados)",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-especializado-mecanico-maquinados-en-coyoacan-0D60080DBA73BA6061373E686DCF3405#lc=ListOffers-Score3-15",
+          "title": "Diseñador Industrial",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-en-cuernavaca-3D573F65F37E147261373E686DCF3405#lc=ListOffers-Score3-7",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
-          "description": " - Coyoacán, Ciudad",
+          "description": "FMEDICAL - Cuernavaca, Morelos",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -639,12 +637,26 @@
           ]
         },
         {
-          "title": "Diseñador Industrial o Arquitecto",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-o-arquitecto-con-experiencia-en-modelado-3d-en-cuajimalpa-de-morelos-602DF6ED9DD4761561373E686DCF3405#lc=ListOffers-Score4-7",
+          "title": "Practicante Técnico Dibujante",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-tecnico-dibujante-becario-en-salamanca-4B0B263B4B0392C961373E686DCF3405#lc=ListOffers-Score3-8",
           "source": "Computrabajo",
           "country": "Mexico",
           "region": "latin_america",
-          "description": "MEGAEMPEÑOS - Morelos, Ciudad",
+          "description": "DISTRIBUIDORA SUCAHERZA - Salamanca, Guanajuato",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador industrial",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-material-pop-zona-azcapotzalco-en-azcapotzalco-A96E400533750A3161373E686DCF3405#lc=ListOffers-Score3-10",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Display Integral - Azcapotzalco, Ciudad",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -659,6 +671,34 @@
           "country": "Mexico",
           "region": "latin_america",
           "description": "Electric Neon - Cholula, Puebla",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador industrial",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-industrial-material-pop-zona-azcapotzalco-en-azcapotzalco-A96E400533750A3161373E686DCF3405#lc=ListOffers-Score3-14",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Display Integral - Azcapotzalco, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador de Producto / Diseñador Industrial (Maquinaria e Identidad Visual)",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-de-producto-disenador-industrial-maquinaria-e-identidad-visual-contratacion-inmediata-en-cdmx-en-benito-juarez-9BE75CE4AA7EEA8661373E686DCF3405#lc=ListOffers-Score3-15",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Juárez, Ciudad",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -737,8 +777,22 @@
           ]
         },
         {
+          "title": "Dibujante Proyectista con conocimiento de Piping",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-con-conocimiento-de-piping-full-time-en-quilmes-55C5AADCE66C0EE161373E686DCF3405#lc=ListOffers-Score0-13",
+          "source": "Computrabajo",
+          "country": "Argentina",
+          "region": "latin_america",
+          "description": "Bioingepro S.r.l - Quilmes, Buenos",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Dibujante Proyectista",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-zona-platanos-en-platanos-56CC2EF86E9F63CC61373E686DCF3405#lc=ListOffers-Score0-13",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-zona-platanos-en-platanos-56CC2EF86E9F63CC61373E686DCF3405#lc=ListOffers-Score0-15",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -752,7 +806,7 @@
         },
         {
           "title": "Dibujante Cadista 3D especializado en piping",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-cadista-3d-especializado-en-piping-en-quilmes-D4C13BCD3F86F37B61373E686DCF3405#lc=ListOffers-Score0-14",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-cadista-3d-especializado-en-piping-en-quilmes-D4C13BCD3F86F37B61373E686DCF3405#lc=ListOffers-Score0-16",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -766,7 +820,7 @@
         },
         {
           "title": "Dibujante técnico",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-en-lujan-de-cuyo-B889F69C1DBF9CB461373E686DCF3405#lc=ListOffers-Score0-16",
+          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-en-lujan-de-cuyo-B889F69C1DBF9CB461373E686DCF3405#lc=ListOffers-Score0-18",
           "source": "Computrabajo",
           "country": "Argentina",
           "region": "latin_america",
@@ -779,12 +833,26 @@
           ]
         },
         {
-          "title": "Dibujante Tecnico",
-          "url": "https://www.computrabajo.com.ar/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-en-neuquen-3DB1B8709F1C878861373E686DCF3405#lc=ListOffers-Score0-19",
+          "title": "Dibujante mecánico con experiencia",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-mecanico-con-experiencia-sector-metalmecanico-en-bogota-dc-55B9D33A63146EF461373E686DCF3405#lc=ListOffers-Score3-3",
           "source": "Computrabajo",
-          "country": "Argentina",
+          "country": "Colombia",
           "region": "latin_america",
-          "description": "MX4 SRL - Neuquen, Neuquén",
+          "description": "Ocupar Temporales S.A.",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Dibujante de Controles y Automatización, Ingles Intermedio, Medellin",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-de-controles-y-automatizacion-ingles-intermedio-medellin-en-medellin-4C3B34047DF0DED961373E686DCF3405#lc=ListOffers-Score3-4",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Automatización, Ingles",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -794,7 +862,7 @@
         },
         {
           "title": "dibujante o delineante de tuberías, medellin",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-o-delineante-de-tuberias-medellin-en-medellin-61A74E8D8C00BD9561373E686DCF3405#lc=ListOffers-Score3-11",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-o-delineante-de-tuberias-medellin-en-medellin-61A74E8D8C00BD9561373E686DCF3405#lc=ListOffers-Score3-5",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
@@ -808,7 +876,7 @@
         },
         {
           "title": "dibujante o delineante Mecánico, Medellín",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-o-delineante-mecanico-medellin-en-medellin-F3026E89F7F6E95861373E686DCF3405#lc=ListOffers-Score3-12",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-o-delineante-mecanico-medellin-en-medellin-F3026E89F7F6E95861373E686DCF3405#lc=ListOffers-Score3-6",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
@@ -821,8 +889,64 @@
           ]
         },
         {
+          "title": "Dibujante",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-autodesk-inventor-en-sabaneta-D3101BB673AA83E961373E686DCF3405#lc=ListOffers-Score3-7",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": "INDUSTRIAS V8 S.A.S. - Sabaneta, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Dibujante Eléctrico(a) / Diseño Eléctrico Industrial",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-electricoa-diseno-electrico-industrial-en-medellin-39B652F6CC7D7B9861373E686DCF3405#lc=ListOffers-Score3-9",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Medellín, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Diseñador(a) Mecánico(a) / Mechanical Designer",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-disenadora-mecanicoa-mechanical-designer-en-medellin-A21E9DEDC8A039DB61373E686DCF3405#lc=ListOffers-Score3-14",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Medellín, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Dibujante Técnico CAD",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-tecnico-cad-sector-metalmecanico-en-barranquilla-6F5518793211CFA161373E686DCF3405#lc=ListOffers-Score3-19",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Barranquilla, Atlántico",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Dibujante de Controles y Automatización, Ingles Intermedio, Medellin",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-de-controles-y-automatizacion-ingles-intermedio-medellin-en-medellin-4C3B34047DF0DED961373E686DCF3405#lc=ListOffers-Score3-13",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-de-controles-y-automatizacion-ingles-intermedio-medellin-en-medellin-4C3B34047DF0DED961373E686DCF3405#lc=ListOffers-Score3-12",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
@@ -835,12 +959,40 @@
           ]
         },
         {
-          "title": "dibujante industrial",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-industrial-contratacion-inmediata-en-cali-888234C65D22628361373E686DCF3405#lc=ListOffers-Score3-18",
+          "title": "dibujante o delineante de tuberías, medellin",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-o-delineante-de-tuberias-medellin-en-medellin-61A74E8D8C00BD9561373E686DCF3405#lc=ListOffers-Score3-13",
           "source": "Computrabajo",
           "country": "Colombia",
           "region": "latin_america",
-          "description": " - Cali, Valle",
+          "description": " - Medellín, Antioquia",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "dibujante o delineante Mecánico, Medellín",
+          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-o-delineante-mecanico-medellin-en-medellin-F3026E89F7F6E95861373E686DCF3405#lc=ListOffers-Score3-14",
+          "source": "Computrabajo",
+          "country": "Colombia",
+          "region": "latin_america",
+          "description": " - Mecánico, Medellín",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "Projetista Industrial",
+          "url": "https://www.catho.com.br/vagas/projetista-industrial/39029496",
+          "source": "Catho",
+          "country": "Brazil",
+          "region": "latin_america",
+          "description": "UNIÃO - Betim",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -863,68 +1015,26 @@
           ]
         },
         {
+          "title": "Projetista Mecânico Sênior",
+          "url": "https://www.catho.com.br/vagas/projetista-mecanico-senior/39030011",
+          "source": "Catho",
+          "country": "Brazil",
+          "region": "latin_america",
+          "description": "A. M. MOURA ROLETES INDUSTRIAIS - Ribeirão Preto",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
           "title": "Projetista de Móveis",
           "url": "https://www.catho.com.br/vagas/projetista-de-moveis/39021079",
           "source": "Catho",
           "country": "Brazil",
           "region": "latin_america",
           "description": "Empresa Confidencial - São Paulo",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista de Estruturas Metálicas",
-          "url": "https://www.catho.com.br/vagas/projetista-de-estruturas-metalicas/38966610",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "LESET GESTÃO DE PESSOAS - Ribeirão Preto",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista CAD/CAM - TopSolid",
-          "url": "https://www.catho.com.br/vagas/projetista-cadcam-topsolid/38969908",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "Empresa Confidencial - Santo Andre",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista Comercial",
-          "url": "https://www.catho.com.br/vagas/projetista-comercial/38963825",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "BENNU CONSULTORIA - Goiania",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Projetista",
-          "url": "https://www.catho.com.br/vagas/projetista/38970257",
-          "source": "Catho",
-          "country": "Brazil",
-          "region": "latin_america",
-          "description": "TOP WORK RECURSOS HUMANOS - Barueri",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -947,12 +1057,12 @@
           ]
         },
         {
-          "title": "Projetista mecânico industrial",
-          "url": "https://www.catho.com.br/vagas/projetista-mecanico-industrial/38963740",
+          "title": "Projetista Cadista",
+          "url": "https://www.catho.com.br/vagas/projetista-cadista/39004543",
           "source": "Catho",
           "country": "Brazil",
           "region": "latin_america",
-          "description": "CORTEX SERVICE LTDA - Cotia",
+          "description": "FLUZ ENGENHARIA - Curitiba",
           "workplace": "",
           "posted_at": "",
           "score": 2,
@@ -961,14 +1071,28 @@
           ]
         },
         {
-          "title": "CAD developer",
-          "url": "https://www.cadcrowd.com/job/11564-cad-developer",
+          "title": "Projetista Técnico",
+          "url": "https://www.catho.com.br/vagas/projetista-tecnico/39030044",
+          "source": "Catho",
+          "country": "Brazil",
+          "region": "latin_america",
+          "description": "LIONTTO - Santo Andre",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "cad_designer"
+          ]
+        },
+        {
+          "title": "MEP Draftsman",
+          "url": "https://www.cadcrowd.com/job/11604-mep-draftsman",
           "source": "CadCrowd",
-          "country": "India",
+          "country": "Oman",
           "region": "other",
-          "description": "Need a CAD developer for Step file for my plastic water bottle design Need a CAD developer for Step file for my plastic water bottle design | Skills: CAD Drawing Services, Mechanical CAD Design, 3D Design Services",
+          "description": "We are looking for an experienced freelance MEP draftsman based in Oman to support us with the preparation of the following drawings:\r\n\r\nPower cable tray layouts\r\nPower distribution board (DB) layouts\r\nCCTV and other security system layouts\r\nStructured cabling layouts\r\n\r\nInterested freelancers can c... | Skills: MEP Drafting Services, General CAD Drafting, Electrical Drafting",
           "workplace": "Remote",
-          "posted_at": "2026-10-26",
+          "posted_at": "2026-10-28",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -996,21 +1120,7 @@
           "region": "us_canada_europe",
           "description": "Hello,\r\n\r\nPlease open the attached PDF first. It shows the board.\r\n\r\nHI-GAIN is a networking and wireless equipment distributor in Beirut, Lebanon, in business since 1990.\r\n\r\nWe need an RF engineer to design, build and test our board until it works.\r\nYou need your own test equipment that works above... | Skills: PCB Design Services, Electronics Design Service, 3D Design Services, Electronic Prototyping and Design Services, Radio Frequency Engineering and Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-10-28",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Duct Design",
-          "url": "https://www.cadcrowd.com/job/11473-duct-design",
-          "source": "CadCrowd",
-          "country": "Saudi Arabia",
-          "region": "other",
-          "description": "We need a part-time  duct designer for our AC projects We need a part-time  duct designer for our AC projects | Skills: 2D CAD Design Services, HVAC Design Services, 3D Design Services",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
+          "posted_at": "2026-10-29",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -1024,7 +1134,7 @@
           "region": "us_canada_europe",
           "description": "We are seeking an experienced Autodesk Revit / AutoCAD BIM Technician or Drafter to assist with producing professional low-voltage construction drawings and coordinated Revit models for commercial and institutional projects.\r\n\r\nOur projects include:\r\n- Structured cabling (data, fiber optics, Wi-Fi, ... | Skills: Architectural Planning and Design, Architectural Site Plans, Electrical Drafting, Drafting and Design Services, General CAD Drafting",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -1052,21 +1162,7 @@
           "region": "other",
           "description": "We are looking for a technically skilled Electronics Engineer with strong international PCB sourcing experience, an entrepreneurial mindset, and excellent English communication skills.\r\n\r\nOur company develops and manufactures PCB and electronic solutions for the renewable energy industry. We are see... | Skills: Industrial Design Services, Product Engineering Services, Engineering Design, PCB Design Services, Electronics Design Service",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
-          "score": 2,
-          "specialties": [
-            "cad_designer"
-          ]
-        },
-        {
-          "title": "Simple CAD drawing needed One time Job",
-          "url": "https://www.cadcrowd.com/job/11268-simple-cad-drawing-needed-one-time-job",
-          "source": "CadCrowd",
-          "country": "Hong Kong",
-          "region": "other",
-          "description": "I am planning a renovation. I need someone to CAD draw a set of stairs as an addition to a ground floor existing apartment. I have the original plans from the 80s as well as a basic floor plan and photos of the job. I need a sketch with measurements to convince the residents committee who are voting... | Skills: Hourly Services, 2D CAD Design Services, 3D Design Services",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
+          "posted_at": "2026-10-29",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -1094,7 +1190,7 @@
           "region": "us_canada_europe",
           "description": "Hi there,\r\n\r\nWe are in search of a designer who can help us develop a custom piece based on the references provided, while incorporating our branding into the overall design.\r\n\r\nWe’re looking to create a custom piece approximately 4\" x 6\", about 1\" tall with a 1/4\" slant. This piece will ultimately ... | Skills: 2D CAD Design Services, 3D CAD Translation Services, 3D Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-29",
           "score": 2,
           "specialties": [
             "cad_designer"
@@ -1133,7 +1229,7 @@
     {
       "slug": "developer",
       "label": "Developer / Programmer",
-      "job_count": 40,
+      "job_count": 38,
       "jobs": [
         {
           "title": "Graphic Programmer, Render Developer",
@@ -1176,20 +1272,6 @@
           "score": 7,
           "specialties": [
             "generalist",
-            "developer"
-          ]
-        },
-        {
-          "title": "Senior Product Software Engineer, Golang",
-          "url": "https://www.disneycareers.com/en/job/glendale/senior-product-software-engineer-golang/391/102471835456",
-          "source": "Disney",
-          "country": "Glendale,  California",
-          "region": "other",
-          "description": "Disney Entertainment and ESPN Product & Technology | Glendale,  California",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
             "developer"
           ]
         },
@@ -1268,21 +1350,6 @@
           ]
         },
         {
-          "title": "Senior Rendering Programmer (R27460)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-rendering-programmer-r27460-1",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "render",
-            "developer"
-          ]
-        },
-        {
           "title": "Senior Gameplay Programmer (R27434)",
           "url": "https://mx.ingamejob.com/en/away/job/senior-gameplay-programmer-r27434",
           "source": "InGameJob",
@@ -1298,8 +1365,23 @@
           ]
         },
         {
-          "title": "Sr. Software Engineer - Emerging Technology",
-          "url": "https://www.disneycareers.com/en/job/burbank/sr-software-engineer-emerging-technology/391/102471840688",
+          "title": "Senior Rendering Programmer (R27460)",
+          "url": "https://mx.ingamejob.com/en/away/job/senior-rendering-programmer-r27460-1",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Epic Games",
+          "workplace": "",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "render",
+            "developer"
+          ]
+        },
+        {
+          "title": "Walt Disney Animation Studios Full Stack Web Development Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-full-stack-web-development-intern-summer-2027/391/102557876496",
           "source": "Disney",
           "country": "Burbank,  California",
           "region": "other",
@@ -1314,26 +1396,11 @@
         },
         {
           "title": "Sr. Software Engineer - Emerging Technology",
-          "url": "https://www.disneycareers.com/en/job/vancouver/sr-software-engineer-emerging-technology/391/102471835424",
+          "url": "https://www.disneycareers.com/en/job/burbank/sr-software-engineer-emerging-technology/391/102471840688",
           "source": "Disney",
-          "country": "Vancouver,  Canada",
-          "region": "us_canada_europe",
-          "description": "Walt Disney Animation Studios | Vancouver,  Canada",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "Software Engineer Intern, Pipeline Infrastructure",
-          "url": "https://www.disneycareers.com/en/job/vancouver/software-engineer-intern-pipeline-infrastructure/391/102485178400",
-          "source": "Disney",
-          "country": "Vancouver,  Canada",
-          "region": "us_canada_europe",
-          "description": "Walt Disney Animation Studios | Vancouver,  Canada",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 4,
@@ -1372,16 +1439,17 @@
           ]
         },
         {
-          "title": "Advanced DevOps Games Software Engineer - American Football",
-          "url": "https://mx.ingamejob.com/en/away/job/advanced-devops-games-software-engineer-american-football",
+          "title": "Principal Game Programmer (f/m/x)",
+          "url": "https://mx.ingamejob.com/en/away/job/principal-game-programmer-fmx",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
-          "description": "Electronic Arts GmbH",
+          "description": "Deck 13 Interactive GmbH",
           "workplace": "",
           "posted_at": "",
           "score": 4,
           "specialties": [
+            "game_dev",
             "developer"
           ]
         },
@@ -1457,36 +1525,22 @@
           ]
         },
         {
-          "title": "Senior Language Programmer (R27466)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-language-programmer-r27466-1",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Senior Mobile Programmer (R27437)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-mobile-programmer-r27437",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
           "title": "Senior  Software Programmer, Audio Engine (R27279)",
           "url": "https://mx.ingamejob.com/en/away/job/senior-software-programmer-audio-engine-r27279-1",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Epic Games",
+          "workplace": "",
+          "posted_at": "",
+          "score": 3,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Senior Language Programmer (R27466)",
+          "url": "https://mx.ingamejob.com/en/away/job/senior-language-programmer-r27466-1",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
@@ -1527,34 +1581,6 @@
           ]
         },
         {
-          "title": "Full Stack SLM Development with Advanced ML/DL and Optimization",
-          "url": "https://arc.dev/remote-jobs/details/full-stack-slm-development-with-advanced-ml-dl-and-optimization-pugy8dj8tg",
-          "source": "ArcDev",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Analista de datos Python",
-          "url": "https://www.computrabajo.com.co/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-python-data-analyst-python-en-bogota-dc-34C1D704DA3EF5AD61373E686DCF3405#lc=ListOffers-Score3-6",
-          "source": "Computrabajo",
-          "country": "Colombia",
-          "region": "latin_america",
-          "description": "",
-          "workplace": "",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
           "title": "Programador de Máquina CNC",
           "url": "https://www.catho.com.br/vagas/programador-de-maquina-cnc/39003342",
           "source": "Catho",
@@ -1583,6 +1609,34 @@
           ]
         },
         {
+          "title": "Data Engineer",
+          "url": "https://www.disneycareers.com/en/job/orlando/data-engineer/391/102562386752",
+          "source": "Disney",
+          "country": "Orlando,  Florida",
+          "region": "other",
+          "description": "Disney Experiences | Orlando,  Florida",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Sr Data Engineer (PH)",
+          "url": "https://www.disneycareers.com/en/job/glendale/sr-data-engineer-ph/391/102476347376",
+          "source": "Disney",
+          "country": "Glendale,  California",
+          "region": "other",
+          "description": "The Walt Disney Studios | Glendale,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
           "title": "Lead Software Engineer – Data Architect",
           "url": "https://www.disneycareers.com/en/job/celebration/lead-software-engineer-data-architect/391/102308576496",
           "source": "Disney",
@@ -1597,40 +1651,26 @@
           ]
         },
         {
+          "title": "Sr Data Engineer",
+          "url": "https://www.disneycareers.com/en/job/san-francisco/sr-data-engineer/391/102534302400",
+          "source": "Disney",
+          "country": "San Francisco,  California",
+          "region": "other",
+          "description": "Disney Entertainment and ESPN Product & Technology | San Francisco,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
           "title": "Lead Software Engineer",
           "url": "https://www.disneycareers.com/en/job/buenos-aires/lead-software-engineer/391/85705097200",
           "source": "Disney",
           "country": "Buenos Aires,  Argentina",
           "region": "latin_america",
           "description": "Disney Entertainment and ESPN Product & Technology | Buenos Aires,  Argentina",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sr Product Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/glendale/sr-product-software-engineer/391/102515383104",
-          "source": "Disney",
-          "country": "Glendale,  California",
-          "region": "other",
-          "description": "Disney Entertainment and ESPN Product & Technology | Glendale,  California",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "developer"
-          ]
-        },
-        {
-          "title": "Sr Product Software Engineer",
-          "url": "https://www.disneycareers.com/en/job/santa-monica/sr-product-software-engineer/391/102515372848",
-          "source": "Disney",
-          "country": "Santa Monica,  California / New York,  New York",
-          "region": "other",
-          "description": "Disney Entertainment and ESPN Product & Technology | Santa Monica,  California / New York,  New York",
           "workplace": "On-site",
           "posted_at": "",
           "score": 2,
@@ -1681,6 +1721,34 @@
           ]
         },
         {
+          "title": "Staff Software Engineer – Data",
+          "url": "https://mx.ingamejob.com/en/away/job/staff-software-engineer-data-2",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sony Interactive Entertainment Deutschland GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
+          "title": "Ruby Developer with Interest in Gaming (m/f/x)",
+          "url": "https://mx.ingamejob.com/en/away/job/ruby-developer-with-interest-in-gaming-mfx",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Nitrado",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "developer"
+          ]
+        },
+        {
           "title": "Lead UI Programmer (R27307)",
           "url": "https://mx.ingamejob.com/en/away/job/lead-ui-programmer-r27307-1",
           "source": "InGameJob",
@@ -1713,7 +1781,7 @@
     {
       "slug": "game_dev",
       "label": "Game Developer",
-      "job_count": 34,
+      "job_count": 35,
       "jobs": [
         {
           "title": "Generative AI Game Developer",
@@ -1916,6 +1984,21 @@
           "score": 4,
           "specialties": [
             "game_dev"
+          ]
+        },
+        {
+          "title": "Principal Game Programmer (f/m/x)",
+          "url": "https://mx.ingamejob.com/en/away/job/principal-game-programmer-fmx",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Deck 13 Interactive GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "game_dev",
+            "developer"
           ]
         },
         {
@@ -2292,21 +2375,6 @@
           ]
         },
         {
-          "title": "Senior Technical Designer in Animation (R27369)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-technical-designer-in-animation-r27369",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "3d_animator",
-            "cad_designer"
-          ]
-        },
-        {
           "title": "Associate Animation Technical Director - Sony Imageworks",
           "url": "https://www.entertainmentcareers.net/sony-imageworks/associate-animation-technical-director/job/522775/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
@@ -2337,8 +2405,37 @@
           ]
         },
         {
-          "title": "Sr. Software Engineer - Emerging Technology",
-          "url": "https://www.disneycareers.com/en/job/burbank/sr-software-engineer-emerging-technology/391/102471840688",
+          "title": "Gilgamesh Enterprises Inc is hiring a Pixelart Animator to work from United States",
+          "url": "https://www.workwithindies.com/careers/gilgamesh-enterprises-inc-pixelart-animator",
+          "source": "WorkWithIndies",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "We require a pixel art animation expert who can draw, animate, and color the body and clothing in dynamic anime poses and actions.  Tags: [Art & Animation] [Contract]",
+          "workplace": "",
+          "posted_at": "2026-10-29",
+          "score": 4,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Walt Disney Animation Studios Volume Rendering Optimization Graduate Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-volume-rendering-optimization-graduate-intern-summer-2027/391/102557877216",
+          "source": "Disney",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "render"
+          ]
+        },
+        {
+          "title": "Walt Disney Animation Studios Full Stack Web Development Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-full-stack-web-development-intern-summer-2027/391/102557876496",
           "source": "Disney",
           "country": "Burbank,  California",
           "region": "other",
@@ -2353,26 +2450,11 @@
         },
         {
           "title": "Sr. Software Engineer - Emerging Technology",
-          "url": "https://www.disneycareers.com/en/job/vancouver/sr-software-engineer-emerging-technology/391/102471835424",
+          "url": "https://www.disneycareers.com/en/job/burbank/sr-software-engineer-emerging-technology/391/102471840688",
           "source": "Disney",
-          "country": "Vancouver,  Canada",
-          "region": "us_canada_europe",
-          "description": "Walt Disney Animation Studios | Vancouver,  Canada",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "developer"
-          ]
-        },
-        {
-          "title": "Software Engineer Intern, Pipeline Infrastructure",
-          "url": "https://www.disneycareers.com/en/job/vancouver/software-engineer-intern-pipeline-infrastructure/391/102485178400",
-          "source": "Disney",
-          "country": "Vancouver,  Canada",
-          "region": "us_canada_europe",
-          "description": "Walt Disney Animation Studios | Vancouver,  Canada",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 4,
@@ -2421,21 +2503,6 @@
           "score": 4,
           "specialties": [
             "3d_animator"
-          ]
-        },
-        {
-          "title": "Technical Designer in Animation (R27321)",
-          "url": "https://mx.ingamejob.com/en/away/job/technical-designer-in-animation-r27321",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "3d_animator",
-            "cad_designer"
           ]
         },
         {
@@ -2537,26 +2604,12 @@
           ]
         },
         {
-          "title": "Tahoma Studios is hiring a Pixel Artist to work from Anywhere",
-          "url": "https://www.workwithindies.com/careers/tahoma-studios-pixel-artist",
-          "source": "WorkWithIndies",
-          "country": "Remote",
-          "region": "remote",
-          "description": "Hi! I'm currently looking for a pro pixel artist to help build out the world of Everon, a cosy idle MMO. Tags: [Art & Animation] [Contract]",
-          "workplace": "",
-          "posted_at": "2026-10-22",
-          "score": 2,
-          "specialties": [
-            "3d_animator"
-          ]
-        },
-        {
-          "title": "2027 Apprenticeship Program - Effects Trainee",
-          "url": "https://www.disneycareers.com/en/job/vancouver/2027-apprenticeship-program-effects-trainee/391/102334319856",
+          "title": "Walt Disney Animation Studios Product Design Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-product-design-intern-summer-2027/391/102557878176",
           "source": "Disney",
-          "country": "Vancouver,  Canada",
-          "region": "us_canada_europe",
-          "description": "Walt Disney Animation Studios | Vancouver,  Canada",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
           "workplace": "On-site",
           "posted_at": "",
           "score": 2,
@@ -2565,8 +2618,50 @@
           ]
         },
         {
-          "title": "Systems Engineer Intern, Data Services",
-          "url": "https://www.disneycareers.com/en/job/vancouver/systems-engineer-intern-data-services/391/102485173536",
+          "title": "Walt Disney Animation Studios Lighting and Materials Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-lighting-and-materials-intern-summer-2027/391/102557876544",
+          "source": "Disney",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Walt Disney Animation Studios Media Tools Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-media-tools-intern-summer-2027/391/102557871600",
+          "source": "Disney",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "Walt Disney Animation Studios Technical Support Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-technical-support-intern-summer-2027/391/102557871488",
+          "source": "Disney",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "3d_animator"
+          ]
+        },
+        {
+          "title": "2027 Apprenticeship Program - Effects Trainee",
+          "url": "https://www.disneycareers.com/en/job/vancouver/2027-apprenticeship-program-effects-trainee/391/102334319856",
           "source": "Disney",
           "country": "Vancouver,  Canada",
           "region": "us_canada_europe",
@@ -2605,19 +2700,252 @@
           "specialties": [
             "3d_animator"
           ]
+        }
+      ]
+    },
+    {
+      "slug": "production",
+      "label": "Production",
+      "job_count": 17,
+      "jobs": [
+        {
+          "title": "VFX Production Manager - Framestore",
+          "url": "https://www.entertainmentcareers.net/framestore/vfx-production-manager/job/534760/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  About the role\n\nThe Production Department Manager (PDM) is primarily responsible for developing, managing ... more ",
+          "workplace": "",
+          "posted_at": "2026-10-22",
+          "score": 7,
+          "specialties": [
+            "vfx_fx",
+            "production"
+          ]
         },
         {
-          "title": "Lead Technical Animator (R27454)",
-          "url": "https://mx.ingamejob.com/en/away/job/lead-technical-animator-r27454",
+          "title": "Production Assistant",
+          "url": "https://www.disneycareers.com/en/job/los-angeles/production-assistant/391/102567146368",
+          "source": "Disney",
+          "country": "Los Angeles,  California",
+          "region": "other",
+          "description": "ESPN | Los Angeles,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 7,
+          "specialties": [
+            "production",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Unknown Worlds is hiring Senior Producer (Remote Job)",
+          "url": "https://remotegamejobs.com/jobs/unknown-worlds-senior-producer-remote-job-6a39959e-7bd1-4cc7-a5c3-43004e1c2a0e",
+          "source": "Remote Game Jobs",
+          "country": "Remote",
+          "region": "remote",
+          "description": "THE OPPORTUNITY\nUnknown Worlds is seeking an experienced Senior Producer to work on the Subnautica franchise. Our ideal candidate is a collaborator, facilitator, and force-multiplier. They are highly emotionally intelligent, organized, and passionate about making games. They are experienced in",
+          "workplace": "",
+          "posted_at": "2026-10-23",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Senior Publishing Producer (Puzzle)",
+          "url": "https://mx.ingamejob.com/en/job/senior-publishing-producer-puzzle",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
-          "description": "Epic Games",
+          "description": "Hypercell Games - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Game Producer",
+          "url": "https://mx.ingamejob.com/en/job/game-producer-97",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Hitapps - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Creative Producer",
+          "url": "https://mx.ingamejob.com/en/job/creative-producer-41",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Senior Publishing Producer",
+          "url": "https://mx.ingamejob.com/en/job/senior-producer-6",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Values Value - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Creative Producer - Playable Ads",
+          "url": "https://mx.ingamejob.com/en/job/creative-producer-playable-ads-1",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Game Producer",
+          "url": "https://mx.ingamejob.com/en/job/game-producer-100",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Don Nelson Recruitment Limited - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Senior Producer",
+          "url": "https://www.workwithindies.com/careers/triband-senior-producer",
+          "source": "Work With Indies",
+          "country": "Copenhagen, DK",
+          "region": "other",
+          "description": "Triband | Copenhagen, DK",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 3,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Senior Producer",
+          "url": "https://www.workwithindies.com/careers/scape-senior-producer",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Scape | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 3,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Freelance localization project manager",
+          "url": "https://mx.ingamejob.com/en/job/freelance-localization-project-manager",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Allcorrect - Remote - Middle - Freelance",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 3,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Publishing Producer | Scout",
+          "url": "https://mx.ingamejob.com/en/job/publishing-producer-scout",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Alawar - Remote - Middle - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 3,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Trusted Building Technologies Inc.: Executive Assistant / Project Manager",
+          "url": "https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
+          "source": "We Work Remotely Design",
+          "country": "Remote",
+          "region": "remote",
+          "description": "\n\nHeadquarters: West Palm Beach, Florida, USA\n    URL: http://www.TrustedBuildTech.com\n\nTrusted Building Technologies is a US-based construction company.  We're looking for an experienced Executive Assistant to manage projects remotely.  Experience designing documents, managing multiple websites,",
+          "workplace": "",
+          "posted_at": "2026-10-27",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Associate Producer",
+          "url": "https://www.workwithindies.com/careers/cm-immersive-associate-producer",
+          "source": "Work With Indies",
+          "country": "Europe",
+          "region": "other",
+          "description": "CM IMMERSIVE | Europe",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Creative Producer (Game Design & Concept Dev)",
+          "url": "https://www.workwithindies.com/careers/collective-ace-group-creative-producer-game-design-concept-dev",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Collective Ace Group | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "production"
+          ]
+        },
+        {
+          "title": "Project Manager",
+          "url": "https://mx.ingamejob.com/en/away/job/project-manager-266",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Tencent Games",
           "workplace": "",
           "posted_at": "",
           "score": 2,
           "specialties": [
-            "3d_animator"
+            "production"
           ]
         }
       ]
@@ -2625,7 +2953,7 @@
     {
       "slug": "technical_artist",
       "label": "Technical Artist",
-      "job_count": 16,
+      "job_count": 15,
       "jobs": [
         {
           "title": "3D Vfx Technical Artist Ref 24 572",
@@ -2845,144 +3173,162 @@
           "specialties": [
             "technical_artist"
           ]
-        },
-        {
-          "title": "Associate Pipeline Technical Director - ILM Sydney",
-          "url": "https://www.disneycareers.com/en/job/sydney/associate-pipeline-technical-director-ilm-sydney/391/102007484128",
-          "source": "Disney",
-          "country": "Sydney,  Australia",
-          "region": "us_canada_europe",
-          "description": "Industrial Light & Magic | Sydney,  Australia",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "technical_artist"
-          ]
         }
       ]
     },
     {
-      "slug": "production",
-      "label": "Production",
-      "job_count": 15,
+      "slug": "generalist",
+      "label": "Generalist",
+      "job_count": 11,
       "jobs": [
         {
-          "title": "VFX Production Manager - Framestore",
-          "url": "https://www.entertainmentcareers.net/framestore/vfx-production-manager/job/534760/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "title": "Asset Generalist - CG Modeling and Texturing - Framestore",
+          "url": "https://www.entertainmentcareers.net/framestore/asset-generalist-cg-modeling-and-texturing/job/534994/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
           "source": "Entertainment Careers",
           "country": "",
           "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  About the role\n\nThe Production Department Manager (PDM) is primarily responsible for developing, managing ... more ",
+          "description": "pls RT ECNIDRSS @entcareersnet  Asset Generalist - Advertising, Episodic & Immersive (Expression of Interest)\n\nFramestore is looking ... more ",
           "workplace": "",
-          "posted_at": "2026-10-22",
+          "posted_at": "2026-10-27",
+          "score": 9,
+          "specialties": [
+            "3d_modeler",
+            "texture_surfacing",
+            "generalist"
+          ]
+        },
+        {
+          "title": "Generalist Technical Artist",
+          "url": "https://mx.ingamejob.com/en/job/generalist-technical-artist",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 9,
+          "specialties": [
+            "technical_artist",
+            "generalist"
+          ]
+        },
+        {
+          "title": "3D Generalist",
+          "url": "https://mx.ingamejob.com/en/job/3d-generalist-81",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "HyperVR Games - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 9,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Mid-Level 3D Artist (Environment Generalist)",
+          "url": "https://www.workwithindies.com/careers/fallen-tree-games-mid-level-3d-artist-environment-generalist",
+          "source": "Work With Indies",
+          "country": "United Kingdom",
+          "region": "us_canada_europe",
+          "description": "Fallen Tree Games | United Kingdom",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 8,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Mid-Senior 3D Generalist",
+          "url": "https://www.workwithindies.com/careers/neon-badger-mid-senior-3d-generalist",
+          "source": "Work With Indies",
+          "country": "Australia",
+          "region": "us_canada_europe",
+          "description": "Neon Badger | Australia",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 8,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "3D Generalist/Environment Artist (Unity)",
+          "url": "https://mx.ingamejob.com/en/job/3d-generalistenvironment-artist-unity",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Hypercell Games - Remote - Middle - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 8,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Unreal 5 Programmer (Gameplay, Generalist)",
+          "url": "https://www.workwithindies.com/careers/lunacy-studios-unreal-5-programmer-gameplay-ui",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Lunacy Studios | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
           "score": 7,
           "specialties": [
-            "vfx_fx",
-            "production"
+            "generalist",
+            "developer"
           ]
         },
         {
-          "title": "Unknown Worlds is hiring Senior Producer (Remote Job)",
-          "url": "https://remotegamejobs.com/jobs/unknown-worlds-senior-producer-remote-job-6a39959e-7bd1-4cc7-a5c3-43004e1c2a0e",
-          "source": "Remote Game Jobs",
-          "country": "Remote",
-          "region": "remote",
-          "description": "THE OPPORTUNITY\nUnknown Worlds is seeking an experienced Senior Producer to work on the Subnautica franchise. Our ideal candidate is a collaborator, facilitator, and force-multiplier. They are highly emotionally intelligent, organized, and passionate about making games. They are experienced in",
-          "workplace": "",
-          "posted_at": "2026-10-23",
-          "score": 4,
+          "title": "Art Director (Environmental Art / Generalist)",
+          "url": "https://www.workwithindies.com/careers/midain-studios-art-director-environmental-art-generalist",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Midain Studios | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 5,
           "specialties": [
-            "production"
+            "generalist"
           ]
         },
         {
-          "title": "Senior Publishing Producer (Puzzle)",
-          "url": "https://mx.ingamejob.com/en/job/senior-publishing-producer-puzzle",
-          "source": "InGameJob",
-          "country": "Mexico",
+          "title": "Graphic Design Generalist",
+          "url": "https://www.workwithindies.com/careers/dillo-interactive-graphic-design-generalist",
+          "source": "Work With Indies",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "Dillo Interactive | United States",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 5,
+          "specialties": [
+            "generalist"
+          ]
+        },
+        {
+          "title": "Animador 3D Generalista Ref 24 573",
+          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
+          "source": "ImageCampus",
+          "country": "Argentina",
           "region": "latin_america",
-          "description": "Hypercell Games - Remote - Senior - Full time",
+          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
           "workplace": "remote",
           "posted_at": "",
           "score": 4,
           "specialties": [
-            "production"
+            "render",
+            "generalist"
           ]
         },
         {
-          "title": "Game Producer",
-          "url": "https://mx.ingamejob.com/en/job/game-producer-97",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Hitapps - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Creative Producer",
-          "url": "https://mx.ingamejob.com/en/job/creative-producer-41",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Senior Publishing Producer",
-          "url": "https://mx.ingamejob.com/en/job/senior-producer-6",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Values Value - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Creative Producer - Playable Ads",
-          "url": "https://mx.ingamejob.com/en/job/creative-producer-playable-ads-1",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Game Producer",
-          "url": "https://mx.ingamejob.com/en/job/game-producer-100",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Don Nelson Recruitment Limited - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Senior Producer",
-          "url": "https://www.workwithindies.com/careers/triband-senior-producer",
+          "title": "Senior 3D Artist",
+          "url": "https://www.workwithindies.com/careers/triband-senior-3d-artist",
           "source": "Work With Indies",
           "country": "Copenhagen, DK",
           "region": "other",
@@ -2991,255 +3337,7 @@
           "posted_at": "",
           "score": 3,
           "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Senior Producer",
-          "url": "https://www.workwithindies.com/careers/scape-senior-producer",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Scape | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Freelance localization project manager",
-          "url": "https://mx.ingamejob.com/en/job/freelance-localization-project-manager",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Allcorrect - Remote - Middle - Freelance",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Publishing Producer | Scout",
-          "url": "https://mx.ingamejob.com/en/job/publishing-producer-scout",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Alawar - Remote - Middle - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Trusted Building Technologies Inc.: Executive Assistant / Project Manager",
-          "url": "https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: West Palm Beach, Florida, USA\n    URL: http://www.TrustedBuildTech.com\n\nTrusted Building Technologies is a US-based construction company.  We're looking for an experienced Executive Assistant to manage projects remotely.  Experience designing documents, managing multiple websites,",
-          "workplace": "",
-          "posted_at": "2026-10-27",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Associate Producer",
-          "url": "https://www.workwithindies.com/careers/cm-immersive-associate-producer",
-          "source": "Work With Indies",
-          "country": "Europe",
-          "region": "other",
-          "description": "CM IMMERSIVE | Europe",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        },
-        {
-          "title": "Creative Producer (Game Design & Concept Dev)",
-          "url": "https://www.workwithindies.com/careers/collective-ace-group-creative-producer-game-design-concept-dev",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Collective Ace Group | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "production"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "editor",
-      "label": "Editor / Post",
-      "job_count": 11,
-      "jobs": [
-        {
-          "title": "Content Creator & Video Editor",
-          "url": "https://www.workwithindies.com/careers/hexnest-games-content-creator-video-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "HexNest Games | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "editor",
-            "writer"
-          ]
-        },
-        {
-          "title": "Video Editor / Game Trailer Editor",
-          "url": "https://mx.ingamejob.com/en/job/video-editor-game-trailer-editor",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Why Not?! Game Studio - Remote - Senior - Freelance",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 6,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "H-E-B is hiring for a position of Senior Video Editor in San Antonio, TX",
-          "url": "https://dribbble.com/jobs/311364-Senior-Video-Editor?source=feed",
-          "source": "Dribbble Jobs",
-          "country": "",
-          "region": "remote",
-          "description": "",
-          "workplace": "",
-          "posted_at": "2026-10-26",
-          "score": 5,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Freelancer - Video Editor (Part-Time, Remote)",
-          "url": "https://mx.ingamejob.com/en/away/job/freelancer-video-editor-part-time-remote",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Palta",
-          "workplace": "",
-          "posted_at": "",
-          "score": 5,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Diseñador Multimedia y Motion Graphics",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score3-0",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Juárez, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Diseñador Multimedia y Motion Graphics",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score4-4",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Juárez, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Short Form Video Editor",
-          "url": "https://www.workwithindies.com/careers/crytivo-short-form-video-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Crytivo | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Senior Motion Editor - ILM Vancouver",
-          "url": "https://www.disneycareers.com/en/job/vancouver/senior-motion-editor-ilm-vancouver/391/96232276432",
-          "source": "Disney",
-          "country": "Vancouver,  Canada",
-          "region": "us_canada_europe",
-          "description": "Industrial Light & Magic | Vancouver,  Canada",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 3,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Associate Editor - SEO - Part Time",
-          "url": "https://www.disneycareers.com/en/job/connecticut/associate-editor-seo-part-time/391/102248244448",
-          "source": "Disney",
-          "country": "Connecticut",
-          "region": "other",
-          "description": "ESPN | Connecticut",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Trailer Editor / Video Creator",
-          "url": "https://www.workwithindies.com/careers/dionic-software-trailer-editor-video-creator",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Dionic Software | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
-          ]
-        },
-        {
-          "title": "Trailer Editor",
-          "url": "https://www.workwithindies.com/careers/josh-singer-trailer-editor",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Josh Singer | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "editor"
+            "generalist"
           ]
         }
       ]
@@ -3397,151 +3495,152 @@
       ]
     },
     {
-      "slug": "generalist",
-      "label": "Generalist",
+      "slug": "editor",
+      "label": "Editor / Post",
       "job_count": 10,
       "jobs": [
         {
-          "title": "3D Generalist",
-          "url": "https://mx.ingamejob.com/en/job/3d-generalist-81",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "HyperVR Games - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "Generalist Technical Artist",
-          "url": "https://mx.ingamejob.com/en/job/generalist-technical-artist",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "WonderBrains Recruiting Agency - Remote - Senior - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 9,
-          "specialties": [
-            "technical_artist",
-            "generalist"
-          ]
-        },
-        {
-          "title": "Mid-Level 3D Artist (Environment Generalist)",
-          "url": "https://www.workwithindies.com/careers/fallen-tree-games-mid-level-3d-artist-environment-generalist",
-          "source": "Work With Indies",
-          "country": "United Kingdom",
-          "region": "us_canada_europe",
-          "description": "Fallen Tree Games | United Kingdom",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "Mid-Senior 3D Generalist",
-          "url": "https://www.workwithindies.com/careers/neon-badger-mid-senior-3d-generalist",
-          "source": "Work With Indies",
-          "country": "Australia",
-          "region": "us_canada_europe",
-          "description": "Neon Badger | Australia",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "3D Generalist/Environment Artist (Unity)",
-          "url": "https://mx.ingamejob.com/en/job/3d-generalistenvironment-artist-unity",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Hypercell Games - Remote - Middle - Full time",
-          "workplace": "remote",
-          "posted_at": "",
-          "score": 8,
-          "specialties": [
-            "generalist"
-          ]
-        },
-        {
-          "title": "Unreal 5 Programmer (Gameplay, Generalist)",
-          "url": "https://www.workwithindies.com/careers/lunacy-studios-unreal-5-programmer-gameplay-ui",
+          "title": "Content Creator & Video Editor",
+          "url": "https://www.workwithindies.com/careers/hexnest-games-content-creator-video-editor",
           "source": "Work With Indies",
           "country": "Anywhere",
           "region": "other",
-          "description": "Lunacy Studios | Anywhere",
+          "description": "HexNest Games | Anywhere",
           "workplace": "Remote",
           "posted_at": "",
-          "score": 7,
+          "score": 6,
           "specialties": [
-            "generalist",
-            "developer"
+            "editor",
+            "writer"
           ]
         },
         {
-          "title": "Art Director (Environmental Art / Generalist)",
-          "url": "https://www.workwithindies.com/careers/midain-studios-art-director-environmental-art-generalist",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Midain Studios | Anywhere",
-          "workplace": "Remote",
+          "title": "H-E-B is hiring for a position of Senior Video Editor in San Antonio, TX",
+          "url": "https://dribbble.com/jobs/311364-Senior-Video-Editor?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "",
+          "region": "remote",
+          "description": "",
+          "workplace": "",
+          "posted_at": "2026-10-26",
+          "score": 5,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Freelancer - Video Editor (Part-Time, Remote)",
+          "url": "https://mx.ingamejob.com/en/away/job/freelancer-video-editor-part-time-remote",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Palta",
+          "workplace": "",
           "posted_at": "",
           "score": 5,
           "specialties": [
-            "generalist"
+            "editor"
           ]
         },
         {
-          "title": "Graphic Design Generalist",
-          "url": "https://www.workwithindies.com/careers/dillo-interactive-graphic-design-generalist",
-          "source": "Work With Indies",
+          "title": "M+C Saatchi World Services is hiring for a position of Motion Graphics Designer in Washington, D. C., United States",
+          "url": "https://dribbble.com/jobs/311429-Motion-Graphics-Designer?source=feed",
+          "source": "Dribbble Jobs",
           "country": "United States",
           "region": "us_canada_europe",
-          "description": "Dillo Interactive | United States",
-          "workplace": "On-site",
-          "posted_at": "",
-          "score": 5,
+          "description": "",
+          "workplace": "",
+          "posted_at": "2026-10-28",
+          "score": 4,
           "specialties": [
-            "generalist"
+            "editor",
+            "video_production"
           ]
         },
         {
-          "title": "Animador 3D Generalista Ref 24 573",
-          "url": "https://www.imagecampus.edu.ar/busqueda/animador-3d-generalista-ref-24-573",
-          "source": "ImageCampus",
-          "country": "Argentina",
+          "title": "Diseñador Multimedia y Motion Graphics",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score3-1",
+          "source": "Computrabajo",
+          "country": "Mexico",
           "region": "latin_america",
-          "description": "Estamos buscando animador 3D Generalista para un importante proyecto. Necesitamos a alguien con experiencia comprobable en modelado, texturizado, animación, render hiperrealista y conocimientos en simulaciones y dinámicas como agua, humo y fuego. Mandanos tu CV y algún link a trabajos! Modalidad:",
-          "workplace": "remote",
+          "description": " - Juárez, Ciudad",
+          "workplace": "",
           "posted_at": "",
           "score": 4,
           "specialties": [
-            "render",
-            "generalist"
+            "editor",
+            "video_production"
           ]
         },
         {
-          "title": "Senior 3D Artist",
-          "url": "https://www.workwithindies.com/careers/triband-senior-3d-artist",
+          "title": "Diseñador Multimedia y Motion Graphics",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score4-6",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Juárez, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Short Form Video Editor",
+          "url": "https://www.workwithindies.com/careers/crytivo-short-form-video-editor",
           "source": "Work With Indies",
-          "country": "Copenhagen, DK",
+          "country": "Anywhere",
           "region": "other",
-          "description": "Triband | Copenhagen, DK",
+          "description": "Crytivo | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Senior Motion Editor - ILM Vancouver",
+          "url": "https://www.disneycareers.com/en/job/vancouver/senior-motion-editor-ilm-vancouver/391/96232276432",
+          "source": "Disney",
+          "country": "Vancouver,  Canada",
+          "region": "us_canada_europe",
+          "description": "Industrial Light & Magic | Vancouver,  Canada",
           "workplace": "On-site",
           "posted_at": "",
           "score": 3,
           "specialties": [
-            "generalist"
+            "editor"
+          ]
+        },
+        {
+          "title": "Trailer Editor / Video Creator",
+          "url": "https://www.workwithindies.com/careers/dionic-software-trailer-editor-video-creator",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Dionic Software | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
+          ]
+        },
+        {
+          "title": "Trailer Editor",
+          "url": "https://www.workwithindies.com/careers/josh-singer-trailer-editor",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Josh Singer | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "editor"
           ]
         }
       ]
@@ -3549,7 +3648,7 @@
     {
       "slug": "2d_artist",
       "label": "2D Artist",
-      "job_count": 8,
+      "job_count": 7,
       "jobs": [
         {
           "title": "2D Artist middle+/senior Casual Games / 2D художник",
@@ -3650,27 +3749,13 @@
             "2d_artist",
             "writer"
           ]
-        },
-        {
-          "title": "Cata-Kor: Graphic Designer",
-          "url": "https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
-          "source": "We Work Remotely Design",
-          "country": "Remote",
-          "region": "remote",
-          "description": "\n\nHeadquarters: Miami, FL\n    URL: https://catakor.com/\n\n \nA leading supplement brand in its category in the U.S. market is expanding its creative team and looking for a talented Graphic Designer with a strong eye for modern, polished, and high-converting e-commerce design.\nPlease note: we are only",
-          "workplace": "",
-          "posted_at": "2026-10-21",
-          "score": 2,
-          "specialties": [
-            "2d_artist"
-          ]
         }
       ]
     },
     {
       "slug": "writer",
       "label": "Writing / Content",
-      "job_count": 5,
+      "job_count": 6,
       "jobs": [
         {
           "title": "Content Creator & Video Editor",
@@ -3699,6 +3784,20 @@
           "score": 4,
           "specialties": [
             "2d_artist",
+            "writer"
+          ]
+        },
+        {
+          "title": "Sr. Analyst, Customer Experience Content Writer",
+          "url": "https://www.disneycareers.com/en/job/buenos-aires/sr-analyst-customer-experience-content-writer/391/102557876608",
+          "source": "Disney",
+          "country": "Buenos Aires,  Argentina",
+          "region": "latin_america",
+          "description": "Disney Direct to Consumer | Buenos Aires,  Argentina",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
             "writer"
           ]
         },
@@ -3749,8 +3848,24 @@
     {
       "slug": "3d_modeler",
       "label": "3D Modeler",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
+        {
+          "title": "Asset Generalist - CG Modeling and Texturing - Framestore",
+          "url": "https://www.entertainmentcareers.net/framestore/asset-generalist-cg-modeling-and-texturing/job/534994/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Asset Generalist - Advertising, Episodic & Immersive (Expression of Interest)\n\nFramestore is looking ... more ",
+          "workplace": "",
+          "posted_at": "2026-10-27",
+          "score": 9,
+          "specialties": [
+            "3d_modeler",
+            "texture_surfacing",
+            "generalist"
+          ]
+        },
         {
           "title": "Diseñador Mecánico (SolidWorks)",
           "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-mecanico-solidworks-exp-modelado-3d-y-planos-de-fabricacion-en-jesus-maria-D3B224CC2D289E6261373E686DCF3405#lc=ListOffers-Score4-3",
@@ -3800,7 +3915,7 @@
     {
       "slug": "render",
       "label": "Render",
-      "job_count": 3,
+      "job_count": 4,
       "jobs": [
         {
           "title": "Graphic Programmer, Render Developer",
@@ -3845,6 +3960,137 @@
           "specialties": [
             "render",
             "generalist"
+          ]
+        },
+        {
+          "title": "Walt Disney Animation Studios Volume Rendering Optimization Graduate Intern, Summer 2027",
+          "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-volume-rendering-optimization-graduate-intern-summer-2027/391/102557877216",
+          "source": "Disney",
+          "country": "Burbank,  California",
+          "region": "other",
+          "description": "Walt Disney Animation Studios | Burbank,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "3d_animator",
+            "render"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "video_production",
+      "label": "Video Production",
+      "job_count": 4,
+      "jobs": [
+        {
+          "title": "Production Assistant",
+          "url": "https://www.disneycareers.com/en/job/los-angeles/production-assistant/391/102567146368",
+          "source": "Disney",
+          "country": "Los Angeles,  California",
+          "region": "other",
+          "description": "ESPN | Los Angeles,  California",
+          "workplace": "On-site",
+          "posted_at": "",
+          "score": 7,
+          "specialties": [
+            "production",
+            "video_production"
+          ]
+        },
+        {
+          "title": "M+C Saatchi World Services is hiring for a position of Motion Graphics Designer in Washington, D. C., United States",
+          "url": "https://dribbble.com/jobs/311429-Motion-Graphics-Designer?source=feed",
+          "source": "Dribbble Jobs",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "",
+          "workplace": "",
+          "posted_at": "2026-10-28",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Diseñador Multimedia y Motion Graphics",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score3-1",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Juárez, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        },
+        {
+          "title": "Diseñador Multimedia y Motion Graphics",
+          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score4-6",
+          "source": "Computrabajo",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": " - Juárez, Ciudad",
+          "workplace": "",
+          "posted_at": "",
+          "score": 4,
+          "specialties": [
+            "editor",
+            "video_production"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "audio_composer",
+      "label": "Music / Audio",
+      "job_count": 3,
+      "jobs": [
+        {
+          "title": "Technical Sound Designer (Unity)",
+          "url": "https://www.workwithindies.com/careers/up-one-games-technical-sound-designer-unity",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Up One Games | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "audio_composer"
+          ]
+        },
+        {
+          "title": "Sound Effects Creator",
+          "url": "https://www.workwithindies.com/careers/dreamaloid-studios-sound-effects-creator",
+          "source": "Work With Indies",
+          "country": "Anywhere",
+          "region": "other",
+          "description": "Dreamaloid Studios | Anywhere",
+          "workplace": "Remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "audio_composer"
+          ]
+        },
+        {
+          "title": "Sr Director, Sound Design",
+          "url": "https://mx.ingamejob.com/en/away/job/sr-director-sound-design",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sony Interactive Entertainment Deutschland GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 2,
+          "specialties": [
+            "audio_composer"
           ]
         }
       ]
@@ -3921,73 +4167,24 @@
       ]
     },
     {
-      "slug": "audio_composer",
-      "label": "Music / Audio",
-      "job_count": 2,
+      "slug": "texture_surfacing",
+      "label": "Texture / Surfacing",
+      "job_count": 1,
       "jobs": [
         {
-          "title": "Technical Sound Designer (Unity)",
-          "url": "https://www.workwithindies.com/careers/up-one-games-technical-sound-designer-unity",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Up One Games | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "audio_composer"
-          ]
-        },
-        {
-          "title": "Sound Effects Creator",
-          "url": "https://www.workwithindies.com/careers/dreamaloid-studios-sound-effects-creator",
-          "source": "Work With Indies",
-          "country": "Anywhere",
-          "region": "other",
-          "description": "Dreamaloid Studios | Anywhere",
-          "workplace": "Remote",
-          "posted_at": "",
-          "score": 2,
-          "specialties": [
-            "audio_composer"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "video_production",
-      "label": "Video Production",
-      "job_count": 2,
-      "jobs": [
-        {
-          "title": "Diseñador Multimedia y Motion Graphics",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score3-0",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Juárez, Ciudad",
+          "title": "Asset Generalist - CG Modeling and Texturing - Framestore",
+          "url": "https://www.entertainmentcareers.net/framestore/asset-generalist-cg-modeling-and-texturing/job/534994/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
+          "source": "Entertainment Careers",
+          "country": "",
+          "region": "remote",
+          "description": "pls RT ECNIDRSS @entcareersnet  Asset Generalist - Advertising, Episodic & Immersive (Expression of Interest)\n\nFramestore is looking ... more ",
           "workplace": "",
-          "posted_at": "",
-          "score": 4,
+          "posted_at": "2026-10-27",
+          "score": 9,
           "specialties": [
-            "editor",
-            "video_production"
-          ]
-        },
-        {
-          "title": "Diseñador Multimedia y Motion Graphics",
-          "url": "https://www.computrabajo.com.mx/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-multimedia-y-motion-graphics-2d-y-3d-en-benito-juarez-9C4599F9FB625DF561373E686DCF3405#lc=ListOffers-Score4-4",
-          "source": "Computrabajo",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": " - Juárez, Ciudad",
-          "workplace": "",
-          "posted_at": "",
-          "score": 4,
-          "specialties": [
-            "editor",
-            "video_production"
+            "3d_modeler",
+            "texture_surfacing",
+            "generalist"
           ]
         }
       ]
@@ -4020,15 +4217,9 @@
       "jobs": []
     },
     {
-      "slug": "texture_surfacing",
-      "label": "Texture / Surfacing",
-      "job_count": 0,
-      "jobs": []
-    },
-    {
       "slug": "other",
       "label": "Other",
-      "job_count": 80,
+      "job_count": 82,
       "jobs": [
         {
           "title": "3d artist",
@@ -4055,6 +4246,30 @@
           "specialties": []
         },
         {
+          "title": "OFC - Profax",
+          "url": "https://www.cadcrowd.com/job/11615-ofc-profax",
+          "source": "CadCrowd",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "My goal here is to have this drawing drawn in cabinet vision with a job file returned that will allow it to be cut on our Anderson CNC. We are an office furniture manufacturer and looking to outsource a good deal of our cabinet vision work to speed up the drawing process and allow the CNC to be work... | Skills: Millwork Drafting, 3D Design Services, 3D Modeling",
+          "workplace": "Remote",
+          "posted_at": "2026-10-28",
+          "score": 4,
+          "specialties": []
+        },
+        {
+          "title": "Rebar detailing",
+          "url": "https://www.cadcrowd.com/job/11605-rebar-detailing",
+          "source": "CadCrowd",
+          "country": "India",
+          "region": "other",
+          "description": "Hi, I wanted to do rebar detailing to my residential plot. Hi, I wanted to do rebar detailing to my residential plot. | Skills: Rebar Detailing and Drawing, 3D Design Services, 3D Modeling",
+          "workplace": "",
+          "posted_at": "2026-10-28",
+          "score": 4,
+          "specialties": []
+        },
+        {
           "title": "Consumer Product 3D CAD Model",
           "url": "https://www.cadcrowd.com/job/11510-consumer-product-3d-cad-model",
           "source": "CadCrowd",
@@ -4067,18 +4282,6 @@
           "specialties": []
         },
         {
-          "title": "Request for 2D Drawings and 3D CAD Data – Reverse Shoulder Arthroplasty Implant System (Prototype / Engineering Evaluation)",
-          "url": "https://www.cadcrowd.com/job/11381-request-for-2d-drawings-and-3d-cad-data",
-          "source": "CadCrowd",
-          "country": "Japan",
-          "region": "us_canada_europe",
-          "description": "We are looking to obtain 2D manufacturing drawings and 3D CAD data for a reverse shoulder arthroplasty implant system, for non-clinical prototype fabrication and engineering evaluation.\r\n\r\nPlease note that while we have experience with orthopedic product development, reverse shoulder arthroplasty an... | Skills: Medical Devices Design, 3D Design Services, 3D Modeling",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
-          "score": 4,
-          "specialties": []
-        },
-        {
           "title": "Custom Packaging Design & Development Inquiry",
           "url": "https://www.cadcrowd.com/job/11346-custom-packaging-design-and-development-inquiry",
           "source": "CadCrowd",
@@ -4086,7 +4289,7 @@
           "region": "us_canada_europe",
           "description": "Hi there,\r\n\r\nMy name is Salvador, and I work closely with a designer based in Los Angeles. We are currently looking for an experienced packaging designer to assist with the development of custom packaging for a tattoo machine, battery pack, and needle cartridges.\r\n\r\nOur goal is to create premium, we... | Skills: Packaging Design, 3D Design Services, 3D Modeling",
           "workplace": "Remote",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-29",
           "score": 4,
           "specialties": []
         },
@@ -4098,8 +4301,32 @@
           "region": "us_canada_europe",
           "description": "Hi! I'm Cristiana. We're looking for freelance Revit Structure modellers for a remote CAD-to-BIM project, Nov26–Mar27. Interested? Send your portfolio, monthly availability by 21/10. Hi! I'm Cristiana. We're looking for freelance Revit Structure modellers for a remote CAD-to-BIM project, Nov26–Mar27... | Skills: BIM Modeling Services, Revit Conversion Services, Architectural BIM Services",
           "workplace": "",
-          "posted_at": "2026-10-27",
+          "posted_at": "2026-10-28",
           "score": 3,
+          "specialties": []
+        },
+        {
+          "title": "CNC Programmer / Shop Drawing Reviewer — Commercial Millwork & Seating",
+          "url": "https://www.cadcrowd.com/job/11623-cnc-programmer-shop-drawing-reviewer",
+          "source": "CadCrowd",
+          "country": "United States",
+          "region": "us_canada_europe",
+          "description": "We are a commercial millwork and furniture restoration shop in Oklahoma City (The Restoration Station). We build architectural millwork and commercial seating for restaurants, hotels, healthcare, and other commercial clients, and we cut parts on our in-house CNC.\r\n\r\nWe're looking for an experienced ... | Skills: Commercial Drafting, Millwork Drafting, CNC Programming, Shop Drawing Services",
+          "workplace": "Remote",
+          "posted_at": "2026-10-28",
+          "score": 2,
+          "specialties": []
+        },
+        {
+          "title": "Architectural Designer | CAD, Revit, Construction Documentation & 3D",
+          "url": "https://www.cadcrowd.com/job/11606-architectural-designer-cad-revit-construction",
+          "source": "CadCrowd",
+          "country": "United Arab Emirates",
+          "region": "other",
+          "description": "Looking for a talented architectural designer to help and existing team develop an aoorived concept into a full schematic design package for an experience centre in the Middle East. Must be exceptional in REVIT and BIM and able to work consistently to the highest levels and under a very tight timeli... | Skills: Construction Drawings, Revit Design Services, BIM Modeling Services, Architectural Drawing Services",
+          "workplace": "Remote",
+          "posted_at": "2026-10-28",
+          "score": 2,
           "specialties": []
         },
         {
@@ -4134,19 +4361,7 @@
           "region": "latin_america",
           "description": "CAD revision of a 27 oz shaker bottle — thread fix, body taper, deeper scoop cap\r\n\r\nCORRECTION (Oct 24): The file previously attached to this job (assembly_b.step) was an in-house dimensional mockup — NOT the product. It has been replaced with the actual design files from our engineer (STEP for ever... | Skills: 3D Product Modeling, Product Engineering Services, 3D Design Services",
           "workplace": "Remote",
-          "posted_at": "2026-10-25",
-          "score": 2,
-          "specialties": []
-        },
-        {
-          "title": "3D scanning of small parts",
-          "url": "https://www.cadcrowd.com/job/11480-3d-scanning-of-small-parts",
-          "source": "CadCrowd",
-          "country": "United States",
-          "region": "us_canada_europe",
-          "description": "I have small to medium size fiberglass parts I am looking to have 3d scanned and modelled so I can upload the STL to a printer and be able to print these parts.  I have roughly 40 sets of parts that need to be scanned and modelled. I have small to medium size fiberglass parts I am looking to have 3d... | Skills: 3D Scanning Services, Part-to-CAD Modeling, 3D Design Services",
-          "workplace": "Remote",
-          "posted_at": "2026-10-22",
+          "posted_at": "2026-10-28",
           "score": 2,
           "specialties": []
         },
@@ -4229,6 +4444,18 @@
           "country": "Mexico",
           "region": "latin_america",
           "description": "Original Games - Remote - Senior - Full time",
+          "workplace": "remote",
+          "posted_at": "",
+          "score": 2,
+          "specialties": []
+        },
+        {
+          "title": "Senior Growth Analyst (iGaming / CS2 Skin Gaming)",
+          "url": "https://mx.ingamejob.com/en/job/senior-growth-analyst-igaming-cs2-skin-gaming",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "1to1 - Remote - Senior - Freelance",
           "workplace": "remote",
           "posted_at": "",
           "score": 2,
@@ -4607,36 +4834,12 @@
           "specialties": []
         },
         {
-          "title": "Senior Product Analyst",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-product-analyst-22",
+          "title": "Senior Reverse Engineer - Anti Cheat",
+          "url": "https://mx.ingamejob.com/en/away/job/senior-reverse-engineer-anti-cheat",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
-          "description": "Sony Interactive Entertainment Deutschland GmbH",
-          "workplace": "",
-          "posted_at": "",
-          "score": 1,
-          "specialties": []
-        },
-        {
-          "title": "Senior Finance Data Governance Consultant (Contract)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-finance-data-governance-consultant-contract",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Sony Interactive Entertainment Deutschland GmbH",
-          "workplace": "",
-          "posted_at": "",
-          "score": 1,
-          "specialties": []
-        },
-        {
-          "title": "Senior Desktop Applications Engineer (R27377)",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-desktop-applications-engineer-r27377",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
+          "description": "Electronic Arts GmbH",
           "workplace": "",
           "posted_at": "",
           "score": 1,
@@ -4655,12 +4858,12 @@
           "specialties": []
         },
         {
-          "title": "Senior Reverse Engineer - Anti Cheat",
-          "url": "https://mx.ingamejob.com/en/away/job/senior-reverse-engineer-anti-cheat",
+          "title": "Senior Desktop Applications Engineer (R27377)",
+          "url": "https://mx.ingamejob.com/en/away/job/senior-desktop-applications-engineer-r27377",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
-          "description": "Electronic Arts GmbH",
+          "description": "Epic Games",
           "workplace": "",
           "posted_at": "",
           "score": 1,
@@ -4699,18 +4902,6 @@
           "description": "pls RT ECNIDRSS @entcareersnet  About the role\n\nThis is an existing role within our team focused on creating and reconstructing imagery ... more ",
           "workplace": "",
           "posted_at": "2026-10-26",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "AI Creative Specialist - Framestore",
-          "url": "https://www.entertainmentcareers.net/framestore/ai-creative-specialist/job/534679/?utm_source=ecn_rss&utm_medium=rss&utm_content=173",
-          "source": "Entertainment Careers",
-          "country": "",
-          "region": "remote",
-          "description": "pls RT ECNIDRSS @entcareersnet  This is a freelance position with our Los Angeles team. While local candidates are preferred, we are ... more ",
-          "workplace": "",
-          "posted_at": "2026-10-21",
           "score": 0,
           "specialties": []
         },
@@ -4763,6 +4954,54 @@
           "specialties": []
         },
         {
+          "title": "Performance Sales Manager, Vietnam",
+          "url": "https://mx.ingamejob.com/en/away/job/performance-sales-manager-vietnam",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Fyber GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Influencer Specialist",
+          "url": "https://mx.ingamejob.com/en/away/job/influencer-specialist",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Tencent Games",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Site Reliability Engineer (m/f/x)",
+          "url": "https://mx.ingamejob.com/en/away/job/site-reliability-engineer-mfx",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Nitrado",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Site Reliability Engineer III",
+          "url": "https://mx.ingamejob.com/en/away/job/site-reliability-engineer-iii",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Electronic Arts GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
           "title": "Principal Research Engineer, Unreal Assistant (R27449)",
           "url": "https://mx.ingamejob.com/en/away/job/principal-research-engineer-unreal-assistant-r27449",
           "source": "InGameJob",
@@ -4787,116 +5026,8 @@
           "specialties": []
         },
         {
-          "title": "Account Executive",
-          "url": "https://mx.ingamejob.com/en/away/job/account-executive",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Data AI",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Lead Character Tools Engineer",
-          "url": "https://mx.ingamejob.com/en/away/job/lead-character-tools-engineer",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Sony Interactive Entertainment Deutschland GmbH",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Marketing Technologies Director",
-          "url": "https://mx.ingamejob.com/en/away/job/marketing-technologies-director-1",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Sony Interactive Entertainment Deutschland GmbH",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Director, Growth Marketing",
-          "url": "https://mx.ingamejob.com/en/away/job/director-growth-marketing",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Sandbox Interactive GmbH",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Director, Player Marketing (R27415)",
-          "url": "https://mx.ingamejob.com/en/away/job/director-player-marketing-r27415",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Influencer Marketing Director (R27288)",
-          "url": "https://mx.ingamejob.com/en/away/job/influencer-marketing-director-r27288",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Community Manager",
-          "url": "https://mx.ingamejob.com/en/away/job/community-manager-93",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Tencent Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Community Manager (CONTRACT)",
-          "url": "https://mx.ingamejob.com/en/away/job/community-manager-contract",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Sony Interactive Entertainment Deutschland GmbH",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Executive Assistant (R27479)",
-          "url": "https://mx.ingamejob.com/en/away/job/executive-assistant-r27479",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Epic Games",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Tableau Developer, People Analytics (Contract)",
-          "url": "https://mx.ingamejob.com/en/away/job/tableau-developer-people-analytics-contract",
+          "title": "Lead Analytics Engineer",
+          "url": "https://mx.ingamejob.com/en/away/job/lead-analytics-engineer",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
@@ -4919,8 +5050,8 @@
           "specialties": []
         },
         {
-          "title": "Lead Analytics Engineer",
-          "url": "https://mx.ingamejob.com/en/away/job/lead-analytics-engineer",
+          "title": "Tableau Developer, People Analytics (Contract)",
+          "url": "https://mx.ingamejob.com/en/away/job/tableau-developer-people-analytics-contract",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
@@ -4931,8 +5062,32 @@
           "specialties": []
         },
         {
-          "title": "Marketing Manager",
-          "url": "https://mx.ingamejob.com/en/away/job/marketing-manager-30",
+          "title": "Product Market Lead, Apex Legends Japan",
+          "url": "https://mx.ingamejob.com/en/away/job/product-market-lead-apex-legends-japan",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Electronic Arts GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Community Manager (CONTRACT)",
+          "url": "https://mx.ingamejob.com/en/away/job/community-manager-contract",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sony Interactive Entertainment Deutschland GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Community Manager",
+          "url": "https://mx.ingamejob.com/en/away/job/community-manager-93",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
@@ -4943,24 +5098,96 @@
           "specialties": []
         },
         {
-          "title": "Principal Marketing Manager, Marathon (Contract)",
-          "url": "https://mx.ingamejob.com/en/away/job/principal-marketing-manager-marathon-contract",
+          "title": "Influencer Marketing Director (R27288)",
+          "url": "https://mx.ingamejob.com/en/away/job/influencer-marketing-director-r27288",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
-          "description": "BUNGIE",
+          "description": "Epic Games",
           "workplace": "",
           "posted_at": "",
           "score": 0,
           "specialties": []
         },
         {
-          "title": "Hard Surface Outsource Lead (R27402)",
-          "url": "https://mx.ingamejob.com/en/away/job/hard-surface-outsource-lead-r27402",
+          "title": "Director, Player Marketing (R27415)",
+          "url": "https://mx.ingamejob.com/en/away/job/director-player-marketing-r27415",
           "source": "InGameJob",
           "country": "Mexico",
           "region": "latin_america",
           "description": "Epic Games",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Director, Growth Marketing",
+          "url": "https://mx.ingamejob.com/en/away/job/director-growth-marketing",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sandbox Interactive GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Marketing Technologies Director",
+          "url": "https://mx.ingamejob.com/en/away/job/marketing-technologies-director-1",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sony Interactive Entertainment Deutschland GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Lead Character Tools Engineer",
+          "url": "https://mx.ingamejob.com/en/away/job/lead-character-tools-engineer",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Sony Interactive Entertainment Deutschland GmbH",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Account Executive",
+          "url": "https://mx.ingamejob.com/en/away/job/account-executive",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Data AI",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Executive Assistant (R27479)",
+          "url": "https://mx.ingamejob.com/en/away/job/executive-assistant-r27479",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Epic Games",
+          "workplace": "",
+          "posted_at": "",
+          "score": 0,
+          "specialties": []
+        },
+        {
+          "title": "Anti-Cheat Engineer",
+          "url": "https://mx.ingamejob.com/en/away/job/anti-cheat-engineer",
+          "source": "InGameJob",
+          "country": "Mexico",
+          "region": "latin_america",
+          "description": "Electronic Arts GmbH",
           "workplace": "",
           "posted_at": "",
           "score": 0,
@@ -4973,18 +5200,6 @@
           "country": "Mexico",
           "region": "latin_america",
           "description": "Palta",
-          "workplace": "",
-          "posted_at": "",
-          "score": 0,
-          "specialties": []
-        },
-        {
-          "title": "Site Reliability Engineer (m/f/x)",
-          "url": "https://mx.ingamejob.com/en/away/job/site-reliability-engineer-mfx",
-          "source": "InGameJob",
-          "country": "Mexico",
-          "region": "latin_america",
-          "description": "Nitrado",
           "workplace": "",
           "posted_at": "",
           "score": 0,
